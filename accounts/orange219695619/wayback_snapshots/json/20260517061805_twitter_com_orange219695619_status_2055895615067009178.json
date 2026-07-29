@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055876408841502898",
+    "created_at": "2026-05-17T06:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055895615067009178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055895615067009178",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055876408841502898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen 好似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2055876380722950144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfwrP8bcAASxC0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055876408841502898",
+        "created_at": "2026-05-17T06:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055895615067009178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055895615067009178",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055876408841502898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen 好似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055876380722950144"
+          ]
+        },
+        "author_id": "2054877291633909760",
+        "conversation_id": "2055876408841502898",
+        "created_at": "2026-05-17T05:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055876408841502898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2wk2Clu4q",
+              "end": 157,
+              "expanded_url": "https://x.com/TransYuwen/status/2055876408841502898/photo/1",
+              "media_key": "3_2055876380722950144",
+              "start": 134,
+              "url": "https://t.co/o2wk2Clu4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055876408841502898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2069,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "本人此前在网络平台发表了侮辱国家领导人的不当言论，造成了不良影响，也给天津市东丽区公安机关带来了麻烦。经过教育与反思，我已深刻认识到自己的错误。\n\n网络不是法外之地，今后我会严格规范自身言行，遵守法律法规，不再发布任何违法不当内容。在此向相关工作人员及公众郑重道歉。 https://t.co/o2wk2Clu4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 122,
+          "like_count": 3795,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3320
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2055211584138736084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 18,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 172
+        },
+        "username": "TransYuwen",
+        "verified": false
+      }
+    ]
+  }
+}

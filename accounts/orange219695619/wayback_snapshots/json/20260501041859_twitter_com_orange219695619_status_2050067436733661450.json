@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2049888745336561961",
+    "created_at": "2026-05-01T04:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050067436733661450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787355592379834368",
+          "start": 0,
+          "username": "yan0602038857"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050067436733661450",
+    "in_reply_to_user_id": "1787355592379834368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049888745336561961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan0602038857 其实是喜欢你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2049888745336561961",
+        "created_at": "2026-05-01T04:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050067436733661450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787355592379834368",
+              "start": 0,
+              "username": "yan0602038857"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050067436733661450",
+        "in_reply_to_user_id": "1787355592379834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049888745336561961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan0602038857 其实是喜欢你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787355592379834368",
+        "conversation_id": "2049888745336561961",
+        "created_at": "2026-04-30T16:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049888745336561961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049888745336561961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送你四个字 至于是你妈死了还是我喜欢你自己猜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1934
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T05:36:19.000Z",
+        "description": "✿𓂃 ପ₍ᐢ๑• ֊ •๑ᐢ₎ଓ ⌒☆ 想扩列请打钱\n别欺负我不要骂我我很脆弱我只会玻璃心然后我需要很长的时间消化然后消化完后我就要上吊了",
+        "id": "1787355592379834368",
+        "name": "天才小猪家里蹲",
+        "pinned_tweet_id": "2012801030245716414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014858543581786112/h3xd9VG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 27,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 846
+        },
+        "username": "yan0602038857",
+        "verified": false
+      }
+    ]
+  }
+}

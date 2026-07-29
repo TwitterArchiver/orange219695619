@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078126042695504166",
+    "created_at": "2026-07-17T14:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078127197160968261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078127197160968261",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078126042695504166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 我会一直看着你👁👁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078126042695504166",
+        "created_at": "2026-07-17T14:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078127197160968261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078127197160968261",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078126042695504166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 我会一直看着你👁👁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2078126042695504166",
+        "created_at": "2026-07-17T14:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078126042695504166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078126042695504166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我開始說胡話了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 178,
+          "like_count": 18186,
+          "listed_count": 2,
+          "media_count": 531,
+          "tweet_count": 9089
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "mtx？（我會焦慮,他不會）/忘了很多事/兩個人格共存（他會保護我）（為什麼我們記憶能互通？）/還在慢慢認識自己喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2074744246817714245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 2129,
+          "like_count": 45383,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

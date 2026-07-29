@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068437376926617729",
+    "created_at": "2026-06-22T01:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068875370632479020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        },
+        {
+          "end": 17,
+          "id": "1939254584750522369",
+          "start": 8,
+          "username": "wrac_333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068875370632479020",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068839430933410250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS @wrac_333 祝你顺利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068437376926617729",
+        "created_at": "2026-06-22T01:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068875370632479020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            },
+            {
+              "end": 17,
+              "id": "1939254584750522369",
+              "start": 8,
+              "username": "wrac_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068875370632479020",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068839430933410250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS @wrac_333 祝你顺利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2068437376926617729",
+        "created_at": "2026-06-21T23:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068839430933410250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939254584750522369",
+              "start": 0,
+              "username": "wrac_333"
+            },
+            {
+              "end": 26,
+              "id": "1979068278673981440",
+              "start": 10,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068839430933410250",
+        "in_reply_to_user_id": "1939254584750522369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068767852237324389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrac_333 @orange219695619 还没考完。马上出门了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 198,
+          "like_count": 11712,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 7032
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|od|戒割|悲观|地下影片（理解能力有问题，冒泡勿喷）  不接线下  今年100大寿",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 561,
+          "like_count": 41915,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 12733
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T09:28:40.000Z",
+        "description": "互联网乐子人|高强度冲浪|INFP|看客|\n互联网老物——新于旧的界限分割·06\n不键政不od不zc\n镜花水月，醉里梦歌",
+        "id": "1939254584750522369",
+        "name": "悬影流曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939254760860684288/TW3Q4NDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 351,
+          "like_count": 3672,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 2036
+        },
+        "url": "",
+        "username": "wrac_333",
+        "verified": false
+      }
+    ]
+  }
+}

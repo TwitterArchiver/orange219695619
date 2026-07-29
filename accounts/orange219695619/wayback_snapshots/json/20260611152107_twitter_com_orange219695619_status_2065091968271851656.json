@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065029088465780859",
+    "created_at": "2026-06-11T15:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065091968271851656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846525424714891264",
+          "start": 0,
+          "username": "Jfishyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065091968271851656",
+    "in_reply_to_user_id": "1846525424714891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065062385103089977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jfishyuyu 好好笑（）\n不过感觉好难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065029088465780859",
+        "created_at": "2026-06-11T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065091968271851656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846525424714891264",
+              "start": 0,
+              "username": "Jfishyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065091968271851656",
+        "in_reply_to_user_id": "1846525424714891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065062385103089977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jfishyuyu 好好笑（）\n不过感觉好难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846525424714891264",
+        "conversation_id": "2065029088465780859",
+        "created_at": "2026-06-11T13:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065062385103089977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065062385103089977",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065029088465780859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 我感觉就是很晕很晕）然后会觉得自己特别清醒说着想去做某件事然后真的去做了（我那时候抱着一个栏杆在那啃…）走路也是走不稳，得有人扶着…然后沾床就困，睡一半微微清醒的时候会非常难受可能会吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 167,
+          "like_count": 8955,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 5939
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T12:16:03.000Z",
+        "description": "先活跃小号T T\n乱七八糟也发大号@Jfish_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Jfish_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1846525424714891264",
+        "name": "眠眠芋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052414104074149888/hwFHGdhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 41,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 116
+        },
+        "username": "Jfishyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2072252524036575593",
+    "created_at": "2026-07-01T09:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072252524036575593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "962605160567623682",
+          "start": 3,
+          "username": "whisper97744020"
+        },
+        {
+          "end": 29,
+          "id": "1433678976564662273",
+          "start": 21,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072252524036575593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072042003383345660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whisper97744020: @hsn8086 我开始理解为什么小说中有一些术士走到哪里都人人喊打了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2072252524036575593",
+        "created_at": "2026-07-01T09:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072252524036575593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "962605160567623682",
+              "start": 3,
+              "username": "whisper97744020"
+            },
+            {
+              "end": 29,
+              "id": "1433678976564662273",
+              "start": 21,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072252524036575593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072042003383345660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whisper97744020: @hsn8086 我开始理解为什么小说中有一些术士走到哪里都人人喊打了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "962605160567623682",
+        "conversation_id": "2072002376429637718",
+        "created_at": "2026-06-30T19:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072042003383345660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072042003383345660",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5014,
+          "like_count": 177,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072002376429637718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我开始理解为什么小说中有一些术士走到哪里都人人喊打了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 193,
+          "like_count": 14435,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 7930
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-11T08:32:09.000Z",
+        "description": "穷则独善其身，达则兼善天下。",
+        "id": "962605160567623682",
+        "location": "天府",
+        "name": "凉拌海蜇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017163096578838528/Wqh5fVGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 67,
+          "like_count": 6437,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "whisper97744020",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121262,
+          "following_count": 1119,
+          "like_count": 52110,
+          "listed_count": 296,
+          "media_count": 22579,
+          "tweet_count": 33066
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

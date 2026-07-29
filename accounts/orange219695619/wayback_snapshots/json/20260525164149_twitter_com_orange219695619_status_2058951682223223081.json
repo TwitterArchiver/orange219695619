@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058877062992232501",
+    "created_at": "2026-05-25T16:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058951682223223081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901290700064333824",
+          "start": 0,
+          "username": "skysea220314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058951682223223081",
+    "in_reply_to_user_id": "1901290700064333824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058886733618626655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skysea220314 确实😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058877062992232501",
+        "created_at": "2026-05-25T16:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058951682223223081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901290700064333824",
+              "start": 0,
+              "username": "skysea220314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058951682223223081",
+        "in_reply_to_user_id": "1901290700064333824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058886733618626655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skysea220314 确实😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901290700064333824",
+        "conversation_id": "2058877062992232501",
+        "created_at": "2026-05-25T12:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058886733618626655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058886733618626655",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058877062992232501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 哇，好高好羡慕，长这么高，一定经常碰头吧？（妒忌的声音）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 138,
+          "like_count": 5523,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 4242
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:14:04.000Z",
+        "description": "男，凡人，混沌善，观测者，私信看见必回，爱听故事",
+        "id": "1901290700064333824",
+        "location": "不知道",
+        "name": "九天星光（求fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057086395647467520/sWF89eQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 38,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 897
+        },
+        "username": "skysea220314",
+        "verified": false
+      }
+    ]
+  }
+}

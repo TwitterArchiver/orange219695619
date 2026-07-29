@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2061865257665167400",
+    "created_at": "2026-06-02T17:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061865257665167400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FotosDeFatos/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/FotosDeFatos/status/2061643969420050714",
+          "start": 8,
+          "url": "https://t.co/9ZWJneFJEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061865257665167400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061643969420050714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有中世纪病娇 https://t.co/9ZWJneFJEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 313,
+        "media_key": "3_2061626819334316033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxeq1HXIAEt5kH.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2061865257665167400",
+        "created_at": "2026-06-02T17:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061865257665167400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FotosDeFatos/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/FotosDeFatos/status/2061643969420050714",
+              "start": 8,
+              "url": "https://t.co/9ZWJneFJEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061865257665167400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061643969420050714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有中世纪病娇 https://t.co/9ZWJneFJEs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061626819334316033"
+          ]
+        },
+        "author_id": "2959459379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2061643969420050714",
+        "created_at": "2026-06-02T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061643969420050714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQxc0eXLxZ",
+              "end": 301,
+              "expanded_url": "https://x.com/FotosDeFatos/status/2061643969420050714/photo/1",
+              "media_key": "3_2061626819334316033",
+              "start": 278,
+              "url": "https://t.co/oQxc0eXLxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061643969420050714",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "Segundo a lenda, em uma cidade francesa durante a Idade Média, as mulheres realizavam um hábito curioso.\n\nDe manhã, as mulheres casadas adicionavam uma pequena quantidade de veneno no café da manhã de seus maridos, que mais tarde recebiam o antídoto quando voltavam para casa à noite.\n\nIsso garantia que o veneno não os prejudicasse e não tivesse efeitos negativos.\n\nA prática tinha um propósito específico: se os maridos demorassem em retornar para casa, os sintomas como náuseas, dores de cabeça, depressão, vômitos, dores ou falta de ar apareceriam devido ao atraso na administração do antídoto.\n\nQuanto mais tempo o homem passasse longe de casa, mais doente ele ficaria. Ao retornar para casa, a esposa inadvertidamente administrava o antídoto, fazendo com que ele se sentisse melhor rapidamente.\n\nEsse truque dava a impressão de que ficar longe de casa causaria desconforto e levava os maridos a se apegarem mais às suas casas e esposas."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6935,
+          "impression_count": 4675615,
+          "like_count": 42060,
+          "quote_count": 2053,
+          "reply_count": 678,
+          "retweet_count": 4124
+        },
+        "reply_settings": "everyone",
+        "text": "Segundo a lenda, em uma cidade francesa durante a Idade Média, as mulheres realizavam um hábito curioso.\n\nDe manhã, as mulheres casadas adicionavam uma pequena quantidade de veneno no café da manhã de seus maridos, que mais tarde recebiam o antídoto quando voltavam para casa à https://t.co/oQxc0eXLxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 153,
+          "like_count": 7143,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 5047
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-04T01:06:11.000Z",
+        "description": "Eu conto o fato e mostro a foto! • Criador da hashtag #NumDiaComoHoje • Apoio: @descontosee 👇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 54,
+                "tag": "NumDiaComoHoje"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "descontosee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "descontosep.com.br",
+                "end": 23,
+                "expanded_url": "https://descontosep.com.br",
+                "start": 0,
+                "url": "https://t.co/KDDtbsw6a1"
+              }
+            ]
+          }
+        },
+        "id": "2959459379",
+        "location": "Brasil",
+        "name": "Fotos de Fatos",
+        "pinned_tweet_id": "2053266830655996392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1312573614324097035/ocFgY0E7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596027,
+          "following_count": 283,
+          "like_count": 23375,
+          "listed_count": 743,
+          "media_count": 27022,
+          "tweet_count": 37485
+        },
+        "url": "https://t.co/KDDtbsw6a1",
+        "username": "FotosDeFatos",
+        "verified": true
+      }
+    ]
+  }
+}

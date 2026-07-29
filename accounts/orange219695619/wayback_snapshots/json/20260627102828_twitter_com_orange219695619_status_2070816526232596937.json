@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070816526232596937",
+    "created_at": "2026-06-27T10:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070816526232596937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ARVNVT870/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ARVNVT870/status/1955314556139606474",
+          "start": 19,
+          "url": "https://t.co/nAMqQ3Lrg2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070816526232596937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955314556139606474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有预言家&lt;(ºOº)&gt; https://t.co/nAMqQ3Lrg2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070816526232596937",
+        "created_at": "2026-06-27T10:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070816526232596937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ARVNVT870/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ARVNVT870/status/1955314556139606474",
+              "start": 19,
+              "url": "https://t.co/nAMqQ3Lrg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070816526232596937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955314556139606474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有预言家&lt;(ºOº)&gt; https://t.co/nAMqQ3Lrg2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803288616539668480",
+        "conversation_id": "1955301269465117058",
+        "created_at": "2025-08-12T17:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955314556139606474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2483009606",
+              "start": 0,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955314556139606474",
+        "in_reply_to_user_id": "2483009606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 19870,
+          "like_count": 103,
+          "quote_count": 24,
+          "reply_count": 21,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955313752514994677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoKatushada 然后把北京中信大厦撞了😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 193,
+          "like_count": 13583,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 7716
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "军批与狗不得入内\n哪天无了就启用此帐号:@vmmacv971",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "vmmacv971"
+              }
+            ]
+          }
+        },
+        "id": "1803288616539668480",
+        "location": "Panama",
+        "name": "VictorTran870",
+        "pinned_tweet_id": "1949834461836607537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069704498075803648/8SaIS-pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1132,
+          "like_count": 12741,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 5314
+        },
+        "url": "",
+        "username": "ARVNVT870",
+        "verified": true
+      }
+    ]
+  }
+}

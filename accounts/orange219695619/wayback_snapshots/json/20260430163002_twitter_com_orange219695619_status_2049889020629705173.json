@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2049728338424664322",
+    "created_at": "2026-04-30T16:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049889020629705173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        },
+        {
+          "end": 19,
+          "id": "1497199295073710081",
+          "start": 10,
+          "username": "doubt335"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049889020629705173",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049888345141239874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft @doubt335 OK谢谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2049728338424664322",
+        "created_at": "2026-04-30T16:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049889020629705173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            },
+            {
+              "end": 19,
+              "id": "1497199295073710081",
+              "start": 10,
+              "username": "doubt335"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049889020629705173",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049888345141239874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft @doubt335 OK谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2049728338424664322",
+        "created_at": "2026-04-30T16:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049888345141239874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 26,
+              "id": "1497199295073710081",
+              "start": 17,
+              "username": "doubt335"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049888345141239874",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049886055143457101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @doubt335 薄熙来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1915
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "电波研究所唯一成员。\n欢迎友好交流。\n讨厌我的人可以拉黑但请不要骂我。\n(只有周末上线，平时可能不回消息@-@)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "location": "电波研究所",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 472,
+          "like_count": 3782,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T13:18:35.000Z",
+        "description": "你不知道我的鼙鼓很出名吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "avemonition.com",
+                "end": 23,
+                "expanded_url": "http://www.avemonition.com",
+                "start": 0,
+                "url": "https://t.co/jDh1NYL8JT"
+              }
+            ]
+          }
+        },
+        "id": "1497199295073710081",
+        "location": "下北泽",
+        "name": "Lady Gulpgulp Gulp松灯",
+        "pinned_tweet_id": "2033945970128695539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957293201993433089/httZsKdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 1520,
+          "like_count": 31653,
+          "listed_count": 13,
+          "media_count": 1009,
+          "tweet_count": 11520
+        },
+        "url": "https://t.co/jDh1NYL8JT",
+        "username": "doubt335",
+        "verified": false
+      }
+    ]
+  }
+}

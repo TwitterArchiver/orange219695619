@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2051619764280455601",
+    "created_at": "2026-05-05T11:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051619764280455601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2051439568524878147",
+          "start": 6,
+          "url": "https://t.co/WqIdb6Vd5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051619764280455601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051439568524878147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的😋 https://t.co/WqIdb6Vd5o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2051619764280455601",
+        "created_at": "2026-05-05T11:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051619764280455601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2051439568524878147",
+              "start": 6,
+              "url": "https://t.co/WqIdb6Vd5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051619764280455601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051439568524878147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的😋 https://t.co/WqIdb6Vd5o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2051439568524878147",
+        "created_at": "2026-05-04T23:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051439568524878147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051439568524878147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 73274,
+          "like_count": 659,
+          "quote_count": 11,
+          "reply_count": 232,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、xp更变态，管得越严玩得越狠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 93,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 2182
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "location": "🚪188",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 4,
+          "like_count": 120,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 59
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

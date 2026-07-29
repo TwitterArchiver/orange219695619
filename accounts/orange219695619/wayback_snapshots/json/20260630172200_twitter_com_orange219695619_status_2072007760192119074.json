@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2071929904703185168",
+    "created_at": "2026-06-30T17:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072007760192119074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621870986449801216",
+          "start": 0,
+          "username": "eihacaptain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072007760192119074",
+    "in_reply_to_user_id": "1621870986449801216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071929904703185168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eihacaptain 太地狱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2071929891721715712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD5QkuWIAAgaT2.jpg",
+        "width": 943
+      },
+      {
+        "height": 247,
+        "media_key": "3_2071929891713404928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD5QksXUAAii-_.jpg",
+        "width": 297
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2071929904703185168",
+        "created_at": "2026-06-30T17:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072007760192119074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1621870986449801216",
+              "start": 0,
+              "username": "eihacaptain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072007760192119074",
+        "in_reply_to_user_id": "1621870986449801216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071929904703185168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eihacaptain 太地狱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071929891721715712",
+            "3_2071929891713404928"
+          ]
+        },
+        "author_id": "1621870986449801216",
+        "conversation_id": "2071929904703185168",
+        "created_at": "2026-06-30T12:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071929904703185168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZDkGliUcJ",
+              "end": 34,
+              "expanded_url": "https://x.com/eihacaptain/status/2071929904703185168/photo/1",
+              "media_key": "3_2071929891721715712",
+              "start": 11,
+              "url": "https://t.co/vZDkGliUcJ"
+            },
+            {
+              "display_url": "pic.x.com/vZDkGliUcJ",
+              "end": 34,
+              "expanded_url": "https://x.com/eihacaptain/status/2071929904703185168/photo/1",
+              "media_key": "3_2071929891713404928",
+              "start": 11,
+              "url": "https://t.co/vZDkGliUcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071929904703185168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个衬衫的纽扣……🥵 https://t.co/vZDkGliUcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 195,
+          "like_count": 14330,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 7904
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T13:59:24.000Z",
+        "description": "如果你对现在的生活感到迷茫，我做的《给迷茫年轻人的一份参考》，希望可以帮助你更快走出人生迷茫时期。 查看链接：https://t.co/HM6a27SAQV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "captain12.com/book/",
+                "end": 78,
+                "expanded_url": "https://captain12.com/book/",
+                "start": 55,
+                "url": "https://t.co/HM6a27SAQV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "captain12.com",
+                "end": 23,
+                "expanded_url": "http://captain12.com",
+                "start": 0,
+                "url": "https://t.co/AgianMopVg"
+              }
+            ]
+          }
+        },
+        "id": "1621870986449801216",
+        "name": "人生不迷茫的船長",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830834809142145025/VGKXMkIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 550,
+          "like_count": 2173,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/AgianMopVg",
+        "username": "eihacaptain",
+        "verified": true
+      }
+    ]
+  }
+}

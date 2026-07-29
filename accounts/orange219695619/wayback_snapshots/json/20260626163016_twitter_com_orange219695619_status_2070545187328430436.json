@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070510756999946426",
+    "created_at": "2026-06-26T16:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070545187328430436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070545187328430436",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070510756999946426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 噔噔，噔噔，噔噔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49795,
+        "height": 720,
+        "media_key": "7_2070510667476725761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070510667476725761/pu/img/A_ekeG-znE-B-ST1.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070510667476725761/pu/vid/avc1/480x270/183FpUnQQ1erz2AA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070510667476725761/pu/vid/avc1/640x360/VcVMcmV9NlP_MljO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070510667476725761/pu/vid/avc1/1280x720/OcJzQzSyRb-eghmO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070510667476725761/pu/pl/QDtAHgSw2KTlkK2V.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070510756999946426",
+        "created_at": "2026-06-26T16:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070545187328430436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070545187328430436",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070510756999946426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 噔噔，噔噔，噔噔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070510667476725761"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2070510756999946426",
+        "created_at": "2026-06-26T14:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070510756999946426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkAoHlnDfH",
+              "end": 35,
+              "expanded_url": "https://x.com/xian_zi17640/status/2070510756999946426/video/1",
+              "media_key": "7_2070510667476725761",
+              "start": 12,
+              "url": "https://t.co/zkAoHlnDfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070510756999946426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电竞帧率快给咪玩死了喵 https://t.co/zkAoHlnDfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 195,
+          "like_count": 13379,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 7642
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "找咪交朋友好不好咪的tg链接在这了喵https://t.co/vlsV6eBXq3\nhttps://t.co/Qntfz9TM3m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 41,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 18,
+                "url": "https://t.co/vlsV6eBXq3"
+              },
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 65,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 42,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 439,
+          "like_count": 2999,
+          "listed_count": 2,
+          "media_count": 970,
+          "tweet_count": 3101
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068687424361017689",
+    "created_at": "2026-06-21T15:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068719981555261568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068719981555261568",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068687424361017689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 好了\n现在遇见不好笑的事情也会笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068687424361017689",
+        "created_at": "2026-06-21T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068719981555261568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068719981555261568",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068687424361017689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 好了\n现在遇见不好笑的事情也会笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2068687424361017689",
+        "created_at": "2026-06-21T13:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068687424361017689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068687424361017689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没转双向的时候被问到最搞笑的问题就是。抑郁症遇见好笑的事情会笑吗？我面瘫行了吧。绷成绷带。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 198,
+          "like_count": 11592,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 6946
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|戒药|戒割|是个人（理解能力有问题，冒泡勿喷）  不接线下  今年100大寿",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 558,
+          "like_count": 41906,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 12697
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

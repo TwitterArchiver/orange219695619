@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2033468916530561487",
+    "created_at": "2026-03-16T15:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033569229824512477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605171476881371136",
+          "start": 0,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033569229824512477",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033569055223976358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haku_dabai 我说白了，80一下都是纯neiger"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2033468916530561487",
+        "created_at": "2026-03-16T15:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033569229824512477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033569229824512477",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033569055223976358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 我说白了，80一下都是纯neiger"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2033468916530561487",
+        "created_at": "2026-03-16T15:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033569055223976358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033569055223976358",
+        "in_reply_to_user_id": "1605171476881371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033468916530561487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 评论区是没请过家教还是没上过大学啊，一线城市的家教都是200/h起步的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "热爱和梦想，希望和勇气Ⅱ最爱@ptilopsis_xiao |里@haku_uchi | 可爱小中@dontbesadforit | 躁郁 | ENFP-T | 天才化学少女 | vup预备中 | N2备考中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "ptilopsis_xiao"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "haku_uchi"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "dontbesadforit"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "location": "距你3.2km",
+        "name": "haku-大白",
+        "pinned_tweet_id": "1849401311860867118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018329763514085376/DRsKluvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 1616,
+          "like_count": 21589,
+          "listed_count": 9,
+          "media_count": 1244,
+          "tweet_count": 18156
+        },
+        "username": "haku_dabai",
+        "verified": false
+      }
+    ]
+  }
+}

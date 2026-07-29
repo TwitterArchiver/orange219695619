@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2044142479511900443",
+    "created_at": "2026-04-14T19:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044143531326091361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554803647909097472",
+          "start": 0,
+          "username": "Wilf_Lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044143531326091361",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044142479511900443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilf_Lin 挺好的，至少孩子解脱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044142479511900443",
+        "created_at": "2026-04-14T19:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044143531326091361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044143531326091361",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044142479511900443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 挺好的，至少孩子解脱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2044142479511900443",
+        "created_at": "2026-04-14T19:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044142479511900443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2043958881093857408",
+              "start": 11,
+              "url": "https://t.co/c9ZQztnrOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044142479511900443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043958881093857408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一些傻逼家长是这样的 https://t.co/c9ZQztnrOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 73,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1019
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "大一/1i/4i/有很爱的对象/平和/死鱼被水推着游/♂/技术力差/数学差/物理差/前额叶不好用/记忆力差/精神可能有问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 1367,
+          "like_count": 35072,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 6677
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

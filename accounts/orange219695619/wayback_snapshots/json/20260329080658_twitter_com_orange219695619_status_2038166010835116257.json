@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2037909212387582245",
+    "created_at": "2026-03-29T08:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038166010835116257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873579083701104640",
+          "start": 0,
+          "username": "xcc1195526"
+        },
+        {
+          "end": 19,
+          "id": "1986356855581667328",
+          "start": 12,
+          "username": "guai75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038166010835116257",
+    "in_reply_to_user_id": "1873579083701104640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038091173236269280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcc1195526 @guai75 请审题，人家说的是爱又不是性爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2037909212387582245",
+        "created_at": "2026-03-29T08:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038166010835116257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873579083701104640",
+              "start": 0,
+              "username": "xcc1195526"
+            },
+            {
+              "end": 19,
+              "id": "1986356855581667328",
+              "start": 12,
+              "username": "guai75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038166010835116257",
+        "in_reply_to_user_id": "1873579083701104640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038091173236269280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcc1195526 @guai75 请审题，人家说的是爱又不是性爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873579083701104640",
+        "conversation_id": "2037909212387582245",
+        "created_at": "2026-03-29T03:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038091173236269280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 24,
+              "id": "1986356855581667328",
+              "start": 17,
+              "username": "guai75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038091173236269280",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037940345061990899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @guai75 你跟你爸妈做爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 48,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 332
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T03:57:24.000Z",
+        "description": "",
+        "id": "1873579083701104640",
+        "name": "xc c",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873589488146092032/atDjxI1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "xcc1195526",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T08:56:04.000Z",
+        "description": "",
+        "id": "1986356855581667328",
+        "location": "🚪288",
+        "name": "小兔",
+        "pinned_tweet_id": "2031341770613903819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986807944068136960/pDtJFbQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11289,
+          "following_count": 8,
+          "like_count": 292,
+          "listed_count": 25,
+          "media_count": 95,
+          "tweet_count": 150
+        },
+        "username": "guai75",
+        "verified": false
+      }
+    ]
+  }
+}

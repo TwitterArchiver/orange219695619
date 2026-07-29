@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065424445867733478",
+    "created_at": "2026-06-12T14:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065448485273653604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650209029724196865",
+          "start": 0,
+          "username": "KarBwk5251"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065448485273653604",
+    "in_reply_to_user_id": "1650209029724196865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065424445867733478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarBwk5251 脆哨好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065423904504795136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKncGRqb0AA_90f.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1785,
+        "media_key": "3_2065424423918923776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnckgoacAAkvYR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 800,
+        "media_key": "3_2065423906035658752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKncGXXa8AAVD8P.jpg",
+        "width": 800
+      },
+      {
+        "height": 274,
+        "media_key": "16_2065423906090151936",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKncGXkacAAKWeU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKncGXkacAAKWeU.mp4"
+          }
+        ],
+        "width": 272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065424445867733478",
+        "created_at": "2026-06-12T14:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065448485273653604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650209029724196865",
+              "start": 0,
+              "username": "KarBwk5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065448485273653604",
+        "in_reply_to_user_id": "1650209029724196865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065424445867733478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarBwk5251 脆哨好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065423904504795136",
+            "3_2065424423918923776",
+            "3_2065423906035658752",
+            "16_2065423906090151936"
+          ]
+        },
+        "author_id": "1650209029724196865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2065424445867733478",
+        "created_at": "2026-06-12T13:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065424445867733478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZjU6F13ct",
+              "end": 169,
+              "expanded_url": "https://x.com/KarBwk5251/status/2065424445867733478/photo/1",
+              "media_key": "3_2065423904504795136",
+              "start": 146,
+              "url": "https://t.co/bZjU6F13ct"
+            },
+            {
+              "display_url": "pic.x.com/bZjU6F13ct",
+              "end": 169,
+              "expanded_url": "https://x.com/KarBwk5251/status/2065424445867733478/photo/1",
+              "media_key": "3_2065424423918923776",
+              "start": 146,
+              "url": "https://t.co/bZjU6F13ct"
+            },
+            {
+              "display_url": "pic.x.com/bZjU6F13ct",
+              "end": 169,
+              "expanded_url": "https://x.com/KarBwk5251/status/2065424445867733478/photo/1",
+              "media_key": "3_2065423906035658752",
+              "start": 146,
+              "url": "https://t.co/bZjU6F13ct"
+            },
+            {
+              "display_url": "pic.x.com/bZjU6F13ct",
+              "end": 169,
+              "expanded_url": "https://x.com/KarBwk5251/status/2065424445867733478/photo/1",
+              "media_key": "16_2065423906090151936",
+              "start": 146,
+              "url": "https://t.co/bZjU6F13ct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065424445867733478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "1k5fo的抽奖帖\n奖品：\n一等奖：P1全国鹿管大赛奖杯（3D打印摆件）\n二等奖：P2舞萌手套\n三等奖：P3张雪峰摆件\n特等奖：贵州脆哨我给你寄😋（可折现30r）\n以上奖励除特等奖均不能折现\n\n抽奖要求：\n关注+转发+评论这条帖子\n\n开奖时间：\n26.6.20\n少于5人转发奖品全部黑箱互关 https://t.co/bZjU6F13ct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 170,
+          "like_count": 9163,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 6027
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T18:44:49.000Z",
+        "description": "我是小桃\n🐱叫圈圈\n非二元\n乐乐\n不看黄也不建政（假的）我是中推最美逆行人",
+        "id": "1650209029724196865",
+        "location": "Yuki是我的宝宝～(^з^)-♡",
+        "name": "☔️8964.星露谷钓鱼佬桃酱☔️",
+        "pinned_tweet_id": "2061734360253186517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062205980759527424/7r6Wt9gF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 1921,
+          "like_count": 11366,
+          "listed_count": 3,
+          "media_count": 1920,
+          "tweet_count": 8596
+        },
+        "username": "KarBwk5251",
+        "verified": false
+      }
+    ]
+  }
+}

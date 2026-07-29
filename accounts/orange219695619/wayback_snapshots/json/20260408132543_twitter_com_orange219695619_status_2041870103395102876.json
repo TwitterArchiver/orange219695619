@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041848324106719685",
+    "created_at": "2026-04-08T13:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041870103395102876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041870103395102876",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041848324106719685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 话说猫卷是啥类似于猫粮吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041848324106719685",
+        "created_at": "2026-04-08T13:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041870103395102876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041870103395102876",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041848324106719685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 话说猫卷是啥类似于猫粮吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2041848323091664897"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2041848324106719685",
+        "created_at": "2026-04-08T11:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041848324106719685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041848324106719685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上吃什么告诉我快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 68,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 746
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "🍥🍬请联系下方tg⬇️尽量用tg 私信有时候不推送\n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hobartr6"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫尾草",
+        "pinned_tweet_id": "2039234681296871799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3593,
+          "following_count": 799,
+          "like_count": 3236,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

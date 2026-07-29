@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2045536117207007508",
+    "created_at": "2026-04-18T16:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045536117207007508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/camelliacxi/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/camelliacxi/status/2045477797599260775",
+          "start": 10,
+          "url": "https://t.co/NOBFmfmR1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045536117207007508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045477797599260775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的吗我试试\n色色 https://t.co/NOBFmfmR1S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2045536117207007508",
+        "created_at": "2026-04-18T16:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045536117207007508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/camelliacxi/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/camelliacxi/status/2045477797599260775",
+              "start": 10,
+              "url": "https://t.co/NOBFmfmR1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045536117207007508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045477797599260775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的吗我试试\n色色 https://t.co/NOBFmfmR1S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535798118314147840",
+        "conversation_id": "2045477797599260775",
+        "created_at": "2026-04-18T12:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045477797599260775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045477797599260775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是一说色色就能涨粉（）我真服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1193
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T01:36:44.000Z",
+        "description": "2009 女/ftx 休学4年 抑郁 ptsd bpd 孤独症 精神病 失忆 苯二氮卓类PAWS 阿片重度依赖",
+        "id": "1535798118314147840",
+        "name": "Camellia/cxi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038502899257618432/mDbq-4BT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 4,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 513
+        },
+        "username": "camelliacxi",
+        "verified": false
+      }
+    ]
+  }
+}

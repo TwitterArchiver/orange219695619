@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041757958670053712",
+    "created_at": "2026-04-08T13:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041867514368684219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906983076032372736",
+          "start": 0,
+          "username": "uhghggyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041867514368684219",
+    "in_reply_to_user_id": "1906983076032372736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041757958670053712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhghggyu 我嘞个豆，这算赛博乞讨吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041757958670053712",
+        "created_at": "2026-04-08T13:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041867514368684219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906983076032372736",
+              "start": 0,
+              "username": "uhghggyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041867514368684219",
+        "in_reply_to_user_id": "1906983076032372736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041757958670053712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhghggyu 我嘞个豆，这算赛博乞讨吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906983076032372736",
+        "conversation_id": "2041757958670053712",
+        "created_at": "2026-04-08T06:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041757958670053712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041757958670053712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 839,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠，真有有钱人给我转328"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 68,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 742
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T08:13:20.000Z",
+        "description": "11年/年龄党/无证含🍭 / MTF 一只/好想变成女孩子www/未出柜/爱听国摇/喜欢绒布娃娃/至于剩下的还没想好",
+        "id": "1906983076032372736",
+        "name": "爱丽丝🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975150471385075713/oVgW1gWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 102,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 164
+        },
+        "username": "uhghggyu",
+        "verified": true
+      }
+    ]
+  }
+}

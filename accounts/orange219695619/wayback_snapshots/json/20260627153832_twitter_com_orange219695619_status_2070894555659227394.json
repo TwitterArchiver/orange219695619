@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070854658156032108",
+    "created_at": "2026-06-27T15:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070894555659227394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062562367368835072",
+          "start": 0,
+          "username": "nianbaionly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070894555659227394",
+    "in_reply_to_user_id": "2062562367368835072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070859978244780520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianbaionly 好诶🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-27T15:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070894555659227394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062562367368835072",
+              "start": 0,
+              "username": "nianbaionly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070894555659227394",
+        "in_reply_to_user_id": "2062562367368835072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070859978244780520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianbaionly 好诶🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062562367368835072",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-27T13:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070859978244780520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070859978244780520",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070854658156032108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 一起喝酒，再吃点你做的糕点🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 193,
+          "like_count": 13633,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 7729
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:50:13.000Z",
+        "description": "双允二号机，好玩喵\n@shuangyunonly\n但我知道我是我，我是廿白",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "shuangyunonly"
+              }
+            ]
+          }
+        },
+        "id": "2062562367368835072",
+        "location": "从不存在的世界里",
+        "name": "廿白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062563046351093760/DoUM_2Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 42,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "nianbaionly",
+        "verified": false
+      }
+    ]
+  }
+}

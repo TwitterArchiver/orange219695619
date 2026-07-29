@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058114558473207808"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058114575250370791",
+    "created_at": "2026-05-23T09:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058114575250370791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0aLlDgJ2nT",
+          "end": 30,
+          "expanded_url": "https://x.com/orange219695619/status/2058114575250370791/video/1",
+          "media_key": "7_2058114558473207808",
+          "start": 7,
+          "url": "https://t.co/0aLlDgJ2nT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058114575250370791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猎宝可爱捏🥰 https://t.co/0aLlDgJ2nT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10364,
+        "height": 348,
+        "media_key": "7_2058114558473207808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058114558473207808/pu/img/Hp5hVBnJMWwmC4YI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058114558473207808/pu/vid/avc1/284x348/vdiyzTFStgSAMXDx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058114558473207808/pu/pl/COYpXhmShUQLsYAE.m3u8?tag=12"
+          }
+        ],
+        "width": 284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058114558473207808"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058114575250370791",
+        "created_at": "2026-05-23T09:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058114575250370791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0aLlDgJ2nT",
+              "end": 30,
+              "expanded_url": "https://x.com/orange219695619/status/2058114575250370791/video/1",
+              "media_key": "7_2058114558473207808",
+              "start": 7,
+              "url": "https://t.co/0aLlDgJ2nT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114575250370791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猎宝可爱捏🥰 https://t.co/0aLlDgJ2nT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 131,
+          "like_count": 4793,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3904
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

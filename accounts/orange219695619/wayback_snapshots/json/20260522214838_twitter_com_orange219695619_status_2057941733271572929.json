@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057928735249346615",
+    "created_at": "2026-05-22T21:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057941733271572929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053726229984075776",
+          "start": 0,
+          "username": "Kuromi_ooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057941733271572929",
+    "in_reply_to_user_id": "2053726229984075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057928735249346615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuromi_ooooo 一想到你的私信会被大叔塞满我就想笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14803,
+        "height": 1280,
+        "media_key": "13_2057928670292107264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057928670292107264/img/Mg7PB4Rv0eBOy-rT.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057928670292107264/vid/avc1/320x568/3DSRE0vovOSj0M7I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057928670292107264/vid/avc1/480x852/yY5WNbKYvo0z8qyw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057928670292107264/vid/avc1/720x1280/hcFQ6sVCkcR7jAAO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057928670292107264/pl/ognUTykQ7R92Izsc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057928735249346615",
+        "created_at": "2026-05-22T21:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057941733271572929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053726229984075776",
+              "start": 0,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057941733271572929",
+        "in_reply_to_user_id": "2053726229984075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057928735249346615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuromi_ooooo 一想到你的私信会被大叔塞满我就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057928670292107264"
+          ]
+        },
+        "author_id": "2053726229984075776",
+        "conversation_id": "2057928735249346615",
+        "created_at": "2026-05-22T20:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057928735249346615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCK8KnvQy8",
+              "end": 26,
+              "expanded_url": "https://x.com/Kuromi_ooooo/status/2057928735249346615/video/1",
+              "media_key": "13_2057928670292107264",
+              "start": 3,
+              "url": "https://t.co/RCK8KnvQy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057928735249346615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补档 https://t.co/RCK8KnvQy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 129,
+          "like_count": 4672,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3840
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "寻回互关\n我只是想要我的生活過得好一點\n共号：@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "你看看你身后",
+        "name": "中2病娇0️⃣",
+        "pinned_tweet_id": "2057741023271621089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057778913133416448/4hjfJxt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 290,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 177
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

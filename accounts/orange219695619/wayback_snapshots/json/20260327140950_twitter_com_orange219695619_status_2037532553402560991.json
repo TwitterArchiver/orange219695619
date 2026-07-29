@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2037029230941528561",
+    "created_at": "2026-03-27T14:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037532553402560991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1520779925921296386",
+          "start": 0,
+          "username": "imeandog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037532553402560991",
+    "in_reply_to_user_id": "1520779925921296386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037528856685658365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imeandog 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2037029230941528561",
+        "created_at": "2026-03-27T14:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037532553402560991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1520779925921296386",
+              "start": 0,
+              "username": "imeandog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037532553402560991",
+        "in_reply_to_user_id": "1520779925921296386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037528856685658365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imeandog 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520779925921296386",
+        "conversation_id": "2037029230941528561",
+        "created_at": "2026-03-27T13:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037528856685658365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037528856685658365",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037100044860744141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @Aki_fqi 哇塞蒙古人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 42,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 291
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T15:01:03.000Z",
+        "description": "红拂夜奔不复还",
+        "id": "1520779925921296386",
+        "name": "存在主义植物园",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854033837107576832/IeO0-Cze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "imeandog",
+        "verified": false
+      }
+    ]
+  }
+}

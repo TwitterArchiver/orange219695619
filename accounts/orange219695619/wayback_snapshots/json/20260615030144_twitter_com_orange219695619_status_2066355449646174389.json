@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064352817549308274",
+    "created_at": "2026-06-15T03:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066355449646174389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799807052233179136",
+          "start": 0,
+          "username": "chi83688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066355449646174389",
+    "in_reply_to_user_id": "1799807052233179136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064352817549308274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi83688 她有另一个号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064352817549308274",
+        "created_at": "2026-06-15T03:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066355449646174389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799807052233179136",
+              "start": 0,
+              "username": "chi83688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066355449646174389",
+        "in_reply_to_user_id": "1799807052233179136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064352817549308274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi83688 她有另一个号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799807052233179136",
+        "conversation_id": "2064352817549308274",
+        "created_at": "2026-06-09T14:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064352817549308274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064352817549308274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现那个 ＂查拉图斯特拉＂不见了\n是被封了还是不玩推了\n好喜欢她的说…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 175,
+          "like_count": 9707,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 6279
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T14:14:02.000Z",
+        "description": "不od不紫餐的超級健全人\n很多屁話所以上推吐一下 防止自己太有文化",
+        "id": "1799807052233179136",
+        "name": "好耶good-yeah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979915225911492608/lBm2BrY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 144,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "username": "chi83688",
+        "verified": false
+      }
+    ]
+  }
+}

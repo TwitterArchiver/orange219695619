@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063987548100403200"
+      ],
+      "media_source_tweet_id": [
+        "2063987695924457765"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064092549011362232",
+    "created_at": "2026-06-08T21:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T22:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064092549011362232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MOQ7F4APEn",
+          "end": 49,
+          "expanded_url": "https://x.com/748cm/status/2063987695924457765/photo/1",
+          "media_key": "3_2063987548100403200",
+          "start": 26,
+          "url": "https://t.co/MOQ7F4APEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064092549011362232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063987695924457765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: 生きてる意味も死ぬ理由もない https://t.co/MOQ7F4APEn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2063987548100403200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTBvVFaoAAZNvY.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063987548100403200"
+          ],
+          "media_source_tweet_id": [
+            "2063987695924457765"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064092549011362232",
+        "created_at": "2026-06-08T21:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T22:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064092549011362232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOQ7F4APEn",
+              "end": 49,
+              "expanded_url": "https://x.com/748cm/status/2063987695924457765/photo/1",
+              "media_key": "3_2063987548100403200",
+              "start": 26,
+              "url": "https://t.co/MOQ7F4APEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064092549011362232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063987695924457765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: 生きてる意味も死ぬ理由もない https://t.co/MOQ7F4APEn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063987548100403200"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "2063987695924457765",
+        "created_at": "2026-06-08T14:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063987695924457765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOQ7F4APEn",
+              "end": 38,
+              "expanded_url": "https://x.com/748cm/status/2063987695924457765/photo/1",
+              "media_key": "3_2063987548100403200",
+              "start": 15,
+              "url": "https://t.co/MOQ7F4APEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063987695924457765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3679,
+          "like_count": 357,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "生きてる意味も死ぬ理由もない https://t.co/MOQ7F4APEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 160,
+          "like_count": 8385,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 5650
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "2020760964371718331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124365,
+          "following_count": 208,
+          "like_count": 15397,
+          "listed_count": 623,
+          "media_count": 4121,
+          "tweet_count": 12876
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

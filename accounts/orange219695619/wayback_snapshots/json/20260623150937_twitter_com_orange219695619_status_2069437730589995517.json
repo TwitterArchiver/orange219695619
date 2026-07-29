@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069419027571839338",
+    "created_at": "2026-06-23T15:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069437730589995517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069437730589995517",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069419027571839338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu 不回家了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2680,
+        "media_key": "3_2069419009666347008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgNoAKacAAE4y-.jpg",
+        "width": 2376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069419027571839338",
+        "created_at": "2026-06-23T15:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069437730589995517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069437730589995517",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069419027571839338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu 不回家了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069419009666347008"
+          ]
+        },
+        "author_id": "2013724577529049088",
+        "conversation_id": "2069419027571839338",
+        "created_at": "2026-06-23T13:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069419027571839338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0uGpmE2en",
+              "end": 36,
+              "expanded_url": "https://x.com/_roopuu/status/2069419027571839338/photo/1",
+              "media_key": "3_2069419009666347008",
+              "start": 13,
+              "url": "https://t.co/H0uGpmE2en"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069419027571839338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 531,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有这样的女仆你几点回家？ https://t.co/H0uGpmE2en"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 12382,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 7324
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "|| 本垢 @_ropu || 暴论传播机 || 号主是未成年的吸血鬼 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": ",,ᗜ - ᗜ,,プロ",
+        "pinned_tweet_id": "2059631799094161801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 198,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

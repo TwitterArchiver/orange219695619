@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080968517759697405",
+    "created_at": "2026-07-25T10:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080968517759697405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoxiongmaoTv…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xiaoxiongmaoTvT/status/2080768185566195933",
+          "start": 21,
+          "url": "https://t.co/8M3cLozAt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080968517759697405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080768185566195933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这家伙说什么呢&lt;(ºOº)&gt; https://t.co/8M3cLozAt9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080968517759697405",
+        "created_at": "2026-07-25T10:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080968517759697405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoxiongmaoTv…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xiaoxiongmaoTvT/status/2080768185566195933",
+              "start": 21,
+              "url": "https://t.co/8M3cLozAt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080968517759697405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080768185566195933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这家伙说什么呢&lt;(ºOº)&gt; https://t.co/8M3cLozAt9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632627755147264",
+        "conversation_id": "2080540569349271608",
+        "created_at": "2026-07-24T21:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080768185566195933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990539630085906432",
+              "start": 0,
+              "username": "rinconlewct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080768185566195933",
+        "in_reply_to_user_id": "1990539630085906432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3301,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080767302694473731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinconlewct 改了花刀的几把叫开花肠 \n改过几把花刀的小众逼操改过馒头逼花刀的小众逼的逼可以制作出美味中式热狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 182,
+          "like_count": 19983,
+          "listed_count": 3,
+          "media_count": 554,
+          "tweet_count": 9651
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "咪只是咪\n\n只过互关@tiantianmaoovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tiantianmaoovo"
+              }
+            ]
+          }
+        },
+        "id": "1939632627755147264",
+        "name": "天才咪",
+        "pinned_tweet_id": "2078535416467353637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064203778791018496/UvaKQuWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 923,
+          "like_count": 9308,
+          "listed_count": 6,
+          "media_count": 488,
+          "tweet_count": 6823
+        },
+        "url": "",
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

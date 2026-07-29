@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2051292419375980981",
+    "created_at": "2026-05-04T14:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051303006004719984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044392328966680576",
+          "start": 0,
+          "username": "OE3IIGFQRQ9473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051303006004719984",
+    "in_reply_to_user_id": "2044392328966680576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051292419375980981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OE3IIGFQRQ9473 这期神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2051292419375980981",
+        "created_at": "2026-05-04T14:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051303006004719984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044392328966680576",
+              "start": 0,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051303006004719984",
+        "in_reply_to_user_id": "2044392328966680576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051292419375980981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OE3IIGFQRQ9473 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044392328966680576",
+        "conversation_id": "2051292419375980981",
+        "created_at": "2026-05-04T13:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051292419375980981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051292419375980981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "額額評論區抽幾個人給我當素材手沖吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 92,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2123
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "待復活的大號@FanQie_QianQian \n這裏只是我的情緒垃圾桶 日常碎碎念 \n負能過多 如果讓你感到不適我很抱歉 請屏蔽喵_(._.)_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/241BETQBPK"
+              }
+            ]
+          }
+        },
+        "id": "2044392328966680576",
+        "name": "芊芊/番茄操蛋9.0",
+        "pinned_tweet_id": "2050870299605020804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 69,
+          "like_count": 687,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/241BETQBPK",
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

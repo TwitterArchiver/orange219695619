@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Potato Chips",
+          "id": "864560332513042433",
+          "name": "Potato chips"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Potato Chips",
+          "id": "864560332513042433",
+          "name": "Potato chips"
+        }
+      }
+    ],
+    "conversation_id": "2070184457467031671",
+    "created_at": "2026-06-25T16:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070184457467031671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/io__xox/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/io__xox/status/2070045837573734535",
+          "start": 14,
+          "url": "https://t.co/RyWhQfxJBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070184457467031671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070045837573734535",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还有在薯片上打小广告的 https://t.co/RyWhQfxJBG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2070045831731064832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpHt2UbsAAYKtZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          }
+        ],
+        "conversation_id": "2070184457467031671",
+        "created_at": "2026-06-25T16:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070184457467031671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/io__xox/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/io__xox/status/2070045837573734535",
+              "start": 14,
+              "url": "https://t.co/RyWhQfxJBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070184457467031671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070045837573734535",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还有在薯片上打小广告的 https://t.co/RyWhQfxJBG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070045831731064832"
+          ]
+        },
+        "author_id": "496427204",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Potato Chips",
+              "id": "864560332513042433",
+              "name": "Potato chips"
+            }
+          }
+        ],
+        "conversation_id": "2070045837573734535",
+        "created_at": "2026-06-25T07:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070045837573734535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7SfGdnn22",
+              "end": 65,
+              "expanded_url": "https://x.com/io__xox/status/2070045837573734535/photo/1",
+              "media_key": "3_2070045831731064832",
+              "start": 42,
+              "url": "https://t.co/j7SfGdnn22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070045837573734535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1112,
+          "impression_count": 3120197,
+          "like_count": 31152,
+          "quote_count": 123,
+          "reply_count": 486,
+          "retweet_count": 1150
+        },
+        "reply_settings": "everyone",
+        "text": "ポテトチップス揚げようと思って\nモノタロウのカタログに挟んで水気きってた結果がこれ https://t.co/j7SfGdnn22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 194,
+          "like_count": 13141,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 7566
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-18T23:24:11.000Z",
+        "description": "天下取りに来ました￤歌い手￤https://t.co/mkv9OqYrOL￤個人勢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Superiokun",
+                "end": 37,
+                "expanded_url": "https://lit.link/Superiokun",
+                "start": 14,
+                "url": "https://t.co/mkv9OqYrOL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitcasting.tv/c:io__osushi",
+                "end": 23,
+                "expanded_url": "https://twitcasting.tv/c:io__osushi",
+                "start": 0,
+                "url": "https://t.co/i5jtRVFPcA"
+              }
+            ]
+          }
+        },
+        "id": "496427204",
+        "location": "ツイキャス 定期配信：土 22:00~",
+        "name": "いを。",
+        "pinned_tweet_id": "2064286631981408613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063747026219925505/T5upoBAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7052,
+          "following_count": 758,
+          "like_count": 861,
+          "listed_count": 36,
+          "media_count": 14,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/i5jtRVFPcA",
+        "username": "io__xox",
+        "verified": true
+      }
+    ]
+  }
+}

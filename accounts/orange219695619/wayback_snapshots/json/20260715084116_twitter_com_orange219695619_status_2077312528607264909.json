@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2077162019535667307",
+    "created_at": "2026-07-15T08:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077312528607264909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077312528607264909",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077232668362834394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 彳亍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2077232665821102080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPQGpoawAAAJuS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2077162019535667307",
+        "created_at": "2026-07-15T08:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077312528607264909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077312528607264909",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077232668362834394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 彳亍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077232665821102080"
+          ]
+        },
+        "author_id": "2998529749",
+        "conversation_id": "2077162019535667307",
+        "created_at": "2026-07-15T03:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077232668362834394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNx6ZvNvYe",
+              "end": 40,
+              "expanded_url": "https://x.com/STULRS/status/2077232668362834394/photo/1",
+              "media_key": "3_2077232665821102080",
+              "start": 17,
+              "url": "https://t.co/XNx6ZvNvYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077232668362834394",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077195186053001543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 https://t.co/XNx6ZvNvYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 174,
+          "like_count": 17819,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 8959
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（18↓）|双向情感障碍|重度焦虑|抽烟|od|戒割|悲观|cult片|喜欢低能|间接性发疯（理解能力有问题，冒泡勿喷） |想到啥说啥|碎碎念| 无纯绿  无门槛🚪  （（（\n匿名提问箱https://t.co/FrlpTzXkgZ随缘回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kismet37921",
+                "end": 121,
+                "expanded_url": "https://ngl.link/kismet37921",
+                "start": 98,
+                "url": "https://t.co/FrlpTzXkgZ"
+              }
+            ]
+          }
+        },
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "零碎（2.0寻互关",
+        "pinned_tweet_id": "2076000202704728108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 591,
+          "like_count": 42186,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 13459
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

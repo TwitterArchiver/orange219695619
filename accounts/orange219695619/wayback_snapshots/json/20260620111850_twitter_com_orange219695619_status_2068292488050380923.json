@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068288892101636366",
+    "created_at": "2026-06-20T11:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068292488050380923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062562367368835072",
+          "start": 0,
+          "username": "nianbaionly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068292488050380923",
+    "in_reply_to_user_id": "2062562367368835072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068292125385728065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianbaionly 或许吧…\n谢谢你🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068288892101636366",
+        "created_at": "2026-06-20T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068292488050380923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062562367368835072",
+              "start": 0,
+              "username": "nianbaionly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068292488050380923",
+        "in_reply_to_user_id": "2062562367368835072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068292125385728065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianbaionly 或许吧…\n谢谢你🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062562367368835072",
+        "conversation_id": "2068288892101636366",
+        "created_at": "2026-06-20T11:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068292125385728065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068292125385728065",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068289973959471405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 🫂🫂🫂，你值得这份悠闲喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 196,
+          "like_count": 11187,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 6806
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:50:13.000Z",
+        "description": "双允二号机，好玩喵\n@shuangyunonly\n但我知道我是我，我是双允",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "shuangyunonly"
+              }
+            ]
+          }
+        },
+        "id": "2062562367368835072",
+        "location": "从不存在的世界里",
+        "name": "廿白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062563046351093760/DoUM_2Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 25,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "nianbaionly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054391909628735686",
+    "created_at": "2026-05-13T07:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054467948451111365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504676358475157504",
+          "start": 0,
+          "username": "8964TortoiseBlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054467948451111365",
+    "in_reply_to_user_id": "1504676358475157504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054391909628735686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964TortoiseBlk 在找到对象之前只能先寄托在互联网上了，我不想让我的负面情绪污染我的朋友们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054391906931781632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKqjgIbMAAzVKO.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054391909628735686",
+        "created_at": "2026-05-13T07:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054467948451111365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054467948451111365",
+        "in_reply_to_user_id": "1504676358475157504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054391909628735686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 在找到对象之前只能先寄托在互联网上了，我不想让我的负面情绪污染我的朋友们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054391906931781632"
+          ]
+        },
+        "author_id": "1504676358475157504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054391909628735686",
+        "created_at": "2026-05-13T02:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054391909628735686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qk1cGwRFva",
+              "end": 161,
+              "expanded_url": "https://x.com/8964TortoiseBlk/status/2054391909628735686/photo/1",
+              "media_key": "3_2054391906931781632",
+              "start": 138,
+              "url": "https://t.co/qk1cGwRFva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054391909628735686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从互联网中寻找情绪价值这种行为在很多情况下都难有成效，并且互联网环境的特殊性对于抑郁症患者很不友好，这种方式导致悲剧几乎是必然发生，将支撑生命的重量寄托在互联网上，从那一刻起，这毁灭的结局就几乎已经注定，不仅是因为除互联网之外别无选择，更是因为来自互联网的反噬几乎是一种必然 https://t.co/qk1cGwRFva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 112,
+          "like_count": 3211,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3005
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T04:29:38.000Z",
+        "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+        "id": "1504676358475157504",
+        "location": "育空我的育空😭😭😭",
+        "name": "玄武（防盗码8964天安门）",
+        "pinned_tweet_id": "1830623519102906386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9788,
+          "following_count": 378,
+          "like_count": 271010,
+          "listed_count": 21,
+          "media_count": 2890,
+          "tweet_count": 65077
+        },
+        "username": "8964TortoiseBlk",
+        "verified": false
+      }
+    ]
+  }
+}

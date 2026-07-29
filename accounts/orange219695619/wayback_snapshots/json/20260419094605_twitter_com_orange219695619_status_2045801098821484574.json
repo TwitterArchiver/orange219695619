@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2045691354257179016",
+    "created_at": "2026-04-19T09:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045801098821484574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1347848667353399297",
+          "start": 0,
+          "username": "icecake_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045801098821484574",
+    "in_reply_to_user_id": "1347848667353399297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045791871918870927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icecake_OvO 洗胃三件套（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2045691354257179016",
+        "created_at": "2026-04-19T09:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045801098821484574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1347848667353399297",
+              "start": 0,
+              "username": "icecake_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045801098821484574",
+        "in_reply_to_user_id": "1347848667353399297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045791871918870927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icecake_OvO 洗胃三件套（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347848667353399297",
+        "conversation_id": "2045691354257179016",
+        "created_at": "2026-04-19T09:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045791871918870927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045791871918870927",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045784738217316384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 是的是的……活性炭吸附了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 80,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1232
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T10:12:29.000Z",
+        "description": "MTF hrt2019.12.2 持证2021.8.30含糖中 家里不管党 多平台ID:icecake 人像摄影重度爱好者 长期各种淡圈",
+        "id": "1347848667353399297",
+        "name": "icecake",
+        "pinned_tweet_id": "2045727145704726626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347848931569410048/g0f_H-vW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 47,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 57
+        },
+        "username": "icecake_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074761336219988291",
+    "created_at": "2026-07-08T10:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074804979530121572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "126581934",
+          "start": 0,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074804979530121572",
+    "in_reply_to_user_id": "126581934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074761336219988291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearemon 鹿娘🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_2074761327290306560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsIb0LbUAAxAs9.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074761336219988291",
+        "created_at": "2026-07-08T10:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074804979530121572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074804979530121572",
+        "in_reply_to_user_id": "126581934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074761336219988291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 鹿娘🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074761327290306560"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2074761336219988291",
+        "created_at": "2026-07-08T07:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074761336219988291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZbQ8LfMqW",
+              "end": 43,
+              "expanded_url": "https://x.com/dearemon/status/2074761336219988291/photo/1",
+              "media_key": "3_2074761327290306560",
+              "start": 20,
+              "url": "https://t.co/BZbQ8LfMqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074761336219988291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4838,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢問各位男性朋友看到的是馬還是鹿呢？￼ https://t.co/BZbQ8LfMqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 173,
+          "like_count": 16061,
+          "listed_count": 2,
+          "media_count": 502,
+          "tweet_count": 8427
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64433,
+          "following_count": 710,
+          "like_count": 5869,
+          "listed_count": 235,
+          "media_count": 34964,
+          "tweet_count": 406424
+        },
+        "url": "",
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

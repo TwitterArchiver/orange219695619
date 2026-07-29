@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080180109328404707",
+    "created_at": "2026-07-23T07:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080190061841101280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948268170302889984",
+          "start": 0,
+          "username": "LimTongyi84917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080190061841101280",
+    "in_reply_to_user_id": "1948268170302889984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080180109328404707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimTongyi84917 旁边是热可可嘛🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080180098599354369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5Ix0XaAAEwZws.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080180109328404707",
+        "created_at": "2026-07-23T07:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080190061841101280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948268170302889984",
+              "start": 0,
+              "username": "LimTongyi84917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080190061841101280",
+        "in_reply_to_user_id": "1948268170302889984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080180109328404707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimTongyi84917 旁边是热可可嘛🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080180098599354369"
+          ]
+        },
+        "author_id": "1948268170302889984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080180109328404707",
+        "created_at": "2026-07-23T06:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080180109328404707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jw5M8CJAkW",
+              "end": 32,
+              "expanded_url": "https://x.com/LimTongyi84917/status/2080180109328404707/photo/1",
+              "media_key": "3_2080180098599354369",
+              "start": 9,
+              "url": "https://t.co/Jw5M8CJAkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080180109328404707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没吃土豆丝了 https://t.co/Jw5M8CJAkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 181,
+          "like_count": 19545,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 9515
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T06:25:42.000Z",
+        "description": "叽里咕噜说什么呢。。我要睡觉了🛏️\n/会发自己唱歌/intp/世界只是一个巨大的乐色桶，大家都只是各种各样的乐色，我也是乐色/不聊任何黄色内容/内容超负面。（不是中国人。只是会中文。）",
+        "id": "1948268170302889984",
+        "name": "阴雨天（拖延症晚期）",
+        "pinned_tweet_id": "2045141422475706869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079555621628911616/aweXJZwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 65,
+          "like_count": 47024,
+          "listed_count": 1,
+          "media_count": 2875,
+          "tweet_count": 9566
+        },
+        "url": "",
+        "username": "LimTongyi84917",
+        "verified": false
+      }
+    ]
+  }
+}

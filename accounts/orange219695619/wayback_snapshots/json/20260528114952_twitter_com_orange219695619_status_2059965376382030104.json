@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059939226523972022",
+    "created_at": "2026-05-28T11:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059965376382030104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "No102_Element"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059965376382030104",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059955494283051251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@No102_Element 我去试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059939226523972022",
+        "created_at": "2026-05-28T11:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059965376382030104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "No102_Element"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059965376382030104",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059955494283051251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@No102_Element 我去试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2059939226523972022",
+        "created_at": "2026-05-28T11:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059955494283051251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059955494283051251",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059939226523972022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 这整张专都好好听！好喜欢ga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 142,
+          "like_count": 6088,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 4506
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "蓝色的田野会带来什么？",
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "浮起第102个梦境",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 524,
+          "like_count": 6630,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1213
+        },
+        "username": "No102_Element",
+        "verified": false
+      }
+    ]
+  }
+}

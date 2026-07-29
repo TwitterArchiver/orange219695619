@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053625884062658671",
+    "created_at": "2026-05-10T23:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T00:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053625884062658671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1781677304269455360",
+          "start": 3,
+          "username": "ayo_628"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053625884062658671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053547076781568222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayo_628: 我要死了，剛剛吞藥自殺，好像成功了，我只能慢慢等待死亡了，我愛你們，我的好朋友們"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053625884062658671",
+        "created_at": "2026-05-10T23:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053625884062658671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1781677304269455360",
+              "start": 3,
+              "username": "ayo_628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053625884062658671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053547076781568222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayo_628: 我要死了，剛剛吞藥自殺，好像成功了，我只能慢慢等待死亡了，我愛你們，我的好朋友們"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781677304269455360",
+        "conversation_id": "2053547076781568222",
+        "created_at": "2026-05-10T18:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053547076781568222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053547076781568222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1724,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要死了，剛剛吞藥自殺，好像成功了，我只能慢慢等待死亡了，我愛你們，我的好朋友們"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 99,
+          "like_count": 2752,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2731
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T13:32:41.000Z",
+        "description": "地雷女",
+        "id": "1781677304269455360",
+        "name": "ゆめ堕ち",
+        "pinned_tweet_id": "2049742558927126601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979217452459315200/JwNoaSDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 199,
+          "like_count": 6906,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 1247
+        },
+        "username": "ayo_628",
+        "verified": false
+      }
+    ]
+  }
+}

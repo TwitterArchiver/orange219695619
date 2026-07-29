@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079555353415725476",
+    "created_at": "2026-07-21T17:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079618416353432057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700547797026476032",
+          "start": 0,
+          "username": "haitao_li24917"
+        },
+        {
+          "end": 25,
+          "id": "1254442404410621958",
+          "start": 16,
+          "username": "zwh20081"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079618416353432057",
+    "in_reply_to_user_id": "1700547797026476032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079618092167008665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haitao_li24917 @zwh20081 看看篮子🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079555353415725476",
+        "created_at": "2026-07-21T17:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079618416353432057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            },
+            {
+              "end": 25,
+              "id": "1254442404410621958",
+              "start": 16,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079618416353432057",
+        "in_reply_to_user_id": "1700547797026476032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079618092167008665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 @zwh20081 看看篮子🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700547797026476032",
+        "conversation_id": "2079555353415725476",
+        "created_at": "2026-07-21T17:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079618092167008665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079618092167008665",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079555353415725476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 欧派是一点\n但是一揽子\n这有点不对了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19149,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 9425
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "彩笔写代码的\n社会闲散人员",
+        "id": "1700547797026476032",
+        "location": "Hamilton, Ontario",
+        "name": "AAA带虫炒饭批发李工",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 330,
+          "like_count": 10375,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 1661
+        },
+        "url": "",
+        "username": "haitao_li24917",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "服务器运维&深度学习业余人士 ＆打工人\n北京素鳞智绘科技有限公司 CEO\nzwh20081@solart.pro 商务\n💖 @Littleloong233\n逃生舱：@zwh18002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "Littleloong233"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zwh18002"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "2064339175001018652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064624898262323200/ed1cWS8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 380,
+          "like_count": 20607,
+          "listed_count": 5,
+          "media_count": 648,
+          "tweet_count": 12740
+        },
+        "url": "",
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

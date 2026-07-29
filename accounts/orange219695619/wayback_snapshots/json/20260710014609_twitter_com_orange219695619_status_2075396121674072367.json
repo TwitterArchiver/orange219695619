@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075194560435921225",
+    "created_at": "2026-07-10T01:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075396121674072367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075396121674072367",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075194560435921225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075194464071741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySXsbacAATEx_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075194464105283584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySXsjaQAAz0oz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075194464126283776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySXsoasAALH4U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075194464071831552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMySXsbb0AAXow-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075194560435921225",
+        "created_at": "2026-07-10T01:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075396121674072367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075396121674072367",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075194560435921225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075194464071741440",
+            "3_2075194464105283584",
+            "3_2075194464126283776",
+            "3_2075194464071831552"
+          ]
+        },
+        "author_id": "1902735424839413760",
+        "conversation_id": "2075194560435921225",
+        "created_at": "2026-07-09T12:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075194560435921225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EL4KL6BfRG",
+              "end": 41,
+              "expanded_url": "https://x.com/litgraley/status/2075194560435921225/photo/1",
+              "media_key": "3_2075194464071741440",
+              "start": 18,
+              "url": "https://t.co/EL4KL6BfRG"
+            },
+            {
+              "display_url": "pic.x.com/EL4KL6BfRG",
+              "end": 41,
+              "expanded_url": "https://x.com/litgraley/status/2075194560435921225/photo/1",
+              "media_key": "3_2075194464105283584",
+              "start": 18,
+              "url": "https://t.co/EL4KL6BfRG"
+            },
+            {
+              "display_url": "pic.x.com/EL4KL6BfRG",
+              "end": 41,
+              "expanded_url": "https://x.com/litgraley/status/2075194560435921225/photo/1",
+              "media_key": "3_2075194464126283776",
+              "start": 18,
+              "url": "https://t.co/EL4KL6BfRG"
+            },
+            {
+              "display_url": "pic.x.com/EL4KL6BfRG",
+              "end": 41,
+              "expanded_url": "https://x.com/litgraley/status/2075194560435921225/photo/1",
+              "media_key": "3_2075194464071831552",
+              "start": 18,
+              "url": "https://t.co/EL4KL6BfRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194560435921225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘛有的时候还是勉强能活下来的了啦～ https://t.co/EL4KL6BfRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 173,
+          "like_count": 16420,
+          "listed_count": 2,
+          "media_count": 510,
+          "tweet_count": 8541
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 915,
+          "like_count": 38363,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 6105
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

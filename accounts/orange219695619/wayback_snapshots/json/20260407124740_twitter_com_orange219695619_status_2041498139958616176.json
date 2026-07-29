@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041464613771030703",
+    "created_at": "2026-04-07T12:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041498139958616176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041498139958616176",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041464613771030703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 推特的推送机制是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041464613771030703",
+        "created_at": "2026-04-07T12:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041498139958616176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041498139958616176",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041464613771030703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 推特的推送机制是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893580687200157696",
+        "conversation_id": "2041464613771030703",
+        "created_at": "2026-04-07T10:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041464613771030703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041464613771030703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我那个割手的帖子有那么多人看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 68,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 703
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜中抑重焦｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 关注就是喜欢你）\n二次深空沈星回高浓度激推梦女 纸性恋已有老公\n喜欢我可以给我打赏\n🚪52纯绿 获得一个碎碎念的我\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/3pRf1TkeZk"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "我想睡觉",
+        "name": "Croissant",
+        "pinned_tweet_id": "2034848066705240169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041047280124604417/z6NGHTsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 675,
+          "like_count": 3962,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/3pRf1TkeZk",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

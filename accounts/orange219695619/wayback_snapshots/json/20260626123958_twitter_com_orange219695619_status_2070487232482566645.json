@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070487229701726208"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070476732273189279",
+    "created_at": "2026-06-26T12:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070487232482566645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952269546079055873",
+          "start": 0,
+          "username": "XinQAQwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VHC5VBSgeY",
+          "end": 44,
+          "expanded_url": "https://x.com/orange219695619/status/2070487232482566645/photo/1",
+          "media_key": "3_2070487229701726208",
+          "start": 21,
+          "url": "https://t.co/VHC5VBSgeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070487232482566645",
+    "in_reply_to_user_id": "1952269546079055873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070476732273189279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinQAQwww 好像好多人都被发了 https://t.co/VHC5VBSgeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070487229701726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvZKl5aoAAkoGG.jpg",
+        "width": 930
+      },
+      {
+        "height": 464,
+        "media_key": "3_2070476728829693952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvPnXGbUAA6QSF.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070487229701726208"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070476732273189279",
+        "created_at": "2026-06-26T12:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070487232482566645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952269546079055873",
+              "start": 0,
+              "username": "XinQAQwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHC5VBSgeY",
+              "end": 44,
+              "expanded_url": "https://x.com/orange219695619/status/2070487232482566645/photo/1",
+              "media_key": "3_2070487229701726208",
+              "start": 21,
+              "url": "https://t.co/VHC5VBSgeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070487232482566645",
+        "in_reply_to_user_id": "1952269546079055873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070476732273189279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinQAQwww 好像好多人都被发了 https://t.co/VHC5VBSgeY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070476728829693952"
+          ]
+        },
+        "author_id": "1952269546079055873",
+        "conversation_id": "2070476732273189279",
+        "created_at": "2026-06-26T11:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070476732273189279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dvAdr17OW",
+              "end": 42,
+              "expanded_url": "https://x.com/XinQAQwww/status/2070476732273189279/photo/1",
+              "media_key": "3_2070476728829693952",
+              "start": 19,
+              "url": "https://t.co/5dvAdr17OW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070476732273189279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我发这样子的消息…\n何意味呀\n（） https://t.co/5dvAdr17OW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 194,
+          "like_count": 13325,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 7619
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T07:25:22.000Z",
+        "description": "霜桦的小屋🏠|喵喵喵喵喵|炸柜💥|男的呢|半吃糖🍥|自残（划掉）|不od|喝酒|孤单喵|喜欢雨天🌧️|坐标北京|想去杭州🌳|互fo🥺|交个朋友喵|\n\n请肆意骚扰我喵，好无聊好无聊🥺\n喵喵喵",
+        "id": "1952269546079055873",
+        "name": "XinQAQ",
+        "pinned_tweet_id": "2065006702450360703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064629476625985536/Vz0IR-h2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 364,
+          "like_count": 957,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "XinQAQwww",
+        "verified": false
+      }
+    ]
+  }
+}

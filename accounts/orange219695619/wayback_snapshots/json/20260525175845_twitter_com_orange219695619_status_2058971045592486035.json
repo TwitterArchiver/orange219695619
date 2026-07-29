@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058969907644293178",
+    "created_at": "2026-05-25T17:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058971045592486035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058971045592486035",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058969907644293178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "该死的自杀潮什么时候能够结束啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058969907644293178",
+        "created_at": "2026-05-25T17:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058971045592486035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058971045592486035",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058969907644293178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该死的自杀潮什么时候能够结束啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058969907644293178",
+        "created_at": "2026-05-25T17:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058969907644293178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058969907644293178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷着推突然想起了很多事…一些痛苦的往事…\n希望以后不会被抢救了…洗胃好难受，洗完胃输液的时候更难受，血管胀胀的凉凉的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 141,
+          "like_count": 5567,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 4253
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

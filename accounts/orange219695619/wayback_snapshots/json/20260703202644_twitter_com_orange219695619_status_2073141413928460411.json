@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2073049768868163683",
+    "created_at": "2026-07-03T20:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073141413928460411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900754238570893313",
+          "start": 0,
+          "username": "patchouli608"
+        },
+        {
+          "end": 23,
+          "id": "2053009418871357440",
+          "start": 14,
+          "username": "NMD_2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073141413928460411",
+    "in_reply_to_user_id": "1900754238570893313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073056092628861319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchouli608 @NMD_2012 准高中生🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2073049768868163683",
+        "created_at": "2026-07-03T20:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073141413928460411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900754238570893313",
+              "start": 0,
+              "username": "patchouli608"
+            },
+            {
+              "end": 23,
+              "id": "2053009418871357440",
+              "start": 14,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073141413928460411",
+        "in_reply_to_user_id": "1900754238570893313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073056092628861319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchouli608 @NMD_2012 准高中生🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754238570893313",
+        "conversation_id": "2073049768868163683",
+        "created_at": "2026-07-03T14:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073056092628861319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053009418871357440",
+              "start": 0,
+              "username": "NMD_2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073056092628861319",
+        "in_reply_to_user_id": "2053009418871357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073055782535315675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_2012 這個稱呼 竊以為十分繁瑣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 196,
+          "like_count": 15082,
+          "listed_count": 2,
+          "media_count": 487,
+          "tweet_count": 8113
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T03:42:13.000Z",
+        "description": "➡️以虛\n你好，我是大陸北方網友｜商科逃兵｜ 臨川一中初中部名譽畢業生｜松江一中高中部榮譽校友\n文字-聲韻-訓詁-目錄-版本-校勘",
+        "id": "1900754238570893313",
+        "location": "南昌市新建縣望城崗1號｜上海市楊浦區楊樹浦路2866號",
+        "name": "佩觿",
+        "pinned_tweet_id": "2070246029421887801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070608956934787072/AOjmeFcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 189,
+          "like_count": 35103,
+          "listed_count": 2,
+          "media_count": 1086,
+          "tweet_count": 13413
+        },
+        "url": "",
+        "username": "patchouli608",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T07:10:13.000Z",
+        "description": "我喜欢装深沉但可能不是装的 都过来走江湖但谁能不受伤呢/是个低能量的人所以喜欢听歌和睡觉😴/个人主义/自由主义/接受所有成分/黄推不行/我会努力去爱每一个喜欢我的人/会看成分回fo/很喜欢有趣的人/鉴证账号退散/邪恶人格@CNM_2012",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "CNM_2012"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sxc2581",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sxc2581",
+                "start": 0,
+                "url": "https://t.co/wk9cNfvj10"
+              }
+            ]
+          }
+        },
+        "id": "2053009418871357440",
+        "location": "地獄",
+        "name": "孤独症患者",
+        "pinned_tweet_id": "2068199634393252179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071930186619064320/v9RooFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 267,
+          "like_count": 6367,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/wk9cNfvj10",
+        "username": "NMD_2012",
+        "verified": true
+      }
+    ]
+  }
+}

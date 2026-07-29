@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080214542278344707",
+    "created_at": "2026-07-23T08:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080214542278344707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/YongQuan/status/2080095550574109167",
+          "start": 12,
+          "url": "https://t.co/WUGpUG4R7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080214542278344707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080095550574109167",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "河北人看完嘎巴一下死了 https://t.co/WUGpUG4R7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2079110971759718400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNp8acha8AAjOWW.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080214542278344707",
+        "created_at": "2026-07-23T08:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080214542278344707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/YongQuan/status/2080095550574109167",
+              "start": 12,
+              "url": "https://t.co/WUGpUG4R7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080214542278344707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080095550574109167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "河北人看完嘎巴一下死了 https://t.co/WUGpUG4R7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079110971759718400"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080095550574109167",
+        "created_at": "2026-07-23T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080095550574109167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntYDhuzJJh",
+              "end": 30,
+              "expanded_url": "https://x.com/YongQuan/status/2080095550574109167/photo/1",
+              "media_key": "3_2079110971759718400",
+              "start": 7,
+              "url": "https://t.co/ntYDhuzJJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080095550574109167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 726,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "驴肉火烧…… https://t.co/ntYDhuzJJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 181,
+          "like_count": 19588,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 9528
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日记本@yqua_\n剧本草稿@RenYueAny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "RenYueAny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🏳️‍⚧️｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076318123221757952/20GOFjab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11212,
+          "following_count": 4764,
+          "like_count": 52587,
+          "listed_count": 41,
+          "media_count": 5327,
+          "tweet_count": 16239
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054269984445288662",
+    "created_at": "2026-05-13T00:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054357746032771431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593267144803901445",
+          "start": 0,
+          "username": "bb60040873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054357746032771431",
+    "in_reply_to_user_id": "1593267144803901445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054269984445288662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb60040873 好像屏蔽再解除了就行\n（忘了从哪看的了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054269984445288662",
+        "created_at": "2026-05-13T00:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054357746032771431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593267144803901445",
+              "start": 0,
+              "username": "bb60040873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054357746032771431",
+        "in_reply_to_user_id": "1593267144803901445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054269984445288662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb60040873 好像屏蔽再解除了就行\n（忘了从哪看的了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593267144803901445",
+        "conversation_id": "2054269984445288662",
+        "created_at": "2026-05-12T18:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054269984445288662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054269984445288662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来推特可以偷偷双取吗？我突然发现我和曾经的互关已经不是互关了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 112,
+          "like_count": 3143,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2957
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T15:39:09.000Z",
+        "description": "爱碎碎念胡言乱语，间歇性发疯，bl，混的圈子杂啥都能吃一口，绝望的直女",
+        "id": "1593267144803901445",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013094892193382400/6-yy9Ldp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 470,
+          "like_count": 9683,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3660
+        },
+        "username": "bb60040873",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2073631567118004249",
+    "created_at": "2026-07-05T14:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073783727797539166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044543772415942656",
+          "start": 0,
+          "username": "roitium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073783727797539166",
+    "in_reply_to_user_id": "2044543772415942656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073758045998580077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roitium 来河北找我😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073758045998580077].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073758045998580077",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073758045998580077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2073631567118004249",
+        "created_at": "2026-07-05T14:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073783727797539166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044543772415942656",
+              "start": 0,
+              "username": "roitium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073783727797539166",
+        "in_reply_to_user_id": "2044543772415942656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073758045998580077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roitium 来河北找我😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 196,
+          "like_count": 15402,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 8200
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T22:30:05.000Z",
+        "description": "哈气中，勿扰，，，\n\n请随意申请关注，但我可能不会通过： ）\n互关基本都会通过的说（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "roitium.com",
+                "end": 23,
+                "expanded_url": "http://roitium.com",
+                "start": 0,
+                "url": "https://t.co/C3MRHRZCbI"
+              }
+            ]
+          }
+        },
+        "id": "2044543772415942656",
+        "location": "你心里",
+        "name": "roitium",
+        "pinned_tweet_id": "2045801266174111830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073243726584172544/ww8yu5vL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 58,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/C3MRHRZCbI",
+        "username": "roitium",
+        "verified": false
+      }
+    ]
+  }
+}

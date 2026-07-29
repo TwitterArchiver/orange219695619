@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055592469698576384"
+      ],
+      "media_source_tweet_id": [
+        "2055592477353230625"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055687114243907828",
+    "created_at": "2026-05-16T16:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055687114243907828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1623856316728090624",
+          "start": 3,
+          "username": "zhixiang0473_GH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ELeZbekM9G",
+          "end": 44,
+          "expanded_url": "https://x.com/zhixiang0473_GH/status/2055592477353230625/photo/1",
+          "media_key": "3_2055592469698576384",
+          "start": 21,
+          "url": "https://t.co/ELeZbekM9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055687114243907828",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055592477353230625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhixiang0473_GH: https://t.co/ELeZbekM9G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2055592469698576384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbudc9aAAANxdq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055592469698576384"
+          ],
+          "media_source_tweet_id": [
+            "2055592477353230625"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055687114243907828",
+        "created_at": "2026-05-16T16:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055687114243907828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1623856316728090624",
+              "start": 3,
+              "username": "zhixiang0473_GH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELeZbekM9G",
+              "end": 44,
+              "expanded_url": "https://x.com/zhixiang0473_GH/status/2055592477353230625/photo/1",
+              "media_key": "3_2055592469698576384",
+              "start": 21,
+              "url": "https://t.co/ELeZbekM9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055687114243907828",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055592477353230625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhixiang0473_GH: https://t.co/ELeZbekM9G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055592469698576384"
+          ]
+        },
+        "author_id": "1623856316728090624",
+        "conversation_id": "2055592477353230625",
+        "created_at": "2026-05-16T10:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055592477353230625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELeZbekM9G",
+              "end": 23,
+              "expanded_url": "https://x.com/zhixiang0473_GH/status/2055592477353230625/photo/1",
+              "media_key": "3_2055592469698576384",
+              "start": 0,
+              "url": "https://t.co/ELeZbekM9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055592477353230625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ELeZbekM9G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 121,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3292
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-10T01:28:29.000Z",
+        "description": "男｜日語學習中｜轉推較多｜歡迎交友 ｜",
+        "id": "1623856316728090624",
+        "name": "紙箱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913646708929728512/_Bp1XQLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 1349,
+          "like_count": 12749,
+          "listed_count": 4,
+          "media_count": 1278,
+          "tweet_count": 5116
+        },
+        "username": "zhixiang0473_GH",
+        "verified": false
+      }
+    ]
+  }
+}

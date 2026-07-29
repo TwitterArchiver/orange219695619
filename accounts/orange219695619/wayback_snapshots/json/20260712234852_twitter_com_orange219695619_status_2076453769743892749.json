@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2076341149166698608",
+    "created_at": "2026-07-12T23:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076453769743892749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076453769743892749",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076410445326643385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 我问了问deepseek它说算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2076341149166698608",
+        "created_at": "2026-07-12T23:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076453769743892749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076453769743892749",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076410445326643385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 我问了问deepseek它说算"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906595429162299392",
+        "conversation_id": "2076341149166698608",
+        "created_at": "2026-07-12T20:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076410445326643385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076410445326643385",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076341149166698608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 好问题，失温也算躯体化吗...我经常精神状态变差的时候就感觉很冷，在这之前待在同一个环境里都没有感受到冷..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 173,
+          "like_count": 17201,
+          "listed_count": 2,
+          "media_count": 522,
+          "tweet_count": 8773
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "一只漂浮的蓝色水母/想扩点同类/hrt：26.2.18/非资深oder/地雷系重力系警告⚠️\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥",
+        "pinned_tweet_id": "1988587652640391362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 190,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": false
+      }
+    ]
+  }
+}

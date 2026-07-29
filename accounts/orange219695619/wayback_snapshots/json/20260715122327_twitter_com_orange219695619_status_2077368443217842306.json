@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2077337098915389908",
+    "created_at": "2026-07-15T12:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077368443217842306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1948268170302889984",
+          "start": 0,
+          "username": "LimTongyi84917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077368443217842306",
+    "in_reply_to_user_id": "1948268170302889984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077337098915389908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimTongyi84917 好好听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17714,
+        "height": 1280,
+        "media_key": "13_2077336940857417728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077336940857417728/img/nrJufD4NOvBOkh06.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077336940857417728/vid/avc1/320x568/VUzk0c-mUl8d0wkr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077336940857417728/vid/avc1/480x852/U0hkuyPKAOnxzp3n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077336940857417728/vid/avc1/720x1280/OhBgFGNgBqTEjKf_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077336940857417728/pl/83akoXo6r01dyGjU.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 16950,
+        "height": 1280,
+        "media_key": "13_2077337041671749632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077337041671749632/img/Wwh6YDGZuDcGyx0s.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077337041671749632/vid/avc1/320x568/JgSaVEFFlhDf-avh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077337041671749632/vid/avc1/480x852/KzHITg6MDVT2wm8x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077337041671749632/vid/avc1/720x1280/ZfkT-O0948a_YXat.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077337041671749632/pl/X8zteMyOVDV-ljuB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2077337098915389908",
+        "created_at": "2026-07-15T12:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077368443217842306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1948268170302889984",
+              "start": 0,
+              "username": "LimTongyi84917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077368443217842306",
+        "in_reply_to_user_id": "1948268170302889984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077337098915389908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimTongyi84917 好好听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077336940857417728",
+            "13_2077337041671749632"
+          ]
+        },
+        "author_id": "1948268170302889984",
+        "conversation_id": "2077337098915389908",
+        "created_at": "2026-07-15T10:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077337098915389908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rV7f4Eq08Z",
+              "end": 83,
+              "expanded_url": "https://x.com/LimTongyi84917/status/2077337098915389908/video/1",
+              "media_key": "13_2077336940857417728",
+              "start": 60,
+              "url": "https://t.co/rV7f4Eq08Z"
+            },
+            {
+              "display_url": "pic.x.com/rV7f4Eq08Z",
+              "end": 83,
+              "expanded_url": "https://x.com/LimTongyi84917/status/2077337098915389908/video/1",
+              "media_key": "13_2077337041671749632",
+              "start": 60,
+              "url": "https://t.co/rV7f4Eq08Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077337098915389908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "New Soul。     Running Up That Hill。\n（应该能听出来都是我吧。应该能。的吧。哈哈。） https://t.co/rV7f4Eq08Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 174,
+          "like_count": 17863,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 8974
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T06:25:42.000Z",
+        "description": "叽里咕噜说什么呢。。我要睡觉了🛏️\n/会发自己唱歌/intp/世界只是一个巨大的乐色桶，大家都只是各种各样的乐色，我也是乐色/不聊任何黄色内容/内容超负面。（不是中国人。只是会中文。）",
+        "id": "1948268170302889984",
+        "name": "阴雨天",
+        "pinned_tweet_id": "2045141422475706869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036886027353415681/4ysRfabU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 65,
+          "like_count": 46289,
+          "listed_count": 0,
+          "media_count": 2786,
+          "tweet_count": 9341
+        },
+        "url": "",
+        "username": "LimTongyi84917",
+        "verified": false
+      }
+    ]
+  }
+}

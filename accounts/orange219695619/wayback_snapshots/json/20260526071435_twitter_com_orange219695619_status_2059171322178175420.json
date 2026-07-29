@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2050586131998412939",
+    "created_at": "2026-05-26T07:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059171322178175420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1695314246735892480",
+          "start": 0,
+          "username": "szfx123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059171322178175420",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050586131998412939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szfx123 帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2050586124603789312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUlN0JakAAHDRd.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2204,
+        "media_key": "3_2050586126768103424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUlN8NbYAA62xW.jpg",
+        "width": 4084
+      },
+      {
+        "height": 1748,
+        "media_key": "3_2050586125102936064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUlN2Aa8AA7Q3Z.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2050586131998412939",
+        "created_at": "2026-05-26T07:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059171322178175420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059171322178175420",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050586131998412939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050586124603789312",
+            "3_2050586126768103424",
+            "3_2050586125102936064"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2050586131998412939",
+        "created_at": "2026-05-02T14:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050586131998412939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NeaC7IVAp7",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2050586131998412939/photo/1",
+              "media_key": "3_2050586124603789312",
+              "start": 17,
+              "url": "https://t.co/NeaC7IVAp7"
+            },
+            {
+              "display_url": "pic.x.com/NeaC7IVAp7",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2050586131998412939/photo/1",
+              "media_key": "3_2050586126768103424",
+              "start": 17,
+              "url": "https://t.co/NeaC7IVAp7"
+            },
+            {
+              "display_url": "pic.x.com/NeaC7IVAp7",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2050586131998412939/photo/1",
+              "media_key": "3_2050586125102936064",
+              "start": 17,
+              "url": "https://t.co/NeaC7IVAp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050586131998412939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅吗帅吗帅吗\n帅帅帅帅帅\n🥰🥰🥰 https://t.co/NeaC7IVAp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 141,
+          "like_count": 5656,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 4290
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年 / 大四休学 / 喜欢打游戏 / 喜欢负能量 / intj / 孤独 / 自毁倾向 / 友全部 / 想和你们交朋友🥺欢迎任何人随时骚扰我 / 避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "hahahaha131519"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055374632459640833/3VB4gST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 148,
+          "like_count": 9397,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 346
+        },
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

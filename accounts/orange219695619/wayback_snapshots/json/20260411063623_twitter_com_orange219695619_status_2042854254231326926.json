@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042854251861569536"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2042854254231326926",
+    "created_at": "2026-04-11T06:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042854254231326926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxSm6niFtm",
+          "end": 27,
+          "expanded_url": "https://x.com/orange219695619/status/2042854254231326926/photo/1",
+          "media_key": "3_2042854251861569536",
+          "start": 4,
+          "url": "https://t.co/LxSm6niFtm"
+        },
+        {
+          "display_url": "x.com/messedupfoods/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/messedupfoods/status/2042704420744630294",
+          "start": 28,
+          "url": "https://t.co/4SXKpsgrkQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042854254231326926",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042704420744630294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "干嘛… https://t.co/LxSm6niFtm https://t.co/4SXKpsgrkQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042854251861569536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmtHloa8AAvQDP.jpg",
+        "width": 930
+      },
+      {
+        "duration_ms": 23500,
+        "height": 1078,
+        "media_key": "13_2042703610224742400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042703610224742400/img/cTJK5G_Ch1HUbfO3.jpg",
+        "public_metrics": {
+          "view_count": 170517
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042703610224742400/vid/avc1/320x570/3oztqVtzsZbnUbD8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042703610224742400/vid/avc1/480x856/P59Mz0KVxR5Ic8Uy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042703610224742400/vid/avc1/604x1078/7YM2vt75V0068pI6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042703610224742400/pl/XQhFD016ZLm7_3vV.m3u8?v=10a"
+          }
+        ],
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042854251861569536"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2042854254231326926",
+        "created_at": "2026-04-11T06:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042854254231326926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxSm6niFtm",
+              "end": 27,
+              "expanded_url": "https://x.com/orange219695619/status/2042854254231326926/photo/1",
+              "media_key": "3_2042854251861569536",
+              "start": 4,
+              "url": "https://t.co/LxSm6niFtm"
+            },
+            {
+              "display_url": "x.com/messedupfoods/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/messedupfoods/status/2042704420744630294",
+              "start": 28,
+              "url": "https://t.co/4SXKpsgrkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042854254231326926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042704420744630294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干嘛… https://t.co/LxSm6niFtm https://t.co/4SXKpsgrkQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042703610224742400"
+          ]
+        },
+        "author_id": "1546497037117579264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042704420744630294",
+        "created_at": "2026-04-10T20:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042704420744630294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ai4zsnPwM4",
+              "end": 23,
+              "expanded_url": "https://x.com/messedupfoods/status/2042704420744630294/video/1",
+              "media_key": "13_2042703610224742400",
+              "start": 0,
+              "url": "https://t.co/Ai4zsnPwM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042704420744630294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1728,
+          "impression_count": 350269,
+          "like_count": 14162,
+          "quote_count": 48,
+          "reply_count": 38,
+          "retweet_count": 1571
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ai4zsnPwM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 852
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T14:10:13.000Z",
+        "description": "food enjoyer",
+        "id": "1546497037117579264",
+        "location": "flavortown",
+        "name": "i like food",
+        "pinned_tweet_id": "2042286076078014686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585611313107066880/Q3VEf0bc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163265,
+          "following_count": 176,
+          "like_count": 18991,
+          "listed_count": 1874,
+          "media_count": 24213,
+          "tweet_count": 27158
+        },
+        "username": "messedupfoods",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059972375144497267",
+    "created_at": "2026-05-28T12:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059972375144497267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047621661789134848",
+          "start": 3,
+          "username": "neckincrisis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059972375144497267",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26389
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059320755649728777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neckincrisis: mind your own fucking business"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059972375144497267",
+        "created_at": "2026-05-28T12:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059972375144497267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047621661789134848",
+              "start": 3,
+              "username": "neckincrisis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059972375144497267",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059320755649728777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neckincrisis: mind your own fucking business"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047621661789134848",
+        "conversation_id": "2059320755649728777",
+        "created_at": "2026-05-26T17:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059320755649728777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fact/status/20…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/fact/status/2059268074100994423",
+              "start": 31,
+              "url": "https://t.co/WppIB1A7u9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059320755649728777",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4108,
+          "impression_count": 7560494,
+          "like_count": 255548,
+          "quote_count": 570,
+          "reply_count": 1234,
+          "retweet_count": 26389
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059268074100994423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mind your own fucking business https://t.co/WppIB1A7u9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 142,
+          "like_count": 6089,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 4508
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T10:20:46.000Z",
+        "description": "yes i can stack donuts on it",
+        "id": "2047621661789134848",
+        "location": "safari",
+        "name": "giraffe",
+        "pinned_tweet_id": "2059957202182418689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050731516884623360/L1QXUtlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14140,
+          "following_count": 122,
+          "like_count": 380,
+          "listed_count": 90,
+          "media_count": 75,
+          "tweet_count": 519
+        },
+        "username": "neckincrisis",
+        "verified": true
+      }
+    ]
+  }
+}

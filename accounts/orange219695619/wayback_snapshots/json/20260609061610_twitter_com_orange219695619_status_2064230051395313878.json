@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064230051395313878",
+    "created_at": "2026-06-09T06:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064230051395313878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsD3lay/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/itsD3lay/status/2063984399599735140",
+          "start": 4,
+          "url": "https://t.co/veGSEFOZlB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064230051395313878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063984399599735140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好笑 https://t.co/veGSEFOZlB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2063773995778891776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP_g8sW4AABmbe.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064230051395313878",
+        "created_at": "2026-06-09T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064230051395313878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsD3lay/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/itsD3lay/status/2063984399599735140",
+              "start": 4,
+              "url": "https://t.co/veGSEFOZlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064230051395313878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063984399599735140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好笑 https://t.co/veGSEFOZlB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063773995778891776"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063984399599735140",
+        "created_at": "2026-06-08T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063984399599735140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFiEnGKfjg",
+              "end": 59,
+              "expanded_url": "https://x.com/itsD3lay/status/2063984399599735140/photo/1",
+              "media_key": "3_2063773995778891776",
+              "start": 36,
+              "url": "https://t.co/XFiEnGKfjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984399599735140",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 887,
+          "impression_count": 525786,
+          "like_count": 39551,
+          "quote_count": 116,
+          "reply_count": 151,
+          "retweet_count": 3215
+        },
+        "reply_settings": "everyone",
+        "text": "Maldita sea, el pollo usó un condón https://t.co/XFiEnGKfjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 161,
+          "like_count": 8429,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 5671
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contacto: itsd3laybusiness@gmail.com📩 \n@ToshiBet | BYTS COMP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ToshiBet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2UjF"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2064074991080009921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156600,
+          "following_count": 1258,
+          "like_count": 773573,
+          "listed_count": 281,
+          "media_count": 21895,
+          "tweet_count": 76206
+        },
+        "url": "https://t.co/EjiUPH2UjF",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

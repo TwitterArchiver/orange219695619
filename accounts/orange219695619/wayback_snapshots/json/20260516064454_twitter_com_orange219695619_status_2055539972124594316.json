@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1587245074152398848"
+      ],
+      "media_source_tweet_id": [
+        "1587245087901323265"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055539972124594316",
+    "created_at": "2026-05-16T06:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055539972124594316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1382542593498750977",
+          "start": 3,
+          "username": "VirtualShoujo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CNaOyW6TVs",
+          "end": 66,
+          "expanded_url": "https://x.com/VirtualShoujo/status/1587245087901323265/video/1",
+          "media_key": "7_1587245074152398848",
+          "start": 43,
+          "url": "https://t.co/CNaOyW6TVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055539972124594316",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 453
+    },
+    "referenced_tweets": [
+      {
+        "id": "1587245087901323265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VirtualShoujo: Yuuummy (⁠*⁠´⁠ω⁠｀⁠*⁠)💕🎀 https://t.co/CNaOyW6TVs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055539972124594316].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055539972124594316",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055539972124594316"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6292,
+        "height": 340,
+        "media_key": "7_1587245074152398848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1587245074152398848/pu/img/EEKXiYwBGanc01Z6.jpg",
+        "public_metrics": {
+          "view_count": 48399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1587245074152398848/pu/vid/418x270/blcgQT2NGu8EH3A3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1587245074152398848/pu/vid/528x340/fpClA2mPTufT_OHV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1587245074152398848/pu/pl/TLRXg8xEWKmBP5kZ.m3u8?tag=12"
+          }
+        ],
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1587245074152398848"
+          ]
+        },
+        "author_id": "1382542593498750977",
+        "conversation_id": "1587245087901323265",
+        "created_at": "2022-11-01T00:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2022-11-01T01:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1587245087901323265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNaOyW6TVs",
+              "end": 47,
+              "expanded_url": "https://x.com/VirtualShoujo/status/1587245087901323265/video/1",
+              "media_key": "7_1587245074152398848",
+              "start": 24,
+              "url": "https://t.co/CNaOyW6TVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1587245087901323265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 0,
+          "like_count": 1745,
+          "quote_count": 114,
+          "reply_count": 30,
+          "retweet_count": 453
+        },
+        "reply_settings": "everyone",
+        "text": "Yuuummy (⁠*⁠´⁠ω⁠｀⁠*⁠)💕🎀 https://t.co/CNaOyW6TVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 121,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3268
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-15T03:53:49.000Z",
+        "description": "ウラハラ🍡メンヘラちゃん🎀\nりあむちゃん依存(⁠◡⁠ ⁠ω⁠ ⁠◡⁠)💗💉\n病み×可愛い×混乱中✡️SH/SUICIDE/DRUG TWT🩸\nINFP ♱ 4:20 🍀\n日本語 | pt-br | eng\n「だれか私を見つけてよ…( ∩˙⌓˙∩ )」\n@MOGEKIII ꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 126,
+                "username": "MOGEKIII"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mnherarin.straw.page",
+                "end": 23,
+                "expanded_url": "http://mnherarin.straw.page",
+                "start": 0,
+                "url": "https://t.co/DiexRKQv3I"
+              }
+            ]
+          }
+        },
+        "id": "1382542593498750977",
+        "location": "Moe moe kyuun~ NB 🍮🩷",
+        "name": "🎀メンヘラ🎀(。-`ω´-)💢",
+        "pinned_tweet_id": "2051714696323969027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052294515898077185/K2Zv8rFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10694,
+          "following_count": 808,
+          "like_count": 46265,
+          "listed_count": 26,
+          "media_count": 1460,
+          "tweet_count": 12826
+        },
+        "url": "https://t.co/DiexRKQv3I",
+        "username": "VirtualShoujo",
+        "verified": false
+      }
+    ]
+  }
+}

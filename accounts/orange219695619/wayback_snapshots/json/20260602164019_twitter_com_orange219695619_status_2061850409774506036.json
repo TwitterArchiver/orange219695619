@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061770670531653840",
+    "created_at": "2026-06-02T16:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061850409774506036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061850409774506036",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061770670531653840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Min1440r 生日快乐！\n（虽然可能已经过了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061770670531653840",
+        "created_at": "2026-06-02T16:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061850409774506036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061850409774506036",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061770670531653840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Min1440r 生日快乐！\n（虽然可能已经过了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001670790669058048",
+        "conversation_id": "2061770670531653840",
+        "created_at": "2026-06-02T11:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061770670531653840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061770670531653840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫到晚上了才意识到今天是生日（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 153,
+          "like_count": 7095,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 5021
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "NGL提问：https://t.co/9e5mRIkpE5 （几乎废弃）负能里推：@Stressmaxp加我q好嘛可能会注销 。💕@wlxlmjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Stressmaxp"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "wlxlmjj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 29,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 6,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 66,
+          "like_count": 2801,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1677
+        },
+        "username": "Min1440r",
+        "verified": false
+      }
+    ]
+  }
+}

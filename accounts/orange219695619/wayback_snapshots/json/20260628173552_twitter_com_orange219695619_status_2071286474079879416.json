@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070854658156032108",
+    "created_at": "2026-06-28T17:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071286474079879416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2070818818990260224",
+          "start": 0,
+          "username": "SakiyaReincarny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071286474079879416",
+    "in_reply_to_user_id": "2070818818990260224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071264082645119322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakiyaReincarny 跟你来杯一样的吧…\n没去过酒吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-28T17:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071286474079879416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2070818818990260224",
+              "start": 0,
+              "username": "SakiyaReincarny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071286474079879416",
+        "in_reply_to_user_id": "2070818818990260224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071264082645119322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakiyaReincarny 跟你来杯一样的吧…\n没去过酒吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070818818990260224",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-28T16:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071264082645119322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071264082645119322",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071259663270867062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 我喝1664，你喝什么？喜力，百威，麒麟，蓝带，科罗娜，嘉士伯，福佳白，保拉纳……还是什么别的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 193,
+          "like_count": 13906,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 7821
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-27T10:39:10.000Z",
+        "description": "God save our gracious Elon Musk!",
+        "id": "2070818818990260224",
+        "location": "New Jersey，USA",
+        "name": "Saky Reincarnate",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070819855394045952/PqC8y8Su_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 99,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "SakiyaReincarny",
+        "verified": false
+      }
+    ]
+  }
+}

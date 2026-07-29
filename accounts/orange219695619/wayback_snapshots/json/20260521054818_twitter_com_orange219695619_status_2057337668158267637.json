@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057070639501176833"
+      ],
+      "media_source_tweet_id": [
+        "2057144320726376899"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057337668158267637",
+    "created_at": "2026-05-21T05:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057337668158267637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1462797263294500871",
+          "start": 3,
+          "username": "Robusuke_Shrimp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WLVm4bLVOf",
+          "end": 44,
+          "expanded_url": "https://x.com/Robusuke_Shrimp/status/2057144320726376899/photo/1",
+          "media_key": "3_2057070639501176833",
+          "start": 21,
+          "url": "https://t.co/WLVm4bLVOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057337668158267637",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1755
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057144320726376899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Robusuke_Shrimp: https://t.co/WLVm4bLVOf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057070639501176833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwu2QlacAEG1Rj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057070639501176833"
+          ],
+          "media_source_tweet_id": [
+            "2057144320726376899"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057337668158267637",
+        "created_at": "2026-05-21T05:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057337668158267637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1462797263294500871",
+              "start": 3,
+              "username": "Robusuke_Shrimp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLVm4bLVOf",
+              "end": 44,
+              "expanded_url": "https://x.com/Robusuke_Shrimp/status/2057144320726376899/photo/1",
+              "media_key": "3_2057070639501176833",
+              "start": 21,
+              "url": "https://t.co/WLVm4bLVOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057337668158267637",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1755
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057144320726376899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Robusuke_Shrimp: https://t.co/WLVm4bLVOf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057070639501176833"
+          ]
+        },
+        "author_id": "1462797263294500871",
+        "conversation_id": "2057144320726376899",
+        "created_at": "2026-05-20T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057144320726376899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLVm4bLVOf",
+              "end": 23,
+              "expanded_url": "https://x.com/Robusuke_Shrimp/status/2057144320726376899/photo/1",
+              "media_key": "3_2057070639501176833",
+              "start": 0,
+              "url": "https://t.co/WLVm4bLVOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057144320726376899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1704,
+          "impression_count": 121177,
+          "like_count": 17388,
+          "quote_count": 35,
+          "reply_count": 54,
+          "retweet_count": 1755
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WLVm4bLVOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3664
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T14:57:19.000Z",
+        "description": "殻は可変である                                            ニワカ新参クソ信者です…！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/zbjwco74b6xbwd…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/zbjwco74b6xbwdv?t=d8YSit&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/W8f84p05TR"
+              }
+            ]
+          }
+        },
+        "id": "1462797263294500871",
+        "location": "101号室",
+        "name": "ロブ助🦐",
+        "pinned_tweet_id": "2037122396340314544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013248831106772992/FflhgIdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 589,
+          "like_count": 122073,
+          "listed_count": 9,
+          "media_count": 1203,
+          "tweet_count": 16295
+        },
+        "url": "https://t.co/W8f84p05TR",
+        "username": "Robusuke_Shrimp",
+        "verified": false
+      }
+    ]
+  }
+}

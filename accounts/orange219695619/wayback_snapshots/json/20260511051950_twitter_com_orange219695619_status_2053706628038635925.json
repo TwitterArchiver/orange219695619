@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053502594983829774",
+    "created_at": "2026-05-11T05:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053706628038635925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 25,
+          "id": "1552918719440924672",
+          "start": 14,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053706628038635925",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053503133926768964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 @itsCatRoll 看看门锁（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053502594983829774",
+        "created_at": "2026-05-11T05:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053706628038635925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 25,
+              "id": "1552918719440924672",
+              "start": 14,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053706628038635925",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053503133926768964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @itsCatRoll 看看门锁（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2053502594983829774",
+        "created_at": "2026-05-10T15:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053503133926768964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053503133926768964",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053502594983829774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 小时候房门消失的门锁，长大后出现在了自己的下面.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 100,
+          "like_count": 2812,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2758
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047873379445964800/1vP_LkU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 623,
+          "like_count": 14884,
+          "listed_count": 5,
+          "media_count": 465,
+          "tweet_count": 10603
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "🇯🇵🇹🇭🍥 私信/tg: https://t.co/9vPU5sObId",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 36,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 13,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com/about/resume",
+                "end": 23,
+                "expanded_url": "http://leetfs.com/about/resume",
+                "start": 0,
+                "url": "https://t.co/3zVnyM4tjY"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷🍥",
+        "pinned_tweet_id": "2046660969900982719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052960246038192128/AyNo1owv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3845,
+          "following_count": 810,
+          "like_count": 3886,
+          "listed_count": 8,
+          "media_count": 142,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/3zVnyM4tjY",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

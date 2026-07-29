@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2081769690368782483",
+    "created_at": "2026-07-28T04:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081954469265408139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063169843671793664",
+          "start": 0,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081954469265408139",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081891881286533607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvxv 张雪峰老师～我还记得你～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2081769690368782483",
+        "created_at": "2026-07-28T04:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081954469265408139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081954469265408139",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081891881286533607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 张雪峰老师～我还记得你～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2081769690368782483",
+        "created_at": "2026-07-27T23:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081891881286533607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081891881286533607",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081769690368782483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 要见张雪峰老师了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 184,
+          "like_count": 20456,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 9848
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 467,
+          "like_count": 4573,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1701
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

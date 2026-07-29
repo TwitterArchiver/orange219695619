@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062651963775599020",
+    "created_at": "2026-06-05T02:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062727073324839049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062727073324839049",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062651963775599020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 一眼假"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062651952933339136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKADBdXbgAA-Tmu.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062651953675702272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKADBgIbEAAUjoh.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062651963775599020",
+        "created_at": "2026-06-05T02:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062727073324839049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062727073324839049",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062651963775599020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 一眼假"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062651952933339136",
+            "3_2062651953675702272"
+          ]
+        },
+        "author_id": "2998529749",
+        "conversation_id": "2062651963775599020",
+        "created_at": "2026-06-04T21:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062651963775599020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RD34c7b6iG",
+              "end": 50,
+              "expanded_url": "https://x.com/STULRS/status/2062651963775599020/photo/1",
+              "media_key": "3_2062651952933339136",
+              "start": 27,
+              "url": "https://t.co/RD34c7b6iG"
+            },
+            {
+              "display_url": "pic.x.com/RD34c7b6iG",
+              "end": 50,
+              "expanded_url": "https://x.com/STULRS/status/2062651963775599020/photo/1",
+              "media_key": "3_2062651953675702272",
+              "start": 27,
+              "url": "https://t.co/RD34c7b6iG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062651963775599020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种卖的是真的还是假的啊？我就没找到过真的..... https://t.co/RD34c7b6iG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 158,
+          "like_count": 7547,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 5266
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "@Akiscara_3405永远幸福 姐姐  重生2.0（11年）|躁郁|抽烟|受虐|戒药|戒割|坏小孩（理解能力有问题，冒泡勿喷）  门槛🚪66.6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王（寻互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062103443301617664/8NNDTdS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 541,
+          "like_count": 41923,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 12504
+        },
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

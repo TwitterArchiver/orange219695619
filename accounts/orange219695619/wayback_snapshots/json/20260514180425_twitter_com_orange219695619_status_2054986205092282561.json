@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2054797023468236800"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054986205092282561",
+    "created_at": "2026-05-14T18:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054986205092282561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2017561092600307712",
+          "start": 3,
+          "username": "Weoplao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054986205092282561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054797026337149045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Weoplao: 我要准备自杀计划了，要先写好遗书。\n是从高楼跳下去好，还是药物过量好，或者其它？投票决定我的自杀计划"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 7200,
+        "end_datetime": "2026-05-19T05:32:41.000Z",
+        "id": "2054797023468236800",
+        "options": [
+          {
+            "label": "跳楼",
+            "position": 1,
+            "votes": 3
+          },
+          {
+            "label": "苯巴比妥过量死",
+            "position": 2,
+            "votes": 1
+          },
+          {
+            "label": "上吊",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "不死了（不要选这个）",
+            "position": 4,
+            "votes": 25
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054797023468236800"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054986205092282561",
+        "created_at": "2026-05-14T18:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054986205092282561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2017561092600307712",
+              "start": 3,
+              "username": "Weoplao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054986205092282561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054797026337149045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Weoplao: 我要准备自杀计划了，要先写好遗书。\n是从高楼跳下去好，还是药物过量好，或者其它？投票决定我的自杀计划"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054797023468236800"
+          ]
+        },
+        "author_id": "2017561092600307712",
+        "conversation_id": "2054797026337149045",
+        "created_at": "2026-05-14T05:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054797026337149045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054797026337149045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 924,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要准备自杀计划了，要先写好遗书。\n是从高楼跳下去好，还是药物过量好，或者其它？投票决定我的自杀计划"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 115,
+          "like_count": 3416,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3139
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T11:30:44.000Z",
+        "description": "不爱聊天只爱刷推 | 自由万岁！| 互fo可（不强求）",
+        "id": "2017561092600307712",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Sergrek Ratsuz",
+        "pinned_tweet_id": "2054797026337149045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041108894588772352/aUKsuTRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 130,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 130
+        },
+        "username": "Weoplao",
+        "verified": false
+      }
+    ]
+  }
+}

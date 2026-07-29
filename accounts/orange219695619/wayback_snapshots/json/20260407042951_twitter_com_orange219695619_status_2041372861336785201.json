@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041301704440946791",
+    "created_at": "2026-04-07T04:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041372861336785201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641199084903211009",
+          "start": 0,
+          "username": "UshouldNoBB"
+        },
+        {
+          "end": 22,
+          "id": "1828632343680294916",
+          "start": 13,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041372861336785201",
+    "in_reply_to_user_id": "1641199084903211009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041328012231426146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UshouldNoBB @jianlvya 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041301704440946791",
+        "created_at": "2026-04-07T04:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041372861336785201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641199084903211009",
+              "start": 0,
+              "username": "UshouldNoBB"
+            },
+            {
+              "end": 22,
+              "id": "1828632343680294916",
+              "start": 13,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041372861336785201",
+        "in_reply_to_user_id": "1641199084903211009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041328012231426146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UshouldNoBB @jianlvya 天才"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641199084903211009",
+        "conversation_id": "2041301704440946791",
+        "created_at": "2026-04-07T01:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041328012231426146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041328012231426146",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23026,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041301704440946791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 这个东西意味着会有不断电的插座，晚上断电了可以到这充电玩了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 672
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T22:02:17.000Z",
+        "description": "人类男性，喜欢莫名其妙的吐槽，时常产生奇怪的疑问。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ushouldnobb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ushouldnobb",
+                "start": 0,
+                "url": "https://t.co/KrIZicGq1k"
+              }
+            ]
+          }
+        },
+        "id": "1641199084903211009",
+        "name": "一条固执的鱼",
+        "pinned_tweet_id": "2037072588275671349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038654785369612288/1xIZybVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/KrIZicGq1k",
+        "username": "UshouldNoBB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2041083955156484325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5022,
+          "following_count": 990,
+          "like_count": 17729,
+          "listed_count": 12,
+          "media_count": 694,
+          "tweet_count": 1366
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

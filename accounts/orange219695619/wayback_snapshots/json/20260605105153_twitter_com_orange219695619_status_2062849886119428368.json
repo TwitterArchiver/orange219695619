@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062758827699933184"
+      ],
+      "media_source_tweet_id": [
+        "2062758835757138034"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062849886119428368",
+    "created_at": "2026-06-05T10:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062849886119428368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056307790264590336",
+          "start": 3,
+          "username": "dooaisuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/djy1IN5k8F",
+          "end": 44,
+          "expanded_url": "https://x.com/dooaisuan/status/2062758835757138034/photo/1",
+          "media_key": "3_2062758827699933184",
+          "start": 21,
+          "url": "https://t.co/djy1IN5k8F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062849886119428368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062758835757138034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dooaisuan: 我又封号了 https://t.co/djy1IN5k8F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_2062758827699933184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBkOY5bEAAzsFa.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062758827699933184"
+          ],
+          "media_source_tweet_id": [
+            "2062758835757138034"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062849886119428368",
+        "created_at": "2026-06-05T10:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062849886119428368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056307790264590336",
+              "start": 3,
+              "username": "dooaisuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/djy1IN5k8F",
+              "end": 44,
+              "expanded_url": "https://x.com/dooaisuan/status/2062758835757138034/photo/1",
+              "media_key": "3_2062758827699933184",
+              "start": 21,
+              "url": "https://t.co/djy1IN5k8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062849886119428368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062758835757138034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dooaisuan: 我又封号了 https://t.co/djy1IN5k8F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062758827699933184"
+          ]
+        },
+        "author_id": "2056307790264590336",
+        "conversation_id": "2062758835757138034",
+        "created_at": "2026-06-05T04:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062758835757138034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/djy1IN5k8F",
+              "end": 29,
+              "expanded_url": "https://x.com/dooaisuan/status/2062758835757138034/photo/1",
+              "media_key": "3_2062758827699933184",
+              "start": 6,
+              "url": "https://t.co/djy1IN5k8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062758835757138034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我又封号了 https://t.co/djy1IN5k8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 158,
+          "like_count": 7640,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 5316
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "od ｜自伤 ｜bpd\n地雷女 喜欢我请给我钱",
+        "id": "2056307790264590336",
+        "name": "狗爹酸酸3.0",
+        "pinned_tweet_id": "2062758835757138034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062723945766518784/XJLwy4kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 26,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "dooaisuan",
+        "verified": false
+      }
+    ]
+  }
+}

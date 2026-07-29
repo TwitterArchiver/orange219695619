@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2044602108716966218",
+    "created_at": "2026-04-16T11:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044737204124266544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516975944484990977",
+          "start": 0,
+          "username": "SuisPasDaVinci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044737204124266544",
+    "in_reply_to_user_id": "1516975944484990977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044602108716966218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuisPasDaVinci 你让我想到了那个肛塞蜡烛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044602108716966218",
+        "created_at": "2026-04-16T11:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044737204124266544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044737204124266544",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044602108716966218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 你让我想到了那个肛塞蜡烛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516975944484990977",
+        "conversation_id": "2044602108716966218",
+        "created_at": "2026-04-16T02:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044602108716966218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044602108716966218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 172930,
+          "like_count": 406,
+          "quote_count": 6,
+          "reply_count": 278,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，有个成人用品新点子！\n卖飞机杯闹钟，\n到点自动给你🦌醒。\n单身经济这么流行，\n会不会卖爆？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 77,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1090
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "Stanley社群主理人 | 加拿大🇨🇦10年老移民 | 英法双语| 出摊学坚定践行者 | 顶级游戏公司从业者 | Master of Engineering | 土木成功靠Excel转码 | Vibe Coding",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11618,
+          "following_count": 1447,
+          "like_count": 36775,
+          "listed_count": 33,
+          "media_count": 1556,
+          "tweet_count": 19196
+        },
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

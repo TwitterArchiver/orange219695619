@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060596956184137765",
+    "created_at": "2026-05-30T05:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060596956184137765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1460134901701918724",
+          "start": 3,
+          "username": "engualicha"
+        },
+        {
+          "end": 24,
+          "id": "1704631044736192513",
+          "start": 16,
+          "username": "sinam_d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060596956184137765",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059865556765810824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @engualicha: @sinam_d dios si el amor es una droga y  la ciencia no podrá ponerlas en comprimidos es una tragedia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060596956184137765",
+        "created_at": "2026-05-30T05:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060596956184137765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1460134901701918724",
+              "start": 3,
+              "username": "engualicha"
+            },
+            {
+              "end": 24,
+              "id": "1704631044736192513",
+              "start": 16,
+              "username": "sinam_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060596956184137765",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059865556765810824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @engualicha: @sinam_d dios si el amor es una droga y  la ciencia no podrá ponerlas en comprimidos es una tragedia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460134901701918724",
+        "conversation_id": "2059653245694333162",
+        "created_at": "2026-05-28T05:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059865556765810824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1704631044736192513",
+              "start": 0,
+              "username": "sinam_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059865556765810824",
+        "in_reply_to_user_id": "1704631044736192513",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12156,
+          "like_count": 290,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059653245694333162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinam_d dios si el amor es una droga y  la ciencia no podrá ponerlas en comprimidos es una tragedia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 145,
+          "like_count": 6352,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 4667
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T06:37:57.000Z",
+        "description": "estoy sould out",
+        "id": "1460134901701918724",
+        "name": "flora",
+        "pinned_tweet_id": "1957237815512805808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004038895629897728/R_GPj7Zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 831,
+          "like_count": 73881,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 3306
+        },
+        "username": "engualicha",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T22:58:42.000Z",
+        "description": "4blessed",
+        "id": "1704631044736192513",
+        "name": "quesito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057713213177831424/8xsmiIU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 111,
+          "like_count": 5511,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 313
+        },
+        "username": "sinam_d",
+        "verified": false
+      }
+    ]
+  }
+}

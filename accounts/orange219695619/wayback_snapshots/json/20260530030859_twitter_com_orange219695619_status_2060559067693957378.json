@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060559067693957378",
+    "created_at": "2026-05-30T03:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060559067693957378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934473367245217793",
+          "start": 3,
+          "username": "ision0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060559067693957378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060428132511830229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ision0511: 死和愛常被她掛在嘴邊 \n她沒有死 也沒有愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060559067693957378",
+        "created_at": "2026-05-30T03:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060559067693957378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934473367245217793",
+              "start": 3,
+              "username": "ision0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060559067693957378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060428132511830229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ision0511: 死和愛常被她掛在嘴邊 \n她沒有死 也沒有愛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934473367245217793",
+        "conversation_id": "2060428132511830229",
+        "created_at": "2026-05-29T18:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060428132511830229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060428132511830229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死和愛常被她掛在嘴邊 \n她沒有死 也沒有愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 145,
+          "like_count": 6314,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 4653
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:49:34.000Z",
+        "description": "叫我夾子就好 割/o 我很溫良可以來找我玩 謝謝你們的喜歡",
+        "id": "1934473367245217793",
+        "name": "為你奉上我迄今為止的人生",
+        "pinned_tweet_id": "2060428756481622093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046282060499968000/ZyyawPW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 454,
+          "like_count": 5082,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 640
+        },
+        "username": "ision0511",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070376550093193217"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070376565423403083",
+    "created_at": "2026-06-26T05:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070376565423403083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j9lCvv0DbU",
+          "end": 26,
+          "expanded_url": "https://x.com/orange219695619/status/2070376565423403083/photo/1",
+          "media_key": "3_2070376550093193217",
+          "start": 3,
+          "url": "https://t.co/j9lCvv0DbU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070376565423403083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "彳亍 https://t.co/j9lCvv0DbU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_2070376550093193217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt0gMOagAEh2lk.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070376550093193217"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070376565423403083",
+        "created_at": "2026-06-26T05:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070376565423403083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j9lCvv0DbU",
+              "end": 26,
+              "expanded_url": "https://x.com/orange219695619/status/2070376565423403083/photo/1",
+              "media_key": "3_2070376550093193217",
+              "start": 3,
+              "url": "https://t.co/j9lCvv0DbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070376565423403083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彳亍 https://t.co/j9lCvv0DbU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 194,
+          "like_count": 13195,
+          "listed_count": 2,
+          "media_count": 444,
+          "tweet_count": 7583
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

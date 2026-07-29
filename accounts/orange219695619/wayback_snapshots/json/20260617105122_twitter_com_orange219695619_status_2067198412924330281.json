@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067105463104376982",
+    "created_at": "2026-06-17T10:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067198412924330281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067198412924330281",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067105463104376982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067105434624995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_VcNgaMAAB2O_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067105463104376982",
+        "created_at": "2026-06-17T10:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067198412924330281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067198412924330281",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067105463104376982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067105434624995328"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "conversation_id": "2067105463104376982",
+        "created_at": "2026-06-17T04:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067105463104376982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpcQKypmD8",
+              "end": 27,
+              "expanded_url": "https://x.com/xixijun8827/status/2067105463104376982/photo/1",
+              "media_key": "3_2067105434624995328",
+              "start": 4,
+              "url": "https://t.co/QpcQKypmD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067105463104376982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想干嘛 https://t.co/QpcQKypmD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 185,
+          "like_count": 10387,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 6538
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟の鬼/爱打麻将，日麻和广东麻将都玩。可以找我做心理咨询哦，祝你天天开心\n来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 76,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 53,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "name": "无问",
+        "pinned_tweet_id": "2061872985347117213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 142,
+          "like_count": 2702,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 413
+        },
+        "username": "xixijun8827",
+        "verified": false
+      }
+    ]
+  }
+}

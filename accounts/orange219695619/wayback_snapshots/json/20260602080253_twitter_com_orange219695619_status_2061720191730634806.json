@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061460972368228789",
+    "created_at": "2026-06-02T08:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061720191730634806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561039797489131521",
+          "start": 0,
+          "username": "oe_madu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061720191730634806",
+    "in_reply_to_user_id": "1561039797489131521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061460972368228789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oe_madu 你需要支付我看这段文字的费用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061460972368228789",
+        "created_at": "2026-06-02T08:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061720191730634806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561039797489131521",
+              "start": 0,
+              "username": "oe_madu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061720191730634806",
+        "in_reply_to_user_id": "1561039797489131521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061460972368228789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oe_madu 你需要支付我看这段文字的费用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561039797489131521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2061460972368228789",
+        "created_at": "2026-06-01T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061460972368228789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061460972368228789",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 45021,
+          "like_count": 1551,
+          "quote_count": 35,
+          "reply_count": 97,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "as vezes eu tenho vontade de desistir da graduação, enfiar meus 10 dedos da mão no cu e me rasgar no meio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 152,
+          "like_count": 7027,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 4980
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T17:18:50.000Z",
+        "description": "detestable, but these hearts adore • história | UFSC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/madu.pereira",
+                "end": 23,
+                "expanded_url": "http://instagram.com/madu.pereira",
+                "start": 0,
+                "url": "https://t.co/MpypJj9VIY"
+              }
+            ]
+          }
+        },
+        "id": "1561039797489131521",
+        "location": "ele/elu/ela",
+        "name": "madu ⛥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055111732285112321/QmyZAvep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 307,
+          "like_count": 29388,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/MpypJj9VIY",
+        "username": "oe_madu",
+        "verified": false
+      }
+    ]
+  }
+}

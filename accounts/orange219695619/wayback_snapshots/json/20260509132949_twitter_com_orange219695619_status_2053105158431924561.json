@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053099635733094696",
+    "created_at": "2026-05-09T13:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053105158431924561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053105158431924561",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053099635733094696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja 为什么不是多选😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053099635733094696",
+        "created_at": "2026-05-09T13:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053105158431924561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053105158431924561",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053099635733094696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 为什么不是多选😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2053099634093109248"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "conversation_id": "2053099635733094696",
+        "created_at": "2026-05-09T13:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053099635733094696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053099635733094696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁最pass？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 99,
+          "like_count": 2424,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2500
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "社会保守主义最锋利的矛，粉红中最坚实的盾//一半灵珠一半魔丸，立场温和表达肮脏//@theRealThuja唯一小号，@ThujaSlover为支黑假扮号。默认一切到处瞎鉴证、追着骂的，不论立场全是孙笑川的走狗帮凶/我线下真不是大老粗//喝多了会泄露隐私⛔️激粉红激LGBT先去问AI查我成分再开火好不，乱扣帽子的蠢货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "ThujaSlover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2052991729029317054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 698,
+          "like_count": 5317,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": true
+      }
+    ]
+  }
+}

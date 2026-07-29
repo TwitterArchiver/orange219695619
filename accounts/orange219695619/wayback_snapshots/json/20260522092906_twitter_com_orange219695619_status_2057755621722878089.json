@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057448963360616901",
+    "created_at": "2026-05-22T09:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057755621722878089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901290700064333824",
+          "start": 0,
+          "username": "skysea220314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057755621722878089",
+    "in_reply_to_user_id": "1901290700064333824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057448963360616901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skysea220314 还好吧，至少说明你很关心ta"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057448963360616901",
+        "created_at": "2026-05-22T09:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057755621722878089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901290700064333824",
+              "start": 0,
+              "username": "skysea220314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057755621722878089",
+        "in_reply_to_user_id": "1901290700064333824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057448963360616901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skysea220314 还好吧，至少说明你很关心ta"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901290700064333824",
+        "conversation_id": "2057448963360616901",
+        "created_at": "2026-05-21T13:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057448963360616901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057448963360616901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要是找一个人的主页，一条条翻他发的推，一条条回，会不会很吓人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 127,
+          "like_count": 4550,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3779
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:14:04.000Z",
+        "description": "男，凡人，混沌善，观测者，私信看见必回，爱听故事",
+        "id": "1901290700064333824",
+        "location": "不知道",
+        "name": "九天星光（求fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057086395647467520/sWF89eQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 38,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 809
+        },
+        "username": "skysea220314",
+        "verified": false
+      }
+    ]
+  }
+}

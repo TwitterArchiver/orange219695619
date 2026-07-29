@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059898025556988136",
+    "created_at": "2026-05-28T07:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059898595189670392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634143760690057216",
+          "start": 0,
+          "username": "Akiscara_6484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059898595189670392",
+    "in_reply_to_user_id": "1634143760690057216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059898025556988136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_6484 怎会有如此绝望的照片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059898015138402304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY6VLnbUAAyQoG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2059898015352229888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY6VMaaEAAZZOc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059898025556988136",
+        "created_at": "2026-05-28T07:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059898595189670392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634143760690057216",
+              "start": 0,
+              "username": "Akiscara_6484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059898595189670392",
+        "in_reply_to_user_id": "1634143760690057216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059898025556988136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_6484 怎会有如此绝望的照片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059898015138402304",
+            "3_2059898015352229888"
+          ]
+        },
+        "author_id": "1634143760690057216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059898025556988136",
+        "created_at": "2026-05-28T07:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059898025556988136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTWOPqiHmb",
+              "end": 37,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2059898025556988136/photo/1",
+              "media_key": "3_2059898015138402304",
+              "start": 14,
+              "url": "https://t.co/XTWOPqiHmb"
+            },
+            {
+              "display_url": "pic.x.com/XTWOPqiHmb",
+              "end": 37,
+              "expanded_url": "https://x.com/Akiscara_6484/status/2059898025556988136/photo/1",
+              "media_key": "3_2059898015352229888",
+              "start": 14,
+              "url": "https://t.co/XTWOPqiHmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059898025556988136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看懂的人已经哭了😭😭😭😭😭 https://t.co/XTWOPqiHmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 141,
+          "like_count": 6047,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 4484
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T10:47:06.000Z",
+        "description": "∥喵大王的极乐净土∥（18↓）\nod/自伤/碎碎念/双向/负能量/抽烟/血腥/m/受虐（喜欢cult片）（家有男友）@Akiscara_3405姐姐（理解有问题）（戒药，戒割）不喜欢就请屏蔽我。门槛🚪60好友位，闲聊相互安慰，朋友圈开放。没礼貌的门槛🚪500  雷点：说我男朋友胖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "1634143760690057216",
+        "location": "Kishiwada-shi, Osaka",
+        "name": "喵大王",
+        "pinned_tweet_id": "2043242409510007205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044440756740653056/-JrtKJ53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 165,
+          "like_count": 7036,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 3943
+        },
+        "username": "Akiscara_6484",
+        "verified": false
+      }
+    ]
+  }
+}

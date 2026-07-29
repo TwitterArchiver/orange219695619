@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079777194159845838",
+    "created_at": "2026-07-22T04:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079790759671476324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079790759671476324",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079777194159845838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079777182898180096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzaVCab0AA1ufo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079777194159845838",
+        "created_at": "2026-07-22T04:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079790759671476324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079790759671476324",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079777194159845838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079777182898180096"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "conversation_id": "2079777194159845838",
+        "created_at": "2026-07-22T03:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079777194159845838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93jE3HJLKg",
+              "end": 27,
+              "expanded_url": "https://x.com/warma_official/status/2079777194159845838/photo/1",
+              "media_key": "3_2079777182898180096",
+              "start": 4,
+              "url": "https://t.co/93jE3HJLKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079777194159845838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二次 https://t.co/93jE3HJLKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 182,
+          "like_count": 19295,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 9460
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/\n“永远在一起” @zhyzhy655231 真的这么说！/想和有趣的人成为朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "zhyzhy655231"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "全是澪的快乐星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2076735675261427888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 36,
+          "like_count": 1232,
+          "listed_count": 0,
+          "media_count": 710,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "warma_official",
+        "verified": false
+      }
+    ]
+  }
+}

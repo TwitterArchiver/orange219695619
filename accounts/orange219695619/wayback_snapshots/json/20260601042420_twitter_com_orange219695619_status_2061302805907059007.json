@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061302805907059007",
+    "created_at": "2026-06-01T04:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061302805907059007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/orange219695619/status/2061181758725574691",
+          "start": 111,
+          "url": "https://t.co/aKcgKzVNSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061302805907059007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061181758725574691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈已经因为我熬夜的事跟我吵了不下三回了，她既然知道我不会听她的画为什么还要跟我吵，除了把我的心情变得更糟，跟我吵不会有其他的影响和改变\n这些事又没法跟她说，说完她又帮不上忙，我还得哄她的焦虑\n好累啊…身体也累心理也累… https://t.co/aKcgKzVNSk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061302805907059007",
+        "created_at": "2026-06-01T04:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061302805907059007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/orange219695619/status/2061181758725574691",
+              "start": 111,
+              "url": "https://t.co/aKcgKzVNSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061302805907059007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061181758725574691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈已经因为我熬夜的事跟我吵了不下三回了，她既然知道我不会听她的画为什么还要跟我吵，除了把我的心情变得更糟，跟我吵不会有其他的影响和改变\n这些事又没法跟她说，说完她又帮不上忙，我还得哄她的焦虑\n好累啊…身体也累心理也累… https://t.co/aKcgKzVNSk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061181758725574691",
+        "created_at": "2026-05-31T20:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061181758725574691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061181758725574691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不想把我的状态和病情跟我妈说，导致她现在很疑惑我为什么天天熬夜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 151,
+          "like_count": 6731,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 4871
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

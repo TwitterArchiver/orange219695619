@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065119529181835484",
+    "created_at": "2026-06-12T12:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065410098282082684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891343742394937344",
+          "start": 0,
+          "username": "bai_fen9419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065410098282082684",
+    "in_reply_to_user_id": "1891343742394937344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065119529181835484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_fen9419 活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065119529181835484",
+        "created_at": "2026-06-12T12:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065410098282082684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891343742394937344",
+              "start": 0,
+              "username": "bai_fen9419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065410098282082684",
+        "in_reply_to_user_id": "1891343742394937344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065119529181835484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_fen9419 活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891343742394937344",
+        "conversation_id": "2065119529181835484",
+        "created_at": "2026-06-11T17:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065119529181835484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065119529181835484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2610,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸烟，酗酒和od哪个对身体伤害更大？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 169,
+          "like_count": 9139,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 6006
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T04:27:50.000Z",
+        "description": "🇨🇳/生心理女/coser/oder/自残\n喜欢可爱的女孩 喜欢和外国人聊天💕\n请不要因为我有不良嗜好而歧视我🥲",
+        "id": "1891343742394937344",
+        "location": "➖〰️➖",
+        "name": "千合坏",
+        "pinned_tweet_id": "2064289979401187540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265276515024896/GRKNnB0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 149,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 206
+        },
+        "username": "bai_fen9419",
+        "verified": false
+      }
+    ]
+  }
+}

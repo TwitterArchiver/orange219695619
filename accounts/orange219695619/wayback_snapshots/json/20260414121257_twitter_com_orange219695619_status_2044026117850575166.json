@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2043933924754370885",
+    "created_at": "2026-04-14T12:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044026117850575166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044026117850575166",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043933924754370885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 解决不了问题，就解决出问题的人🤓👆🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2043933914578952192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2DEOraIAAN5lF.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043933924754370885",
+        "created_at": "2026-04-14T12:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044026117850575166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044026117850575166",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043933924754370885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 解决不了问题，就解决出问题的人🤓👆🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043933914578952192"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2043933924754370885",
+        "created_at": "2026-04-14T06:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043933924754370885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20009",
+              "end": 94,
+              "expanded_url": "http://x.com/i/status/20009",
+              "start": 71,
+              "url": "https://t.co/HfLVOQedvc"
+            },
+            {
+              "display_url": "pic.x.com/z3USH3yJnY",
+              "end": 119,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2043933924754370885/photo/1",
+              "media_key": "3_2043933914578952192",
+              "start": 96,
+              "url": "https://t.co/z3USH3yJnY"
+            },
+            {
+              "display_url": "x.com/yu37865230/sta…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/yu37865230/status/2043772408247791624",
+              "start": 120,
+              "url": "https://t.co/uJNqwrABRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043933924754370885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2571,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043772408247791624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑了，内地的学生跳楼，大家只会骂你“小心眼”“没良心”“玻璃心”甚至如果侥幸活下来，还会被学校开除，扣学分，你觉得谁在解决问题？\n图中的帖子：https://t.co/HfLVOQedvc… https://t.co/z3USH3yJnY https://t.co/uJNqwrABRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 73,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 985
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8489,
+          "following_count": 4087,
+          "like_count": 43279,
+          "listed_count": 29,
+          "media_count": 1745,
+          "tweet_count": 11894
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

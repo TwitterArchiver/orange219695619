@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069722318562357419",
+    "created_at": "2026-06-24T16:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069813365451665774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        },
+        {
+          "end": 16,
+          "id": "1695314246735892480",
+          "start": 8,
+          "username": "szfx123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069813365451665774",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069812434827964653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sysjf0 @szfx123 忘喝孟婆汤了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069722318562357419",
+        "created_at": "2026-06-24T16:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813365451665774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            },
+            {
+              "end": 16,
+              "id": "1695314246735892480",
+              "start": 8,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813365451665774",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069812434827964653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 @szfx123 忘喝孟婆汤了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "2069722318562357419",
+        "created_at": "2026-06-24T15:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069812434827964653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 25,
+              "id": "1695314246735892480",
+              "start": 17,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069812434827964653",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069767973120930106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @szfx123 带记忆的不叫轮回叫穿越（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 195,
+          "like_count": 12730,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 7409
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034670934108336128/mwvWsTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 963,
+          "like_count": 30921,
+          "listed_count": 2,
+          "media_count": 1917,
+          "tweet_count": 24207
+        },
+        "url": "",
+        "username": "sysjf0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069676760212680704/7xMLxq-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 210,
+          "like_count": 11888,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

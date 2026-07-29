@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2040080779406094336"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040080998277566593",
+    "created_at": "2026-04-03T14:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040080998277566593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RPTJZa8Hph",
+          "end": 32,
+          "expanded_url": "https://x.com/orange219695619/status/2040080998277566593/video/1",
+          "media_key": "7_2040080779406094336",
+          "start": 9,
+          "url": "https://t.co/RPTJZa8Hph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040080998277566593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫猫的强制爱（） https://t.co/RPTJZa8Hph"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7016,
+        "height": 1280,
+        "media_key": "7_2040080779406094336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040080779406094336/pu/img/52BzOBVKRHxzpv0s.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040080779406094336/pu/vid/avc1/320x568/9kHGEPNJX4hHp8By.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040080779406094336/pu/vid/avc1/480x852/mllhFeZqIRpAGWZX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040080779406094336/pu/vid/avc1/720x1280/ILIf7DONrL8ag9FA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040080779406094336/pu/pl/DfnIDG5OF3ecIBv9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040080779406094336"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040080998277566593",
+        "created_at": "2026-04-03T14:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040080998277566593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPTJZa8Hph",
+              "end": 32,
+              "expanded_url": "https://x.com/orange219695619/status/2040080998277566593/video/1",
+              "media_key": "7_2040080779406094336",
+              "start": 9,
+              "url": "https://t.co/RPTJZa8Hph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040080998277566593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫的强制爱（） https://t.co/RPTJZa8Hph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 63,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 493
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

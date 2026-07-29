@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071678250569637888"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2071678282043678852",
+    "created_at": "2026-06-29T19:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071678282043678852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqC02FcABp",
+          "end": 37,
+          "expanded_url": "https://x.com/orange219695619/status/2071678282043678852/video/1",
+          "media_key": "7_2071678250569637888",
+          "start": 14,
+          "url": "https://t.co/pqC02FcABp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071678282043678852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说！你和喷火兵是什么关系😡 https://t.co/pqC02FcABp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19584,
+        "height": 582,
+        "media_key": "7_2071678250569637888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071678250569637888/pu/img/_Oy2zIu2KY-kkax3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071678250569637888/pu/vid/avc1/592x270/h2qE8lDJalCUBVKo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071678250569637888/pu/vid/avc1/790x360/qj7Sczjga7GVlBOP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071678250569637888/pu/vid/avc1/1280x582/IaPuQD_pLbLIYW4r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071678250569637888/pu/pl/Zq2Wgsb4qDchPwBq.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071678250569637888"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2071678282043678852",
+        "created_at": "2026-06-29T19:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071678282043678852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqC02FcABp",
+              "end": 37,
+              "expanded_url": "https://x.com/orange219695619/status/2071678282043678852/video/1",
+              "media_key": "7_2071678250569637888",
+              "start": 14,
+              "url": "https://t.co/pqC02FcABp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071678282043678852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说！你和喷火兵是什么关系😡 https://t.co/pqC02FcABp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 193,
+          "like_count": 14117,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 7864
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058110067401204122",
+    "created_at": "2026-05-23T08:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058110067401204122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013724577529049088",
+          "start": 3,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058110067401204122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058105805174702086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_roopuu: 我会狠狠用屁眼塞子插🐴🐉的腚沟😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058110067401204122",
+        "created_at": "2026-05-23T08:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058110067401204122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013724577529049088",
+              "start": 3,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058110067401204122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058105805174702086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_roopuu: 我会狠狠用屁眼塞子插🐴🐉的腚沟😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013724577529049088",
+        "conversation_id": "2058105805174702086",
+        "created_at": "2026-05-23T08:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058105805174702086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058105805174702086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我会狠狠用屁眼塞子插🐴🐉的腚沟😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 131,
+          "like_count": 4787,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 3898
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "本垢 @_ropu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "ろぷぷぷ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041889230876819456/WTJXFQql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072250492294770688"
+      ],
+      "media_source_tweet_id": [
+        "2072250971489767552"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2072461103981113426",
+    "created_at": "2026-07-01T23:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072461103981113426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1924125444888244224",
+          "start": 3,
+          "username": "neko_no_gonbe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBr2BGSv69",
+          "end": 54,
+          "expanded_url": "https://x.com/neko_no_gonbe/status/2072250971489767552/photo/1",
+          "media_key": "3_2072250492294770688",
+          "start": 31,
+          "url": "https://t.co/WBr2BGSv69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072461103981113426",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072250971489767552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_no_gonbe: 抜けたヒゲを見つめる🐱 https://t.co/WBr2BGSv69"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072250492294770688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIc1-7bsAAF2WA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072250492294770688"
+          ],
+          "media_source_tweet_id": [
+            "2072250971489767552"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2072461103981113426",
+        "created_at": "2026-07-01T23:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072461103981113426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1924125444888244224",
+              "start": 3,
+              "username": "neko_no_gonbe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBr2BGSv69",
+              "end": 54,
+              "expanded_url": "https://x.com/neko_no_gonbe/status/2072250971489767552/photo/1",
+              "media_key": "3_2072250492294770688",
+              "start": 31,
+              "url": "https://t.co/WBr2BGSv69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072461103981113426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072250971489767552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_no_gonbe: 抜けたヒゲを見つめる🐱 https://t.co/WBr2BGSv69"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072250492294770688"
+          ]
+        },
+        "author_id": "1924125444888244224",
+        "conversation_id": "2072250971489767552",
+        "created_at": "2026-07-01T09:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072250971489767552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBr2BGSv69",
+              "end": 35,
+              "expanded_url": "https://x.com/neko_no_gonbe/status/2072250971489767552/photo/1",
+              "media_key": "3_2072250492294770688",
+              "start": 12,
+              "url": "https://t.co/WBr2BGSv69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072250971489767552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 54481,
+          "like_count": 7407,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "抜けたヒゲを見つめる🐱 https://t.co/WBr2BGSv69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 193,
+          "like_count": 14675,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 8005
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T15:30:42.000Z",
+        "description": "甘えん坊で食いしん坊でちょっと臆病なキジトラ♂🐱 ＆しっかり者で冒険好きのキジシロ♀😸ᩚ9才の仲良し姉弟の日々🐾無言フォロー失礼します＆歓迎しますฅ⸃⸃  おでこ🐧の記事です👉https://t.co/5ayTToo471",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "maidonanews.jp/article/161629…",
+                "end": 111,
+                "expanded_url": "https://maidonanews.jp/article/16162958",
+                "start": 88,
+                "url": "https://t.co/5ayTToo471"
+              }
+            ]
+          }
+        },
+        "id": "1924125444888244224",
+        "name": "ごんべ",
+        "pinned_tweet_id": "2030810387512496364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055230080289591296/2d45lQhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 888,
+          "like_count": 10358,
+          "listed_count": 22,
+          "media_count": 312,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "neko_no_gonbe",
+        "verified": false
+      }
+    ]
+  }
+}

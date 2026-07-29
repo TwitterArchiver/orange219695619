@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069333493138829744",
+    "created_at": "2026-06-23T09:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069348552606978351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683060453528965120",
+          "start": 0,
+          "username": "NationalPureVF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069348552606978351",
+    "in_reply_to_user_id": "1683060453528965120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069333493138829744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NationalPureVF4 没有见过比这个更健全的了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069333484829921280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe_1zUb0AAdiGy.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069333493138829744",
+        "created_at": "2026-06-23T09:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069348552606978351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683060453528965120",
+              "start": 0,
+              "username": "NationalPureVF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069348552606978351",
+        "in_reply_to_user_id": "1683060453528965120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069333493138829744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NationalPureVF4 没有见过比这个更健全的了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069333484829921280"
+          ]
+        },
+        "author_id": "1683060453528965120",
+        "conversation_id": "2069333493138829744",
+        "created_at": "2026-06-23T08:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069333493138829744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBa7F4sh0k",
+              "end": 29,
+              "expanded_url": "https://x.com/NationalPureVF4/status/2069333493138829744/photo/1",
+              "media_key": "3_2069333484829921280",
+              "start": 6,
+              "url": "https://t.co/kBa7F4sh0k"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2069298021268066623",
+              "start": 30,
+              "url": "https://t.co/EEJkFESuY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069333493138829744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069298021268066623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩玩第二次 https://t.co/kBa7F4sh0k https://t.co/EEJkFESuY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 12323,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 7294
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光\n時鐘塔十二君主創造科-巴留葉雷塔家的本家直系廢柴大小姐/死徒第二十三祖/兼職惡役英雄/待灌滿泡芙（？）/Beast I 候補/暈血/毒舌\n別稱：薇蕾娜/真理子/軟糯真理醬/暈血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_ @YukinonCC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "_Weace_"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "YukinonCC"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "name": "✝︎真理子 ✝︎ 虹の吸血姫 (限界)",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032241233926766593/FMYw3z6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 1169,
+          "like_count": 74371,
+          "listed_count": 18,
+          "media_count": 1288,
+          "tweet_count": 33127
+        },
+        "url": "",
+        "username": "NationalPureVF4",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078480608276426752"
+      ],
+      "media_source_tweet_id": [
+        "2078480615863943610"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078676832862585343",
+    "created_at": "2026-07-19T03:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078676832862585343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3If7jcHFYe",
+          "end": 56,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2078480615863943610/photo/1",
+          "media_key": "3_2078480608276426752",
+          "start": 33,
+          "url": "https://t.co/3If7jcHFYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078676832862585343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078480615863943610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 这张图曾令多少人彻夜无眠🥺 https://t.co/3If7jcHFYe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2078480608276426752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg_GdjasAA_Ydl.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078480608276426752"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2078480615863943610",
+        "created_at": "2026-07-18T14:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078480615863943610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3If7jcHFYe",
+              "end": 37,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2078480615863943610/photo/1",
+              "media_key": "3_2078480608276426752",
+              "start": 14,
+              "url": "https://t.co/3If7jcHFYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078480615863943610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 50804,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这张图曾令多少人彻夜无眠🥺 https://t.co/3If7jcHFYe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078480608276426752"
+          ],
+          "media_source_tweet_id": [
+            "2078480615863943610"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078676832862585343",
+        "created_at": "2026-07-19T03:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078676832862585343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3If7jcHFYe",
+              "end": 56,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2078480615863943610/photo/1",
+              "media_key": "3_2078480608276426752",
+              "start": 33,
+              "url": "https://t.co/3If7jcHFYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078676832862585343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078480615863943610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 这张图曾令多少人彻夜无眠🥺 https://t.co/3If7jcHFYe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 180,
+          "like_count": 18475,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 9217
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "蓝v互关必回｜私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96071,
+          "following_count": 2017,
+          "like_count": 7005,
+          "listed_count": 204,
+          "media_count": 357,
+          "tweet_count": 3238
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

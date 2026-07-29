@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054531752652406995",
+    "created_at": "2026-05-14T05:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054803144522252288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1968368047988817923",
+          "start": 0,
+          "username": "ckyoa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054803144522252288",
+    "in_reply_to_user_id": "1968368047988817923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054531752652406995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ckyoa2 不混中推圈就行（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054531752652406995",
+        "created_at": "2026-05-14T05:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054803144522252288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1968368047988817923",
+              "start": 0,
+              "username": "ckyoa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054803144522252288",
+        "in_reply_to_user_id": "1968368047988817923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054531752652406995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckyoa2 不混中推圈就行（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2054531752652406995",
+        "created_at": "2026-05-13T11:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054531752652406995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054531752652406995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 79348,
+          "like_count": 386,
+          "quote_count": 3,
+          "reply_count": 473,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我当时来玩推特天真的以为能交到很多外国朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 114,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3076
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "爱我",
+        "id": "1968368047988817923",
+        "location": "🚪188/288",
+        "name": "ck",
+        "pinned_tweet_id": "2050829752718774480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5381,
+          "following_count": 4,
+          "like_count": 248,
+          "listed_count": 12,
+          "media_count": 37,
+          "tweet_count": 169
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

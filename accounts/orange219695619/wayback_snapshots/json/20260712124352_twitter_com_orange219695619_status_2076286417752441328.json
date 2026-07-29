@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076286391185809408"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076286417752441328",
+    "created_at": "2026-07-12T12:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076286417752441328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JafLp9fMr",
+          "end": 29,
+          "expanded_url": "https://x.com/orange219695619/status/2076286417752441328/photo/1",
+          "media_key": "3_2076286391185809408",
+          "start": 6,
+          "url": "https://t.co/8JafLp9fMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076286417752441328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "单人拿三红 https://t.co/8JafLp9fMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2076286391185809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBzeN6boAA-6A6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076286391185809408"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076286417752441328",
+        "created_at": "2026-07-12T12:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076286417752441328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JafLp9fMr",
+              "end": 29,
+              "expanded_url": "https://x.com/orange219695619/status/2076286417752441328/photo/1",
+              "media_key": "3_2076286391185809408",
+              "start": 6,
+              "url": "https://t.co/8JafLp9fMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076286417752441328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单人拿三红 https://t.co/8JafLp9fMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 173,
+          "like_count": 17077,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 8729
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

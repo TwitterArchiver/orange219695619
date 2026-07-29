@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048573917632360733",
+    "created_at": "2026-04-27T05:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048632737318461920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692126961446137856",
+          "start": 0,
+          "username": "mxioln852719882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048632737318461920",
+    "in_reply_to_user_id": "1692126961446137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048573917632360733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxioln852719882 好诶🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2048573913320562688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG3_Hs-aoAAQvk6.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048573917632360733",
+        "created_at": "2026-04-27T05:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048632737318461920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692126961446137856",
+              "start": 0,
+              "username": "mxioln852719882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048632737318461920",
+        "in_reply_to_user_id": "1692126961446137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048573917632360733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxioln852719882 好诶🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048573913320562688"
+          ]
+        },
+        "author_id": "1692126961446137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2048573917632360733",
+        "created_at": "2026-04-27T01:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048573917632360733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2048573976834920448/MhJHFw30?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048573976834920448/MhJHFw30?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/FBXaARlJwk"
+            },
+            {
+              "display_url": "pic.x.com/KdIUvXZVuA",
+              "end": 64,
+              "expanded_url": "https://x.com/mxioln852719882/status/2048573917632360733/photo/1",
+              "media_key": "3_2048573913320562688",
+              "start": 41,
+              "url": "https://t.co/KdIUvXZVuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048573917632360733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/FBXaARlJwk https://t.co/KdIUvXZVuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 85,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1681
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:51:36.000Z",
+        "description": "高敏感人格 + 复杂性创伤后应激障碍 + 触发性抑郁症 + 有点回避型人格\n( 对别人的 咳嗽声 + 吐口水声 + 辱骂声 比较敏感 ）+ 一点点社交恐惧症\n24岁 刷到那些死去女友的录音 死亡妻回忆录 自杀者的遗言 我哭了一顿",
+        "id": "1692126961446137856",
+        "name": "莫小兰",
+        "pinned_tweet_id": "2043993341885591953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041620849644728321/i0BMHp_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 3080,
+          "like_count": 2524,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 521
+        },
+        "username": "mxioln852719882",
+        "verified": false
+      }
+    ]
+  }
+}

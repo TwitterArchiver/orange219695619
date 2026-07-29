@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077345484465958912",
+        "3_2077345479294382080",
+        "3_2077345488031084544"
+      ],
+      "media_source_tweet_id": [
+        "2077345490505716162",
+        "2077345490505716162",
+        "2077345490505716162"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077353629116514482",
+    "created_at": "2026-07-15T11:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077353629116514482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        },
+        {
+          "end": 40,
+          "id": "1561806114274287616",
+          "start": 27,
+          "username": "crossyangshe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BKwfOHjNWz",
+          "end": 64,
+          "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+          "media_key": "3_2077345484465958912",
+          "start": 41,
+          "url": "https://t.co/BKwfOHjNWz"
+        },
+        {
+          "display_url": "pic.x.com/BKwfOHjNWz",
+          "end": 64,
+          "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+          "media_key": "3_2077345479294382080",
+          "start": 41,
+          "url": "https://t.co/BKwfOHjNWz"
+        },
+        {
+          "display_url": "pic.x.com/BKwfOHjNWz",
+          "end": 64,
+          "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+          "media_key": "3_2077345488031084544",
+          "start": 41,
+          "url": "https://t.co/BKwfOHjNWz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077353629116514482",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077345490505716162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 悲報，az被老馬單殺@crossyangshe https://t.co/BKwfOHjNWz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077345484465958912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2tj1a8AAl0BY.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077345479294382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2tQka8AAq2lM.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077345488031084544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ2txHacAAhf8R.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077345484465958912",
+            "3_2077345479294382080",
+            "3_2077345488031084544"
+          ],
+          "media_source_tweet_id": [
+            "2077345490505716162",
+            "2077345490505716162",
+            "2077345490505716162"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077353629116514482",
+        "created_at": "2026-07-15T11:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077353629116514482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            },
+            {
+              "end": 40,
+              "id": "1561806114274287616",
+              "start": 27,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKwfOHjNWz",
+              "end": 64,
+              "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+              "media_key": "3_2077345484465958912",
+              "start": 41,
+              "url": "https://t.co/BKwfOHjNWz"
+            },
+            {
+              "display_url": "pic.x.com/BKwfOHjNWz",
+              "end": 64,
+              "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+              "media_key": "3_2077345479294382080",
+              "start": 41,
+              "url": "https://t.co/BKwfOHjNWz"
+            },
+            {
+              "display_url": "pic.x.com/BKwfOHjNWz",
+              "end": 64,
+              "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+              "media_key": "3_2077345488031084544",
+              "start": 41,
+              "url": "https://t.co/BKwfOHjNWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077353629116514482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077345490505716162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 悲報，az被老馬單殺@crossyangshe https://t.co/BKwfOHjNWz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077345484465958912",
+            "3_2077345479294382080",
+            "3_2077345488031084544"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077345490505716162",
+        "created_at": "2026-07-15T10:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077345490505716162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1561806114274287616",
+              "start": 10,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BKwfOHjNWz",
+              "end": 47,
+              "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+              "media_key": "3_2077345484465958912",
+              "start": 24,
+              "url": "https://t.co/BKwfOHjNWz"
+            },
+            {
+              "display_url": "pic.x.com/BKwfOHjNWz",
+              "end": 47,
+              "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+              "media_key": "3_2077345479294382080",
+              "start": 24,
+              "url": "https://t.co/BKwfOHjNWz"
+            },
+            {
+              "display_url": "pic.x.com/BKwfOHjNWz",
+              "end": 47,
+              "expanded_url": "https://x.com/neko0202002/status/2077345490505716162/photo/1",
+              "media_key": "3_2077345488031084544",
+              "start": 24,
+              "url": "https://t.co/BKwfOHjNWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077345490505716162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "悲報，az被老馬單殺@crossyangshe https://t.co/BKwfOHjNWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 174,
+          "like_count": 17841,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 8964
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 649,
+          "like_count": 2377,
+          "listed_count": 2,
+          "media_count": 2333,
+          "tweet_count": 6160
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 438,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

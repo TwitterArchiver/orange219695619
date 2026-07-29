@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057971695005413549",
+    "created_at": "2026-05-23T09:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058122032253116779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824037197210898432",
+          "start": 0,
+          "username": "ivan23389"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058122032253116779",
+    "in_reply_to_user_id": "1824037197210898432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058121644326220120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan23389 也不会冲动自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057971695005413549",
+        "created_at": "2026-05-23T09:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058122032253116779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824037197210898432",
+              "start": 0,
+              "username": "ivan23389"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058122032253116779",
+        "in_reply_to_user_id": "1824037197210898432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058121644326220120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan23389 也不会冲动自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824037197210898432",
+        "conversation_id": "2057971695005413549",
+        "created_at": "2026-05-23T09:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058121644326220120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058121644326220120",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057971695005413549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 那一起跳了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 131,
+          "like_count": 4812,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3925
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "希望明天可以意外死亡/oder/重度抑郁/双相情感障碍/2009/11/22/我不配得到爱/去你妈的中国特色社会主义",
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Tomorin_燈",
+        "pinned_tweet_id": "2057467986320269339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049867314116620288/FmzVYb1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 436,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 681
+        },
+        "username": "ivan23389",
+        "verified": false
+      }
+    ]
+  }
+}

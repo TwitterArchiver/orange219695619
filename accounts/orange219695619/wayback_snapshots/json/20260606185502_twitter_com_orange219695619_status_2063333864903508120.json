@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063332837101821975",
+    "created_at": "2026-06-06T18:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T19:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063333864903508120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_FanQie11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063333864903508120",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063333633759629467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FanQie11_ sixseven🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063332837101821975",
+        "created_at": "2026-06-06T18:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063333864903508120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063333864903508120",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063333633759629467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FanQie11_ sixseven🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063228399586541568",
+        "conversation_id": "2063332837101821975",
+        "created_at": "2026-06-06T18:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063333633759629467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063333633759629467",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063333404842815779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 就是很弱智所以很好玩 我一開始還嫌煩嫌幼稚 後來也被感染了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 7979,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 5463
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "操蛋第11世",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/GHBdAGFG8e"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "location": "看看你身後呢",
+        "name": "番茄操蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063229850941579264/ABMYWBep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/GHBdAGFG8e",
+        "username": "_FanQie11_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2044100597369188439",
+    "created_at": "2026-04-14T17:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044103667629080877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039052178791514112",
+          "start": 0,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044103667629080877",
+    "in_reply_to_user_id": "2039052178791514112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044102574182387864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodoeqiu 但是感觉用多了会产生依赖，而且每次都会掉很多san值（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044100597369188439",
+        "created_at": "2026-04-14T17:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044103667629080877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039052178791514112",
+              "start": 0,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044103667629080877",
+        "in_reply_to_user_id": "2039052178791514112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044102574182387864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodoeqiu 但是感觉用多了会产生依赖，而且每次都会掉很多san值（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039052178791514112",
+        "conversation_id": "2044100597369188439",
+        "created_at": "2026-04-14T17:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044102574182387864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044102574182387864",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044102263464178021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 就是用它抑制自殺傾向那種。畢竟自我傷害可以發洩壓力。醫生知道後一般都不會說什麼  不死掉就算堅強了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 73,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1009
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "Keep me in your heart, then eat me, chop me up",
+        "id": "2039052178791514112",
+        "location": "天國",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "pinned_tweet_id": "2043546666511589402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 245,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 581
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074416641820250294",
+    "created_at": "2026-07-07T23:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074643691164348492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044567923130298369",
+          "start": 0,
+          "username": "MintOwOill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074643691164348492",
+    "in_reply_to_user_id": "2044567923130298369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074511285517975912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MintOwOill 是这样的，主要没想到卖这么贵，又是村里，没看价格就买了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074416641820250294",
+        "created_at": "2026-07-07T23:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074643691164348492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044567923130298369",
+              "start": 0,
+              "username": "MintOwOill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074643691164348492",
+        "in_reply_to_user_id": "2044567923130298369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074511285517975912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MintOwOill 是这样的，主要没想到卖这么贵，又是村里，没看价格就买了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044567923130298369",
+        "conversation_id": "2074416641820250294",
+        "created_at": "2026-07-07T15:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074511285517975912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074511285517975912",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074416641820250294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 完全可以网上买^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 172,
+          "like_count": 15923,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 8385
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T00:06:44.000Z",
+        "description": "备用号 乱发负能 \n🚪52/88/188\n大号营业指路@Mint0v033\n谢谢(^ ^)你们的观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Mint0v033"
+              }
+            ]
+          }
+        },
+        "id": "2044567923130298369",
+        "location": "不约不线下不视频",
+        "name": "薄荷",
+        "pinned_tweet_id": "2065729559010435387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059072339082403840/WUTugqZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 7,
+          "like_count": 121,
+          "listed_count": 8,
+          "media_count": 85,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "MintOwOill",
+        "verified": false
+      }
+    ]
+  }
+}

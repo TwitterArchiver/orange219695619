@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065799079402311924",
+    "created_at": "2026-06-13T19:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T20:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065874536063697174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1763873459548143616",
+          "start": 0,
+          "username": "esouwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065874536063697174",
+    "in_reply_to_user_id": "1763873459548143616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065799079402311924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@esouwx 酒精中毒呢🤔\n我感觉我快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065799079402311924",
+        "created_at": "2026-06-13T19:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065874536063697174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1763873459548143616",
+              "start": 0,
+              "username": "esouwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065874536063697174",
+        "in_reply_to_user_id": "1763873459548143616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065799079402311924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esouwx 酒精中毒呢🤔\n我感觉我快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763873459548143616",
+        "conversation_id": "2065799079402311924",
+        "created_at": "2026-06-13T14:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065799079402311924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065799079402311924",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 80297,
+          "like_count": 1782,
+          "quote_count": 208,
+          "reply_count": 4,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "투신 자살=신고 많이 걸려서 생존.\n한강 자살=대부분 90%는 걸려서 생존.\n약 과다복용 자살=실패 가능성 젤 높음.\n목 매달기=쉽게 못죽음. 고통스러움.\n연탄=빨리 죽는거 착각임. 개고통스러움.\n분신 자살=가능성은 높으나 큰 고통.\n살기=언젠가는 꼭 행복해짐.\n다들 살아줘 적어도 행복해질때 까지."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 175,
+          "like_count": 9435,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 6147
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T10:26:33.000Z",
+        "description": "진입장벽 개낮음 선뎀 줘요 주서먹게                                                    정지대비계정 @les0w 인스타 @esouwx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 78,
+                "username": "les0w"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "username": "esouwx"
+              }
+            ]
+          }
+        },
+        "id": "1763873459548143616",
+        "location": "82미터옥상",
+        "name": "초상",
+        "pinned_tweet_id": "2063344907356655924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046988244563431424/Vwki55TZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 954,
+          "like_count": 3564,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 214
+        },
+        "username": "esouwx",
+        "verified": false
+      }
+    ]
+  }
+}

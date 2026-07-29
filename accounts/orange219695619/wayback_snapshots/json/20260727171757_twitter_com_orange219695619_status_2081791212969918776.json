@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2081778589746532363",
+    "created_at": "2026-07-27T17:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081791212969918776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1403679619505483779",
+          "start": 0,
+          "username": "Eririchyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081791212969918776",
+    "in_reply_to_user_id": "1403679619505483779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081778589746532363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eririchyan 咕咕嘎嘎！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081778559706927106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP2kgBbEAICFkP.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2081778589746532363",
+        "created_at": "2026-07-27T17:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081791212969918776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1403679619505483779",
+              "start": 0,
+              "username": "Eririchyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081791212969918776",
+        "in_reply_to_user_id": "1403679619505483779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081778589746532363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eririchyan 咕咕嘎嘎！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081778559706927106"
+          ]
+        },
+        "author_id": "1403679619505483779",
+        "conversation_id": "2081778589746532363",
+        "created_at": "2026-07-27T16:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081778589746532363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6M0M0Vm0q",
+              "end": 114,
+              "expanded_url": "https://x.com/Eririchyan/status/2081778589746532363/photo/1",
+              "media_key": "3_2081778559706927106",
+              "start": 91,
+              "url": "https://t.co/l6M0M0Vm0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081778589746532363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1761,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图每一年都在卖，尺度最大的就是泳装，没更新X就是因为一直在更新视频，很少拍照片，又有人造谣说我大号被封了，开小号在麦。反正现在网络上就是别人说啥就信啥，不了解，开团无脑跟着冲就行… https://t.co/l6M0M0Vm0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 184,
+          "like_count": 20456,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 9840
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T11:44:47.000Z",
+        "description": "🇨🇳Cosplayer 🔗TikTok/ins：Eririchyan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weidian.com/?userid=260639…",
+                "end": 23,
+                "expanded_url": "http://weidian.com/?userid=260639907&p=iphone&wfr=BuyercopyURL&share_relation=d21686d3178f4e4b_260639907_1",
+                "start": 0,
+                "url": "https://t.co/MLvqeQs3Ev"
+              }
+            ]
+          }
+        },
+        "id": "1403679619505483779",
+        "location": "国内写真购买👉",
+        "name": "樱梨梨",
+        "pinned_tweet_id": "1664586863645163521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583587454103490560/aqRmoFxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400234,
+          "following_count": 135,
+          "like_count": 521,
+          "listed_count": 990,
+          "media_count": 122,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/MLvqeQs3Ev",
+        "username": "Eririchyan",
+        "verified": false
+      }
+    ]
+  }
+}

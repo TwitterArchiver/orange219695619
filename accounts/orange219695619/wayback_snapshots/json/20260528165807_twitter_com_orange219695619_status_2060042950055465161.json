@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060042950055465161",
+    "created_at": "2026-05-28T16:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060042950055465161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "157550302",
+          "start": 3,
+          "username": "ShoryuPaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060042950055465161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059843781193843058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShoryuPaw: 感恩马斯克的大翻译运动，本着“要苦不能只苦中文圈”的初心，把简中特产带向了全世界，现在无论说什么语言，评论区都有机会乱入几个同城弟弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060042950055465161",
+        "created_at": "2026-05-28T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060042950055465161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "157550302",
+              "start": 3,
+              "username": "ShoryuPaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060042950055465161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059843781193843058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShoryuPaw: 感恩马斯克的大翻译运动，本着“要苦不能只苦中文圈”的初心，把简中特产带向了全世界，现在无论说什么语言，评论区都有机会乱入几个同城弟弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "157550302",
+        "conversation_id": "2059843781193843058",
+        "created_at": "2026-05-28T03:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059843781193843058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059843781193843058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 177736,
+          "like_count": 3097,
+          "quote_count": 29,
+          "reply_count": 116,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "感恩马斯克的大翻译运动，本着“要苦不能只苦中文圈”的初心，把简中特产带向了全世界，现在无论说什么语言，评论区都有机会乱入几个同城弟弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 142,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 4543
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-20T04:29:29.000Z",
+        "description": "",
+        "id": "157550302",
+        "name": "➡️⬇️↘️🅿️ẳω",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993275622144327683/yMeDNF7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65272,
+          "following_count": 5852,
+          "like_count": 52319,
+          "listed_count": 269,
+          "media_count": 10018,
+          "tweet_count": 88450
+        },
+        "username": "ShoryuPaw",
+        "verified": false
+      }
+    ]
+  }
+}

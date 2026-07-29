@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057433783541108925",
+    "created_at": "2026-05-21T13:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057446685769650532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057446685769650532",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057433783541108925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 心理疾病不确定因素太多了，校方怕出事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057433783541108925",
+        "created_at": "2026-05-21T13:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057446685769650532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057446685769650532",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057433783541108925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 心理疾病不确定因素太多了，校方怕出事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2057433783541108925",
+        "created_at": "2026-05-21T12:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057433783541108925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057433783541108925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这些职校招生为啥还卡心理疾病，虽然我没有但是觉得好恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4422,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3707
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "",
+        "id": "2013875219392585728",
+        "location": "🚪52/88/288/520上不封顶（过门不退",
+        "name": "。",
+        "pinned_tweet_id": "2056403353836618107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050134925723291649/NDTEb7gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 352,
+          "like_count": 12600,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 6350
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

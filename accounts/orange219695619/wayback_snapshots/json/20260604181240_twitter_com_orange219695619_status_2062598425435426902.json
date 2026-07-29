@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062577323866833373",
+    "created_at": "2026-06-04T18:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062598425435426902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062598425435426902",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062577323866833373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062577323866833373",
+        "created_at": "2026-06-04T18:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062598425435426902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062598425435426902",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062577323866833373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2062577323866833373",
+        "created_at": "2026-06-04T16:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062577323866833373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062577323866833373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想点跟事后烟我烟抽完了。我对象说我像渣男一样事后抽烟......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 158,
+          "like_count": 7515,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 5252
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "@Akiscara_3405永远幸福 姐姐（18↓）|双向|抽烟|受虐  门槛🚪66.6\n（戒割，戒药）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Akiscara_3405"
+              }
+            ]
+          }
+        },
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王（寻互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062103443301617664/8NNDTdS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 535,
+          "like_count": 41922,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 12476
+        },
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

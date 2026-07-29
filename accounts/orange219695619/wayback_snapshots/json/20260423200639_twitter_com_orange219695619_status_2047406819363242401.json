@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2047386278950535220",
+    "created_at": "2026-04-23T20:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047406819363242401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "YiJin_0v0"
+        },
+        {
+          "end": 23,
+          "id": "2032033299980566528",
+          "start": 11,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047406819363242401",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047406690283467179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiJin_0v0 @rinii165892 okok谢谢关心🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047406690283467179].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047406690283467179",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047406690283467179"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2047386278950535220",
+        "created_at": "2026-04-23T20:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047406819363242401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 23,
+              "id": "2032033299980566528",
+              "start": 11,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047406819363242401",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047406690283467179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 @rinii165892 okok谢谢关心🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 81,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1437
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "=伊井&ii\n生产日期 2012 09 17/mt🤍/无证含糖🍥/家长不管党/出柜 2025 10 30/hrt 2025 06 27/躁郁🐱强迫/od&sh全肯定💊🔪🩸/无奈学生党🚬\n推=V家六子🎙️/花子君🌸/东云绘名🖌️/Chiikawa🐰/好姐姐💗@rinii165892\n欢迎贴贴喵——",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zapatopi.net/treeoctopus/",
+                "end": 23,
+                "expanded_url": "https://zapatopi.net/treeoctopus/",
+                "start": 0,
+                "url": "https://t.co/rvDNPJ0baF"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "—伊井的秘密基地—",
+        "name": "伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2047257307072118954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 411,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/rvDNPJ0baF",
+        "username": "YiJin_0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙严重失眠 -12现役初中生\n^✟❀灵宠@dbdbsjbsja❀老冯@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin36611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin36611",
+                "start": 0,
+                "url": "https://t.co/SSozH8jmFJ"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 853,
+          "like_count": 8182,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/SSozH8jmFJ",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

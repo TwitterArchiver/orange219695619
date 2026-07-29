@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2045090286708396473",
+    "created_at": "2026-04-17T11:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045107164688347612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "876995978443837441",
+          "start": 0,
+          "username": "Rokia79245469"
+        },
+        {
+          "end": 26,
+          "id": "1858393719080366080",
+          "start": 15,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045107164688347612",
+    "in_reply_to_user_id": "876995978443837441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045100798590460376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rokia79245469 @xiaomonuya 干嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2045090286708396473",
+        "created_at": "2026-04-17T11:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045107164688347612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "876995978443837441",
+              "start": 0,
+              "username": "Rokia79245469"
+            },
+            {
+              "end": 26,
+              "id": "1858393719080366080",
+              "start": 15,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045107164688347612",
+        "in_reply_to_user_id": "876995978443837441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045100798590460376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rokia79245469 @xiaomonuya 干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876995978443837441",
+        "conversation_id": "2045090286708396473",
+        "created_at": "2026-04-17T11:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045100798590460376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 28,
+              "id": "1858393719080366080",
+              "start": 17,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045100798590460376",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045091756967141380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @xiaomonuya 私我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1125
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-20T02:51:49.000Z",
+        "description": "想玩的宝宝可以一起哦",
+        "id": "876995978443837441",
+        "name": "Rokia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044408539914096640/mGt29hoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 2,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 133
+        },
+        "username": "Rokia79245469",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2043253761955819941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 147,
+          "like_count": 2437,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 3421
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

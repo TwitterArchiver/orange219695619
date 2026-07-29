@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054377644305821774",
+    "created_at": "2026-05-13T02:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054389306068984172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054389306068984172",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054377644305821774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054377644305821774",
+        "created_at": "2026-05-13T02:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054389306068984172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054389306068984172",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054377644305821774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2054377644305821774",
+        "created_at": "2026-05-13T01:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054377644305821774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/magpieneko/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/magpieneko/status/2054086861317091376",
+              "start": 26,
+              "url": "https://t.co/hfblczF1ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054377644305821774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054086861317091376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第四天梦到这几台电脑因为电路问题全烧了🫪这都啥跟啥 https://t.co/hfblczF1ln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 112,
+          "like_count": 3168,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2973
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜Cptsd｜是个不可爱的孩子｜学着成为人类｜社恐｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jingque11289",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jingque11289",
+                "start": 0,
+                "url": "https://t.co/NP7POh6xMK"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2050591393496838447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 41,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/NP7POh6xMK",
+        "username": "Magpieneko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059585511988293632"
+      ],
+      "media_source_tweet_id": [
+        "2059585572717625514"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059825751307022618",
+    "created_at": "2026-05-28T02:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059825751307022618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yXr9vnTdlW",
+          "end": 46,
+          "expanded_url": "https://x.com/0b7cm/status/2059585572717625514/video/1",
+          "media_key": "13_2059585511988293632",
+          "start": 23,
+          "url": "https://t.co/yXr9vnTdlW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059825751307022618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059585572717625514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 妈妈没教我哈气和伸爪子 https://t.co/yXr9vnTdlW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14333,
+        "height": 960,
+        "media_key": "13_2059585511988293632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059585511988293632/img/3EF9qZEebevbRgEA.jpg",
+        "public_metrics": {
+          "view_count": 12854
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059585511988293632/vid/avc1/320x568/pEHHlTZH6iMXRFWO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059585511988293632/vid/avc1/480x852/7pCPvlMO5F61rtCc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059585511988293632/vid/avc1/540x960/EfrfcqrMGJtpEWsV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059585511988293632/pl/gPn4rPLYHBHw4_9K.m3u8?v=b46"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059585511988293632"
+          ],
+          "media_source_tweet_id": [
+            "2059585572717625514"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059825751307022618",
+        "created_at": "2026-05-28T02:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059825751307022618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXr9vnTdlW",
+              "end": 46,
+              "expanded_url": "https://x.com/0b7cm/status/2059585572717625514/video/1",
+              "media_key": "13_2059585511988293632",
+              "start": 23,
+              "url": "https://t.co/yXr9vnTdlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059825751307022618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059585572717625514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 妈妈没教我哈气和伸爪子 https://t.co/yXr9vnTdlW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059585511988293632"
+          ]
+        },
+        "author_id": "810779795214581760",
+        "conversation_id": "2059585572717625514",
+        "created_at": "2026-05-27T10:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059585572717625514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXr9vnTdlW",
+              "end": 35,
+              "expanded_url": "https://x.com/0b7cm/status/2059585572717625514/video/1",
+              "media_key": "13_2059585511988293632",
+              "start": 12,
+              "url": "https://t.co/yXr9vnTdlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059585572717625514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 26784,
+          "like_count": 672,
+          "quote_count": 5,
+          "reply_count": 39,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈没教我哈气和伸爪子 https://t.co/yXr9vnTdlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 141,
+          "like_count": 6027,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 4471
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2058711352856953064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10856,
+          "following_count": 1234,
+          "like_count": 11659,
+          "listed_count": 22,
+          "media_count": 2246,
+          "tweet_count": 15683
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

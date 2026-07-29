@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064249756961157120"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064249759410651243",
+    "created_at": "2026-06-09T07:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064249759410651243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjXh3yvgmT",
+          "end": 23,
+          "expanded_url": "https://x.com/orange219695619/status/2064249759410651243/photo/1",
+          "media_key": "3_2064249756961157120",
+          "start": 0,
+          "url": "https://t.co/kjXh3yvgmT"
+        },
+        {
+          "display_url": "x.com/Jessica3187519…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Jessica31875193/status/2063848370972799207",
+          "start": 24,
+          "url": "https://t.co/dQGHyMvyEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064249759410651243",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063848370972799207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/kjXh3yvgmT https://t.co/dQGHyMvyEX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2064249756961157120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWwN5NbMAALs1f.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064249756961157120"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064249759410651243",
+        "created_at": "2026-06-09T07:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064249759410651243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjXh3yvgmT",
+              "end": 23,
+              "expanded_url": "https://x.com/orange219695619/status/2064249759410651243/photo/1",
+              "media_key": "3_2064249756961157120",
+              "start": 0,
+              "url": "https://t.co/kjXh3yvgmT"
+            },
+            {
+              "display_url": "x.com/Jessica3187519…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Jessica31875193/status/2063848370972799207",
+              "start": 24,
+              "url": "https://t.co/dQGHyMvyEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064249759410651243",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063848370972799207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/kjXh3yvgmT https://t.co/dQGHyMvyEX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568495582762926082",
+        "conversation_id": "2063585000902304026",
+        "created_at": "2026-06-08T04:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063848370972799207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757998646078095360",
+              "start": 0,
+              "username": "D2010438117119"
+            },
+            {
+              "end": 29,
+              "id": "2044863064542203904",
+              "start": 16,
+              "username": "Christais777"
+            },
+            {
+              "end": 42,
+              "id": "2011405521245634560",
+              "start": 30,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063848370972799207",
+        "in_reply_to_user_id": "1757998646078095360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7399,
+          "like_count": 4,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063845726543892804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D2010438117119 @Christais777 @Rimea_Chord 父母生孩子，不是为了爽，更不能抱怨父母，为了爽那几秒钟把自己生下来。这个女孩的父母，估计也得是个80后，完全负担得起几十块钱的安全套，但是他们仍然选择生孩子，给她一条生路，这已经是大恩了。\n其实我要表达的是，生而为人，可以把重点放在自己拥有的，这样可以少点怨念，自己的路好走一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 161,
+          "like_count": 8439,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 5679
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T07:04:39.000Z",
+        "description": "看人多的地方\n那里有流动性\n去人少的地方\n那里是盈利点",
+        "id": "1568495582762926082",
+        "location": "杭州",
+        "name": "贪狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062557730624450560/OYDlu0bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 129,
+          "like_count": 5524,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 907
+        },
+        "username": "Jessica31875193",
+        "verified": false
+      }
+    ]
+  }
+}

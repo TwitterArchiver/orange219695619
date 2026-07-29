@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2042980858064441763",
+    "created_at": "2026-04-12T10:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043279978763358717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779093261954465792",
+          "start": 0,
+          "username": "HaniOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043279978763358717",
+    "in_reply_to_user_id": "1779093261954465792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042980858064441763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaniOvO_ 诶！我有一个可以永远消除悲伤的方法（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "16_2042980846018437120",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFogQVnbIAAX3Py.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFogQVnbIAAX3Py.mp4"
+          }
+        ],
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2042980858064441763",
+        "created_at": "2026-04-12T10:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043279978763358717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779093261954465792",
+              "start": 0,
+              "username": "HaniOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043279978763358717",
+        "in_reply_to_user_id": "1779093261954465792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042980858064441763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaniOvO_ 诶！我有一个可以永远消除悲伤的方法（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2042980846018437120"
+          ]
+        },
+        "author_id": "1779093261954465792",
+        "conversation_id": "2042980858064441763",
+        "created_at": "2026-04-11T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042980858064441763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fO8l8AkwyP",
+              "end": 55,
+              "expanded_url": "https://x.com/HaniOvO_/status/2042980858064441763/photo/1",
+              "media_key": "16_2042980846018437120",
+              "start": 32,
+              "url": "https://t.co/fO8l8AkwyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042980858064441763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23343,
+          "like_count": 234,
+          "quote_count": 5,
+          "reply_count": 206,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有没有除了自残 穿孔 抽烟 喝酒以外缓解悲伤的办法 我一直在哭 https://t.co/fO8l8AkwyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 878
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T10:24:39.000Z",
+        "description": "私信只回复青年音。",
+        "id": "1779093261954465792",
+        "location": "距离你1km",
+        "name": "hani",
+        "pinned_tweet_id": "1933489662179619078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005182107791032320/s5jBjGuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5989,
+          "following_count": 89,
+          "like_count": 40797,
+          "listed_count": 11,
+          "media_count": 212,
+          "tweet_count": 3317
+        },
+        "username": "HaniOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

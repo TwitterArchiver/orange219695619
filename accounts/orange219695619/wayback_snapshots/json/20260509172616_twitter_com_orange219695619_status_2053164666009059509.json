@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052882454139011102",
+    "created_at": "2026-05-09T17:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053164666009059509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593925330741362688",
+          "start": 0,
+          "username": "nnnnanana9"
+        },
+        {
+          "end": 27,
+          "id": "1489468526826082312",
+          "start": 12,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053164666009059509",
+    "in_reply_to_user_id": "1593925330741362688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053100444218732811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnnnanana9 @Diamond_Kokoro 我感觉差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052882454139011102",
+        "created_at": "2026-05-09T17:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053164666009059509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593925330741362688",
+              "start": 0,
+              "username": "nnnnanana9"
+            },
+            {
+              "end": 27,
+              "id": "1489468526826082312",
+              "start": 12,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053164666009059509",
+        "in_reply_to_user_id": "1593925330741362688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053100444218732811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnnnanana9 @Diamond_Kokoro 我感觉差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593925330741362688",
+        "conversation_id": "2052882454139011102",
+        "created_at": "2026-05-09T13:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053100444218732811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053100444218732811",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052882454139011102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 类似在网络上看到不爽的东西，打了一堆字最后全删掉那种感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 100,
+          "like_count": 2506,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2554
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T11:13:17.000Z",
+        "description": "故事通常都发生在夏天...",
+        "id": "1593925330741362688",
+        "name": "ᗜ - ᗜ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050939924636123136/2n4LItgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "username": "nnnnanana9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈｜@irisdesombres 的忠犬，祂的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 106,
+          "like_count": 5535,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 3838
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

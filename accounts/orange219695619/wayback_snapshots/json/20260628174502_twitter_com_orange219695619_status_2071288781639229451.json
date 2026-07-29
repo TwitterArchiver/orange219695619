@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2071197993202815460",
+    "created_at": "2026-06-28T17:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071288781639229451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064591194139901952",
+          "start": 0,
+          "username": "OHOHOH321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071288781639229451",
+    "in_reply_to_user_id": "2064591194139901952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071197993202815460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH321 或者试试酗酒🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2071197993202815460].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2071197993202815460",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2071197993202815460"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2071197993202815460",
+        "created_at": "2026-06-28T17:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071288781639229451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064591194139901952",
+              "start": 0,
+              "username": "OHOHOH321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071288781639229451",
+        "in_reply_to_user_id": "2064591194139901952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071197993202815460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH321 或者试试酗酒🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 193,
+          "like_count": 13913,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 7823
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T06:12:58.000Z",
+        "description": "",
+        "id": "2064591194139901952",
+        "name": "AAA.梦幻批发户（2.0）",
+        "pinned_tweet_id": "2065303130129191157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064596030130380800/_D1GWhGq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 227,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "OHOHOH321",
+        "verified": false
+      }
+    ]
+  }
+}

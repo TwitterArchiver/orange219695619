@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055616358457410045",
+    "created_at": "2026-05-16T17:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055706972645896248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055706972645896248",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055616358457410045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055616358457410045",
+        "created_at": "2026-05-16T17:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055706972645896248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055706972645896248",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055616358457410045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "2055616358457410045",
+        "created_at": "2026-05-16T11:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055616358457410045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055616358457410045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6324,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 86,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大陸有711咩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 121,
+          "like_count": 3764,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3298
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": " Republic of China - Hong Kong",
+        "name": "+852 40609891 RDSKMTROC G3SG1 HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2042964092470620631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049926182766780416/xAdrEsq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 6104,
+          "like_count": 13601,
+          "listed_count": 5,
+          "media_count": 640,
+          "tweet_count": 3701
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

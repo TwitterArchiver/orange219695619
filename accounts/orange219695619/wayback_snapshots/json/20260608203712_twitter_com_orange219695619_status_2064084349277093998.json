@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063963747300130817"
+      ],
+      "media_source_tweet_id": [
+        "2063963750479335812"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064084349277093998",
+    "created_at": "2026-06-08T20:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064084349277093998"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 20,
+          "tag": "osagechanFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1811311911184867328",
+          "start": 3,
+          "username": "osagechan_neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZXkPdtybW",
+          "end": 62,
+          "expanded_url": "https://x.com/osagechan_neko/status/2063963750479335812/photo/1",
+          "media_key": "3_2063963747300130817",
+          "start": 39,
+          "url": "https://t.co/MZXkPdtybW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064084349277093998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063963750479335812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osagechan_neko: #osagechanFA 我喜欢这个 https://t.co/MZXkPdtybW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063963747300130817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSsF8MbwAEwRP1.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963747300130817"
+          ],
+          "media_source_tweet_id": [
+            "2063963750479335812"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064084349277093998",
+        "created_at": "2026-06-08T20:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064084349277093998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "osagechanFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1811311911184867328",
+              "start": 3,
+              "username": "osagechan_neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZXkPdtybW",
+              "end": 62,
+              "expanded_url": "https://x.com/osagechan_neko/status/2063963750479335812/photo/1",
+              "media_key": "3_2063963747300130817",
+              "start": 39,
+              "url": "https://t.co/MZXkPdtybW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064084349277093998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063963750479335812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osagechan_neko: #osagechanFA 我喜欢这个 https://t.co/MZXkPdtybW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963747300130817"
+          ]
+        },
+        "author_id": "1811311911184867328",
+        "conversation_id": "2063963750479335812",
+        "created_at": "2026-06-08T12:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063963750479335812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "osagechanFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZXkPdtybW",
+              "end": 42,
+              "expanded_url": "https://x.com/osagechan_neko/status/2063963750479335812/photo/1",
+              "media_key": "3_2063963747300130817",
+              "start": 19,
+              "url": "https://t.co/MZXkPdtybW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963750479335812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 6216,
+          "like_count": 979,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "#osagechanFA 我喜欢这个 https://t.co/MZXkPdtybW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 160,
+          "like_count": 8361,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 5637
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T08:09:59.000Z",
+        "description": "貓雨\n15y/o\n※本账号可能含有G向 自残 虐待 血腥等绘画作品 如果冒昧到任何人 我先道歉",
+        "id": "1811311911184867328",
+        "name": "mewy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060732473609498625/SmTJRnxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 126,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 187
+        },
+        "username": "osagechan_neko",
+        "verified": false
+      }
+    ]
+  }
+}

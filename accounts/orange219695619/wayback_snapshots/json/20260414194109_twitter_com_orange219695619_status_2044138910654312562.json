@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2044096426976940189",
+    "created_at": "2026-04-14T19:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044138910654312562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946799807366082560",
+          "start": 0,
+          "username": "LovableMaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044138910654312562",
+    "in_reply_to_user_id": "1946799807366082560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044096426976940189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovableMaomao 好像今天下午就这样了，老是刷新不出新东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24049,
+        "height": 1572,
+        "media_key": "7_2044096393904828420",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044096393904828420/pu/img/t8CMoMYV1Sc2BBnQ.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044096393904828420/pu/vid/avc1/320x698/M-tqTiOywImGfa0L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044096393904828420/pu/vid/avc1/480x1048/Cs_HYN3Ueo31CEpl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044096393904828420/pu/vid/avc1/720x1572/uKNUZWgMiuEtc5a1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044096393904828420/pu/pl/YrHowHcAoHOqnwTA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044096426976940189",
+        "created_at": "2026-04-14T19:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044138910654312562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946799807366082560",
+              "start": 0,
+              "username": "LovableMaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044138910654312562",
+        "in_reply_to_user_id": "1946799807366082560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044096426976940189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovableMaomao 好像今天下午就这样了，老是刷新不出新东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044096393904828420"
+          ]
+        },
+        "author_id": "1946799807366082560",
+        "conversation_id": "2044096426976940189",
+        "created_at": "2026-04-14T16:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044096426976940189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdHIRdi9Vx",
+              "end": 48,
+              "expanded_url": "https://x.com/LovableMaomao/status/2044096426976940189/video/1",
+              "media_key": "7_2044096393904828420",
+              "start": 25,
+              "url": "https://t.co/sdHIRdi9Vx"
+            },
+            {
+              "display_url": "x.com/LovableMaomao/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/LovableMaomao/status/2044095494688047144",
+              "start": 49,
+              "url": "https://t.co/mBW8bHzADf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044096426976940189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044095494688047144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恐怖好恐怖好恐怖好恐怖 推特大半夜的你不要吓我 https://t.co/sdHIRdi9Vx https://t.co/mBW8bHzADf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 73,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1014
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T05:10:28.000Z",
+        "description": "🍥🏳️‍⚧️ she / mao\n2009.05.23 | 独居工作中… | 杭州 浙江 | INFP | #Minecraft | 胆小不敢发帖 | 喜欢可爱的人事物 | 想要交朋友🥺 | 同类互fo喵 | 每天都很困 (T^T) | 希望大家都可以开开心心的 /ᐠ ｡‸ ｡ᐟ\\",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "Minecraft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovablemaomao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovablemaomao",
+                "start": 0,
+                "url": "https://t.co/NwxeoRYLbZ"
+              }
+            ]
+          }
+        },
+        "id": "1946799807366082560",
+        "location": "杭州 浙江",
+        "name": "🍼愛與貓貓同在🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041053742745985429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031592264678649856/zRvlBMu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 252,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/NwxeoRYLbZ",
+        "username": "LovableMaomao",
+        "verified": true
+      }
+    ]
+  }
+}

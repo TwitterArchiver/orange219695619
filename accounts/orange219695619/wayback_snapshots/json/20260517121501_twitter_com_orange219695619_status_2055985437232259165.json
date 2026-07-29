@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055979079359435203",
+    "created_at": "2026-05-17T12:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055985437232259165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053726229984075776",
+          "start": 0,
+          "username": "Kuromi_ooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055985437232259165",
+    "in_reply_to_user_id": "2053726229984075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055979079359435203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuromi_ooooo 哦齁齁齁齁🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055979079359435203].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055979079359435203",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055979079359435203"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055979079359435203",
+        "created_at": "2026-05-17T12:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055985437232259165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053726229984075776",
+              "start": 0,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055985437232259165",
+        "in_reply_to_user_id": "2053726229984075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055979079359435203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuromi_ooooo 哦齁齁齁齁🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 122,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3341
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "=Rin @Yijin_0v0\nEnglish account (using a translator🤤)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "Osaka-shi Chuo, Osaka",
+        "name": "Ii Rin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054074678977921024/R2K-3mgQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 42,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

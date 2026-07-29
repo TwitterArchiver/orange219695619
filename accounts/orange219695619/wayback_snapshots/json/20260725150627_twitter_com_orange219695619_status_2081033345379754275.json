@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2081025667597214033",
+    "created_at": "2026-07-25T15:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081033345379754275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1986718216513839104",
+          "start": 0,
+          "username": "yizhishuita"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081033345379754275",
+    "in_reply_to_user_id": "1986718216513839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081026709777011021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhishuita 还行至少能喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2081025667597214033",
+        "created_at": "2026-07-25T15:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081033345379754275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1986718216513839104",
+              "start": 0,
+              "username": "yizhishuita"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081033345379754275",
+        "in_reply_to_user_id": "1986718216513839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081026709777011021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhishuita 还行至少能喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986718216513839104",
+        "conversation_id": "2081025667597214033",
+        "created_at": "2026-07-25T14:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081026709777011021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081026709777011021",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081025667597214033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 冰红茶兑白酒么味道咋样，应该还蛮好喝的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 182,
+          "like_count": 19935,
+          "listed_count": 3,
+          "media_count": 555,
+          "tweet_count": 9676
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T08:51:50.000Z",
+        "description": "双相，吃药+心理疏导中，不定期崩溃。。",
+        "id": "1986718216513839104",
+        "location": "北京",
+        "name": "一只水獭",
+        "pinned_tweet_id": "2018462070170386857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020677461831475200/CEZJ88CS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 115,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "yizhishuita",
+        "verified": false
+      }
+    ]
+  }
+}

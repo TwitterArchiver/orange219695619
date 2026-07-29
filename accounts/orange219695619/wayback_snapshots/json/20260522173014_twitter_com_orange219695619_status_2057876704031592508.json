@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057876704031592508",
+    "created_at": "2026-05-22T17:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057876704031592508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1353694338643972097",
+          "start": 3,
+          "username": "xiaoyumama9968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057876704031592508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057673262839291951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyumama9968: 开vpn的时候千万不要点银行app！！\n开vpn的时候千万不要点银行app！！\n开vpn的时候千万不要点银行app！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057876704031592508",
+        "created_at": "2026-05-22T17:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057876704031592508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1353694338643972097",
+              "start": 3,
+              "username": "xiaoyumama9968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057876704031592508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057673262839291951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoyumama9968: 开vpn的时候千万不要点银行app！！\n开vpn的时候千万不要点银行app！！\n开vpn的时候千万不要点银行app！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353694338643972097",
+        "conversation_id": "2057673262839291951",
+        "created_at": "2026-05-22T04:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057673262839291951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057673262839291951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 2451176,
+          "like_count": 1200,
+          "quote_count": 12,
+          "reply_count": 537,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "开vpn的时候千万不要点银行app！！\n开vpn的时候千万不要点银行app！！\n开vpn的时候千万不要点银行app！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 129,
+          "like_count": 4619,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3809
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T13:21:50.000Z",
+        "description": "杭州人，不搞黄色，不聊骚，广告自辨清楚！！！不会主动联系任何人！！！小号 @xiaoyumama9988",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "xiaoyumama9988"
+              }
+            ]
+          }
+        },
+        "id": "1353694338643972097",
+        "name": "小宇妈妈",
+        "pinned_tweet_id": "2050093581604630854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457902448547274755/S8Sn15qS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484608,
+          "following_count": 32,
+          "like_count": 15394,
+          "listed_count": 395,
+          "media_count": 3471,
+          "tweet_count": 33281
+        },
+        "username": "xiaoyumama9968",
+        "verified": true
+      }
+    ]
+  }
+}

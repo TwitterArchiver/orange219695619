@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080849216973472198",
+    "created_at": "2026-07-25T13:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081013418572804604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2078720795774443520",
+          "start": 0,
+          "username": "huizxlk1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081013418572804604",
+    "in_reply_to_user_id": "2078720795774443520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080849216973472198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huizxlk1215 老赛去水淹大坝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2080849208970706944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCpVKvaAAAB4QX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080849216973472198",
+        "created_at": "2026-07-25T13:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081013418572804604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2078720795774443520",
+              "start": 0,
+              "username": "huizxlk1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081013418572804604",
+        "in_reply_to_user_id": "2078720795774443520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080849216973472198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huizxlk1215 老赛去水淹大坝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080849208970706944"
+          ]
+        },
+        "author_id": "2078720795774443520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080849216973472198",
+        "created_at": "2026-07-25T02:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080849216973472198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8ZEPbvEIC",
+              "end": 34,
+              "expanded_url": "https://x.com/huizxlk1215/status/2080849216973472198/photo/1",
+              "media_key": "3_2080849208970706944",
+              "start": 11,
+              "url": "https://t.co/U8ZEPbvEIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080849216973472198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪哥的家居然被淹了喵 https://t.co/U8ZEPbvEIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 182,
+          "like_count": 20020,
+          "listed_count": 3,
+          "media_count": 554,
+          "tweet_count": 9657
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-19T06:00:26.000Z",
+        "description": "这里是咪主要使用的账号喵\n男猫 出生在惠东喵\n生产日期2011.12.09喵\nNGL:https://t.co/1C8InJ2McF\nTG:https://t.co/25GUniUuhd\nQQ:2861849101\n喜欢听术力口喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 66,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 43,
+                "url": "https://t.co/1C8InJ2McF"
+              },
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 93,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 70,
+                "url": "https://t.co/25GUniUuhd"
+              }
+            ]
+          }
+        },
+        "id": "2078720795774443520",
+        "name": "huizxlk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078722441980022784/AVyhvQTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 55,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "huizxlk1215",
+        "verified": false
+      }
+    ]
+  }
+}

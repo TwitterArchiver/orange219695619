@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059633040192880800",
+    "created_at": "2026-05-27T13:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059634614973686121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        },
+        {
+          "end": 17,
+          "id": "1294492339805839362",
+          "start": 9,
+          "username": "facean4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059634614973686121",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059634313508069484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu @facean4 淘金币竟然能抵扣那么多嘛😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059633040192880800",
+        "created_at": "2026-05-27T13:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059634614973686121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            },
+            {
+              "end": 17,
+              "id": "1294492339805839362",
+              "start": 9,
+              "username": "facean4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059634614973686121",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059634313508069484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu @facean4 淘金币竟然能抵扣那么多嘛😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013724577529049088",
+        "conversation_id": "2059633040192880800",
+        "created_at": "2026-05-27T13:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059634313508069484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1294492339805839362",
+              "start": 0,
+              "username": "facean4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059634313508069484",
+        "in_reply_to_user_id": "1294492339805839362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059633822023704831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facean4 国补+淘金币抵扣了1600块诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 141,
+          "like_count": 5889,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 4413
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "本垢 @_ropu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "プロ",
+        "pinned_tweet_id": "2058876657629618352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 76,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 235
+        },
+        "username": "_roopuu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T04:33:39.000Z",
+        "description": "interested in math & computer science.\ncraving connection, but falling at it. :(",
+        "id": "1294492339805839362",
+        "name": "facean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295578538444169217/vaV_iOqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 2843,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 152
+        },
+        "username": "facean4",
+        "verified": false
+      }
+    ]
+  }
+}

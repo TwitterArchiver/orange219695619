@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070817345086636415",
+    "created_at": "2026-06-27T10:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070817345086636415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1717388840938135552",
+          "start": 3,
+          "username": "DingGongYinLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070817345086636415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070716530858529093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DingGongYinLin: 就没有副作用的酒吗，只保留可以醉酒的状态喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070817345086636415",
+        "created_at": "2026-06-27T10:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070817345086636415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1717388840938135552",
+              "start": 3,
+              "username": "DingGongYinLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070817345086636415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070716530858529093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DingGongYinLin: 就没有副作用的酒吗，只保留可以醉酒的状态喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717388840938135552",
+        "conversation_id": "2070716530858529093",
+        "created_at": "2026-06-27T03:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070716530858529093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070716530858529093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就没有副作用的酒吗，只保留可以醉酒的状态喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 193,
+          "like_count": 13589,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 7717
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "o(￣ヘ￣o#)",
+        "id": "1717388840938135552",
+        "name": "钉宫银琳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 249,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true
+      }
+    ]
+  }
+}

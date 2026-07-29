@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2036223660231442836",
+    "created_at": "2026-03-25T04:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036667447856791707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722138740905365504",
+          "start": 0,
+          "username": "ZEgegege75391"
+        },
+        {
+          "end": 26,
+          "id": "1535701819812462600",
+          "start": 15,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036667447856791707",
+    "in_reply_to_user_id": "1722138740905365504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036241810436342033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZEgegege75391 @Kenntnis22 慕强就滚蛋，有本事别吃那一颗糖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2036223660231442836",
+        "created_at": "2026-03-25T04:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036667447856791707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722138740905365504",
+              "start": 0,
+              "username": "ZEgegege75391"
+            },
+            {
+              "end": 26,
+              "id": "1535701819812462600",
+              "start": 15,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036667447856791707",
+        "in_reply_to_user_id": "1722138740905365504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036241810436342033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZEgegege75391 @Kenntnis22 慕强就滚蛋，有本事别吃那一颗糖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722138740905365504",
+        "conversation_id": "2036223660231442836",
+        "created_at": "2026-03-24T00:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036241810436342033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036241810436342033",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5885,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036223660231442836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 龟男自我感动的鸡汤，但理智的集美只一心慕强，不吃你这套😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 246
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T06:27:57.000Z",
+        "description": "......",
+        "id": "1722138740905365504",
+        "location": "Depression",
+        "name": "ZHEgegege",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722178083518824448/sdxdF8tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 514,
+          "like_count": 41560,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 6232
+        },
+        "username": "ZEgegege75391",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2036380206735261849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51116,
+          "following_count": 414,
+          "like_count": 52234,
+          "listed_count": 248,
+          "media_count": 10728,
+          "tweet_count": 16541
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

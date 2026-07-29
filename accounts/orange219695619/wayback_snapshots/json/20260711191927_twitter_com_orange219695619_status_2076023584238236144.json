@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076023574788517888"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2076023584238236144",
+    "created_at": "2026-07-11T19:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076023584238236144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X7oZiYiBGI",
+          "end": 56,
+          "expanded_url": "https://x.com/orange219695619/status/2076023584238236144/photo/1",
+          "media_key": "3_2076023574788517888",
+          "start": 33,
+          "url": "https://t.co/X7oZiYiBGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076023584238236144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "GTI！聪明！\n（此时蝶手里有把肉蛋g18所以捡不起地上的左轮） https://t.co/X7oZiYiBGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076023574788517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-EcSibMAAo65W.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076023574788517888"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2076023584238236144",
+        "created_at": "2026-07-11T19:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076023584238236144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7oZiYiBGI",
+              "end": 56,
+              "expanded_url": "https://x.com/orange219695619/status/2076023584238236144/photo/1",
+              "media_key": "3_2076023574788517888",
+              "start": 33,
+              "url": "https://t.co/X7oZiYiBGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076023584238236144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GTI！聪明！\n（此时蝶手里有把肉蛋g18所以捡不起地上的左轮） https://t.co/X7oZiYiBGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 173,
+          "like_count": 16916,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 8690
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

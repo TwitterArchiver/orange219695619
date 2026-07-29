@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052716501854204367",
+    "created_at": "2026-05-08T11:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052719573825433655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052719573825433655",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052716501854204367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 理工男看不起理工男嘛🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2052716491540451328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy2xfba0AA8ora.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052716491544682496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy2xfcbYAATay7.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2052716491548876800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy2xfdbYAAUUCb.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052716491540463616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy2xfbbAAAabhx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052716501854204367",
+        "created_at": "2026-05-08T11:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052719573825433655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052719573825433655",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052716501854204367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 理工男看不起理工男嘛🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052716491540451328",
+            "3_2052716491544682496",
+            "3_2052716491548876800",
+            "3_2052716491540463616"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2052716501854204367",
+        "created_at": "2026-05-08T11:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052716501854204367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u00I5coW5E",
+              "end": 33,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2052716501854204367/photo/1",
+              "media_key": "3_2052716491540451328",
+              "start": 10,
+              "url": "https://t.co/u00I5coW5E"
+            },
+            {
+              "display_url": "pic.x.com/u00I5coW5E",
+              "end": 33,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2052716501854204367/photo/1",
+              "media_key": "3_2052716491544682496",
+              "start": 10,
+              "url": "https://t.co/u00I5coW5E"
+            },
+            {
+              "display_url": "pic.x.com/u00I5coW5E",
+              "end": 33,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2052716501854204367/photo/1",
+              "media_key": "3_2052716491548876800",
+              "start": 10,
+              "url": "https://t.co/u00I5coW5E"
+            },
+            {
+              "display_url": "pic.x.com/u00I5coW5E",
+              "end": 33,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2052716501854204367/photo/1",
+              "media_key": "3_2052716491540463616",
+              "start": 10,
+              "url": "https://t.co/u00I5coW5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052716501854204367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看来我还是比较理工 https://t.co/u00I5coW5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 99,
+          "like_count": 2289,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2427
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2051560833235444117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11913,
+          "following_count": 4994,
+          "like_count": 89891,
+          "listed_count": 22,
+          "media_count": 2212,
+          "tweet_count": 19780
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

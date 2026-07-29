@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041035160301473908",
+    "created_at": "2026-04-07T04:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041373073375645990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835724410902265856",
+          "start": 0,
+          "username": "Xxs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041373073375645990",
+    "in_reply_to_user_id": "1835724410902265856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041035160301473908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxs8964 个人崇拜罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041035160301473908",
+        "created_at": "2026-04-07T04:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041373073375645990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835724410902265856",
+              "start": 0,
+              "username": "Xxs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041373073375645990",
+        "in_reply_to_user_id": "1835724410902265856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041035160301473908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxs8964 个人崇拜罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835724410902265856",
+        "conversation_id": "2041035160301473908",
+        "created_at": "2026-04-06T06:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041035160301473908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041035160301473908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们墙内这帮人怎么有脸说出毛时代经济一点都不差的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "｜可以互fo ww｜08\nlgbtq友好\n小粉红fuckoff\n加我不需要🚪 \n但是加我家猫需要🚪5r\n把我帖子转墙内你全家被压路机压成尸块",
+        "id": "1835724410902265856",
+        "name": "✟高性能小学生✟",
+        "pinned_tweet_id": "2024729265384935459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018747869092810752/I5TdE8mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 834,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 1316
+        },
+        "username": "Xxs8964",
+        "verified": false
+      }
+    ]
+  }
+}

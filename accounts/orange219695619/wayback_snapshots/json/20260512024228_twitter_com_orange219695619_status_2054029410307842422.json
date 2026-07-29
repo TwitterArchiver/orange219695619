@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053796631611420913",
+    "created_at": "2026-05-12T02:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054029410307842422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2036071254873276416",
+          "start": 0,
+          "username": "renyue105"
+        },
+        {
+          "end": 27,
+          "id": "1593180128204689408",
+          "start": 11,
+          "username": "kaga_needs_buff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054029410307842422",
+    "in_reply_to_user_id": "2036071254873276416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053885291908444473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renyue105 @kaga_needs_buff 每次看到你的回旋镖都绷不住（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053796631611420913",
+        "created_at": "2026-05-12T02:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054029410307842422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2036071254873276416",
+              "start": 0,
+              "username": "renyue105"
+            },
+            {
+              "end": 27,
+              "id": "1593180128204689408",
+              "start": 11,
+              "username": "kaga_needs_buff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054029410307842422",
+        "in_reply_to_user_id": "2036071254873276416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053885291908444473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renyue105 @kaga_needs_buff 每次看到你的回旋镖都绷不住（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036071254873276416",
+        "conversation_id": "2053796631611420913",
+        "created_at": "2026-05-11T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053885291908444473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593180128204689408",
+              "start": 0,
+              "username": "kaga_needs_buff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053885291908444473",
+        "in_reply_to_user_id": "1593180128204689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053867433828753470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaga_needs_buff 我再也不串了，不要在用回旋镖攻击我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 107,
+          "like_count": 2971,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2845
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "家暴党跨女，被迫无糖..\n无糖也要变得pass，加油哦自己",
+        "id": "2036071254873276416",
+        "name": "任成轩",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054026070072950784/f746oG4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 104,
+          "like_count": 2905,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2520
+        },
+        "username": "renyue105",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T09:52:07.000Z",
+        "description": "暂时亚服限定版窝批，cv高手，接cv代打或者别的/推上限定哈气版/哈基米音乐品鉴者",
+        "id": "1593180128204689408",
+        "name": "Hachimichimi_ha（基米互fo）",
+        "pinned_tweet_id": "2038226162238025788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001455506943324160/tB-SrK5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 209,
+          "like_count": 8370,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2224
+        },
+        "username": "kaga_needs_buff",
+        "verified": false
+      }
+    ]
+  }
+}

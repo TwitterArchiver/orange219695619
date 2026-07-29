@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050932045216710656"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050932083435196789",
+    "created_at": "2026-05-03T13:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050932083435196789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPFu53nOEd",
+          "end": 43,
+          "expanded_url": "https://x.com/orange219695619/status/2050932083435196789/photo/1",
+          "media_key": "3_2050932045216710656",
+          "start": 20,
+          "url": "https://t.co/PPFu53nOEd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050932083435196789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是打上舞萌了\n（感觉好像手臂抽筋了） https://t.co/PPFu53nOEd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050932045216710656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZf1C2bgAA_Ejq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050932045216710656"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050932083435196789",
+        "created_at": "2026-05-03T13:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050932083435196789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPFu53nOEd",
+              "end": 43,
+              "expanded_url": "https://x.com/orange219695619/status/2050932083435196789/photo/1",
+              "media_key": "3_2050932045216710656",
+              "start": 20,
+              "url": "https://t.co/PPFu53nOEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050932083435196789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是打上舞萌了\n（感觉好像手臂抽筋了） https://t.co/PPFu53nOEd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 92,
+          "like_count": 1796,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2080
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

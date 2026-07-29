@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057402680923107328"
+      ],
+      "media_source_tweet_id": [
+        "2057416122270368132"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2057448054693986667",
+    "created_at": "2026-05-21T13:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057448054693986667"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1192085455111479296",
+          "start": 3,
+          "username": "hoshizukiyoru_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJQVMqD6vM",
+          "end": 55,
+          "expanded_url": "https://x.com/hoshizukiyoru_/status/2057416122270368132/photo/1",
+          "media_key": "3_2057402680923107328",
+          "start": 32,
+          "url": "https://t.co/jJQVMqD6vM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057448054693986667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057416122270368132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshizukiyoru_: いい子だね\n＃イラスト https://t.co/jJQVMqD6vM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_2057402680923107328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1c1nRbsAASYD9.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057402680923107328"
+          ],
+          "media_source_tweet_id": [
+            "2057416122270368132"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2057448054693986667",
+        "created_at": "2026-05-21T13:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057448054693986667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1192085455111479296",
+              "start": 3,
+              "username": "hoshizukiyoru_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJQVMqD6vM",
+              "end": 55,
+              "expanded_url": "https://x.com/hoshizukiyoru_/status/2057416122270368132/photo/1",
+              "media_key": "3_2057402680923107328",
+              "start": 32,
+              "url": "https://t.co/jJQVMqD6vM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057448054693986667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057416122270368132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshizukiyoru_: いい子だね\n＃イラスト https://t.co/jJQVMqD6vM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057402680923107328"
+          ]
+        },
+        "author_id": "1192085455111479296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2057416122270368132",
+        "created_at": "2026-05-21T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416122270368132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJQVMqD6vM",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshizukiyoru_/status/2057416122270368132/photo/1",
+              "media_key": "3_2057402680923107328",
+              "start": 12,
+              "url": "https://t.co/jJQVMqD6vM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057416122270368132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 597,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "いい子だね\n＃イラスト https://t.co/jJQVMqD6vM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4437,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 3714
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-06T14:25:12.000Z",
+        "description": "よあめです|skeb募集中\n☔︎一次創作イラスト&フリーゲーム制作中心（ノベコレ）\n☔︎FAタグ→（それぞれの作品名）\n☔︎マシュマロ→ https://t.co/imPXTNKhB5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hoshizukiyoru_",
+                "end": 92,
+                "expanded_url": "https://marshmallow-qa.com/hoshizukiyoru_",
+                "start": 69,
+                "url": "https://t.co/imPXTNKhB5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hoshizukiyoru_",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hoshizukiyoru_",
+                "start": 0,
+                "url": "https://t.co/GXYTiTeO70"
+              }
+            ]
+          }
+        },
+        "id": "1192085455111479296",
+        "location": "無断転載&AI学習禁止",
+        "name": "夜雨",
+        "pinned_tweet_id": "2013213346921652438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977818673378447360/m-hVA3dp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 82,
+          "like_count": 13336,
+          "listed_count": 7,
+          "media_count": 776,
+          "tweet_count": 3358
+        },
+        "url": "https://t.co/GXYTiTeO70",
+        "username": "hoshizukiyoru_",
+        "verified": false
+      }
+    ]
+  }
+}

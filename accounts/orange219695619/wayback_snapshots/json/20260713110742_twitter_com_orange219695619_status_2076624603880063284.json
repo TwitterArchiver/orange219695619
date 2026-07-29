@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2076341149166698608",
+    "created_at": "2026-07-13T11:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076624603880063284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810534516198670336",
+          "start": 0,
+          "username": "Keeping06iiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076624603880063284",
+    "in_reply_to_user_id": "1810534516198670336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076598062857007307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keeping06iiii 嗯…差不多\n不是病理性的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2076341149166698608",
+        "created_at": "2026-07-13T11:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076624603880063284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810534516198670336",
+              "start": 0,
+              "username": "Keeping06iiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076624603880063284",
+        "in_reply_to_user_id": "1810534516198670336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076598062857007307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keeping06iiii 嗯…差不多\n不是病理性的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810534516198670336",
+        "conversation_id": "2076341149166698608",
+        "created_at": "2026-07-13T09:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076598062857007307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076598062857007307",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076341149166698608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 躯体化是一种现象而不是一个确切的病，它是指某种因素导致身躯出现了不正常的反应。就像胃炎胃穿孔胃癌都是病，但胃疼是现象不是疾病种类。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 173,
+          "like_count": 17337,
+          "listed_count": 2,
+          "media_count": 522,
+          "tweet_count": 8810
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T04:41:04.000Z",
+        "description": "Pa锁乳环4i男娘，只敢在网上口嗨",
+        "id": "1810534516198670336",
+        "name": "路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075984921798340608/MergogLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 200,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "Keeping06iiii",
+        "verified": false
+      }
+    ]
+  }
+}

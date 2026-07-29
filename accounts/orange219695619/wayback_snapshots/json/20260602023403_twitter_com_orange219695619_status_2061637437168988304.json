@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061637437168988304",
+    "created_at": "2026-06-02T02:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061637437168988304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/orange219695619/status/2061480826031009993",
+          "start": 23,
+          "url": "https://t.co/4Ophn04hmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061637437168988304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061480826031009993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚起，一如既往的疲惫\n好在心情不是那么糟糕了 https://t.co/4Ophn04hmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2061480823279542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvZ4vbbYAAu9f2.jpg",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061637437168988304",
+        "created_at": "2026-06-02T02:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061637437168988304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/orange219695619/status/2061480826031009993",
+              "start": 23,
+              "url": "https://t.co/4Ophn04hmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061637437168988304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061480826031009993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚起，一如既往的疲惫\n好在心情不是那么糟糕了 https://t.co/4Ophn04hmM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061480823279542272"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061480826031009993",
+        "created_at": "2026-06-01T16:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061480826031009993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DM69T5SD57",
+              "end": 50,
+              "expanded_url": "https://x.com/orange219695619/status/2061480826031009993/photo/1",
+              "media_key": "3_2061480823279542272",
+              "start": 27,
+              "url": "https://t.co/DM69T5SD57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061480826031009993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安各位\n今天尝试早点睡\n过了十二点感觉容易发病（） https://t.co/DM69T5SD57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 152,
+          "like_count": 6881,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 4927
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067590678788645042",
+    "created_at": "2026-06-18T13:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067600859383627827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061471722034069504",
+          "start": 0,
+          "username": "TPTC0815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067600859383627827",
+    "in_reply_to_user_id": "2061471722034069504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067596817878200718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPTC0815 国内永远不会说这些“神”的任何负面信息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067590678788645042",
+        "created_at": "2026-06-18T13:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067600859383627827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061471722034069504",
+              "start": 0,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067600859383627827",
+        "in_reply_to_user_id": "2061471722034069504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067596817878200718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPTC0815 国内永远不会说这些“神”的任何负面信息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061471722034069504",
+        "conversation_id": "2067590678788645042",
+        "created_at": "2026-06-18T13:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067596817878200718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067596817878200718",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067590678788645042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 我觉得这种事能引发这样的思考是好事儿。是我们不能否认他们确实有过这种类似的贡献，但是当宣传的时候过度神化把他们从一个活生生的人变成了工具式的叙事的话，性质就完全变了。我觉得做好事很好，但是过度神化用做宣传工具的话，这在很大程度上抹杀了作为人的复杂性，让人变得太扁平了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 190,
+          "like_count": 10740,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 6663
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T15:36:08.000Z",
+        "description": "迷迭",
+        "id": "2061471722034069504",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061473291920105472/sarRI8Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 131,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "TPTC0815",
+        "verified": false
+      }
+    ]
+  }
+}

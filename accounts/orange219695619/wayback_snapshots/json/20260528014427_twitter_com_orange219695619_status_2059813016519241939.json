@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059520263675613184"
+      ],
+      "media_source_tweet_id": [
+        "2059620647798493594"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059813016519241939",
+    "created_at": "2026-05-28T01:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T02:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059813016519241939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kHG3QUIoWw",
+          "end": 43,
+          "expanded_url": "https://x.com/youy1qwq/status/2059620647798493594/photo/1",
+          "media_key": "3_2059520263675613184",
+          "start": 20,
+          "url": "https://t.co/kHG3QUIoWw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059813016519241939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059620647798493594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 我敏感程度 https://t.co/kHG3QUIoWw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2059520263675613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTixJwakAAZtjf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059520263675613184"
+          ],
+          "media_source_tweet_id": [
+            "2059620647798493594"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059813016519241939",
+        "created_at": "2026-05-28T01:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T02:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059813016519241939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHG3QUIoWw",
+              "end": 43,
+              "expanded_url": "https://x.com/youy1qwq/status/2059620647798493594/photo/1",
+              "media_key": "3_2059520263675613184",
+              "start": 20,
+              "url": "https://t.co/kHG3QUIoWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059813016519241939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059620647798493594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 我敏感程度 https://t.co/kHG3QUIoWw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059520263675613184"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2059620647798493594",
+        "created_at": "2026-05-27T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059620647798493594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kHG3QUIoWw",
+              "end": 29,
+              "expanded_url": "https://x.com/youy1qwq/status/2059620647798493594/photo/1",
+              "media_key": "3_2059520263675613184",
+              "start": 6,
+              "url": "https://t.co/kHG3QUIoWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059620647798493594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 13325,
+          "like_count": 694,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "我敏感程度 https://t.co/kHG3QUIoWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 141,
+          "like_count": 6021,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 4469
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13764,
+          "following_count": 1973,
+          "like_count": 4300,
+          "listed_count": 22,
+          "media_count": 1880,
+          "tweet_count": 2452
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067266560054739039",
+    "created_at": "2026-06-18T10:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067551842570207302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067551842570207302",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067266560054739039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 别人为什么要用我家的东西？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067266552798523392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBn-heaMAAUI_G.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067266560054739039",
+        "created_at": "2026-06-18T10:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067551842570207302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067551842570207302",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266560054739039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 别人为什么要用我家的东西？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067266552798523392"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2067266560054739039",
+        "created_at": "2026-06-17T15:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067266560054739039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziNOLMkBLC",
+              "end": 36,
+              "expanded_url": "https://x.com/codyhunk/status/2067266560054739039/photo/1",
+              "media_key": "3_2067266552798523392",
+              "start": 13,
+              "url": "https://t.co/ziNOLMkBLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067266560054739039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 100637,
+          "like_count": 232,
+          "quote_count": 4,
+          "reply_count": 93,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这是把自己当奴隶主了吧！ https://t.co/ziNOLMkBLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 190,
+          "like_count": 10720,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 6651
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14376,
+          "following_count": 1131,
+          "like_count": 24665,
+          "listed_count": 41,
+          "media_count": 6513,
+          "tweet_count": 9733
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

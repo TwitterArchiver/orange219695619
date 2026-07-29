@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2043390785396359626",
+    "created_at": "2026-04-13T08:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043607809577877522"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043607809577877522",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043390785396359626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奥不对，那种把人削成人彘的就算了😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043390785396359626",
+        "created_at": "2026-04-13T08:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043607809577877522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043607809577877522",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043390785396359626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奥不对，那种把人削成人彘的就算了😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043390785396359626",
+        "created_at": "2026-04-12T18:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043390785396359626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Cldeop/status/2043313539759353949",
+              "start": 28,
+              "url": "https://t.co/HMnelcNqgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043390785396359626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043313539759353949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯爱病娇什么的倒也不错，，别的不说至少有共同的爱好（） https://t.co/HMnelcNqgR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 939
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

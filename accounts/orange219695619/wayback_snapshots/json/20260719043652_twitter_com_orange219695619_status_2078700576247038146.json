@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078431226734793116",
+    "created_at": "2026-07-19T04:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078700576247038146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1910879337781628928",
+          "start": 0,
+          "username": "Vioel03"
+        },
+        {
+          "end": 20,
+          "id": "1403679619505483779",
+          "start": 9,
+          "username": "Eririchyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078700576247038146",
+    "in_reply_to_user_id": "1910879337781628928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078431226734793116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vioel03 @Eririchyan 你视频被人盗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29033,
+        "height": 1280,
+        "media_key": "13_2078431154970165248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078431154970165248/img/flaxHVdJwG0P6nFl.jpg",
+        "public_metrics": {
+          "view_count": 227627
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078431154970165248/vid/avc1/320x568/rNm2bBBD-uqpI_dl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078431154970165248/vid/avc1/480x852/wgyHmuAKcqOFAdFa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078431154970165248/vid/avc1/720x1280/0N-m6YwTOyJIYwct.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078431154970165248/pl/fpJAdbyxGv7Yhu9d.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078431226734793116",
+        "created_at": "2026-07-19T04:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078700576247038146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1910879337781628928",
+              "start": 0,
+              "username": "Vioel03"
+            },
+            {
+              "end": 20,
+              "id": "1403679619505483779",
+              "start": 9,
+              "username": "Eririchyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078700576247038146",
+        "in_reply_to_user_id": "1910879337781628928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078431226734793116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vioel03 @Eririchyan 你视频被人盗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078431154970165248"
+          ]
+        },
+        "author_id": "1910879337781628928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2078431226734793116",
+        "created_at": "2026-07-18T10:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078431226734793116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ahaapp.net/4r1NHDz",
+              "end": 59,
+              "expanded_url": "https://ahaapp.net/4r1NHDz",
+              "start": 36,
+              "status": 200,
+              "unwound_url": "https://h5.kiteread.com/kite/promotion-page/index.html?f=kvig145523&h=kvig145523",
+              "url": "https://t.co/CTs2ewFN74"
+            },
+            {
+              "display_url": "pic.x.com/yrLyv1dFmQ",
+              "end": 83,
+              "expanded_url": "https://x.com/Vioel03/status/2078431226734793116/video/1",
+              "media_key": "13_2078431154970165248",
+              "start": 60,
+              "url": "https://t.co/yrLyv1dFmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078431226734793116",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 583,
+          "impression_count": 388341,
+          "like_count": 2387,
+          "quote_count": 4,
+          "reply_count": 30,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "Look at me in this cosplay outfit👇\n\nhttps://t.co/CTs2ewFN74 https://t.co/yrLyv1dFmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 180,
+          "like_count": 18494,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 9222
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T02:15:27.000Z",
+        "description": "",
+        "id": "1910879337781628928",
+        "name": "Arisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916847859846307840/WZyO1_1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9935,
+          "following_count": 124,
+          "like_count": 4808,
+          "listed_count": 11,
+          "media_count": 577,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "Vioel03",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T11:44:47.000Z",
+        "description": "🇨🇳Cosplayer 🔗TikTok/ins：Eririchyan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weidian.com/?userid=260639…",
+                "end": 23,
+                "expanded_url": "http://weidian.com/?userid=260639907&p=iphone&wfr=BuyercopyURL&share_relation=d21686d3178f4e4b_260639907_1",
+                "start": 0,
+                "url": "https://t.co/MLvqeQs3Ev"
+              }
+            ]
+          }
+        },
+        "id": "1403679619505483779",
+        "location": "国内写真购买👉",
+        "name": "樱梨梨",
+        "pinned_tweet_id": "1664586863645163521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583587454103490560/aqRmoFxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399720,
+          "following_count": 135,
+          "like_count": 521,
+          "listed_count": 991,
+          "media_count": 121,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/MLvqeQs3Ev",
+        "username": "Eririchyan",
+        "verified": true
+      }
+    ]
+  }
+}

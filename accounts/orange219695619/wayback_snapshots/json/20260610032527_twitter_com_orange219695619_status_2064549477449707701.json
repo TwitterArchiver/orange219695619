@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064113050270245214",
+    "created_at": "2026-06-10T03:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064549477449707701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462266533254553607",
+          "start": 0,
+          "username": "yangqun85275038"
+        },
+        {
+          "end": 31,
+          "id": "2053130171746578433",
+          "start": 17,
+          "username": "chnynjn265097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064549477449707701",
+    "in_reply_to_user_id": "1462266533254553607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064545288287883430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangqun85275038 @chnynjn265097 这倒是提醒我了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064113050270245214",
+        "created_at": "2026-06-10T03:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064549477449707701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462266533254553607",
+              "start": 0,
+              "username": "yangqun85275038"
+            },
+            {
+              "end": 31,
+              "id": "2053130171746578433",
+              "start": 17,
+              "username": "chnynjn265097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064549477449707701",
+        "in_reply_to_user_id": "1462266533254553607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064545288287883430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangqun85275038 @chnynjn265097 这倒是提醒我了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462266533254553607",
+        "conversation_id": "2064113050270245214",
+        "created_at": "2026-06-10T03:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064545288287883430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 31,
+              "id": "2053130171746578433",
+              "start": 17,
+              "username": "chnynjn265097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064545288287883430",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064311064096071961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @chnynjn265097 當然是為了打个觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 164,
+          "like_count": 8618,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 5766
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T03:48:34.000Z",
+        "description": "",
+        "id": "1462266533254553607",
+        "name": "羊群",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462266662041042946/OO80G-ny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 270,
+          "like_count": 135,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 701
+        },
+        "username": "yangqun85275038",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T15:09:24.000Z",
+        "description": "",
+        "id": "2053130171746578433",
+        "name": "baikong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053130345919250432/r6Am6PH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "chnynjn265097",
+        "verified": false
+      }
+    ]
+  }
+}

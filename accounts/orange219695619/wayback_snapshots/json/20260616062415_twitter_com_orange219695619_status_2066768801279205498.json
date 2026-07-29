@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066729921872097305",
+    "created_at": "2026-06-16T06:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066768801279205498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        },
+        {
+          "end": 24,
+          "id": "2053717016092295169",
+          "start": 12,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066768801279205498",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066741527368585714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo @xixijun8827 真坏啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066729921872097305",
+        "created_at": "2026-06-16T06:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066768801279205498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            },
+            {
+              "end": 24,
+              "id": "2053717016092295169",
+              "start": 12,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066768801279205498",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066741527368585714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo @xixijun8827 真坏啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2066729921872097305",
+        "created_at": "2026-06-16T04:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066741527368585714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066741527368585714",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066729921872097305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 11😈问一个有一个算一个😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 183,
+          "like_count": 9990,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 6405
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 86,
+          "like_count": 6613,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2020
+        },
+        "username": "Chu_Echooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟の鬼/爱打麻将，日麻和广东麻将都玩。可以找我做心理咨询哦，祝你天天开心\n来都来了，互fo再走吧https://t.co/HZW0mjBRD7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 76,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 53,
+                "url": "https://t.co/HZW0mjBRD7"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "name": "无问",
+        "pinned_tweet_id": "2061872985347117213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 127,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 351
+        },
+        "username": "xixijun8827",
+        "verified": false
+      }
+    ]
+  }
+}

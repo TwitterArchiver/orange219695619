@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048054895673331761",
+    "created_at": "2026-04-25T17:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048087461231055251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037718419563245568",
+          "start": 0,
+          "username": "DavidMasse53431"
+        },
+        {
+          "end": 27,
+          "id": "1634944403872833536",
+          "start": 17,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048087461231055251",
+    "in_reply_to_user_id": "2037718419563245568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048070645582290988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavidMasse53431 @wmy072011 这回人机说对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048054895673331761",
+        "created_at": "2026-04-25T17:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048087461231055251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037718419563245568",
+              "start": 0,
+              "username": "DavidMasse53431"
+            },
+            {
+              "end": 27,
+              "id": "1634944403872833536",
+              "start": 17,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048087461231055251",
+        "in_reply_to_user_id": "2037718419563245568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048070645582290988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidMasse53431 @wmy072011 这回人机说对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037718419563245568",
+        "conversation_id": "2048054895673331761",
+        "created_at": "2026-04-25T16:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048070645582290988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048070645582290988",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048054895673331761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 寂寞啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 81,
+          "like_count": 1137,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1562
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T02:28:34.000Z",
+        "description": "已入驻约p平台:👉https://t.co/DhSLFus676只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/DhSLFus676"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozi8811",
+                "end": 23,
+                "expanded_url": "https://t.me/taozi8811",
+                "start": 0,
+                "url": "https://t.co/f5m1irCbEh"
+              }
+            ]
+          }
+        },
+        "id": "2037718419563245568",
+        "location": "附近3.58km              👉全国外围上门✈",
+        "name": "忆香🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048070655338508288/cVG5O4Wj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/f5m1irCbEh",
+        "username": "DavidMasse53431",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 329,
+          "like_count": 39477,
+          "listed_count": 1,
+          "media_count": 1376,
+          "tweet_count": 13086
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

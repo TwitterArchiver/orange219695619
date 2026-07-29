@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056631494790234123",
+    "created_at": "2026-05-19T11:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056697186419896735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918857660835020800",
+          "start": 0,
+          "username": "mji1627885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056697186419896735",
+    "in_reply_to_user_id": "1918857660835020800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056631494790234123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mji1627885 离谱😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056631494790234123",
+        "created_at": "2026-05-19T11:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056697186419896735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918857660835020800",
+              "start": 0,
+              "username": "mji1627885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697186419896735",
+        "in_reply_to_user_id": "1918857660835020800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056631494790234123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mji1627885 离谱😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918857660835020800",
+        "conversation_id": "2056631494790234123",
+        "created_at": "2026-05-19T07:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056631494790234123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056631494790234123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11474,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来小时候其实有一次差点就被操了。小时候回老家，在老家店外面玩，有一个我堂姐的男性朋友，前几天都很正常的玩，后来有一天他约我到一个居民楼的最顶楼让我把裤子脱下来看，之后还说今天晚上要我在这等他。但是因为晚上店关门的比较早我就跟着家长先回去了，，差点就被操了。我当时才幼儿园。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 124,
+          "like_count": 4053,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3506
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T02:38:19.000Z",
+        "description": "想被女人操。",
+        "id": "1918857660835020800",
+        "name": "恨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053764890670796800/2zcvYowU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 499,
+          "like_count": 3901,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 108
+        },
+        "username": "mji1627885",
+        "verified": false
+      }
+    ]
+  }
+}

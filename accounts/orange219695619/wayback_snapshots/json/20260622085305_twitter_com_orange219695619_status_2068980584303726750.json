@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068976299990016023",
+    "created_at": "2026-06-22T08:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068980584303726750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938417216338399232",
+          "start": 0,
+          "username": "anochan_gekini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068980584303726750",
+    "in_reply_to_user_id": "1938417216338399232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068976299990016023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anochan_gekini 诶…雪糕嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2068976292373078016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ6-duaIAAZ5Uc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1329,
+        "media_key": "3_2068976295707615232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ6-qJbIAALEL2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068976299990016023",
+        "created_at": "2026-06-22T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068980584303726750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938417216338399232",
+              "start": 0,
+              "username": "anochan_gekini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068980584303726750",
+        "in_reply_to_user_id": "1938417216338399232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068976299990016023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anochan_gekini 诶…雪糕嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068976292373078016",
+            "3_2068976295707615232"
+          ]
+        },
+        "author_id": "1938417216338399232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2068976299990016023",
+        "created_at": "2026-06-22T08:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068976299990016023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci719gycDj",
+              "end": 43,
+              "expanded_url": "https://x.com/anochan_gekini/status/2068976299990016023/photo/1",
+              "media_key": "3_2068976292373078016",
+              "start": 20,
+              "url": "https://t.co/Ci719gycDj"
+            },
+            {
+              "display_url": "pic.x.com/Ci719gycDj",
+              "end": 43,
+              "expanded_url": "https://x.com/anochan_gekini/status/2068976299990016023/photo/1",
+              "media_key": "3_2068976295707615232",
+              "start": 20,
+              "url": "https://t.co/Ci719gycDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068976299990016023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この東京ばな奈名前のクセがスゴいのだ！ https://t.co/Ci719gycDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 198,
+          "like_count": 11865,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 7104
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T02:01:14.000Z",
+        "description": "あのちゃん激似おじさんなのだ。本物のおじさんなのだ。\n\nTik Tok\nhttps://t.co/0MWO9wKFLd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@anochan_gekin…",
+                "end": 59,
+                "expanded_url": "https://www.tiktok.com/@anochan_gekini?_r=1&_t=ZS-919MMVKHPUK",
+                "start": 36,
+                "url": "https://t.co/0MWO9wKFLd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZZNt…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCZZNtt4u5SPbvRTE0jMNE-Q?si=g8SX1_vLvegfIEz-",
+                "start": 0,
+                "url": "https://t.co/stpTcVgyNC"
+              }
+            ]
+          }
+        },
+        "id": "1938417216338399232",
+        "name": "あのちゃん激似おじさん",
+        "pinned_tweet_id": "1971544634116698268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938418819103657986/FzgmqCBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 515,
+          "like_count": 24590,
+          "listed_count": 4,
+          "media_count": 1221,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/stpTcVgyNC",
+        "username": "anochan_gekini",
+        "verified": false
+      }
+    ]
+  }
+}

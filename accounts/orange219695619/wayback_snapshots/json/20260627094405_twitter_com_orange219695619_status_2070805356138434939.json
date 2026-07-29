@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070805353567248384"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070805356138434939",
+    "created_at": "2026-06-27T09:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070805356138434939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1NZyW7RjW",
+          "end": 52,
+          "expanded_url": "https://x.com/orange219695619/status/2070805356138434939/photo/1",
+          "media_key": "3_2070805353567248384",
+          "start": 29,
+          "url": "https://t.co/h1NZyW7RjW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070805356138434939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇！光头！\n（依旧渲染错误，槟榔地下看看你做的游戏！😡） https://t.co/h1NZyW7RjW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2070805353567248384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz6f1paYAAA0JY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070805353567248384"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070805356138434939",
+        "created_at": "2026-06-27T09:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070805356138434939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1NZyW7RjW",
+              "end": 52,
+              "expanded_url": "https://x.com/orange219695619/status/2070805356138434939/photo/1",
+              "media_key": "3_2070805353567248384",
+              "start": 29,
+              "url": "https://t.co/h1NZyW7RjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070805356138434939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇！光头！\n（依旧渲染错误，槟榔地下看看你做的游戏！😡） https://t.co/h1NZyW7RjW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 193,
+          "like_count": 13555,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 7708
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

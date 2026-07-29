@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047340382636367872"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2047340384825851911",
+    "created_at": "2026-04-23T15:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047340384825851911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QgoA0H8ogX",
+          "end": 32,
+          "expanded_url": "https://x.com/orange219695619/status/2047340384825851911/photo/1",
+          "media_key": "3_2047340382636367872",
+          "start": 9,
+          "url": "https://t.co/QgoA0H8ogX"
+        },
+        {
+          "display_url": "x.com/_CuicuiMiao_/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/_CuicuiMiao_/status/2047299672902099045",
+          "start": 33,
+          "url": "https://t.co/TF4N4NMxRA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047340384825851911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047299672902099045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6.0刚出两天… https://t.co/QgoA0H8ogX https://t.co/TF4N4NMxRA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2047299672902099045].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047299672902099045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047299672902099045"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047340382636367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmdOxFaYAAuSUA.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047340382636367872"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2047340384825851911",
+        "created_at": "2026-04-23T15:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047340384825851911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgoA0H8ogX",
+              "end": 32,
+              "expanded_url": "https://x.com/orange219695619/status/2047340384825851911/photo/1",
+              "media_key": "3_2047340382636367872",
+              "start": 9,
+              "url": "https://t.co/QgoA0H8ogX"
+            },
+            {
+              "display_url": "x.com/_CuicuiMiao_/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/_CuicuiMiao_/status/2047299672902099045",
+              "start": 33,
+              "url": "https://t.co/TF4N4NMxRA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047340384825851911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047299672902099045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6.0刚出两天… https://t.co/QgoA0H8ogX https://t.co/TF4N4NMxRA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 82,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1417
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

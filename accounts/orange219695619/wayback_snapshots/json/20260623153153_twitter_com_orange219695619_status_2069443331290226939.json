@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069417707997741066",
+    "created_at": "2026-06-23T15:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069443331290226939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069443331290226939",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069417707997741066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 3，7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_2069417698426241025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgMbraaQAEGArK.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069417707997741066",
+        "created_at": "2026-06-23T15:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069443331290226939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069443331290226939",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069417707997741066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 3，7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069417698426241025"
+          ]
+        },
+        "author_id": "1660586167807664129",
+        "conversation_id": "2069417707997741066",
+        "created_at": "2026-06-23T13:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069417707997741066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIwanGiyl3",
+              "end": 33,
+              "expanded_url": "https://x.com/ttttk567/status/2069417707997741066/photo/1",
+              "media_key": "3_2069417698426241025",
+              "start": 10,
+              "url": "https://t.co/VIwanGiyl3"
+            },
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/mark67358226/status/2069371136803328167",
+              "start": 34,
+              "url": "https://t.co/xzwp4Lxqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069417707997741066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069371136803328167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来玩 🏴‍☠️ https://t.co/VIwanGiyl3 https://t.co/xzwp4Lxqv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 198,
+          "like_count": 12409,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 7337
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066369584224198656/N9WKr45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 1354,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 978
+        },
+        "url": "",
+        "username": "ttttk567",
+        "verified": true
+      }
+    ]
+  }
+}

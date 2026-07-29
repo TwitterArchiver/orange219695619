@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069389977084145705",
+    "created_at": "2026-06-23T13:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069415195940913618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "817556537505771520",
+          "start": 0,
+          "username": "trekkerliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069415195940913618",
+    "in_reply_to_user_id": "817556537505771520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069400155514966373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trekkerliu 那你通过什么释放压力🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069389977084145705",
+        "created_at": "2026-06-23T13:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069415195940913618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "817556537505771520",
+              "start": 0,
+              "username": "trekkerliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069415195940913618",
+        "in_reply_to_user_id": "817556537505771520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069400155514966373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trekkerliu 那你通过什么释放压力🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "817556537505771520",
+        "conversation_id": "2069389977084145705",
+        "created_at": "2026-06-23T12:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069400155514966373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069400155514966373",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069389977084145705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 黄的话只看过少数几部日本出产的，算是了解一下这玩意究竟是怎么一回事，至于酒基本只有公司聚会或者好友聚会小酌几杯，平时不喝，其它的真的不沾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 12357,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 7309
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-07T02:20:42.000Z",
+        "description": "",
+        "id": "817556537505771520",
+        "name": "Monoceros",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907633558285565952/-cA06EhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 913,
+          "like_count": 71082,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 8684
+        },
+        "url": "",
+        "username": "trekkerliu",
+        "verified": false
+      }
+    ]
+  }
+}

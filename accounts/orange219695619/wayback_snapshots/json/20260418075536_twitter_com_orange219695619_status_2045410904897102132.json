@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fruits",
+          "id": "841969352828112896",
+          "name": "Fruits"
+        }
+      }
+    ],
+    "conversation_id": "2045125663250940336",
+    "created_at": "2026-04-18T07:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045410904897102132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045410904897102132",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045125663250940336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg 健胃消食片，西瓜霜，枇杷膏，生理盐水，葡萄糖溶液，维生素片，水果味钙片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045125649900466176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG-8WtbcAArVZD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2045125663250940336",
+        "created_at": "2026-04-18T07:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045410904897102132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045410904897102132",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045125663250940336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg 健胃消食片，西瓜霜，枇杷膏，生理盐水，葡萄糖溶液，维生素片，水果味钙片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045125649900466176"
+          ]
+        },
+        "author_id": "1652200117494231043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045125663250940336",
+        "created_at": "2026-04-17T13:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045125663250940336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DQHP3MWkE",
+              "end": 47,
+              "expanded_url": "https://x.com/OuO_QwQg/status/2045125663250940336/photo/1",
+              "media_key": "3_2045125649900466176",
+              "start": 24,
+              "url": "https://t.co/3DQHP3MWkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045125663250940336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11077,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在药店了，问问od买什么药好？最近有点想不开了 https://t.co/3DQHP3MWkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 77,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1147
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜匿名箱 https://t.co/TsKHcf6fRX\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 91,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 68,
+                "url": "https://t.co/TsKHcf6fRX"
+              },
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 129,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 106,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 62,
+          "like_count": 7554,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 2817
+        },
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

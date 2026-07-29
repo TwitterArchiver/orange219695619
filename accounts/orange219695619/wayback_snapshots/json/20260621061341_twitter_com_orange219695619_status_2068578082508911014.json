@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068524091381002436",
+    "created_at": "2026-06-21T06:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068578082508911014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1536308137057062912",
+          "start": 0,
+          "username": "xm77cooky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068578082508911014",
+    "in_reply_to_user_id": "1536308137057062912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068524091381002436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm77cooky 闭眼切（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068524091381002436",
+        "created_at": "2026-06-21T06:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068578082508911014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1536308137057062912",
+              "start": 0,
+              "username": "xm77cooky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068578082508911014",
+        "in_reply_to_user_id": "1536308137057062912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068524091381002436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm77cooky 闭眼切（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536308137057062912",
+        "conversation_id": "2068524091381002436",
+        "created_at": "2026-06-21T02:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068524091381002436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068524091381002436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 838,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底要怎么切洋葱才不会哭TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 198,
+          "like_count": 11428,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 6887
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T11:23:13.000Z",
+        "description": "🌈les /04/h偏p/推上发日常或发些弹唱片段🎶/私信对女孩子开放，可以分享、倾诉/兔兔教🐰\n⚠蝻打扰直接蔽\n提问箱➡️ https://t.co/WLZKOoMiER",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xlin43119",
+                "end": 86,
+                "expanded_url": "https://ngl.link/xlin43119",
+                "start": 63,
+                "url": "https://t.co/WLZKOoMiER"
+              }
+            ]
+          }
+        },
+        "id": "1536308137057062912",
+        "name": "小林选手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033926746857476099/nSHvWC4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 172,
+          "like_count": 8828,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "xm77cooky",
+        "verified": false
+      }
+    ]
+  }
+}

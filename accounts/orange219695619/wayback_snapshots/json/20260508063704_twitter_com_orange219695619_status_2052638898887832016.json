@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052101600362254377",
+    "created_at": "2026-05-08T06:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052638898887832016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1934473367245217793",
+          "start": 0,
+          "username": "ision0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052638898887832016",
+    "in_reply_to_user_id": "1934473367245217793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052628735132827668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ision0511 嗯🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052101600362254377",
+        "created_at": "2026-05-08T06:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052638898887832016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1934473367245217793",
+              "start": 0,
+              "username": "ision0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052638898887832016",
+        "in_reply_to_user_id": "1934473367245217793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052628735132827668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ision0511 嗯🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934473367245217793",
+        "conversation_id": "2052101600362254377",
+        "created_at": "2026-05-08T05:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052628735132827668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052628735132827668",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052358046870089909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 我會的，你也是🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 99,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2403
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:49:34.000Z",
+        "description": "叫我夾子就好 割/o 我很溫良可以來找我玩 謝謝你們的喜歡",
+        "id": "1934473367245217793",
+        "name": "為你奉上我迄今為止的人生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046282060499968000/ZyyawPW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 359,
+          "like_count": 3622,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 319
+        },
+        "username": "ision0511",
+        "verified": false
+      }
+    ]
+  }
+}

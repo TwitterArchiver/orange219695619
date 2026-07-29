@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075933579226620175",
+    "created_at": "2026-07-11T13:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075933579226620175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/orange219695619/status/2075932489324102133",
+          "start": 42,
+          "url": "https://t.co/lPmFZkkQGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075933579226620175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075932489324102133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "21：20剧烈变形，实在是太难喝了\n我不明白为什么白酒好喝雪碧好喝掺一块就不好喝了 https://t.co/lPmFZkkQGq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075933579226620175",
+        "created_at": "2026-07-11T13:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075933579226620175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/orange219695619/status/2075932489324102133",
+              "start": 42,
+              "url": "https://t.co/lPmFZkkQGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075933579226620175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075932489324102133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21：20剧烈变形，实在是太难喝了\n我不明白为什么白酒好喝雪碧好喝掺一块就不好喝了 https://t.co/lPmFZkkQGq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075932489324102133",
+        "created_at": "2026-07-11T13:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075932489324102133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/orange219695619/status/2075931612689355071",
+              "start": 29,
+              "url": "https://t.co/NWPecB8FqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075932489324102133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075931612689355071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃啊…嘶…白酒兑雪碧好难喝\n我感觉我在喝那种汽车用的乙醇 https://t.co/NWPecB8FqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 173,
+          "like_count": 16857,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 8660
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

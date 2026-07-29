@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2032220122870661371",
+    "created_at": "2026-07-26T15:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081408907113906190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "829603366154051584",
+          "start": 0,
+          "username": "mayajoss1"
+        },
+        {
+          "end": 25,
+          "id": "1937073350750466048",
+          "start": 11,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081408907113906190",
+    "in_reply_to_user_id": "829603366154051584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032489422554300864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayajoss1 @karo269640607 还有老资历"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2032489373455794176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDTaUQqWwAAMa5n.png",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2032220122870661371",
+        "created_at": "2026-07-26T15:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081408907113906190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "829603366154051584",
+              "start": 0,
+              "username": "mayajoss1"
+            },
+            {
+              "end": 25,
+              "id": "1937073350750466048",
+              "start": 11,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081408907113906190",
+        "in_reply_to_user_id": "829603366154051584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032489422554300864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayajoss1 @karo269640607 还有老资历"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032489373455794176"
+          ]
+        },
+        "author_id": "829603366154051584",
+        "conversation_id": "2032220122870661371",
+        "created_at": "2026-03-13T16:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032489422554300864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxY7tY05qe",
+              "end": 46,
+              "expanded_url": "https://x.com/mayajoss1/status/2032489422554300864/photo/1",
+              "media_key": "3_2032489373455794176",
+              "start": 23,
+              "url": "https://t.co/fxY7tY05qe"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "013285d73132f735"
+        },
+        "id": "2032489422554300864",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032220122870661371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 这才叫上古好吗 https://t.co/fxY7tY05qe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 183,
+          "like_count": 20173,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 9772
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-09T08:10:30.000Z",
+        "description": "千金易得，知己难寻；春华有尽，英雄无归。\nGold easy found\nFriend hard seek; \nSpring must fade\nHero never back.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bandlab.com/mayajossmin",
+                "end": 23,
+                "expanded_url": "https://www.bandlab.com/mayajossmin",
+                "start": 0,
+                "url": "https://t.co/N81JRVyfGj"
+              }
+            ]
+          }
+        },
+        "id": "829603366154051584",
+        "location": "Kallithea, Greece",
+        "name": "Mayajoss 'Swift' Min🎻🇬🇷",
+        "pinned_tweet_id": "2040410642838872473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038489544027455488/YLnDwwiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 124,
+          "like_count": 6952,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 4758
+        },
+        "url": "https://t.co/N81JRVyfGj",
+        "username": "mayajoss1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 767,
+          "like_count": 42026,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 8664
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

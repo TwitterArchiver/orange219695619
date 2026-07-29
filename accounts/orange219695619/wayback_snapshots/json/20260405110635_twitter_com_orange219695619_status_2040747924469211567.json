@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040747924469211567",
+    "created_at": "2026-04-05T11:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040747924469211567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DXMDusk/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/DXMDusk/status/2040688330220949796",
+          "start": 7,
+          "url": "https://t.co/aiP87janvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040747924469211567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040688330220949796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "六七年了吧… https://t.co/aiP87janvO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2040688327687573504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFH7ONUakAA6p9V.jpg",
+        "width": 1713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040747924469211567",
+        "created_at": "2026-04-05T11:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040747924469211567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXMDusk/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/DXMDusk/status/2040688330220949796",
+              "start": 7,
+              "url": "https://t.co/aiP87janvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040747924469211567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040688330220949796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六七年了吧… https://t.co/aiP87janvO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040688327687573504"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2040688330220949796",
+        "created_at": "2026-04-05T07:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040688330220949796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z35R1B9Utf",
+              "end": 36,
+              "expanded_url": "https://x.com/DXMDusk/status/2040688330220949796/photo/1",
+              "media_key": "3_2040688327687573504",
+              "start": 13,
+              "url": "https://t.co/z35R1B9Utf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040688330220949796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2259,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你有多久没做过这个动作了 https://t.co/z35R1B9Utf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 584
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 1101,
+          "like_count": 2044,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 2079
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

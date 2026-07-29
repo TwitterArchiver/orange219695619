@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055182108138914279",
+    "created_at": "2026-05-15T11:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055242579965559199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878480066088402944",
+          "start": 0,
+          "username": "cjfx1892"
+        },
+        {
+          "end": 24,
+          "id": "1857802986837172224",
+          "start": 10,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055242579965559199",
+    "in_reply_to_user_id": "1878480066088402944",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055227700294590845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjfx1892 @LingJiaXin233 9331"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055182108138914279",
+        "created_at": "2026-05-15T11:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055242579965559199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878480066088402944",
+              "start": 0,
+              "username": "cjfx1892"
+            },
+            {
+              "end": 24,
+              "id": "1857802986837172224",
+              "start": 10,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055242579965559199",
+        "in_reply_to_user_id": "1878480066088402944",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055227700294590845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjfx1892 @LingJiaXin233 9331"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878480066088402944",
+        "conversation_id": "2055182108138914279",
+        "created_at": "2026-05-15T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055227700294590845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055227700294590845",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055182108138914279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 逃到这里总没有孟德尔了吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 116,
+          "like_count": 3515,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3198
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T16:33:09.000Z",
+        "description": "電子知能障害。",
+        "id": "1878480066088402944",
+        "location": "The earth ",
+        "name": "林檎斎主人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878484132885680128/3aVNGZPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 56,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1229
+        },
+        "username": "cjfx1892",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2054985821275803784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5099,
+          "following_count": 683,
+          "like_count": 16811,
+          "listed_count": 10,
+          "media_count": 1463,
+          "tweet_count": 4546
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

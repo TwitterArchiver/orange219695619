@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069993178904895495",
+    "created_at": "2026-06-25T03:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069993178904895495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355717461451005953",
+          "start": 3,
+          "username": "chennan789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/W",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069993178904895495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069594411219185958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chennan789: 64岁老汉捡了一名女弃婴，终身未娶且富养到川大硕士毕业，手机电脑都买最贵的。\n\n没想到这女弃婴偷了老汉二十万养老金，还在初中就和她的生父生母相认，一直偷偷给他们转账。\n\n现在老汉维权不仅没有人处理，账号都被抖音封了。 https://t.co/W…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069594399298781184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLitJBdXgAAvDbs.jpg",
+        "width": 764
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069594399177400320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLitJBAbYAAl6Ja.jpg",
+        "width": 625
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069993178904895495",
+        "created_at": "2026-06-25T03:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069993178904895495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355717461451005953",
+              "start": 3,
+              "username": "chennan789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/W",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069993178904895495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069594411219185958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chennan789: 64岁老汉捡了一名女弃婴，终身未娶且富养到川大硕士毕业，手机电脑都买最贵的。\n\n没想到这女弃婴偷了老汉二十万养老金，还在初中就和她的生父生母相认，一直偷偷给他们转账。\n\n现在老汉维权不仅没有人处理，账号都被抖音封了。 https://t.co/W…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069594399298781184",
+            "3_2069594399177400320"
+          ]
+        },
+        "author_id": "1355717461451005953",
+        "conversation_id": "2069594411219185958",
+        "created_at": "2026-06-24T01:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069594411219185958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W32utRkxZR",
+              "end": 132,
+              "expanded_url": "https://x.com/chennan789/status/2069594411219185958/photo/1",
+              "media_key": "3_2069594399298781184",
+              "start": 109,
+              "url": "https://t.co/W32utRkxZR"
+            },
+            {
+              "display_url": "pic.x.com/W32utRkxZR",
+              "end": 132,
+              "expanded_url": "https://x.com/chennan789/status/2069594411219185958/photo/1",
+              "media_key": "3_2069594399177400320",
+              "start": 109,
+              "url": "https://t.co/W32utRkxZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069594411219185958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 378219,
+          "like_count": 1923,
+          "quote_count": 14,
+          "reply_count": 662,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "64岁老汉捡了一名女弃婴，终身未娶且富养到川大硕士毕业，手机电脑都买最贵的。\n\n没想到这女弃婴偷了老汉二十万养老金，还在初中就和她的生父生母相认，一直偷偷给他们转账。\n\n现在老汉维权不仅没有人处理，账号都被抖音封了。 https://t.co/W32utRkxZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 195,
+          "like_count": 12923,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 7508
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T03:20:19.000Z",
+        "description": "反对极端主义\n共创美好明天",
+        "id": "1355717461451005953",
+        "location": "Hong Kong",
+        "name": "陈哥",
+        "pinned_tweet_id": "2058362609838215564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725454110076624896/EFPTmVpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16823,
+          "following_count": 1453,
+          "like_count": 193,
+          "listed_count": 40,
+          "media_count": 1682,
+          "tweet_count": 3093
+        },
+        "url": "",
+        "username": "chennan789",
+        "verified": true
+      }
+    ]
+  }
+}

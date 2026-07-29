@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069810372534751476",
+    "created_at": "2026-06-25T08:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070054619322216605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038805323994345472",
+          "start": 0,
+          "username": "yakifordinner"
+        },
+        {
+          "end": 24,
+          "id": "2037074075596840960",
+          "start": 15,
+          "username": "sane3z4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070054619322216605",
+    "in_reply_to_user_id": "2038805323994345472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069970827916005692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yakifordinner @sane3z4w 话糙理不糙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2069970817879015424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoDfd8agAAxbbc.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069810372534751476",
+        "created_at": "2026-06-25T08:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070054619322216605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038805323994345472",
+              "start": 0,
+              "username": "yakifordinner"
+            },
+            {
+              "end": 24,
+              "id": "2037074075596840960",
+              "start": 15,
+              "username": "sane3z4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070054619322216605",
+        "in_reply_to_user_id": "2038805323994345472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069970827916005692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yakifordinner @sane3z4w 话糙理不糙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069970817879015424"
+          ]
+        },
+        "author_id": "2038805323994345472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069810372534751476",
+        "created_at": "2026-06-25T02:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069970827916005692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037074075596840960",
+              "start": 0,
+              "username": "sane3z4w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HwVmLUO121",
+              "end": 33,
+              "expanded_url": "https://x.com/yakifordinner/status/2069970827916005692/photo/1",
+              "media_key": "3_2069970817879015424",
+              "start": 10,
+              "url": "https://t.co/HwVmLUO121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069970827916005692",
+        "in_reply_to_user_id": "2037074075596840960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1285,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069810372534751476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sane3z4w https://t.co/HwVmLUO121"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 195,
+          "like_count": 13007,
+          "listed_count": 2,
+          "media_count": 441,
+          "tweet_count": 7525
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T02:28:15.000Z",
+        "description": "03｜♍️｜infp｜不止是泛性恋｜酒鬼｜财迷\n一个炫压抑又话唠的社畜 想发什么发什么 强迫不了我做任何事 我上网就是当皇帝来的，但是色情信息秒回👍\n互关的老公老婆们请来加我v😋",
+        "id": "2038805323994345472",
+        "location": "0.9km",
+        "name": "我喺铜锣烧（皇帝版）",
+        "pinned_tweet_id": "2055316127044235666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044973099423281153/KYfgTh3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7372,
+          "following_count": 428,
+          "like_count": 4703,
+          "listed_count": 9,
+          "media_count": 204,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "yakifordinner",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T07:48:39.000Z",
+        "description": "無。",
+        "id": "2037074075596840960",
+        "name": "Sane_",
+        "pinned_tweet_id": "2054597841155498462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067589421919268864/ZmORCfoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 9,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "sane3z4w",
+        "verified": false
+      }
+    ]
+  }
+}

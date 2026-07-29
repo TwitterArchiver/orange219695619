@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060821884946760044",
+    "created_at": "2026-05-30T20:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060821884946760044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1066665672",
+          "start": 3,
+          "username": "ClaudiaToni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060821884946760044",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3659
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060382084993028596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ClaudiaToni: Una donna riceve un avviso dalla telecamera di sicurezza interna mentre era fuori casa:\n\"Ecco cosa ho visto\" 🤣🤣 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24256,
+        "height": 922,
+        "media_key": "7_2060382051476353028",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060382051476353028/pu/img/DJyiKbJclGVPuJmx.jpg",
+        "public_metrics": {
+          "view_count": 674857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060382051476353028/pu/vid/avc1/320x408/3Ogbiho1wCyA4egq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060382051476353028/pu/vid/avc1/480x614/RGDO9I-ZNMvWZTF9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060382051476353028/pu/vid/avc1/720x922/BKpVqI3moVVk54jU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060382051476353028/pu/pl/DJWobWkKVrUyEqq1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060821884946760044",
+        "created_at": "2026-05-30T20:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060821884946760044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1066665672",
+              "start": 3,
+              "username": "ClaudiaToni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060821884946760044",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3659
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060382084993028596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ClaudiaToni: Una donna riceve un avviso dalla telecamera di sicurezza interna mentre era fuori casa:\n\"Ecco cosa ho visto\" 🤣🤣 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060382051476353028"
+          ]
+        },
+        "author_id": "1066665672",
+        "conversation_id": "2060382084993028596",
+        "created_at": "2026-05-29T15:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060382084993028596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ha9SDaV1mI",
+              "end": 135,
+              "expanded_url": "https://x.com/ClaudiaToni/status/2060382084993028596/video/1",
+              "media_key": "7_2060382051476353028",
+              "start": 112,
+              "url": "https://t.co/ha9SDaV1mI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060382084993028596",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1875,
+          "impression_count": 1146143,
+          "like_count": 28689,
+          "quote_count": 134,
+          "reply_count": 219,
+          "retweet_count": 3659
+        },
+        "reply_settings": "everyone",
+        "text": "Una donna riceve un avviso dalla telecamera di sicurezza interna mentre era fuori casa:\n\"Ecco cosa ho visto\" 🤣🤣 https://t.co/ha9SDaV1mI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 148,
+          "like_count": 6540,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 4769
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-06T20:51:17.000Z",
+        "description": "Amo dare visibilità a chi fa del bene agli animali. A chi in questo mondo quasi marcio fa la differenza!!\n❤️ Diamo voce a chi non ne ha! ❤",
+        "id": "1066665672",
+        "name": "Claudia",
+        "pinned_tweet_id": "2045948704155201983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/672787736726761472/DYqoaw3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8862,
+          "following_count": 98,
+          "like_count": 71726,
+          "listed_count": 46,
+          "media_count": 12708,
+          "tweet_count": 83094
+        },
+        "username": "ClaudiaToni",
+        "verified": true
+      }
+    ]
+  }
+}

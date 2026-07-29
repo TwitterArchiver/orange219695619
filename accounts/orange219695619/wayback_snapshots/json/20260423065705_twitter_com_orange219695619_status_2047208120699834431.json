@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047147752346484736"
+      ],
+      "media_source_tweet_id": [
+        "2047147989727395960"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2047208120699834431",
+    "created_at": "2026-04-23T06:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047208120699834431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4EZIyjx38P",
+          "end": 46,
+          "expanded_url": "https://x.com/hgds0/status/2047147989727395960/photo/1",
+          "media_key": "3_2047147752346484736",
+          "start": 23,
+          "url": "https://t.co/4EZIyjx38P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047208120699834431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047147989727395960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 好厨子一句话就是一顿饭 https://t.co/4EZIyjx38P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2047147752346484736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjuCNVaAAA6E0O.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047147752346484736"
+          ],
+          "media_source_tweet_id": [
+            "2047147989727395960"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2047208120699834431",
+        "created_at": "2026-04-23T06:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047208120699834431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EZIyjx38P",
+              "end": 46,
+              "expanded_url": "https://x.com/hgds0/status/2047147989727395960/photo/1",
+              "media_key": "3_2047147752346484736",
+              "start": 23,
+              "url": "https://t.co/4EZIyjx38P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047208120699834431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047147989727395960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 好厨子一句话就是一顿饭 https://t.co/4EZIyjx38P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047147752346484736"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2047147989727395960",
+        "created_at": "2026-04-23T02:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047147989727395960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EZIyjx38P",
+              "end": 35,
+              "expanded_url": "https://x.com/hgds0/status/2047147989727395960/photo/1",
+              "media_key": "3_2047147752346484736",
+              "start": 12,
+              "url": "https://t.co/4EZIyjx38P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047147989727395960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 27260,
+          "like_count": 843,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "好厨子一句话就是一顿饭 https://t.co/4EZIyjx38P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 81,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1389
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2044678694216867904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95660,
+          "following_count": 2466,
+          "like_count": 43926,
+          "listed_count": 139,
+          "media_count": 4034,
+          "tweet_count": 8424
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

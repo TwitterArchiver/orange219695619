@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066199280256458936",
+    "created_at": "2026-06-14T17:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066211040979988490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061471722034069504",
+          "start": 0,
+          "username": "TPTC0815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066211040979988490",
+    "in_reply_to_user_id": "2061471722034069504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066210332289409453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPTC0815 嗯…那就睡吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066199280256458936",
+        "created_at": "2026-06-14T17:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066211040979988490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061471722034069504",
+              "start": 0,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066211040979988490",
+        "in_reply_to_user_id": "2061471722034069504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066210332289409453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPTC0815 嗯…那就睡吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061471722034069504",
+        "conversation_id": "2066199280256458936",
+        "created_at": "2026-06-14T17:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066210332289409453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066210332289409453",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066203391613895055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 减肥每天都在控制饮食"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 176,
+          "like_count": 9691,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 6265
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T15:36:08.000Z",
+        "description": "迷迭",
+        "id": "2061471722034069504",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061473291920105472/sarRI8Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 119,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 178
+        },
+        "username": "TPTC0815",
+        "verified": false
+      }
+    ]
+  }
+}

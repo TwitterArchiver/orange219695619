@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041312734437130488",
+    "created_at": "2026-04-07T08:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041431288549445889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039052178791514112",
+          "start": 0,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041431288549445889",
+    "in_reply_to_user_id": "2039052178791514112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041312734437130488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodoeqiu 超绝大眼睛（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_2041312725549424640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQzG8nboAA_T0g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041312734437130488",
+        "created_at": "2026-04-07T08:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041431288549445889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039052178791514112",
+              "start": 0,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041431288549445889",
+        "in_reply_to_user_id": "2039052178791514112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041312734437130488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodoeqiu 超绝大眼睛（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041312725549424640"
+          ]
+        },
+        "author_id": "2039052178791514112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041312734437130488",
+        "created_at": "2026-04-07T00:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041312734437130488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHjpN2kk9z",
+              "end": 168,
+              "expanded_url": "https://x.com/Dodoeqiu/status/2041312734437130488/photo/1",
+              "media_key": "3_2041312725549424640",
+              "start": 145,
+              "url": "https://t.co/LHjpN2kk9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041312734437130488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我要百fo了 开一个小抽奖玩\n没什么好送的啦 不要嫌弃就好 \n\n参与➡️互fo点赞评论转帖   请和我互fo吧！\n感谢转发评论的🍓！！！ \n110fo grok开\n\n一等奖*1：红贝印三把（折现10元）\n二等奖*1:最爱的奶油火鸡面一包（折现7.5元）\n三等奖*3: 2.88r小红包 https://t.co/LHjpN2kk9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 67,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 679
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "欢迎fo！许愿同类 \n小酸｜自伤烟o｜不互纯三男 \n无所事事网蛆 上网娱乐不擦边 🫣 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 43,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 149,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 273
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "欢迎fo！许愿同类 \n小酸｜自伤烟o｜不互纯三男 \n无所事事网蛆 上网娱乐不擦边 🫣 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 43,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040562202382618624/-GjJAhPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 149,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

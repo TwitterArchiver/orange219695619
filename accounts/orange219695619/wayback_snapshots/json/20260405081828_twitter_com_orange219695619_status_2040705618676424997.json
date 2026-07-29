@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040421823977074996",
+    "created_at": "2026-04-05T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040705618676424997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040705618676424997",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040705310399271302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 好远…懒得出门（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040421823977074996",
+        "created_at": "2026-04-05T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040705618676424997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040705618676424997",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040705310399271302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 好远…懒得出门（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014723682548224000",
+        "conversation_id": "2040421823977074996",
+        "created_at": "2026-04-05T08:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040705310399271302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040705310399271302",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040704677332111520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 你來香港我給你整一個（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 566
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）\nhttps://t.co/76AbZG7YzL\n\n家妻@fuyi0816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "fuyi0816"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 36,
+                "url": "https://t.co/76AbZG7YzL"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040544850903523328/ztRf_Gr3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 675,
+          "like_count": 7164,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2380
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

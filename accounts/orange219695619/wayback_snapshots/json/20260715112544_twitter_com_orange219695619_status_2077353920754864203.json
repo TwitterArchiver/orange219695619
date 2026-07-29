@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077337125532655616",
+        "3_2077337126904188928",
+        "3_2077337126878994432"
+      ],
+      "media_source_tweet_id": [
+        "2077337130699981129",
+        "2077337130699981129",
+        "2077337130699981129"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077353920754864203",
+    "created_at": "2026-07-15T11:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077353920754864203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804875241367433216",
+          "start": 3,
+          "username": "aberyoheiskm"
+        },
+        {
+          "end": 84,
+          "id": "1561806114274287616",
+          "start": 71,
+          "username": "crossyangshe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYgOhIaYIl",
+          "end": 108,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+          "media_key": "3_2077337125532655616",
+          "start": 85,
+          "url": "https://t.co/UYgOhIaYIl"
+        },
+        {
+          "display_url": "pic.x.com/UYgOhIaYIl",
+          "end": 108,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+          "media_key": "3_2077337126904188928",
+          "start": 85,
+          "url": "https://t.co/UYgOhIaYIl"
+        },
+        {
+          "display_url": "pic.x.com/UYgOhIaYIl",
+          "end": 108,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+          "media_key": "3_2077337126878994432",
+          "start": 85,
+          "url": "https://t.co/UYgOhIaYIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077353920754864203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077337130699981129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aberyoheiskm: az被封号了呜呜\n本来今天打算给大家测试2550mgpr的(´o̴̶̷̤ㅂo̴̶̷̤`)\n默哀七天……🙏\n@crossyangshe https://t.co/UYgOhIaYIl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077337125532655616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQvHAYa4AAbQa7.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077337126904188928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQvHFfa0AA2PVv.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077337126878994432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQvHFZaYAAtEcb.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077337125532655616",
+            "3_2077337126904188928",
+            "3_2077337126878994432"
+          ],
+          "media_source_tweet_id": [
+            "2077337130699981129",
+            "2077337130699981129",
+            "2077337130699981129"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077353920754864203",
+        "created_at": "2026-07-15T11:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077353920754864203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804875241367433216",
+              "start": 3,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 84,
+              "id": "1561806114274287616",
+              "start": 71,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYgOhIaYIl",
+              "end": 108,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+              "media_key": "3_2077337125532655616",
+              "start": 85,
+              "url": "https://t.co/UYgOhIaYIl"
+            },
+            {
+              "display_url": "pic.x.com/UYgOhIaYIl",
+              "end": 108,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+              "media_key": "3_2077337126904188928",
+              "start": 85,
+              "url": "https://t.co/UYgOhIaYIl"
+            },
+            {
+              "display_url": "pic.x.com/UYgOhIaYIl",
+              "end": 108,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+              "media_key": "3_2077337126878994432",
+              "start": 85,
+              "url": "https://t.co/UYgOhIaYIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077353920754864203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077337130699981129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aberyoheiskm: az被封号了呜呜\n本来今天打算给大家测试2550mgpr的(´o̴̶̷̤ㅂo̴̶̷̤`)\n默哀七天……🙏\n@crossyangshe https://t.co/UYgOhIaYIl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077337125532655616",
+            "3_2077337126904188928",
+            "3_2077337126878994432"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077337130699981129",
+        "created_at": "2026-07-15T10:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T11:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077337130699981129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1561806114274287616",
+              "start": 53,
+              "username": "crossyangshe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYgOhIaYIl",
+              "end": 90,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+              "media_key": "3_2077337125532655616",
+              "start": 67,
+              "url": "https://t.co/UYgOhIaYIl"
+            },
+            {
+              "display_url": "pic.x.com/UYgOhIaYIl",
+              "end": 90,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+              "media_key": "3_2077337126904188928",
+              "start": 67,
+              "url": "https://t.co/UYgOhIaYIl"
+            },
+            {
+              "display_url": "pic.x.com/UYgOhIaYIl",
+              "end": 90,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2077337130699981129/photo/1",
+              "media_key": "3_2077337126878994432",
+              "start": 67,
+              "url": "https://t.co/UYgOhIaYIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077337130699981129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "az被封号了呜呜\n本来今天打算给大家测试2550mgpr的(´o̴̶̷̤ㅂo̴̶̷̤`)\n默哀七天……🙏\n@crossyangshe https://t.co/UYgOhIaYIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 174,
+          "like_count": 17844,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 8965
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 457,
+          "like_count": 5470,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 438,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

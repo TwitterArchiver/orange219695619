@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2081072019857379461",
+    "created_at": "2026-07-25T18:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081084536948248723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010386046975139841",
+          "start": 0,
+          "username": "WanXin17900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081084536948248723",
+    "in_reply_to_user_id": "2010386046975139841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081072019857379461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanXin17900 看看乃子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2081072019857379461",
+        "created_at": "2026-07-25T18:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081084536948248723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010386046975139841",
+              "start": 0,
+              "username": "WanXin17900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081084536948248723",
+        "in_reply_to_user_id": "2010386046975139841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081072019857379461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanXin17900 看看乃子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010386046975139841",
+        "conversation_id": "2081072019857379461",
+        "created_at": "2026-07-25T17:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081072019857379461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081072019857379461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海纳百川\n本人乃大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19995,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 9699
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T16:20:25.000Z",
+        "description": "Kaio \n你认为我怎么样就怎么样，取决于你而不是我 \n依旧是一个不抽烟不喝酒不嗑药爱党国的五好青年 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaio43281",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaio43281",
+                "start": 0,
+                "url": "https://t.co/3uY1EZOB3Q"
+              }
+            ]
+          }
+        },
+        "id": "2010386046975139841",
+        "location": "你的背后",
+        "name": "KaioMinster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081053413497069569/1rh_Zd3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 176,
+          "like_count": 1236,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/3uY1EZOB3Q",
+        "username": "WanXin17900",
+        "verified": false
+      }
+    ]
+  }
+}

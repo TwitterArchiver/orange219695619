@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048122128533442688",
+    "created_at": "2026-04-25T19:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T20:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048122128533442688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yedaiqiu/statu…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/yedaiqiu/status/2047986984636010526",
+          "start": 144,
+          "url": "https://t.co/dkdY7345Sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048122128533442688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047986984636010526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也许真的会有好晶哥\n但是大部分都是不分青红皂白和稀泥的高手，真的，你有什么事自己报一回晶就知道了\n高中的时候我爸妈未经我允许私自查看我的微信和QQ，我报晶说这是侵犯了我的隐私权，sb民晶让我体谅体谅我爸妈，说我长大就能理解了，我去他妈了个逼的，别人说这话我还能理解，你他妈说这话什么意思 https://t.co/dkdY7345Sd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048122128533442688",
+        "created_at": "2026-04-25T19:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048122128533442688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yedaiqiu/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/yedaiqiu/status/2047986984636010526",
+              "start": 144,
+              "url": "https://t.co/dkdY7345Sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048122128533442688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047986984636010526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许真的会有好晶哥\n但是大部分都是不分青红皂白和稀泥的高手，真的，你有什么事自己报一回晶就知道了\n高中的时候我爸妈未经我允许私自查看我的微信和QQ，我报晶说这是侵犯了我的隐私权，sb民晶让我体谅体谅我爸妈，说我长大就能理解了，我去他妈了个逼的，别人说这话我还能理解，你他妈说这话什么意思 https://t.co/dkdY7345Sd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540529994216005632",
+        "conversation_id": "2047986984636010526",
+        "created_at": "2026-04-25T10:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047986984636010526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047986984636010526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 63975,
+          "like_count": 790,
+          "quote_count": 6,
+          "reply_count": 134,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "以前一直都认为警察是一个特别神圣的职业，真的非常想考警校，还好高三离高考还有两个月的时候报了一次警，把我给浇醒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 83,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1602
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T02:59:35.000Z",
+        "description": "葱花鱼不要葱花｜只是一个废话很多的小女孩^ ^",
+        "id": "1540529994216005632",
+        "location": "星露谷",
+        "name": "雩",
+        "pinned_tweet_id": "1856214499281514566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004411532449398784/4pWwyISl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 238,
+          "like_count": 3728,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 2450
+        },
+        "username": "yedaiqiu",
+        "verified": false
+      }
+    ]
+  }
+}

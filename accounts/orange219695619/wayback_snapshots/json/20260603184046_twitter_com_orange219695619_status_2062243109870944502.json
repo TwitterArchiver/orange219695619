@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062243109870944502",
+    "created_at": "2026-06-03T18:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T19:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062243109870944502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/orange219695619/status/2062196359365902802",
+          "start": 17,
+          "url": "https://t.co/BnwohqdT7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062243109870944502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062196359365902802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "执念发力了\n或许今天就不错（？） https://t.co/BnwohqdT7W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062243109870944502",
+        "created_at": "2026-06-03T18:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062243109870944502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/orange219695619/status/2062196359365902802",
+              "start": 17,
+              "url": "https://t.co/BnwohqdT7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062243109870944502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062196359365902802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "执念发力了\n或许今天就不错（？） https://t.co/BnwohqdT7W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062196359365902802",
+        "created_at": "2026-06-03T15:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062196359365902802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062196359365902802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦\n我现在是没有理由活着（或者说是没有什么让我很留恋的）\n死亡对我来说也没什么吸引力\n但是长期想死导致我有自杀的执念\n而且我手上还有“退路”\n就怕下学期复学稍微压力我一下我就寄了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 156,
+          "like_count": 7381,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 5179
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

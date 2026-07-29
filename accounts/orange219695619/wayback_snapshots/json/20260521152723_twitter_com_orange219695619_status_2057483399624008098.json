@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057440200163541397",
+    "created_at": "2026-05-21T15:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057483399624008098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957812160421400576",
+          "start": 0,
+          "username": "canton_ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057483399624008098",
+    "in_reply_to_user_id": "1957812160421400576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057482531285704933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canton_ss 不是哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057440200163541397",
+        "created_at": "2026-05-21T15:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057483399624008098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957812160421400576",
+              "start": 0,
+              "username": "canton_ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057483399624008098",
+        "in_reply_to_user_id": "1957812160421400576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057482531285704933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canton_ss 不是哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957812160421400576",
+        "conversation_id": "2057440200163541397",
+        "created_at": "2026-05-21T15:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057482531285704933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057482531285704933",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057440200163541397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 越南貓肉刺身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 126,
+          "like_count": 4458,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3731
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "Cantonese\nFirst Worldist, Traditionalist, Tridemist\nRevolt against the Global Zimbabwe\n最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053458768265183232/YjlC4jbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 778,
+          "like_count": 55538,
+          "listed_count": 10,
+          "media_count": 577,
+          "tweet_count": 8795
+        },
+        "username": "canton_ss",
+        "verified": false
+      }
+    ]
+  }
+}

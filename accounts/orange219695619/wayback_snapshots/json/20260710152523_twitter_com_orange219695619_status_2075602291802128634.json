@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075602291802128634",
+    "created_at": "2026-07-10T15:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075602291802128634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075602291802128634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075487277191733409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: az没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花可能连药都买不起了，第一次向大家求助，原本还想着等几百fo给大家抽奖，看来可以要等到az找到工作了……希望大家可以帮一下，1块钱2块钱都没有关系的（实在困难的帮忙转发一下也可以），资助az…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2075486034415190016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bjUmaAAAo7F-.jpg",
+        "width": 1118
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2075486034302021632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2bjULbMAAvxE1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075602291802128634",
+        "created_at": "2026-07-10T15:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075602291802128634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075602291802128634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075487277191733409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: az没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花可能连药都买不起了，第一次向大家求助，原本还想着等几百fo给大家抽奖，看来可以要等到az找到工作了……希望大家可以帮一下，1块钱2块钱都没有关系的（实在困难的帮忙转发一下也可以），资助az…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075486034415190016",
+            "3_2075486034302021632"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2075487277191733409",
+        "created_at": "2026-07-10T07:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075487277191733409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3IAU7B8cv",
+              "end": 165,
+              "expanded_url": "https://x.com/crossyangshe/status/2075487277191733409/photo/1",
+              "media_key": "3_2075486034415190016",
+              "start": 142,
+              "url": "https://t.co/D3IAU7B8cv"
+            },
+            {
+              "display_url": "pic.x.com/D3IAU7B8cv",
+              "end": 165,
+              "expanded_url": "https://x.com/crossyangshe/status/2075487277191733409/photo/1",
+              "media_key": "3_2075486034302021632",
+              "start": 142,
+              "url": "https://t.co/D3IAU7B8cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075487277191733409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1314,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "az没有钱吃饭了，找过很多工作都被拒绝了，不省着一点花可能连药都买不起了，第一次向大家求助，原本还想着等几百fo给大家抽奖，看来可以要等到az找到工作了……希望大家可以帮一下，1块钱2块钱都没有关系的（实在困难的帮忙转发一下也可以），资助az的钱将用来买药日常生活吃饭和做药物测评。 https://t.co/D3IAU7B8cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 173,
+          "like_count": 16600,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 8575
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2074534939966713943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 390,
+          "like_count": 2537,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 736
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

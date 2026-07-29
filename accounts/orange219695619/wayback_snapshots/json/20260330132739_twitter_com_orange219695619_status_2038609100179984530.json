@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2038441809668685959",
+    "created_at": "2026-03-30T13:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038609100179984530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650389238108631042",
+          "start": 0,
+          "username": "Kkkyyooo1"
+        },
+        {
+          "end": 21,
+          "id": "2018306514549972992",
+          "start": 11,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038609100179984530",
+    "in_reply_to_user_id": "1650389238108631042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038604018243805672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkkyyooo1 @bcfqdtfqz 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2038441809668685959",
+        "created_at": "2026-03-30T13:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038609100179984530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650389238108631042",
+              "start": 0,
+              "username": "Kkkyyooo1"
+            },
+            {
+              "end": 21,
+              "id": "2018306514549972992",
+              "start": 11,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038609100179984530",
+        "in_reply_to_user_id": "1650389238108631042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038604018243805672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkkyyooo1 @bcfqdtfqz 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650389238108631042",
+        "conversation_id": "2038441809668685959",
+        "created_at": "2026-03-30T13:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038604018243805672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038604018243805672",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038441809668685959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 退游了这是好事儿啊，以后就能好好学习了。来世还生在山河四省。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 48,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 356
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T06:40:41.000Z",
+        "description": "爪子沉重如灌铅，一招送你上西天",
+        "id": "1650389238108631042",
+        "name": "大西王亲自动手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937752650319298560/6MiB2vEI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 108,
+          "like_count": 8407,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2937
+        },
+        "username": "Kkkyyooo1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄🍅@__fanqie__日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图夹杂着生活帖子发送，欢迎互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "__fanqie__"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不知道包什么的番茄",
+        "pinned_tweet_id": "2032145454537072928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1275,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 555,
+          "tweet_count": 1511
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2050581178797945140",
+    "created_at": "2026-05-03T03:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050784683215204536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922574083348414464",
+          "start": 0,
+          "username": "7q46843886669"
+        },
+        {
+          "end": 30,
+          "id": "2044392328966680576",
+          "start": 15,
+          "username": "OE3IIGFQRQ9473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050784683215204536",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050718696474353863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7q46843886669 @OE3IIGFQRQ9473 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2050581178797945140",
+        "created_at": "2026-05-03T03:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050784683215204536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            },
+            {
+              "end": 30,
+              "id": "2044392328966680576",
+              "start": 15,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050784683215204536",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050718696474353863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 @OE3IIGFQRQ9473 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922574083348414464",
+        "conversation_id": "2050581178797945140",
+        "created_at": "2026-05-02T23:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050718696474353863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 32,
+              "id": "2044392328966680576",
+              "start": 17,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050718696474353863",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050591078965969286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @OE3IIGFQRQ9473 那就在纷繁的纠缠中直到似去也充满愧疚吧😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 92,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2037
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968649839325097984/KBcjOivq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 2847,
+          "like_count": 8930,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2437
+        },
+        "username": "7q46843886669",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "@FanQie_QianQian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "FanQie_QianQian"
+              }
+            ]
+          }
+        },
+        "id": "2044392328966680576",
+        "name": "芊芊/番茄操蛋9.0",
+        "pinned_tweet_id": "2049473521794044125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050602502027153408/qsJOFkPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 62,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 266
+        },
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

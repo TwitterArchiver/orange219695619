@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058416848774050163",
+    "created_at": "2026-05-24T05:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058416848774050163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987561311438610432",
+          "start": 3,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058416848774050163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058399793425383626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xrwi238646: 还是推特好呀。现实哪有那么多女孩子愿意搭理我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058416848774050163",
+        "created_at": "2026-05-24T05:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058416848774050163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987561311438610432",
+              "start": 3,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058416848774050163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058399793425383626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xrwi238646: 还是推特好呀。现实哪有那么多女孩子愿意搭理我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987561311438610432",
+        "conversation_id": "2058399793425383626",
+        "created_at": "2026-05-24T04:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058399793425383626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058399793425383626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还是推特好呀。现实哪有那么多女孩子愿意搭理我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 132,
+          "like_count": 4960,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 3996
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo｜互fo会查主页成分。｜很多废话吵到你们报意丝。\n176（别骂我矮了谢谢）。目前64kg，健身中……",
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2054590311268311193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 149,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1435
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

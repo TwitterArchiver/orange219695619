@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066864720909590528",
+        "3_2066864721656197120"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066864727649861863",
+    "created_at": "2026-06-16T12:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066864727649861863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lBxg4mGhVL",
+          "end": 30,
+          "expanded_url": "https://x.com/orange219695619/status/2066864727649861863/photo/1",
+          "media_key": "3_2066864720909590528",
+          "start": 7,
+          "url": "https://t.co/lBxg4mGhVL"
+        },
+        {
+          "display_url": "pic.x.com/lBxg4mGhVL",
+          "end": 30,
+          "expanded_url": "https://x.com/orange219695619/status/2066864727649861863/photo/1",
+          "media_key": "3_2066864721656197120",
+          "start": 7,
+          "url": "https://t.co/lBxg4mGhVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066864727649861863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这就是纯爱啊 https://t.co/lBxg4mGhVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066864720909590528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK76g1CaYAAOisF.jpg",
+        "width": 522
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066864721656197120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK76g30asAAqehE.jpg",
+        "width": 469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066864720909590528",
+            "3_2066864721656197120"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066864727649861863",
+        "created_at": "2026-06-16T12:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066864727649861863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lBxg4mGhVL",
+              "end": 30,
+              "expanded_url": "https://x.com/orange219695619/status/2066864727649861863/photo/1",
+              "media_key": "3_2066864720909590528",
+              "start": 7,
+              "url": "https://t.co/lBxg4mGhVL"
+            },
+            {
+              "display_url": "pic.x.com/lBxg4mGhVL",
+              "end": 30,
+              "expanded_url": "https://x.com/orange219695619/status/2066864727649861863/photo/1",
+              "media_key": "3_2066864721656197120",
+              "start": 7,
+              "url": "https://t.co/lBxg4mGhVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066864727649861863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是纯爱啊 https://t.co/lBxg4mGhVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 188,
+          "like_count": 10075,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 6433
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

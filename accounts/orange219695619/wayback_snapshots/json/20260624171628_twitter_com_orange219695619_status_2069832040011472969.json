@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069814544005058996",
+    "created_at": "2026-06-24T17:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069832040011472969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "SerenAzuma_HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069832040011472969",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069814544005058996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenAzuma_HK 这期神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_2069814525872812032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl1WE2XsAA-IkX.jpg",
+        "width": 1170
+      },
+      {
+        "height": 194,
+        "media_key": "3_2069814522664132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl1V45XIAAaI_X.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069814544005058996",
+        "created_at": "2026-06-24T17:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069832040011472969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069832040011472969",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069814544005058996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 这期神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069814525872812032",
+            "3_2069814522664132608"
+          ]
+        },
+        "author_id": "2037575598730584064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069814544005058996",
+        "created_at": "2026-06-24T16:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069814544005058996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVXEzAy4Oy",
+              "end": 77,
+              "expanded_url": "https://x.com/SerenAzuma_HK/status/2069814544005058996/photo/1",
+              "media_key": "3_2069814525872812032",
+              "start": 54,
+              "url": "https://t.co/GVXEzAy4Oy"
+            },
+            {
+              "display_url": "pic.x.com/GVXEzAy4Oy",
+              "end": 77,
+              "expanded_url": "https://x.com/SerenAzuma_HK/status/2069814544005058996/photo/1",
+              "media_key": "3_2069814522664132608",
+              "start": 54,
+              "url": "https://t.co/GVXEzAy4Oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069814544005058996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "支云你逆天了 有没有可能是因为性少数心理疾病多 心理疾病导致自残 而不是LGBT导致自残 滑坡谬误给玩的妙 https://t.co/GVXEzAy4Oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 195,
+          "like_count": 12769,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 7423
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "蓮の贰号機|一般通过社民入🌹🇪🇺坚定的进步主义战士|友跨暂未翻车 激挺LGBT🏳️‍🌈🏳️‍⚧️",
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🇯🇵🎌⛩️🎇反🐜🐉紧急状态",
+        "pinned_tweet_id": "2069651092095586772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 274,
+          "like_count": 3314,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

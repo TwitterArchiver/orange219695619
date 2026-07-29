@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2072539390879121711",
+    "created_at": "2026-07-02T09:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T10:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072613627841196457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061471722034069504",
+          "start": 0,
+          "username": "TPTC0815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072613627841196457",
+    "in_reply_to_user_id": "2061471722034069504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072551856216441208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TPTC0815 上个赛季有提交任务倒也说的过去\n不知道这个赛季为啥还是这么贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2072539390879121711",
+        "created_at": "2026-07-02T09:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072613627841196457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061471722034069504",
+              "start": 0,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072613627841196457",
+        "in_reply_to_user_id": "2061471722034069504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072551856216441208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TPTC0815 上个赛季有提交任务倒也说的过去\n不知道这个赛季为啥还是这么贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061471722034069504",
+        "conversation_id": "2072539390879121711",
+        "created_at": "2026-07-02T05:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072551856216441208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072551856216441208",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072539390879121711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 我记得卖过七十多万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 193,
+          "like_count": 14766,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 8040
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T15:36:08.000Z",
+        "description": "迷迭",
+        "id": "2061471722034069504",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061473291920105472/sarRI8Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 147,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "TPTC0815",
+        "verified": false
+      }
+    ]
+  }
+}

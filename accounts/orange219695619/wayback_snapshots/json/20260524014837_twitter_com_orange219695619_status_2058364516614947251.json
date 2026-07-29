@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2058364516614947251",
+    "created_at": "2026-05-24T01:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058364516614947251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934473367245217793",
+          "start": 3,
+          "username": "ision0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058364516614947251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058249602801787106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ision0511: 我们不要自残了 我们一起去过正常的生活吧 我们手握手一起看电影吧 我们闭着眼躺在床上拥抱吧我们在马路上一起逛街吧 我们去药店买健胃消食片一起去吃自助餐吧 我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧 我们手握手一起在幸福的现实享受健康生活吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058364516614947251",
+        "created_at": "2026-05-24T01:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058364516614947251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934473367245217793",
+              "start": 3,
+              "username": "ision0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058364516614947251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058249602801787106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ision0511: 我们不要自残了 我们一起去过正常的生活吧 我们手握手一起看电影吧 我们闭着眼躺在床上拥抱吧我们在马路上一起逛街吧 我们去药店买健胃消食片一起去吃自助餐吧 我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧 我们手握手一起在幸福的现实享受健康生活吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934473367245217793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2058249602801787106",
+        "created_at": "2026-05-23T18:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058249602801787106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058249602801787106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们不要自残了 我们一起去过正常的生活吧 我们手握手一起看电影吧 我们闭着眼躺在床上拥抱吧我们在马路上一起逛街吧 我们去药店买健胃消食片一起去吃自助餐吧 我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧 我们手握手一起在幸福的现实享受健康生活吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 131,
+          "like_count": 4910,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 3971
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:49:34.000Z",
+        "description": "叫我夾子就好 割/o 我很溫良可以來找我玩 謝謝你們的喜歡",
+        "id": "1934473367245217793",
+        "name": "為你奉上我迄今為止的人生",
+        "pinned_tweet_id": "2056079848137949317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046282060499968000/ZyyawPW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 447,
+          "like_count": 4784,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 576
+        },
+        "username": "ision0511",
+        "verified": false
+      }
+    ]
+  }
+}

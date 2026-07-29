@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070854658156032108",
+    "created_at": "2026-06-28T09:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071171504935702542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010386046975139841",
+          "start": 0,
+          "username": "WanXin17900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071171504935702542",
+    "in_reply_to_user_id": "2010386046975139841",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071166693938979296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanXin17900 好诶🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-28T09:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071171504935702542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010386046975139841",
+              "start": 0,
+              "username": "WanXin17900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071171504935702542",
+        "in_reply_to_user_id": "2010386046975139841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071166693938979296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanXin17900 好诶🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010386046975139841",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-28T09:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071166693938979296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071166693938979296",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070854658156032108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 抱回家一起玩（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 192,
+          "like_count": 13835,
+          "listed_count": 2,
+          "media_count": 464,
+          "tweet_count": 7808
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T16:20:25.000Z",
+        "description": "Kaio \n\n愿意接受新鲜事物 喜欢一切有意思的东西 喜欢听摇滚 08男高中生 分享点日常用 LGBT+全友好\n精神不正常的不抽烟不喝酒不碰黄赌毒的五好青年（）\n小号@Kaiokawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Kaiokawaii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaio25037",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaio25037",
+                "start": 0,
+                "url": "https://t.co/Yx4WaRgjjE"
+              }
+            ]
+          }
+        },
+        "id": "2010386046975139841",
+        "location": "On your left ",
+        "name": "KaioMinster",
+        "pinned_tweet_id": "2065072046334488716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069432721404014592/aXy4ioKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 137,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/Yx4WaRgjjE",
+        "username": "WanXin17900",
+        "verified": false
+      }
+    ]
+  }
+}

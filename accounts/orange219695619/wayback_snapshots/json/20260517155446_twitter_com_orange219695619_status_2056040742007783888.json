@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056040742007783888",
+    "created_at": "2026-05-17T15:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056040742007783888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2055924483333272016",
+          "start": 78,
+          "url": "https://t.co/a3aoleHreM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056040742007783888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055924483333272016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有半个月高考，我把话放在这里，这26届高考我一场都不会去，就算不参加高考我今年九月也照样有学上，我有我的办法，希望你们记住，我背后的势力是你们无法想象的 https://t.co/a3aoleHreM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056040742007783888",
+        "created_at": "2026-05-17T15:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056040742007783888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2055924483333272016",
+              "start": 78,
+              "url": "https://t.co/a3aoleHreM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056040742007783888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055924483333272016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有半个月高考，我把话放在这里，这26届高考我一场都不会去，就算不参加高考我今年九月也照样有学上，我有我的办法，希望你们记住，我背后的势力是你们无法想象的 https://t.co/a3aoleHreM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2055924483333272016",
+        "created_at": "2026-05-17T08:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055924483333272016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055924483333272016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1206,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么还有二十天就高考了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 122,
+          "like_count": 3882,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3358
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12056,
+          "following_count": 5065,
+          "like_count": 91437,
+          "listed_count": 22,
+          "media_count": 2245,
+          "tweet_count": 19982
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

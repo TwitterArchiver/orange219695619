@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066428380690726912"
+      ],
+      "media_source_tweet_id": [
+        "2066428393395278082"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066613419252588648",
+    "created_at": "2026-06-15T20:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066613419252588648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551035103207272449",
+          "start": 3,
+          "username": "LCX30516200"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVsS2cyKbe",
+          "end": 62,
+          "expanded_url": "https://x.com/LCX30516200/status/2066428393395278082/photo/1",
+          "media_key": "3_2066428380690726912",
+          "start": 39,
+          "url": "https://t.co/tVsS2cyKbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066613419252588648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066428393395278082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LCX30516200: 公交车每晃动一次，往你的手牌中加入一张晕眩 https://t.co/tVsS2cyKbe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066428380690726912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1tqfDbQAA6RwP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066428380690726912"
+          ],
+          "media_source_tweet_id": [
+            "2066428393395278082"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066613419252588648",
+        "created_at": "2026-06-15T20:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066613419252588648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1551035103207272449",
+              "start": 3,
+              "username": "LCX30516200"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVsS2cyKbe",
+              "end": 62,
+              "expanded_url": "https://x.com/LCX30516200/status/2066428393395278082/photo/1",
+              "media_key": "3_2066428380690726912",
+              "start": 39,
+              "url": "https://t.co/tVsS2cyKbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066613419252588648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066428393395278082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LCX30516200: 公交车每晃动一次，往你的手牌中加入一张晕眩 https://t.co/tVsS2cyKbe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066428380690726912"
+          ]
+        },
+        "author_id": "1551035103207272449",
+        "conversation_id": "2066428393395278082",
+        "created_at": "2026-06-15T07:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066428393395278082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVsS2cyKbe",
+              "end": 45,
+              "expanded_url": "https://x.com/LCX30516200/status/2066428393395278082/photo/1",
+              "media_key": "3_2066428380690726912",
+              "start": 22,
+              "url": "https://t.co/tVsS2cyKbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066428393395278082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公交车每晃动一次，往你的手牌中加入一张晕眩 https://t.co/tVsS2cyKbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 181,
+          "like_count": 9938,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 6384
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T02:42:50.000Z",
+        "description": "=標本 🔞NSFW/gore🈶 | 🚫AI | 19↑ |\n➤Fanart/OC/UTAUカバー/Indie&Rhythm Game | Apologize for sudden follow&RT review| May update ANYTHING! 🩸/🔶\n✧究极杂食混沌邪恶，想吃什么做什么",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "magma.com/artist/kardiax…",
+                "end": 23,
+                "expanded_url": "https://magma.com/artist/kardiax/gallery",
+                "start": 0,
+                "url": "https://t.co/rL3YjTXQEP"
+              }
+            ]
+          }
+        },
+        "id": "1551035103207272449",
+        "location": "★Sorry for weak signal",
+        "name": "KardiaX200_",
+        "pinned_tweet_id": "2060312400189124760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551039858780430337/bJswSPex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 336,
+          "like_count": 5743,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/rL3YjTXQEP",
+        "username": "LCX30516200",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064699396227207447",
+    "created_at": "2026-06-11T06:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064953460299280683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720098116601532416",
+          "start": 0,
+          "username": "nixyng246039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064953460299280683",
+    "in_reply_to_user_id": "1720098116601532416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064699396227207447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nixyng246039 嚼甘草片嘛😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064699396227207447",
+        "created_at": "2026-06-11T06:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064953460299280683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720098116601532416",
+              "start": 0,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064953460299280683",
+        "in_reply_to_user_id": "1720098116601532416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064699396227207447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nixyng246039 嚼甘草片嘛😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2064699396227207447",
+        "created_at": "2026-06-10T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064699396227207447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064699396227207447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2184,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "踏马我突然想起来，我爸得癌的时候我看他天天嚼个东西我问他这是什么，他说是甘草片……我问能不能让我吃一个我爸不让我吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 168,
+          "like_count": 8881,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 5913
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南\n连坐制：@xiao_sun26096//互fo的话会查成分（还是想扩同类人……）\n\n刷到我的人请和我说滚去画画",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "xiao_sun26096"
+              }
+            ]
+          }
+        },
+        "id": "1720098116601532416",
+        "name": "西南（西北）",
+        "pinned_tweet_id": "2061078014323277951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 419,
+          "like_count": 5710,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1387
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2042194479806128628",
+    "created_at": "2026-04-09T13:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042234612068589749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797970383477645312",
+          "start": 0,
+          "username": "lilizln350765"
+        },
+        {
+          "end": 30,
+          "id": "1638959586140098560",
+          "start": 15,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042234612068589749",
+    "in_reply_to_user_id": "1797970383477645312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042203236493406578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilizln350765 @jiuyouforwhite 健胃消食片（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2042194479806128628",
+        "created_at": "2026-04-09T13:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042234612068589749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797970383477645312",
+              "start": 0,
+              "username": "lilizln350765"
+            },
+            {
+              "end": 30,
+              "id": "1638959586140098560",
+              "start": 15,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042234612068589749",
+        "in_reply_to_user_id": "1797970383477645312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042203236493406578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilizln350765 @jiuyouforwhite 健胃消食片（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797970383477645312",
+        "conversation_id": "2042194479806128628",
+        "created_at": "2026-04-09T11:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042203236493406578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042203236493406578",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194479806128628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 无论吃什么药，一天吃500片身体都扛不住吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 70,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 818
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:35:30.000Z",
+        "description": "bpd重度抑郁焦虑intp/乱发疯 /我没有记性，我什么都记不住/树洞/喜欢温柔的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1148982",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1148982",
+                "start": 0,
+                "url": "https://t.co/1pSQiMyv8K"
+              }
+            ]
+          }
+        },
+        "id": "1797970383477645312",
+        "name": "悦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038749547648720896/ATxdcmID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 73,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/1pSQiMyv8K",
+        "username": "lilizln350765",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2042110322639827245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1000,
+          "like_count": 2598,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

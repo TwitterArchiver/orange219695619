@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041185383111954530",
+    "created_at": "2026-04-07T09:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041441329956393255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2540440646",
+          "start": 0,
+          "username": "FC6172"
+        },
+        {
+          "end": 21,
+          "id": "2006032696770977793",
+          "start": 8,
+          "username": "chukuang2018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041441329956393255",
+    "in_reply_to_user_id": "2540440646",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041349522811674862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FC6172 @chukuang2018 😆👉🏻🤡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041185383111954530",
+        "created_at": "2026-04-07T09:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041441329956393255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2540440646",
+              "start": 0,
+              "username": "FC6172"
+            },
+            {
+              "end": 21,
+              "id": "2006032696770977793",
+              "start": 8,
+              "username": "chukuang2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041441329956393255",
+        "in_reply_to_user_id": "2540440646",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041349522811674862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FC6172 @chukuang2018 😆👉🏻🤡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2540440646",
+        "conversation_id": "2041185383111954530",
+        "created_at": "2026-04-07T02:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041349522811674862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006032696770977793",
+              "start": 0,
+              "username": "chukuang2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041349522811674862",
+        "in_reply_to_user_id": "2006032696770977793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2426,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041185383111954530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chukuang2018 这么简单的题就不要问了。。。。大家应该都知道 叫 波（bird) 兰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 67,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 686
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-01T23:39:41.000Z",
+        "description": "己所不欲勿施于人，严于律己宽以待人。这两句话是我的座右铭，但是我并没有做到。",
+        "id": "2540440646",
+        "location": "Temple City, California",
+        "name": "小林哥记",
+        "pinned_tweet_id": "1965989107462812145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722658207884312577/ym5-_PTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 163,
+          "like_count": 2395,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 11175
+        },
+        "username": "FC6172",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-30T16:01:05.000Z",
+        "description": "来自云南楚雄，不喜欢私聊，随意看看，不回应不喜欢的言论。",
+        "id": "2006032696770977793",
+        "location": "云南 楚雄",
+        "name": "楚狂",
+        "pinned_tweet_id": "2008579113083396211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006034273988739072/allHiOry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7036,
+          "following_count": 4337,
+          "like_count": 22131,
+          "listed_count": 7,
+          "media_count": 616,
+          "tweet_count": 19061
+        },
+        "username": "chukuang2018",
+        "verified": false
+      }
+    ]
+  }
+}

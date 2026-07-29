@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2002204172813545798",
+    "created_at": "2025-12-20T17:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002436380950212951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991133644979949568",
+          "start": 0,
+          "username": "iiii329781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002436380950212951",
+    "in_reply_to_user_id": "1991133644979949568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002204172813545798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiii329781 加热一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1514,
+        "media_key": "3_2002204159165280256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lCExrbMAATPh6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2002204172813545798",
+        "created_at": "2025-12-20T17:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002436380950212951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991133644979949568",
+              "start": 0,
+              "username": "iiii329781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002436380950212951",
+        "in_reply_to_user_id": "1991133644979949568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002204172813545798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiii329781 加热一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002204159165280256"
+          ]
+        },
+        "author_id": "1991133644979949568",
+        "conversation_id": "2002204172813545798",
+        "created_at": "2025-12-20T02:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002204172813545798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbZMicRkEr",
+              "end": 27,
+              "expanded_url": "https://x.com/iiii329781/status/2002204172813545798/photo/1",
+              "media_key": "3_2002204159165280256",
+              "start": 4,
+              "url": "https://t.co/RbZMicRkEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002204172813545798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 119853,
+          "like_count": 618,
+          "quote_count": 2,
+          "reply_count": 126,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "怎么办 https://t.co/RbZMicRkEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T13:18:16.000Z",
+        "description": "𝐿𝑜𝑣𝑒𝑦𝑜𝑢𝑓𝑜𝑟𝑒𝑣𝑒𝑟",
+        "id": "1991133644979949568",
+        "location": "Montréal, Québec",
+        "name": "QiYue0",
+        "pinned_tweet_id": "1998687914834932103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994441022143672320/8DjKiQa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 30,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "username": "iiii329781",
+        "verified": false
+      }
+    ]
+  }
+}

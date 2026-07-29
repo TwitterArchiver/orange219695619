@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075731739125956688",
+    "created_at": "2026-07-11T04:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075794375893033169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757619412511887360",
+          "start": 0,
+          "username": "NeroArmore91252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075794375893033169",
+    "in_reply_to_user_id": "1757619412511887360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075731739125956688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeroArmore91252 没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075731718502502400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM57ABJaUAAYX0u.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075731739125956688",
+        "created_at": "2026-07-11T04:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075794375893033169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757619412511887360",
+              "start": 0,
+              "username": "NeroArmore91252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075794375893033169",
+        "in_reply_to_user_id": "1757619412511887360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075731739125956688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeroArmore91252 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075731718502502400"
+          ]
+        },
+        "author_id": "1757619412511887360",
+        "conversation_id": "2075731739125956688",
+        "created_at": "2026-07-10T23:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075731739125956688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HyCtrX3UX",
+              "end": 35,
+              "expanded_url": "https://x.com/NeroArmore91252/status/2075731739125956688/photo/1",
+              "media_key": "3_2075731718502502400",
+              "start": 12,
+              "url": "https://t.co/7HyCtrX3UX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075731739125956688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7260,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了   哈哈哈哈哈 https://t.co/7HyCtrX3UX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 173,
+          "like_count": 16754,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 8613
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:15:11.000Z",
+        "description": "装甲尼禄",
+        "id": "1757619412511887360",
+        "name": "Armored Nero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041720310366662658/ybZ0-fEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 17,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "NeroArmore91252",
+        "verified": false
+      }
+    ]
+  }
+}

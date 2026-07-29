@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058839826565394908",
+    "created_at": "2026-05-25T10:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058854454452236471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040516492479823872",
+          "start": 0,
+          "username": "Verdin14shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058854454452236471",
+    "in_reply_to_user_id": "2040516492479823872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058839826565394908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verdin14shi 不是审查不够严\n只是对人机采取了绥靖政策（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_2058839820034863104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ36HqbcAAo80U.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058839826565394908",
+        "created_at": "2026-05-25T10:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058854454452236471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058854454452236471",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058839826565394908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 不是审查不够严\n只是对人机采取了绥靖政策（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058839820034863104"
+          ]
+        },
+        "author_id": "2040516492479823872",
+        "conversation_id": "2058839826565394908",
+        "created_at": "2026-05-25T09:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058839826565394908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvvqwXVZTH",
+              "end": 122,
+              "expanded_url": "https://x.com/Verdin14shi/status/2058839826565394908/photo/1",
+              "media_key": "3_2058839820034863104",
+              "start": 99,
+              "url": "https://t.co/AvvqwXVZTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058839826565394908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁发明的这种傻缺广告AI,29个评论27个AI，人机占领推特了直接，检测到‘关键词就发，发明这东西的人家里只剩下可乐冒气了，财经评论帖有这个，负能量贴有这个，旅游帖有这个\n看来推特的审查还是不够严 https://t.co/AvvqwXVZTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 136,
+          "like_count": 5452,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 4214
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012|07|15 INFP 心理性别女？ 175l65kg（欢迎赛博性骚扰，不许发那种图片） 双性恋  暂辍学在家 此账号为善良人格，不知何时病变 电子游魂一枚～\n名字翻译过来叫星野柚咲",
+        "id": "2040516492479823872",
+        "location": "胶东半岛",
+        "name": "Hoshine_yosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057722947754934272/HXjj-Ag2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 271,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 690
+        },
+        "username": "Verdin14shi",
+        "verified": true
+      }
+    ]
+  }
+}

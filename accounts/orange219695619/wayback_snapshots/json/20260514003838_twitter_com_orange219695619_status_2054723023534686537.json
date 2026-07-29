@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054723023534686537",
+    "created_at": "2026-05-14T00:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054723023534686537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816082073863815168",
+          "start": 3,
+          "username": "MrZ1evel"
+        },
+        {
+          "end": 21,
+          "id": "2015213345847300096",
+          "start": 14,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054723023534686537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054236051175260578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrZ1evel: @XynUnk 你的推特号进精卫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054723023534686537",
+        "created_at": "2026-05-14T00:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054723023534686537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816082073863815168",
+              "start": 3,
+              "username": "MrZ1evel"
+            },
+            {
+              "end": 21,
+              "id": "2015213345847300096",
+              "start": 14,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054723023534686537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054236051175260578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrZ1evel: @XynUnk 你的推特号进精卫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816082073863815168",
+        "conversation_id": "2054161924645068884",
+        "created_at": "2026-05-12T16:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054236051175260578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015213345847300096",
+              "start": 0,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054236051175260578",
+        "in_reply_to_user_id": "2015213345847300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054161924645068884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynUnk 你的推特号进精卫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 113,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3036
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T12:04:53.000Z",
+        "description": "English and Chinese are both acceptable.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/481345727",
+                "end": 23,
+                "expanded_url": "http://www.bilibili.com/481345727",
+                "start": 0,
+                "url": "https://t.co/WK0h2ZIP2m"
+              }
+            ]
+          }
+        },
+        "id": "1816082073863815168",
+        "location": "People's Republic of China",
+        "name": "MrZ1evel",
+        "pinned_tweet_id": "1955202795486974254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053156706990129152/QaDbGUY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 144,
+          "like_count": 5307,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/WK0h2ZIP2m",
+        "username": "MrZ1evel",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|💊oder|生产日期:11.13.2011|161cm52kg75A40码|INFP-T，重度社恐|初二牲，成绩倒数，休学ing🥰，家里躺尸ing🥰|同类互fo喵～|一代目@UnkXyn|https://t.co/aB65o8oOXI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 130,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 161,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 138,
+                "url": "https://t.co/aB65o8oOXI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/2KoP9pAGCu"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "Unk~🍥(二代目互fo寻回ing)",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053140552099749888/BhRMG_MC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 477,
+          "like_count": 486,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/2KoP9pAGCu",
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

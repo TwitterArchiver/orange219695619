@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056617217811525657",
+    "created_at": "2026-05-19T17:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056794638300983534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1505962513623846913",
+          "start": 0,
+          "username": "Beizi_brother"
+        },
+        {
+          "end": 24,
+          "id": "2012631283898187776",
+          "start": 15,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056794638300983534",
+    "in_reply_to_user_id": "1505962513623846913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056779584369209602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beizi_brother @youy1qwq 百万英镑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056617217811525657",
+        "created_at": "2026-05-19T17:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056794638300983534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505962513623846913",
+              "start": 0,
+              "username": "Beizi_brother"
+            },
+            {
+              "end": 24,
+              "id": "2012631283898187776",
+              "start": 15,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056794638300983534",
+        "in_reply_to_user_id": "1505962513623846913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056779584369209602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beizi_brother @youy1qwq 百万英镑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505962513623846913",
+        "conversation_id": "2056617217811525657",
+        "created_at": "2026-05-19T16:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056779584369209602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056779584369209602",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056617217811525657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 有没有人科普一下这是什么梗😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 124,
+          "like_count": 4125,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3543
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T17:40:33.000Z",
+        "description": "Doch dichterisch wohnet der Mensch auf dieser Erde!",
+        "id": "1505962513623846913",
+        "location": "Tillamook, OR",
+        "name": "xx11nn6",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600591879095324672/AvflWfTx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 1930,
+          "like_count": 3725,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 2387
+        },
+        "username": "Beizi_brother",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13203,
+          "following_count": 1837,
+          "like_count": 4198,
+          "listed_count": 20,
+          "media_count": 1796,
+          "tweet_count": 2331
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

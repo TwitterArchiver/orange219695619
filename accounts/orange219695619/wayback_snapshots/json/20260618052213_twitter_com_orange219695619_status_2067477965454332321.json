@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067288286461329741",
+    "created_at": "2026-06-18T05:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067477965454332321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728047202315153408",
+          "start": 0,
+          "username": "Ayame01122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067477965454332321",
+    "in_reply_to_user_id": "1728047202315153408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067476135961932132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayame01122 主要做这个点心是不能过度揉面的\n不过一开始确实干粉放少了\n后来才想起来放的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067288286461329741",
+        "created_at": "2026-06-18T05:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067477965454332321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728047202315153408",
+              "start": 0,
+              "username": "Ayame01122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067477965454332321",
+        "in_reply_to_user_id": "1728047202315153408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067476135961932132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayame01122 主要做这个点心是不能过度揉面的\n不过一开始确实干粉放少了\n后来才想起来放的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728047202315153408",
+        "conversation_id": "2067288286461329741",
+        "created_at": "2026-06-18T05:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067476135961932132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067476135961932132",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067288286461329741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 面太软了，手上干粉太少，面没揉到位，面板上干粉不够，换一个表面更光滑的橡胶软板或者金属板在上面涂一层油也不沾，我觉得原因最大可能是揉的时间短，揉好了面团表面应该是光滑不沾的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 187,
+          "like_count": 10682,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 6635
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T13:45:40.000Z",
+        "description": "",
+        "id": "1728047202315153408",
+        "name": "爱笑鬼神あやめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914346856827752448/XIQYa69i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 515,
+          "like_count": 65246,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 10185
+        },
+        "username": "Ayame01122",
+        "verified": false
+      }
+    ]
+  }
+}

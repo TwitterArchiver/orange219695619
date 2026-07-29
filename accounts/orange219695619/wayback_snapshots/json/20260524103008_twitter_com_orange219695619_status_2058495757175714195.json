@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058495757175714195",
+    "created_at": "2026-05-24T10:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058495757175714195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laiduanshf/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/laiduanshf/status/2058396081059442767",
+          "start": 4,
+          "url": "https://t.co/MgJkvLmepA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058495757175714195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058396081059442767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好笑 https://t.co/MgJkvLmepA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2058396074021359616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDkUs8aEAA2JwL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058495757175714195",
+        "created_at": "2026-05-24T10:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058495757175714195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laiduanshf/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/laiduanshf/status/2058396081059442767",
+              "start": 4,
+              "url": "https://t.co/MgJkvLmepA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058495757175714195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058396081059442767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好笑 https://t.co/MgJkvLmepA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058396074021359616"
+          ]
+        },
+        "author_id": "2039692584990224384",
+        "conversation_id": "2058396081059442767",
+        "created_at": "2026-05-24T03:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058396081059442767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijjmB833IK",
+              "end": 23,
+              "expanded_url": "https://x.com/laiduanshf/status/2058396081059442767/photo/1",
+              "media_key": "3_2058396074021359616",
+              "start": 0,
+              "url": "https://t.co/ijjmB833IK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058396081059442767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1131,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ijjmB833IK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 134,
+          "like_count": 5073,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 4058
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T13:13:12.000Z",
+        "description": "",
+        "id": "2039692584990224384",
+        "name": "来段神回复",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055163365434310656/xg7NrWlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 68
+        },
+        "username": "laiduanshf",
+        "verified": true
+      }
+    ]
+  }
+}

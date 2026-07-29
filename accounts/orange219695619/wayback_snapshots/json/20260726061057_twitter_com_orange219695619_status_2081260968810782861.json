@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066776788475449677",
+    "created_at": "2026-07-26T06:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081260968810782861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1237630476652654592",
+          "start": 0,
+          "username": "hereDthere"
+        },
+        {
+          "end": 23,
+          "id": "2033228136180219904",
+          "start": 12,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081260968810782861",
+    "in_reply_to_user_id": "1237630476652654592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081059457266864540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hereDthere @Chu_Echooo 人各有命"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [Chu_Echooo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chu_Echooo",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.twitter.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066776788475449677",
+        "created_at": "2026-07-26T06:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081260968810782861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1237630476652654592",
+              "start": 0,
+              "username": "hereDthere"
+            },
+            {
+              "end": 23,
+              "id": "2033228136180219904",
+              "start": 12,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081260968810782861",
+        "in_reply_to_user_id": "1237630476652654592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081059457266864540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hereDthere @Chu_Echooo 人各有命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237630476652654592",
+        "conversation_id": "2066776788475449677",
+        "created_at": "2026-07-25T16:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081059457266864540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 28,
+              "id": "2033228136180219904",
+              "start": 17,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081059457266864540",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066776788475449677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @Chu_Echooo 那个阿楚怎么回事啊？快劝劝啊！一条生命啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 183,
+          "like_count": 20038,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 9733
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-11T06:44:54.000Z",
+        "description": "be water my friend",
+        "id": "1237630476652654592",
+        "location": "oA3I",
+        "name": "here&there",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973371408270106633/xJR-K6sC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 102,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "hereDthere",
+        "verified": false
+      }
+    ]
+  }
+}

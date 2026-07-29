@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2044100597369188439",
+    "created_at": "2026-04-14T17:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044102263464178021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039052178791514112",
+          "start": 0,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044102263464178021",
+    "in_reply_to_user_id": "2039052178791514112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044101810051526912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodoeqiu 🤔我感觉没什么改善，顶多能抑制一下自杀倾向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044100597369188439",
+        "created_at": "2026-04-14T17:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044102263464178021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039052178791514112",
+              "start": 0,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044102263464178021",
+        "in_reply_to_user_id": "2039052178791514112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044101810051526912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodoeqiu 🤔我感觉没什么改善，顶多能抑制一下自杀倾向"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039052178791514112",
+        "conversation_id": "2044100597369188439",
+        "created_at": "2026-04-14T17:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044101810051526912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044101810051526912",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044101669835944419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 非自殺性自傷 就是單純自殘 不是死亡目的那種"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 73,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1008
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "Keep me in your heart, then eat me, chop me up",
+        "id": "2039052178791514112",
+        "location": "天國",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "pinned_tweet_id": "2043546666511589402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 245,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 580
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

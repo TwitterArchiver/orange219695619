@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057053707976794616",
+    "created_at": "2026-05-20T17:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057154758675472577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        },
+        {
+          "end": 22,
+          "id": "1863439189909618688",
+          "start": 12,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057154758675472577",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057089272449253534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 @hsn8086xe 结果发现同学还带了mp7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057053707976794616",
+        "created_at": "2026-05-20T17:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057154758675472577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            },
+            {
+              "end": 22,
+              "id": "1863439189909618688",
+              "start": 12,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057154758675472577",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057089272449253534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 @hsn8086xe 结果发现同学还带了mp7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052903358900580352",
+        "conversation_id": "2057053707976794616",
+        "created_at": "2026-05-20T13:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057089272449253534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057089272449253534",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30393,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057053707976794616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 帶來mp3\nmp3被搶\n帶來mp4\nmp4被搶\n帶來mp5\n為同學帶來公制震撼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 124,
+          "like_count": 4271,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3619
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "location": "owo",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2013636116793167964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 2426,
+          "like_count": 51928,
+          "listed_count": 2,
+          "media_count": 644,
+          "tweet_count": 9144
+        },
+        "username": "Kalin_1124",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36236,
+          "following_count": 371,
+          "like_count": 227,
+          "listed_count": 106,
+          "media_count": 14251,
+          "tweet_count": 14329
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

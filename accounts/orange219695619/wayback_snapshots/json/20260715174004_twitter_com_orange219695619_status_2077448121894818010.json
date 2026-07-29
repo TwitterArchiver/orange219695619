@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2077355686871421193",
+    "created_at": "2026-07-15T17:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077448121894818010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025233152755859463",
+          "start": 0,
+          "username": "Yadouon_neoii24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077448121894818010",
+    "in_reply_to_user_id": "2025233152755859463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077355686871421193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yadouon_neoii24 这特效实在是太难绷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9867,
+        "height": 1280,
+        "media_key": "13_2077355627748499456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077355627748499456/img/884x9UG0odp9nvl1.jpg",
+        "public_metrics": {
+          "view_count": 122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077355627748499456/vid/avc1/320x568/I0ZmUhAj_J5HKWNX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077355627748499456/vid/avc1/480x852/Q56XAJLMcOW8Y4Ug.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077355627748499456/vid/avc1/720x1280/85I-ZDfs0PYAb4Fn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077355627748499456/pl/DizX0vvYxBptT7nS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2077355686871421193",
+        "created_at": "2026-07-15T17:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077448121894818010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025233152755859463",
+              "start": 0,
+              "username": "Yadouon_neoii24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077448121894818010",
+        "in_reply_to_user_id": "2025233152755859463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355686871421193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yadouon_neoii24 这特效实在是太难绷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077355627748499456"
+          ]
+        },
+        "author_id": "2025233152755859463",
+        "conversation_id": "2077355686871421193",
+        "created_at": "2026-07-15T11:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077355686871421193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PGnsMIpAP",
+              "end": 29,
+              "expanded_url": "https://x.com/Yadouon_neoii24/status/2077355686871421193/video/1",
+              "media_key": "13_2077355627748499456",
+              "start": 6,
+              "url": "https://t.co/2PGnsMIpAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077355686871421193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是怎么了 https://t.co/2PGnsMIpAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 176,
+          "like_count": 17890,
+          "listed_count": 2,
+          "media_count": 528,
+          "tweet_count": 8987
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T15:36:38.000Z",
+        "description": "偶就随便发发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yadouon_neoii24",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yadouon_neoii24",
+                "start": 0,
+                "url": "https://t.co/HzsYyTintJ"
+              }
+            ]
+          }
+        },
+        "id": "2025233152755859463",
+        "name": "稀屎丸( ° △ °)",
+        "pinned_tweet_id": "2056675568330899475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058418573849055232/fsBlIlLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 139,
+          "like_count": 8001,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/HzsYyTintJ",
+        "username": "Yadouon_neoii24",
+        "verified": false
+      }
+    ]
+  }
+}

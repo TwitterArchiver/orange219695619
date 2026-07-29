@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068268241567584585",
+    "created_at": "2026-06-21T09:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068634452369244201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822167103673143296",
+          "start": 0,
+          "username": "zau743598828677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068634452369244201",
+    "in_reply_to_user_id": "1822167103673143296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068308879570866212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zau743598828677 嗯，我知道\n所以我在犹豫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068268241567584585",
+        "created_at": "2026-06-21T09:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068634452369244201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822167103673143296",
+              "start": 0,
+              "username": "zau743598828677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068634452369244201",
+        "in_reply_to_user_id": "1822167103673143296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068308879570866212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zau743598828677 嗯，我知道\n所以我在犹豫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822167103673143296",
+        "conversation_id": "2068268241567584585",
+        "created_at": "2026-06-20T12:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068308879570866212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068308879570866212",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068268241567584585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 一般的方法死前都会很痛苦的，那时候后悔真的是太难受了，心里会崩溃的，不如找点别的事玩玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 198,
+          "like_count": 11493,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 6915
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:04:52.000Z",
+        "description": "@GLaDOS8964 的转生，老号被人搞丢了，随时随地无聊中，欢迎来骚扰，lgbt友好🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1822167103673143296",
+        "location": "郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "2067576199875051715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 133,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "zau743598828677",
+        "verified": false
+      }
+    ]
+  }
+}

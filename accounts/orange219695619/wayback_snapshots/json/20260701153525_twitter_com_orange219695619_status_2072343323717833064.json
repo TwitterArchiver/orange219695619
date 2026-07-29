@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2072328892463845721",
+    "created_at": "2026-07-01T15:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072343323717833064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072343323717833064",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072328892463845721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 好听🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40391,
+        "height": 1188,
+        "media_key": "13_2072328746258837504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072328746258837504/img/tLCHizpSjSrhtP3K.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072328746258837504/vid/avc1/888x1188/XZJeUcEQpV20s_Rn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072328746258837504/vid/avc1/720x962/rdjMidPTqwAbIBys.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072328746258837504/vid/avc1/480x642/6d1mJIHBJP5x0lWe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072328746258837504/pl/lGZE_PIH6jiuge2B.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072328746258837504/vid/avc1/320x428/2yS44jZ0k15Jhctt.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2072328892463845721",
+        "created_at": "2026-07-01T15:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072343323717833064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072343323717833064",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072328892463845721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 好听🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072328746258837504"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "2072328892463845721",
+        "created_at": "2026-07-01T14:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072328892463845721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i35ZEkkCse",
+              "end": 28,
+              "expanded_url": "https://x.com/liujiayi1111/status/2072328892463845721/video/1",
+              "media_key": "13_2072328746258837504",
+              "start": 5,
+              "url": "https://t.co/i35ZEkkCse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072328892463845721",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3977 https://t.co/i35ZEkkCse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 193,
+          "like_count": 14497,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 7962
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9170,
+          "following_count": 93,
+          "like_count": 11081,
+          "listed_count": 27,
+          "media_count": 266,
+          "tweet_count": 2507
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

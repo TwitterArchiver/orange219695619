@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078420127406784520",
+    "created_at": "2026-07-19T02:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078675619253227828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065706049064312832",
+          "start": 0,
+          "username": "bulunuofu"
+        },
+        {
+          "end": 24,
+          "id": "1782932905419046912",
+          "start": 11,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078675619253227828",
+    "in_reply_to_user_id": "2065706049064312832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078467948604432772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bulunuofu @ratshelprats 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078420127406784520",
+        "created_at": "2026-07-19T02:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078675619253227828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065706049064312832",
+              "start": 0,
+              "username": "bulunuofu"
+            },
+            {
+              "end": 24,
+              "id": "1782932905419046912",
+              "start": 11,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078675619253227828",
+        "in_reply_to_user_id": "2065706049064312832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078467948604432772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bulunuofu @ratshelprats 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065706049064312832",
+        "conversation_id": "2078420127406784520",
+        "created_at": "2026-07-18T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078467948604432772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078467948604432772",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4041,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078420127406784520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 别打嘴炮吹牛逼，假如你真是只鸡，找你无套操逼逼，汉庭如家鸡上坐 ，无套插操还内射，之后转账，送客"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 180,
+          "like_count": 18473,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 9214
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T08:04:12.000Z",
+        "description": "",
+        "id": "2065706049064312832",
+        "name": "布鲁诺夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065707177147580416/F5RYkDGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "bulunuofu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2076925869059399997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114089,
+          "following_count": 478,
+          "like_count": 102793,
+          "listed_count": 166,
+          "media_count": 606,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

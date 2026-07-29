@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058942837371416967",
+    "created_at": "2026-05-26T18:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059341271349751884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1855621322220437504",
+          "start": 0,
+          "username": "clcqzxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059341271349751884",
+    "in_reply_to_user_id": "1855621322220437504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058942837371416967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clcqzxc 差不多，不过我焦虑的状态还在，然后会焦虑刚刚是不是忘了什么重要的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058942837371416967",
+        "created_at": "2026-05-26T18:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059341271349751884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1855621322220437504",
+              "start": 0,
+              "username": "clcqzxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059341271349751884",
+        "in_reply_to_user_id": "1855621322220437504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058942837371416967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clcqzxc 差不多，不过我焦虑的状态还在，然后会焦虑刚刚是不是忘了什么重要的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855621322220437504",
+        "conversation_id": "2058942837371416967",
+        "created_at": "2026-05-25T16:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058942837371416967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058942837371416967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在焦虑 但我的记忆力下降又弥补了这一点以至于我常常忘了自己刚才为什么焦虑🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 140,
+          "like_count": 5787,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 4352
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T14:39:56.000Z",
+        "description": "喜欢小猫\n08 顺女 BPD/双相情感障碍 OD/SelfH/跨友好\n成分复杂 web3/美股/加密货币/摄影/音乐/文学/手游/端游… \n自行避雷 不限圈子 互fo必回",
+        "id": "1855621322220437504",
+        "location": "Berkeley, CA",
+        "name": "草履虫不会骑自行车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025005442838265856/JBY6xIev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 817,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 244
+        },
+        "username": "clcqzxc",
+        "verified": true
+      }
+    ]
+  }
+}

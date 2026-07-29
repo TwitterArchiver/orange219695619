@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054846894191566848",
+        "3_2054846894187462656"
+      ],
+      "media_source_tweet_id": [
+        "2054846904643764588",
+        "2054846904643764588"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055151159099511193",
+    "created_at": "2026-05-15T04:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055151159099511193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "231627081",
+          "start": 3,
+          "username": "aesttics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QsDFV6oee",
+          "end": 77,
+          "expanded_url": "https://x.com/aesttics/status/2054846904643764588/photo/1",
+          "media_key": "3_2054846894191566848",
+          "start": 54,
+          "url": "https://t.co/7QsDFV6oee"
+        },
+        {
+          "display_url": "pic.x.com/7QsDFV6oee",
+          "end": 77,
+          "expanded_url": "https://x.com/aesttics/status/2054846904643764588/photo/1",
+          "media_key": "3_2054846894187462656",
+          "start": 54,
+          "url": "https://t.co/7QsDFV6oee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055151159099511193",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054846904643764588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aesttics: where i wanna be:           where i am: https://t.co/7QsDFV6oee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2054846894191566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRIXPwaYAAe1zb.jpg",
+        "width": 720
+      },
+      {
+        "height": 936,
+        "media_key": "3_2054846894187462656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRIXPvbwAAhtcV.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054846894191566848",
+            "3_2054846894187462656"
+          ],
+          "media_source_tweet_id": [
+            "2054846904643764588",
+            "2054846904643764588"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055151159099511193",
+        "created_at": "2026-05-15T04:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055151159099511193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "231627081",
+              "start": 3,
+              "username": "aesttics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QsDFV6oee",
+              "end": 77,
+              "expanded_url": "https://x.com/aesttics/status/2054846904643764588/photo/1",
+              "media_key": "3_2054846894191566848",
+              "start": 54,
+              "url": "https://t.co/7QsDFV6oee"
+            },
+            {
+              "display_url": "pic.x.com/7QsDFV6oee",
+              "end": 77,
+              "expanded_url": "https://x.com/aesttics/status/2054846904643764588/photo/1",
+              "media_key": "3_2054846894187462656",
+              "start": 54,
+              "url": "https://t.co/7QsDFV6oee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055151159099511193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054846904643764588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aesttics: where i wanna be:           where i am: https://t.co/7QsDFV6oee"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054846894191566848",
+            "3_2054846894187462656"
+          ]
+        },
+        "author_id": "231627081",
+        "conversation_id": "2054846904643764588",
+        "created_at": "2026-05-14T08:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054846904643764588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QsDFV6oee",
+              "end": 63,
+              "expanded_url": "https://x.com/aesttics/status/2054846904643764588/photo/1",
+              "media_key": "3_2054846894191566848",
+              "start": 40,
+              "url": "https://t.co/7QsDFV6oee"
+            },
+            {
+              "display_url": "pic.x.com/7QsDFV6oee",
+              "end": 63,
+              "expanded_url": "https://x.com/aesttics/status/2054846904643764588/photo/1",
+              "media_key": "3_2054846894187462656",
+              "start": 40,
+              "url": "https://t.co/7QsDFV6oee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054846904643764588",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 220818,
+          "like_count": 9749,
+          "quote_count": 80,
+          "reply_count": 20,
+          "retweet_count": 1358
+        },
+        "reply_settings": "everyone",
+        "text": "where i wanna be:           where i am: https://t.co/7QsDFV6oee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 116,
+          "like_count": 3434,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3145
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-29T01:44:49.000Z",
+        "description": "",
+        "id": "231627081",
+        "name": "✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907053209153355776/zQk9beGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131750,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 327,
+          "media_count": 7786,
+          "tweet_count": 7869
+        },
+        "username": "aesttics",
+        "verified": true
+      }
+    ]
+  }
+}

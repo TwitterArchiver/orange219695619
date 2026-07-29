@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056390939925680128"
+      ],
+      "media_source_tweet_id": [
+        "2056390959756427342"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056614082007142888",
+    "created_at": "2026-05-19T05:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056614082007142888"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "篠澤広"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043874757292982272",
+          "start": 3,
+          "username": "velocremax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgdzNiHLny",
+          "end": 44,
+          "expanded_url": "https://x.com/velocremax/status/2056390959756427342/photo/1",
+          "media_key": "3_2056390939925680128",
+          "start": 21,
+          "url": "https://t.co/XgdzNiHLny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056614082007142888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056390959756427342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @velocremax: #篠澤広 https://t.co/XgdzNiHLny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056390939925680128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInEqiWaEAAap7E.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056390939925680128"
+          ],
+          "media_source_tweet_id": [
+            "2056390959756427342"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056614082007142888",
+        "created_at": "2026-05-19T05:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056614082007142888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "篠澤広"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043874757292982272",
+              "start": 3,
+              "username": "velocremax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgdzNiHLny",
+              "end": 44,
+              "expanded_url": "https://x.com/velocremax/status/2056390959756427342/photo/1",
+              "media_key": "3_2056390939925680128",
+              "start": 21,
+              "url": "https://t.co/XgdzNiHLny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056614082007142888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056390959756427342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @velocremax: #篠澤広 https://t.co/XgdzNiHLny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056390939925680128"
+          ]
+        },
+        "author_id": "2043874757292982272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056390959756427342",
+        "created_at": "2026-05-18T15:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056390959756427342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "篠澤広"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgdzNiHLny",
+              "end": 28,
+              "expanded_url": "https://x.com/velocremax/status/2056390959756427342/photo/1",
+              "media_key": "3_2056390939925680128",
+              "start": 5,
+              "url": "https://t.co/XgdzNiHLny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056390959756427342",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1140,
+          "impression_count": 142234,
+          "like_count": 11976,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 1322
+        },
+        "reply_settings": "everyone",
+        "text": "#篠澤広 https://t.co/XgdzNiHLny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 123,
+          "like_count": 4035,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3489
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T02:11:46.000Z",
+        "description": "Robusta Toraja with extra gula aren.\nbusiness: velocremax@gmail.com\nSupport: https://t.co/x8wsL42Eve",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/velocrema",
+                "end": 100,
+                "expanded_url": "https://ko-fi.com/velocrema",
+                "start": 77,
+                "url": "https://t.co/x8wsL42Eve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Drakhend66",
+                "end": 23,
+                "expanded_url": "https://vgen.co/Drakhend66",
+                "start": 0,
+                "url": "https://t.co/4Dq0cMQ3AX"
+              }
+            ]
+          }
+        },
+        "id": "2043874757292982272",
+        "location": "Side 7",
+        "name": "Velocrema",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045110591736655872/pOkslDZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 70,
+          "like_count": 93,
+          "listed_count": 9,
+          "media_count": 36,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/4Dq0cMQ3AX",
+        "username": "velocremax",
+        "verified": false
+      }
+    ]
+  }
+}

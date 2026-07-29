@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041088738777083958",
+    "created_at": "2026-04-06T12:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041138030279565748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948779307045978112",
+          "start": 0,
+          "username": "woAiLashi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041138030279565748",
+    "in_reply_to_user_id": "1948779307045978112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041088738777083958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woAiLashi8 懒得想不同的ID，但是会经常被占用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041088738777083958",
+        "created_at": "2026-04-06T12:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041138030279565748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948779307045978112",
+              "start": 0,
+              "username": "woAiLashi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041138030279565748",
+        "in_reply_to_user_id": "1948779307045978112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041088738777083958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woAiLashi8 懒得想不同的ID，但是会经常被占用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948779307045978112",
+        "conversation_id": "2041088738777083958",
+        "created_at": "2026-04-06T09:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041088738777083958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041088738777083958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 29943,
+          "like_count": 197,
+          "quote_count": 6,
+          "reply_count": 53,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "全平台同id这个事太恐怖了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 66,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 629
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T16:16:27.000Z",
+        "description": "别教我做事 我只和喜欢的人玩 不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwwwww51164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wwwwww51164",
+                "start": 0,
+                "url": "https://t.co/EekCUBm2yI"
+              }
+            ]
+          }
+        },
+        "id": "1948779307045978112",
+        "name": "我",
+        "pinned_tweet_id": "2017250484038578632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025513191044968448/hpbNxBYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 342,
+          "like_count": 65454,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 23586
+        },
+        "url": "https://t.co/EekCUBm2yI",
+        "username": "woAiLashi8",
+        "verified": false
+      }
+    ]
+  }
+}

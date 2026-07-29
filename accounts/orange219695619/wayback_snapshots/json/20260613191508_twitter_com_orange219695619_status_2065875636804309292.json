@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065799079402311924",
+    "created_at": "2026-06-13T19:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T20:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065875636804309292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1763873459548143616",
+          "start": 0,
+          "username": "esouwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065875636804309292",
+    "in_reply_to_user_id": "1763873459548143616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065875203021042079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@esouwx 好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065799079402311924",
+        "created_at": "2026-06-13T19:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065875636804309292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1763873459548143616",
+              "start": 0,
+              "username": "esouwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065875636804309292",
+        "in_reply_to_user_id": "1763873459548143616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065875203021042079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@esouwx 好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763873459548143616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          }
+        ],
+        "conversation_id": "2065799079402311924",
+        "created_at": "2026-06-13T19:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065875203021042079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065875203021042079",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065874536063697174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 알코올 중독으로 죽는 사람 난 살면서 아직까진 본 적없음."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 175,
+          "like_count": 9438,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 6149
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T10:26:33.000Z",
+        "description": "진입장벽 개낮음 선뎀 줘요 주서먹게                                                    정지대비계정 @les0w 인스타 @esouwx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 78,
+                "username": "les0w"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "username": "esouwx"
+              }
+            ]
+          }
+        },
+        "id": "1763873459548143616",
+        "location": "82미터옥상",
+        "name": "초상",
+        "pinned_tweet_id": "2063344907356655924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046988244563431424/Vwki55TZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 954,
+          "like_count": 3564,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 215
+        },
+        "username": "esouwx",
+        "verified": false
+      }
+    ]
+  }
+}

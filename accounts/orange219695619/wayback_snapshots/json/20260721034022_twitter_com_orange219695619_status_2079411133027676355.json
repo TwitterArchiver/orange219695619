@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079181385072300253",
+    "created_at": "2026-07-21T03:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079411133027676355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062847536134590464",
+          "start": 0,
+          "username": "aruannie512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079411133027676355",
+    "in_reply_to_user_id": "2062847536134590464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079399724566896836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aruannie512 希望你也能早日出心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079181385072300253",
+        "created_at": "2026-07-21T03:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079411133027676355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062847536134590464",
+              "start": 0,
+              "username": "aruannie512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079411133027676355",
+        "in_reply_to_user_id": "2062847536134590464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079399724566896836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aruannie512 希望你也能早日出心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062847536134590464",
+        "conversation_id": "2079181385072300253",
+        "created_at": "2026-07-21T02:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079399724566896836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079399724566896836",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079181385072300253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 恭喜，我从S1到现在都还没有出过😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 182,
+          "like_count": 18914,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 9350
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T10:44:45.000Z",
+        "description": "已有对象：@hajihajimo\nremember our promise",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "hajihajimo"
+              }
+            ]
+          }
+        },
+        "id": "2062847536134590464",
+        "location": "彭罗斯号",
+        "name": "灵鹊🐦",
+        "pinned_tweet_id": "2067268237168165029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071524495861665792/q1ObEJgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 119,
+          "like_count": 1479,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "aruannie512",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068524091381002436",
+    "created_at": "2026-06-21T09:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068633691702927634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1536308137057062912",
+          "start": 0,
+          "username": "xm77cooky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068633691702927634",
+    "in_reply_to_user_id": "1536308137057062912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068627254087946415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xm77cooky 正好给菜里加点肉（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068524091381002436",
+        "created_at": "2026-06-21T09:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068633691702927634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1536308137057062912",
+              "start": 0,
+              "username": "xm77cooky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068633691702927634",
+        "in_reply_to_user_id": "1536308137057062912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068627254087946415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xm77cooky 正好给菜里加点肉（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536308137057062912",
+        "conversation_id": "2068524091381002436",
+        "created_at": "2026-06-21T09:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068627254087946415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068627254087946415",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068578082508911014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 老大老大切到手怎么办😿（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 198,
+          "like_count": 11491,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 6914
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T11:23:13.000Z",
+        "description": "🌈les /04/h偏p/推上发日常或发些弹唱片段🎶/私信对女孩子开放，可以分享、倾诉/兔兔教🐰\n⚠蝻打扰直接蔽\n提问箱➡️ https://t.co/WLZKOoMiER",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xlin43119",
+                "end": 86,
+                "expanded_url": "https://ngl.link/xlin43119",
+                "start": 63,
+                "url": "https://t.co/WLZKOoMiER"
+              }
+            ]
+          }
+        },
+        "id": "1536308137057062912",
+        "name": "小林选手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033926746857476099/nSHvWC4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4013,
+          "following_count": 172,
+          "like_count": 8832,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "xm77cooky",
+        "verified": false
+      }
+    ]
+  }
+}

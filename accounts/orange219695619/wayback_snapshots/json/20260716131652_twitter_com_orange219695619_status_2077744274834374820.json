@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2077653593180762239",
+    "created_at": "2026-07-16T13:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077744274834374820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        },
+        {
+          "end": 27,
+          "id": "2014627941402214409",
+          "start": 14,
+          "username": "vi_nyangie10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077744274834374820",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077707677329691135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 @vi_nyangie10 无意中可能会进入异世界（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2077653593180762239",
+        "created_at": "2026-07-16T13:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077744274834374820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 27,
+              "id": "2014627941402214409",
+              "start": 14,
+              "username": "vi_nyangie10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077744274834374820",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077707677329691135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @vi_nyangie10 无意中可能会进入异世界（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2077653593180762239",
+        "created_at": "2026-07-16T10:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077707677329691135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014627941402214409",
+              "start": 0,
+              "username": "vi_nyangie10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077707677329691135",
+        "in_reply_to_user_id": "2014627941402214409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077653593180762239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vi_nyangie10 是什么感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 176,
+          "like_count": 18036,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 9044
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/liujiayi1111/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/liujiayi1111/status/2058900883270758469",
+                "start": 0,
+                "url": "https://t.co/er9WmJIKdu"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9398,
+          "following_count": 98,
+          "like_count": 12819,
+          "listed_count": 27,
+          "media_count": 293,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/er9WmJIKdu",
+        "username": "liujiayi1111",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-23T09:15:17.000Z",
+        "description": "10后女高在读｜社会热点 美股投资 web3 crypto 评论回关",
+        "id": "2014627941402214409",
+        "name": "yvvv10",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045666115817504768/VKkrpD6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 626,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1005
+        },
+        "url": "",
+        "username": "vi_nyangie10",
+        "verified": true
+      }
+    ]
+  }
+}

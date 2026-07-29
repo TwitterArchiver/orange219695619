@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079181385072300253",
+    "created_at": "2026-07-21T01:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079372453613343184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2021788729002831872",
+          "start": 0,
+          "username": "yuan886205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079372453613343184",
+    "in_reply_to_user_id": "2021788729002831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079371885863936425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan886205 谢谢🥰\n祝你也能早日出心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079181385072300253",
+        "created_at": "2026-07-21T01:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079372453613343184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2021788729002831872",
+              "start": 0,
+              "username": "yuan886205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079372453613343184",
+        "in_reply_to_user_id": "2021788729002831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079371885863936425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan886205 谢谢🥰\n祝你也能早日出心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021788729002831872",
+        "conversation_id": "2079181385072300253",
+        "created_at": "2026-07-21T01:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079371885863936425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079371885863936425",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079181385072300253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 恭喜喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 182,
+          "like_count": 18901,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 9340
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T03:29:48.000Z",
+        "description": "owo",
+        "id": "2021788729002831872",
+        "location": "月球",
+        "name": "影之华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041100521680068608/Dg7eK63M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 162,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "yuan886205",
+        "verified": false
+      }
+    ]
+  }
+}

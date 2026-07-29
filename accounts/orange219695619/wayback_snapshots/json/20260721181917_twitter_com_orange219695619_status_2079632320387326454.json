@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079529693653655627",
+    "created_at": "2026-07-21T18:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079632320387326454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079632320387326454",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079529693653655627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 机密比我绝密吃的都多😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2079529678168367104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv5OXcboAASl7Z.jpg",
+        "width": 2027
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2079529678155755520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv5OXZbMAAdnUi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079529693653655627",
+        "created_at": "2026-07-21T18:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079632320387326454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079632320387326454",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079529693653655627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 机密比我绝密吃的都多😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079529678168367104",
+            "3_2079529678155755520"
+          ]
+        },
+        "author_id": "1699985068721082368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079529693653655627",
+        "created_at": "2026-07-21T11:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079529693653655627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HV0FrXlfZA",
+              "end": 57,
+              "expanded_url": "https://x.com/RX_Xron28390/status/2079529693653655627/photo/1",
+              "media_key": "3_2079529678168367104",
+              "start": 34,
+              "url": "https://t.co/HV0FrXlfZA"
+            },
+            {
+              "display_url": "pic.x.com/HV0FrXlfZA",
+              "end": 57,
+              "expanded_url": "https://x.com/RX_Xron28390/status/2079529693653655627/photo/1",
+              "media_key": "3_2079529678155755520",
+              "start": 34,
+              "url": "https://t.co/HV0FrXlfZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079529693653655627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是机密航天啊？\n我4套mp7包都没带进的\n吃到啥了说是，龟包泰坦 https://t.co/HV0FrXlfZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19190,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 9438
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人/德拉无疑是美味的😋/正在战雷为elb🇷🇺服役，apex/kards/崩/舟/洲/BF/卡丘 玩家 \n鉴证打咩",
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2079486752633569775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 361,
+          "like_count": 11066,
+          "listed_count": 2,
+          "media_count": 1265,
+          "tweet_count": 8239
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

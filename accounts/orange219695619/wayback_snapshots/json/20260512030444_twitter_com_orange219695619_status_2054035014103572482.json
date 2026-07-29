@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053756178610757974",
+    "created_at": "2026-05-12T03:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054035014103572482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487024566975479810",
+          "start": 0,
+          "username": "crow_no996"
+        },
+        {
+          "end": 26,
+          "id": "1857802986837172224",
+          "start": 12,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054035014103572482",
+    "in_reply_to_user_id": "1487024566975479810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053794871769776151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crow_no996 @LingJiaXin233 别说，突然想要个妹妹了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053794862638731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICLi80akAA6Nat.jpg",
+        "width": 185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053756178610757974",
+        "created_at": "2026-05-12T03:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054035014103572482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487024566975479810",
+              "start": 0,
+              "username": "crow_no996"
+            },
+            {
+              "end": 26,
+              "id": "1857802986837172224",
+              "start": 12,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054035014103572482",
+        "in_reply_to_user_id": "1487024566975479810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053794871769776151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crow_no996 @LingJiaXin233 别说，突然想要个妹妹了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053794862638731264"
+          ]
+        },
+        "author_id": "1487024566975479810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053756178610757974",
+        "created_at": "2026-05-11T11:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053794871769776151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHDUjScf5N",
+              "end": 38,
+              "expanded_url": "https://x.com/crow_no996/status/2053794871769776151/photo/1",
+              "media_key": "3_2053794862638731264",
+              "start": 15,
+              "url": "https://t.co/YHDUjScf5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053794871769776151",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 39849,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053756178610757974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 https://t.co/YHDUjScf5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 107,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2857
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T11:27:54.000Z",
+        "description": "聊天看梗图看插画打游戏🎮\n找乐子，好玩的任何东西请告诉我||励志成为宝可梦大师/操虫棍糕手/现充/梗图制作人||",
+        "id": "1487024566975479810",
+        "location": "交界地",
+        "name": "crow🐦‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005480229465436161/jJncwJBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 578,
+          "like_count": 13874,
+          "listed_count": 16,
+          "media_count": 1784,
+          "tweet_count": 17054
+        },
+        "username": "crow_no996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf🏳️‍⚧️//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 677,
+          "like_count": 16504,
+          "listed_count": 11,
+          "media_count": 1348,
+          "tweet_count": 4399
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

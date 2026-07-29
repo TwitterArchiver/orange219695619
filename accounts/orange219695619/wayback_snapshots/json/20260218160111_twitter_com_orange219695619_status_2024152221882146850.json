@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2023982693462024330",
+    "created_at": "2026-02-18T16:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024152221882146850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893494535151312896",
+          "start": 0,
+          "username": "gaogao520mua"
+        },
+        {
+          "end": 28,
+          "id": "1882369277178863616",
+          "start": 14,
+          "username": "luvuhateu0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024152221882146850",
+    "in_reply_to_user_id": "1893494535151312896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024108364641275919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaogao520mua @luvuhateu0123 绷不住了，这点认可了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2023982693462024330",
+        "created_at": "2026-02-18T16:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024152221882146850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893494535151312896",
+              "start": 0,
+              "username": "gaogao520mua"
+            },
+            {
+              "end": 28,
+              "id": "1882369277178863616",
+              "start": 14,
+              "username": "luvuhateu0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024152221882146850",
+        "in_reply_to_user_id": "1893494535151312896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024108364641275919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaogao520mua @luvuhateu0123 绷不住了，这点认可了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893494535151312896",
+        "conversation_id": "2023982693462024330",
+        "created_at": "2026-02-18T13:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024108364641275919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882369277178863616",
+              "start": 0,
+              "username": "luvuhateu0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024108364641275919",
+        "in_reply_to_user_id": "1882369277178863616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2016,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023982693462024330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvuhateu0123 有什么好回归的，回归无偿加班还是回归一个月3000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T02:54:28.000Z",
+        "description": "我吹牛的 我只能吃下一碗饭/♂",
+        "id": "1893494535151312896",
+        "location": "California, USA",
+        "name": "能吃五碗饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947251349101432832/wpj5Tx9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 302,
+          "like_count": 4047,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2702
+        },
+        "username": "gaogao520mua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T10:06:31.000Z",
+        "description": "淡淡的 我當日记发了啦 不约也不想被认出来\n                     尊重我我也会尊重你   政治❌️屌❌️裝熟❌️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hateuluvu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hateuluvu",
+                "start": 0,
+                "url": "https://t.co/87BNIOreDM"
+              }
+            ]
+          }
+        },
+        "id": "1882369277178863616",
+        "location": "是誰住在深海的大鳳梨里",
+        "name": "喵",
+        "pinned_tweet_id": "1900220244767236534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018406089533104129/3REpPK3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 163,
+          "like_count": 494,
+          "listed_count": 10,
+          "media_count": 51,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/87BNIOreDM",
+        "username": "luvuhateu0123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057985347204665344"
+      ],
+      "media_source_tweet_id": [
+        "2057985392356303242"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058045444090142743",
+    "created_at": "2026-05-23T04:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058045444090142743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1876613242887282688",
+          "start": 3,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/89gICRFbNI",
+          "end": 48,
+          "expanded_url": "https://x.com/liujiayi1111/status/2057985392356303242/photo/1",
+          "media_key": "3_2057985347204665344",
+          "start": 25,
+          "url": "https://t.co/89gICRFbNI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058045444090142743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057985392356303242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liujiayi1111: 中文社区现状 https://t.co/89gICRFbNI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2057985347204665344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9uxQUX0AAvfB0.jpg",
+        "width": 2056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057985347204665344"
+          ],
+          "media_source_tweet_id": [
+            "2057985392356303242"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058045444090142743",
+        "created_at": "2026-05-23T04:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045444090142743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1876613242887282688",
+              "start": 3,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/89gICRFbNI",
+              "end": 48,
+              "expanded_url": "https://x.com/liujiayi1111/status/2057985392356303242/photo/1",
+              "media_key": "3_2057985347204665344",
+              "start": 25,
+              "url": "https://t.co/89gICRFbNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045444090142743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057985392356303242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liujiayi1111: 中文社区现状 https://t.co/89gICRFbNI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057985347204665344"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057985392356303242",
+        "created_at": "2026-05-23T00:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057985392356303242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89gICRFbNI",
+              "end": 30,
+              "expanded_url": "https://x.com/liujiayi1111/status/2057985392356303242/photo/1",
+              "media_key": "3_2057985347204665344",
+              "start": 7,
+              "url": "https://t.co/89gICRFbNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057985392356303242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4500,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "中文社区现状 https://t.co/89gICRFbNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 129,
+          "like_count": 4707,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3858
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。擅长TS/JS/React/Node.js/Python",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYJfyF"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2052605160103334247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8130,
+          "following_count": 64,
+          "like_count": 6045,
+          "listed_count": 21,
+          "media_count": 149,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/MsaRlYJfyF",
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

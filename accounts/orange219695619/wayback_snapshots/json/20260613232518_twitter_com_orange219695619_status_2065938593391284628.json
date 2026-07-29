@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065872386558451790",
+    "created_at": "2026-06-13T23:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065938593391284628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015509801846046721",
+          "start": 0,
+          "username": "fffalsum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065938593391284628",
+    "in_reply_to_user_id": "2015509801846046721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065872386558451790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffalsum 确实难喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065872377796603904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtz-23bsAASGsH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065872386558451790",
+        "created_at": "2026-06-13T23:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065938593391284628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015509801846046721",
+              "start": 0,
+              "username": "fffalsum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065938593391284628",
+        "in_reply_to_user_id": "2015509801846046721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065872386558451790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffalsum 确实难喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065872377796603904"
+          ]
+        },
+        "author_id": "2015509801846046721",
+        "conversation_id": "2065872386558451790",
+        "created_at": "2026-06-13T19:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065872386558451790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOkpcAn1Sa",
+              "end": 72,
+              "expanded_url": "https://x.com/fffalsum/status/2065872386558451790/photo/1",
+              "media_key": "3_2065872377796603904",
+              "start": 49,
+              "url": "https://t.co/uOkpcAn1Sa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065872386558451790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又买了之前发誓这辈子再也不会买的东西，这次是强爽......垃圾工业酒精我没招了，我只想赶紧喝醉 https://t.co/uOkpcAn1Sa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 176,
+          "like_count": 9519,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 6186
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T19:39:30.000Z",
+        "description": "要らない記憶を排除して重たい荷物投げ出して\nそこに残されたものは弱い自分だけ",
+        "id": "2015509801846046721",
+        "name": "西雲絵名",
+        "pinned_tweet_id": "2049577875796525235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059762467669250048/WdH0ePSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 478,
+          "like_count": 16943,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 1189
+        },
+        "username": "fffalsum",
+        "verified": false
+      }
+    ]
+  }
+}

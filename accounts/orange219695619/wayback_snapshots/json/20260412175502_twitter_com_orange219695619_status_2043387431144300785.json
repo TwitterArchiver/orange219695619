@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2043124960378376641",
+    "created_at": "2026-04-12T17:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043387431144300785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 27,
+          "id": "1562953761491865601",
+          "start": 14,
+          "username": "onlineinsane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043387431144300785",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043286810542166142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 @onlineinsane 好骂好骂（大晚上看到大蜘蛛飞过来真的吓死了😨）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043124960378376641",
+        "created_at": "2026-04-12T17:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043387431144300785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 27,
+              "id": "1562953761491865601",
+              "start": 14,
+              "username": "onlineinsane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043387431144300785",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043286810542166142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @onlineinsane 好骂好骂（大晚上看到大蜘蛛飞过来真的吓死了😨）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2043124960378376641",
+        "created_at": "2026-04-12T11:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043286810542166142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1562953761491865601",
+              "start": 0,
+              "username": "onlineinsane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043286810542166142",
+        "in_reply_to_user_id": "1562953761491865601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043124960378376641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onlineinsane GO FUCK YOURSELF NIGGA. STOP POSTING THESE FUCKING SHITPOSTS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 897
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino | Frontend/ReactNative Developer | Tweets in EN/CN | 欢迎 DM! | 头像 @qyMinusk9\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "qyMinusk9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 511,
+          "like_count": 10415,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 7546
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-26T00:03:21.000Z",
+        "description": "Hysterical posts on the internet @Roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 33,
+                "username": "Roobet"
+              }
+            ]
+          }
+        },
+        "id": "1562953761491865601",
+        "location": "dm submissions",
+        "name": "Insane Content",
+        "pinned_tweet_id": "2042967917478789408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719154303691055104/NAOVA3ED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180079,
+          "following_count": 80,
+          "like_count": 5322,
+          "listed_count": 248,
+          "media_count": 5446,
+          "tweet_count": 5653
+        },
+        "username": "onlineinsane",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061511240346952111",
+    "created_at": "2026-06-02T07:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061717714721497239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975572619488309248",
+          "start": 0,
+          "username": "JakeRammos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061717714721497239",
+    "in_reply_to_user_id": "1975572619488309248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061511240346952111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JakeRammos 人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061511240346952111",
+        "created_at": "2026-06-02T07:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061717714721497239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975572619488309248",
+              "start": 0,
+              "username": "JakeRammos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061717714721497239",
+        "in_reply_to_user_id": "1975572619488309248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061511240346952111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JakeRammos 人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975572619488309248",
+        "conversation_id": "2061511240346952111",
+        "created_at": "2026-06-01T18:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061511240346952111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061511240346952111",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 504456,
+          "like_count": 2162,
+          "quote_count": 1286,
+          "reply_count": 2765,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "Delete one animal from earth"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 152,
+          "like_count": 7022,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 4976
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T14:43:20.000Z",
+        "description": "Content Creator for X | Sharing inspiration, life lessons, and powerful quotes to uplift every soul.",
+        "id": "1975572619488309248",
+        "location": "elo",
+        "name": "🃏",
+        "pinned_tweet_id": "2061511240346952111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003565992438534144/qOmk8dLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5328,
+          "following_count": 3422,
+          "like_count": 53180,
+          "listed_count": 24,
+          "media_count": 35,
+          "tweet_count": 33032
+        },
+        "username": "JakeRammos",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066952340998160384"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066933321318494654",
+    "created_at": "2026-06-16T18:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066952343695028240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bIgVhb6790",
+          "end": 30,
+          "expanded_url": "https://x.com/orange219695619/status/2066952343695028240/photo/1",
+          "media_key": "3_2066952340998160384",
+          "start": 7,
+          "url": "https://t.co/bIgVhb6790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066952343695028240",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066933321318494654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu https://t.co/bIgVhb6790"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2066952340998160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9KM_TbgAA5M0X.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2066827890650710016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7ZBBobAAAf8sp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066952340998160384"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066933321318494654",
+        "created_at": "2026-06-16T18:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066952343695028240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIgVhb6790",
+              "end": 30,
+              "expanded_url": "https://x.com/orange219695619/status/2066952343695028240/photo/1",
+              "media_key": "3_2066952340998160384",
+              "start": 7,
+              "url": "https://t.co/bIgVhb6790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066952343695028240",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066933321318494654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu https://t.co/bIgVhb6790"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066827890650710016"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066933321318494654",
+        "created_at": "2026-06-16T17:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066933321318494654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58nlYoH4LB",
+              "end": 41,
+              "expanded_url": "https://x.com/_ropu/status/2066933321318494654/photo/1",
+              "media_key": "3_2066827890650710016",
+              "start": 18,
+              "url": "https://t.co/58nlYoH4LB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066933321318494654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到自己应该发点健康的内容： https://t.co/58nlYoH4LB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 187,
+          "like_count": 10217,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 6485
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31361,
+          "following_count": 4513,
+          "like_count": 16333,
+          "listed_count": 32,
+          "media_count": 4815,
+          "tweet_count": 35513
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

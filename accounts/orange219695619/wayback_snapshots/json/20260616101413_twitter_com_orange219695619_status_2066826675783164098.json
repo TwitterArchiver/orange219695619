@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066543933233197302",
+    "created_at": "2026-06-16T10:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066826675783164098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869219648492986368",
+          "start": 0,
+          "username": "btbt673308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066826675783164098",
+    "in_reply_to_user_id": "1869219648492986368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066718252819214757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btbt673308 OK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066543933233197302",
+        "created_at": "2026-06-16T10:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066826675783164098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869219648492986368",
+              "start": 0,
+              "username": "btbt673308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066826675783164098",
+        "in_reply_to_user_id": "1869219648492986368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066718252819214757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btbt673308 OK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869219648492986368",
+        "conversation_id": "2066543933233197302",
+        "created_at": "2026-06-16T03:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066718252819214757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066718252819214757",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066543933233197302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 做饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 184,
+          "like_count": 10033,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 6423
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T03:14:43.000Z",
+        "description": "语言是魅惑人心的工具       欢迎私信打扰\n       我是一只侏罗纪短手霸王龙🦖 \n                 雅俗共赏\n文学业余爱好者（只吹水不看书） 轻音乐爱好者  加密小白 抽奖爱好者\n骚扰大家and陪大家发疯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 0,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1869219648492986368",
+        "name": "bt bt",
+        "pinned_tweet_id": "2060808275646660724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022350993426685952/d19-RPSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 693,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/Qntfz9TM3m",
+        "username": "btbt673308",
+        "verified": false
+      }
+    ]
+  }
+}

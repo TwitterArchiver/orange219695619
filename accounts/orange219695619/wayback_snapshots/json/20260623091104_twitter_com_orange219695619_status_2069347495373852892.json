@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069345774534844686",
+    "created_at": "2026-06-23T09:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T10:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069347495373852892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938417216338399232",
+          "start": 0,
+          "username": "anochan_gekini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069347495373852892",
+    "in_reply_to_user_id": "1938417216338399232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069345774534844686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anochan_gekini 据我所知，汉语的骂人话真的多得不得了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2069345771129040896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfLA9WacAAHf2s.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069345774534844686",
+        "created_at": "2026-06-23T09:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069347495373852892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938417216338399232",
+              "start": 0,
+              "username": "anochan_gekini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069347495373852892",
+        "in_reply_to_user_id": "1938417216338399232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069345774534844686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anochan_gekini 据我所知，汉语的骂人话真的多得不得了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069345771129040896"
+          ]
+        },
+        "author_id": "1938417216338399232",
+        "conversation_id": "2069345774534844686",
+        "created_at": "2026-06-23T09:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069345774534844686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qdKjEOk2E",
+              "end": 48,
+              "expanded_url": "https://x.com/anochan_gekini/status/2069345774534844686/photo/1",
+              "media_key": "3_2069345771129040896",
+              "start": 25,
+              "url": "https://t.co/5qdKjEOk2E"
+            },
+            {
+              "display_url": "x.com/sssgmiso/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/sssgmiso/status/2069178160533680446",
+              "start": 49,
+              "url": "https://t.co/psLcltmH5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069345774534844686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069178160533680446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ロシア語がたしか罵倒語めちゃくちゃ多かったのだ。 https://t.co/5qdKjEOk2E https://t.co/psLcltmH5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 12318,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 7293
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T02:01:14.000Z",
+        "description": "あのちゃん激似おじさんなのだ。本物のおじさんなのだ。\n\nTik Tok\nhttps://t.co/0MWO9wKFLd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@anochan_gekin…",
+                "end": 59,
+                "expanded_url": "https://www.tiktok.com/@anochan_gekini?_r=1&_t=ZS-919MMVKHPUK",
+                "start": 36,
+                "url": "https://t.co/0MWO9wKFLd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZZNt…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCZZNtt4u5SPbvRTE0jMNE-Q?si=g8SX1_vLvegfIEz-",
+                "start": 0,
+                "url": "https://t.co/stpTcVgyNC"
+              }
+            ]
+          }
+        },
+        "id": "1938417216338399232",
+        "name": "あのちゃん激似おじさん",
+        "pinned_tweet_id": "1971544634116698268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938418819103657986/FzgmqCBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 516,
+          "like_count": 24768,
+          "listed_count": 4,
+          "media_count": 1226,
+          "tweet_count": 3769
+        },
+        "url": "https://t.co/stpTcVgyNC",
+        "username": "anochan_gekini",
+        "verified": false
+      }
+    ]
+  }
+}

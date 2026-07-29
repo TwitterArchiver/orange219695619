@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062007943021875251",
+    "created_at": "2026-06-03T03:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062015681961644180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062015681961644180",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062007943021875251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 这苹果看着就好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062007931047223296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ25Sc4boAAs1xF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062007931382751232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ25SeIbYAA5ZY5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062007943021875251",
+        "created_at": "2026-06-03T03:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062015681961644180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062015681961644180",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062007943021875251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 这苹果看着就好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062007931047223296",
+            "3_2062007931382751232"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062007943021875251",
+        "created_at": "2026-06-03T03:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062007943021875251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8E9UO3465",
+              "end": 166,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2062007943021875251/photo/1",
+              "media_key": "3_2062007931047223296",
+              "start": 143,
+              "url": "https://t.co/P8E9UO3465"
+            },
+            {
+              "display_url": "pic.x.com/P8E9UO3465",
+              "end": 166,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2062007943021875251/photo/1",
+              "media_key": "3_2062007931382751232",
+              "start": 143,
+              "url": "https://t.co/P8E9UO3465"
+            },
+            {
+              "display_url": "x.com/Oz_Garlandd/st…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/Oz_Garlandd/status/2062004604167192767",
+              "start": 167,
+              "url": "https://t.co/KB5dfHq0rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062007943021875251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062004604167192767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想起来了我半夜还吃了个🍎 还是翻相册得知的😋脆脆的 很甜\n我也稍微想起来做的一点梦..梦里好多人被绝望抓住 有人不停的割开皮肤 直至砍下肢体 血流全身 有人服下毒药 还追加毒酒 就算跌跌撞撞 血滴入酒杯中仍然强迫喝下 有人互相残杀 而我只是看着眼前的偌大庄园与一切付之一炬 无比冷静 https://t.co/P8E9UO3465 https://t.co/KB5dfHq0rx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 154,
+          "like_count": 7197,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 5088
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 293,
+          "like_count": 24453,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1940
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

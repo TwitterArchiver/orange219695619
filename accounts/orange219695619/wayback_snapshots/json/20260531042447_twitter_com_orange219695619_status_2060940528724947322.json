@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060924272923889735",
+    "created_at": "2026-05-31T04:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060940528724947322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060940528724947322",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060924272923889735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2594,
+        "media_key": "3_2060924265323749376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnfszea4AAU_fw.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060924272923889735",
+        "created_at": "2026-05-31T04:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060940528724947322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060940528724947322",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060924272923889735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060924265323749376"
+          ]
+        },
+        "author_id": "1520285442737770496",
+        "conversation_id": "2060924272923889735",
+        "created_at": "2026-05-31T03:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060924272923889735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dsroqfliRK",
+              "end": 47,
+              "expanded_url": "https://x.com/Magpieneko/status/2060924272923889735/photo/1",
+              "media_key": "3_2060924265323749376",
+              "start": 24,
+              "url": "https://t.co/dsroqfliRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060924272923889735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这种用铁链捆起来的冰箱\n让我想起一位故人（ https://t.co/dsroqfliRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 6585,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 4797
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜Cptsd｜是个不可爱的孩子｜学着成为人类｜社恐｜总是很困｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 45,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 817
+        },
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

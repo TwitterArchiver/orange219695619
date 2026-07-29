@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2039963051567587829",
+    "created_at": "2026-04-03T07:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039963051567587829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/doryntory/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/doryntory/status/2039643156711719017",
+          "start": 5,
+          "url": "https://t.co/gD88aYoubf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039963051567587829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039643156711719017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有救了😆 https://t.co/gD88aYoubf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18831,
+        "height": 1280,
+        "media_key": "7_1919080338426384384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919080338426384384/pu/img/5AvR1E8gPYrct0vs.jpg",
+        "public_metrics": {
+          "view_count": 33549355
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/vid/avc1/320x568/dOr4-QNYxg4AWT33.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/vid/avc1/480x852/hofDTuVKEZsUCrMw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/vid/avc1/720x1280/S3CrKOQUi7iEm9yr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919080338426384384/pu/pl/Metw7V7ss70xbTQ6.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2039963051567587829",
+        "created_at": "2026-04-03T07:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039963051567587829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doryntory/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/doryntory/status/2039643156711719017",
+              "start": 5,
+              "url": "https://t.co/gD88aYoubf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039963051567587829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039643156711719017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有救了😆 https://t.co/gD88aYoubf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919080338426384384"
+          ],
+          "media_source_tweet_id": [
+            "1919080381912879464"
+          ]
+        },
+        "author_id": "1789181543363309568",
+        "conversation_id": "2039643156711719017",
+        "created_at": "2026-04-02T09:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039643156711719017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpAlAyJwTM",
+              "end": 57,
+              "expanded_url": "https://x.com/YKwolfpec/status/1919080381912879464/video/1",
+              "media_key": "7_1919080338426384384",
+              "start": 34,
+              "url": "https://t.co/qpAlAyJwTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039643156711719017",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4268,
+          "impression_count": 4892047,
+          "like_count": 9477,
+          "quote_count": 555,
+          "reply_count": 209,
+          "retweet_count": 683
+        },
+        "reply_settings": "everyone",
+        "text": "켈로이드 피부로 흉터 자국 심하신 분들에게 희소식이네요. \n https://t.co/qpAlAyJwTM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 54,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 454
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:32:10.000Z",
+        "description": "따뜻한 카페라떼, 술, 아이쇼핑, 걷기, 비, 눈, 가을과 겨울 좋아함. 주부 21년차 경력으로 요리도 뚝딱. 공감할 만한 좋은 글ㆍ사진ㆍ영상 올리거나 인용하는 게 취미. 경험과 분석을 바탕으로 슬기로운 엑스 생활을 위한 팁 공유. 아티클은 최근 유행하는 한국 트렌드를 영어로 소개함.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.blog.naver.com/doryntory",
+                "end": 23,
+                "expanded_url": "https://m.blog.naver.com/doryntory",
+                "start": 0,
+                "url": "https://t.co/KyhEmAwBZm"
+              }
+            ]
+          }
+        },
+        "id": "1789181543363309568",
+        "location": "대한민국",
+        "name": "알짜배기",
+        "pinned_tweet_id": "2038950615775420595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789192864121126912/2by_BWdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8645,
+          "following_count": 9444,
+          "like_count": 224008,
+          "listed_count": 18,
+          "media_count": 12684,
+          "tweet_count": 162124
+        },
+        "url": "https://t.co/KyhEmAwBZm",
+        "username": "doryntory",
+        "verified": true
+      }
+    ]
+  }
+}

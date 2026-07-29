@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040697614178623496",
+    "created_at": "2026-04-28T12:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049099327667425621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049099327667425621",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049098541491196169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiJin_0v0 抱抱🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049098541491196169].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049098541491196169",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049098541491196169"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040697614178623496",
+        "created_at": "2026-04-28T12:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049099327667425621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049099327667425621",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049098541491196169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 抱抱🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 87,
+          "like_count": 1393,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1788
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "本体 @hg3551019177402 \n老豆 @rinii165892\n无证含糖/家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "出租屋",
+        "name": "伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2047257307072118954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 430,
+          "like_count": 2234,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1412
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074803528145702989",
+    "created_at": "2026-07-08T11:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074814155966799999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        },
+        {
+          "end": 23,
+          "id": "1512456859776851972",
+          "start": 13,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074814155966799999",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074807433680323043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 @wanliyan3 我没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074803528145702989",
+        "created_at": "2026-07-08T11:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074814155966799999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            },
+            {
+              "end": 23,
+              "id": "1512456859776851972",
+              "start": 13,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074814155966799999",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074807433680323043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 @wanliyan3 我没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2074803528145702989",
+        "created_at": "2026-07-08T10:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074807433680323043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074807433680323043",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074806105688211842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 氣笑了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 173,
+          "like_count": 16108,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 8441
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2074744246817714245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1957,
+          "like_count": 34109,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1003
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "高雄",
+        "id": "1512456859776851972",
+        "location": "台灣",
+        "name": "拿鐵🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044837652076322816/nH0Qk2dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 254,
+          "like_count": 492,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065041354615337471",
+    "created_at": "2026-06-12T10:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065379751133598084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065379751133598084",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065041354615337471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560 精神恋爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 433,
+        "media_key": "3_2064706067091898368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdPOo6bQAAj1gJ.png",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065041354615337471",
+        "created_at": "2026-06-12T10:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065379751133598084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065379751133598084",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065041354615337471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 精神恋爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064706067091898368"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "2065041354615337471",
+        "created_at": "2026-06-11T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065041354615337471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOQbvKM8pC",
+              "end": 35,
+              "expanded_url": "https://x.com/show5560/status/2065041354615337471/photo/1",
+              "media_key": "3_2064706067091898368",
+              "start": 12,
+              "url": "https://t.co/jOQbvKM8pC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041354615337471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3996,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "帕拉图式恋爱是什么？🤔 https://t.co/jOQbvKM8pC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 170,
+          "like_count": 9095,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 5992
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "162cm/58kg /普通人/美好人世间和地狱全景房，我该选哪个/★真的好想结束这一切✟/ 坐标:成都 /蓝v关注必回",
+        "id": "1465701247021838341",
+        "name": "沐安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4390,
+          "following_count": 1692,
+          "like_count": 28510,
+          "listed_count": 8,
+          "media_count": 1444,
+          "tweet_count": 7945
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

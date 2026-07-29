@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074871125411352733",
+    "created_at": "2026-07-09T04:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075079124021072173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1378757362144702465",
+          "start": 0,
+          "username": "C_S_O_J_S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075079124021072173",
+    "in_reply_to_user_id": "1378757362144702465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074871125411352733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_S_O_J_S 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074871109615493120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtsR_NaIAAed50.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074871109523296256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtsR-3bUAAyjpx.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074871125411352733",
+        "created_at": "2026-07-09T04:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075079124021072173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1378757362144702465",
+              "start": 0,
+              "username": "C_S_O_J_S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075079124021072173",
+        "in_reply_to_user_id": "1378757362144702465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074871125411352733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_S_O_J_S 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074871109615493120",
+            "3_2074871109523296256"
+          ]
+        },
+        "author_id": "1378757362144702465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2074871125411352733",
+        "created_at": "2026-07-08T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074871125411352733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5KfMpKwER",
+              "end": 30,
+              "expanded_url": "https://x.com/C_S_O_J_S/status/2074871125411352733/photo/1",
+              "media_key": "3_2074871109615493120",
+              "start": 7,
+              "url": "https://t.co/g5KfMpKwER"
+            },
+            {
+              "display_url": "pic.x.com/g5KfMpKwER",
+              "end": 30,
+              "expanded_url": "https://x.com/C_S_O_J_S/status/2074871125411352733/photo/1",
+              "media_key": "3_2074871109523296256",
+              "start": 7,
+              "url": "https://t.co/g5KfMpKwER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074871125411352733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21428,
+          "like_count": 377,
+          "quote_count": 1,
+          "reply_count": 64,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "嗯對，結婚啦 https://t.co/g5KfMpKwER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 172,
+          "like_count": 16229,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 8491
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T17:12:37.000Z",
+        "description": "嘿客官，本店什么都有，除了你想要的，进来瞧瞧？",
+        "id": "1378757362144702465",
+        "name": "清新海盐橙汁汽水",
+        "pinned_tweet_id": "1713748061653192986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405938333046423558/-BB8y-EX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 1172,
+          "like_count": 82954,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 12332
+        },
+        "url": "",
+        "username": "C_S_O_J_S",
+        "verified": false
+      }
+    ]
+  }
+}

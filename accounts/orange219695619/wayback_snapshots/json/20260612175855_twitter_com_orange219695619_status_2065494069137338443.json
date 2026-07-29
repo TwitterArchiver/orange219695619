@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065340951200219313",
+    "created_at": "2026-06-12T17:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065494069137338443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        },
+        {
+          "end": 25,
+          "id": "1980236829455511552",
+          "start": 10,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065494069137338443",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065355199712285075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 @PaulDrizzyvlni 不要😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065340951200219313",
+        "created_at": "2026-06-12T17:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065494069137338443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            },
+            {
+              "end": 25,
+              "id": "1980236829455511552",
+              "start": 10,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065494069137338443",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065355199712285075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 @PaulDrizzyvlni 不要😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "conversation_id": "2065340951200219313",
+        "created_at": "2026-06-12T08:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065355199712285075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065355199712285075",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065340951200219313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 打算飞喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 171,
+          "like_count": 9201,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 6039
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "服务器运维&深度学习业余人士 ＆打工人\n北京素鳞智绘科技有限公司 CEO\nzwh20081@solart.pro 商务\n💖 @Littleloong233\n逃生舱：@zwh18002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "Littleloong233"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zwh18002"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081🍥",
+        "pinned_tweet_id": "2064339175001018652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064624898262323200/ed1cWS8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 365,
+          "like_count": 18803,
+          "listed_count": 4,
+          "media_count": 569,
+          "tweet_count": 11851
+        },
+        "username": "zwh20081",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|想睡覺|\n好姐姐 @HappyHejsDay | 對象 @shixveriya 🥰 |我的妹妹 @shiyaoshiwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "shixveriya"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "shiyaoshiwo"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "happiness🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1463,
+          "like_count": 6803,
+          "listed_count": 6,
+          "media_count": 433,
+          "tweet_count": 4894
+        },
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

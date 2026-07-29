@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080668692765897092",
+    "created_at": "2026-07-25T05:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080886015972262375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476546742577504265",
+          "start": 0,
+          "username": "luoshuyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080886015972262375",
+    "in_reply_to_user_id": "1476546742577504265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080668692765897092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoshuyao 研发部和采购部哪个更蠢一点（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080668692765897092",
+        "created_at": "2026-07-25T05:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080886015972262375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476546742577504265",
+              "start": 0,
+              "username": "luoshuyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080886015972262375",
+        "in_reply_to_user_id": "1476546742577504265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080668692765897092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoshuyao 研发部和采购部哪个更蠢一点（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476546742577504265",
+        "conversation_id": "2080668692765897092",
+        "created_at": "2026-07-24T14:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080668692765897092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoshuyao/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/luoshuyao/status/2079794418782232850",
+              "start": 64,
+              "url": "https://t.co/gDFhyBzsQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080668692765897092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "研发部是我们这里最蠢的部门，只给了一张这样的表给我们就叫我们做，操作流程什么的都不说，也没有跟后面烤炉的人交代烘烤时间和温度。\n虽然说这个蛋糕胚也很简单做，口头说一下我就直接上手了，但是你要我用1350克的材料做出来1350克的蛋糕胚，脑子进水了吗？我刚开始还没有仔细看总重量，只看了全蛋液牛奶和油的重量就直接开始做了，第一天只做了六盘的量，每一个材料我还多称了一点点，结果到最后一盘的时候还是差了200克。他是要我做到0%的损耗吗？堪比能量100%转化率，堪比制造永动机。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 731,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079794418782232850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "研发部是我们这里最蠢的部门，只给了一张这样的表给我们就叫我们做，操作流程什么的都不说，也没有跟后面烤炉的人交代烘烤时间和温度。 https://t.co/gDFhyBzsQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 182,
+          "like_count": 19961,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 9638
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076809632237125632/jlUlYtd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 284,
+          "like_count": 19981,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 4717
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      }
+    ]
+  }
+}

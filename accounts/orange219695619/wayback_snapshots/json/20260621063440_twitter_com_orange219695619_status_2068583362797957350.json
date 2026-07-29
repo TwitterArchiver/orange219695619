@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068583355369885696"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068583362797957350",
+    "created_at": "2026-06-21T06:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068583362797957350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jERU28huvG",
+          "end": 39,
+          "expanded_url": "https://x.com/orange219695619/status/2068583362797957350/photo/1",
+          "media_key": "3_2068583355369885696",
+          "start": 16,
+          "url": "https://t.co/jERU28huvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068583362797957350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实钥匙也很好用🤤\n还很好解释 https://t.co/jERU28huvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068583355369885696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUVmhUbkAAo63T.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068583355369885696"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068583362797957350",
+        "created_at": "2026-06-21T06:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068583362797957350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jERU28huvG",
+              "end": 39,
+              "expanded_url": "https://x.com/orange219695619/status/2068583362797957350/photo/1",
+              "media_key": "3_2068583355369885696",
+              "start": 16,
+              "url": "https://t.co/jERU28huvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068583362797957350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实钥匙也很好用🤤\n还很好解释 https://t.co/jERU28huvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 198,
+          "like_count": 11436,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 6891
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

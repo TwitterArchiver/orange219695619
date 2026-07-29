@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056576353978519695",
+    "created_at": "2026-05-19T05:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T06:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056612173745648029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509359543561895936",
+          "start": 0,
+          "username": "jiangji07693223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056612173745648029",
+    "in_reply_to_user_id": "1509359543561895936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056576353978519695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangji07693223 姑娘果"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056576341739495424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIptSV7a4AAqNnd.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056576353978519695",
+        "created_at": "2026-05-19T05:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056612173745648029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509359543561895936",
+              "start": 0,
+              "username": "jiangji07693223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056612173745648029",
+        "in_reply_to_user_id": "1509359543561895936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056576353978519695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangji07693223 姑娘果"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056576341739495424"
+          ]
+        },
+        "author_id": "1509359543561895936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056576353978519695",
+        "created_at": "2026-05-19T03:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056576353978519695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Yz1zrXcei",
+              "end": 36,
+              "expanded_url": "https://x.com/jiangji07693223/status/2056576353978519695/photo/1",
+              "media_key": "3_2056576341739495424",
+              "start": 13,
+              "url": "https://t.co/5Yz1zrXcei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056576353978519695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 473,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考考各位，这是什么水果？ https://t.co/5Yz1zrXcei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 123,
+          "like_count": 4029,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3487
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T02:39:09.000Z",
+        "description": "互fo互赞，说到做到！\nfollow me 100% follow back！",
+        "id": "1509359543561895936",
+        "location": "江西赣州",
+        "name": "江江",
+        "pinned_tweet_id": "2056268559677030426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515485867858866178/E7-5Xfzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11435,
+          "following_count": 10988,
+          "like_count": 27068,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 577
+        },
+        "username": "jiangji07693223",
+        "verified": false
+      }
+    ]
+  }
+}

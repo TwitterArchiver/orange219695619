@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Seattle",
+          "id": "908359182864203777",
+          "name": "Seattle"
+        }
+      }
+    ],
+    "conversation_id": "2059859531736445334",
+    "created_at": "2026-05-28T04:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059859531736445334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1943780856868347904",
+          "start": 3,
+          "username": "Hombrelmparable"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059859531736445334",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059530041420320868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hombrelmparable: Este es John Eisenman. Perdió a su hija a causa de la trata S3xual. Fue vendida por 1000 dólares en Seattle, Washingto…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_2059505796547788800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTVnDgWwAAicmf.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Seattle",
+              "id": "908359182864203777",
+              "name": "Seattle"
+            }
+          }
+        ],
+        "conversation_id": "2059859531736445334",
+        "created_at": "2026-05-28T04:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059859531736445334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1943780856868347904",
+              "start": 3,
+              "username": "Hombrelmparable"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059859531736445334",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059530041420320868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hombrelmparable: Este es John Eisenman. Perdió a su hija a causa de la trata S3xual. Fue vendida por 1000 dólares en Seattle, Washingto…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059505796547788800"
+          ]
+        },
+        "author_id": "1943780856868347904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Washington",
+              "id": "1016385934814674944",
+              "name": "Washington State"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Seattle",
+              "id": "908359182864203777",
+              "name": "Seattle"
+            }
+          }
+        ],
+        "conversation_id": "2059530041420320868",
+        "created_at": "2026-05-27T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059530041420320868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJ7Ea1rU9i",
+              "end": 304,
+              "expanded_url": "https://x.com/Hombrelmparable/status/2059530041420320868/photo/1",
+              "media_key": "3_2059505796547788800",
+              "start": 281,
+              "url": "https://t.co/yJ7Ea1rU9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059530041420320868",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Este es John Eisenman. Perdió a su hija a causa de la trata S3xual. Fue vendida por 1000 dólares en Seattle, Washington. Hizo lo que un padre debe hacer: investigó a fondo y descubrió el secuestro. La rescató personalmente. Descubrió que quien la vendió a la trata era su novio de 19 años. Se reunió con él, lo secuestró, lo golpeó y lo apuñal0 hasta la mue1te en noviembre de 2020."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1493,
+          "impression_count": 1189707,
+          "like_count": 67610,
+          "quote_count": 628,
+          "reply_count": 2825,
+          "retweet_count": 9262
+        },
+        "reply_settings": "everyone",
+        "text": "Este es John Eisenman. Perdió a su hija a causa de la trata S3xual. Fue vendida por 1000 dólares en Seattle, Washington. Hizo lo que un padre debe hacer: investigó a fondo y descubrió el secuestro. La rescató personalmente. Descubrió que quien la vendió a la trata era su novio de https://t.co/yJ7Ea1rU9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 141,
+          "like_count": 6037,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 4476
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T21:14:44.000Z",
+        "description": "Mentalidad / Crecimiento personal / Bienestar/ Psicologia",
+        "id": "1943780856868347904",
+        "name": "Hombre Imparable",
+        "pinned_tweet_id": "2059331140318646592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943791502326407168/LW9yvQ2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111525,
+          "following_count": 292,
+          "like_count": 12344,
+          "listed_count": 143,
+          "media_count": 4598,
+          "tweet_count": 20622
+        },
+        "username": "Hombrelmparable",
+        "verified": true
+      }
+    ]
+  }
+}

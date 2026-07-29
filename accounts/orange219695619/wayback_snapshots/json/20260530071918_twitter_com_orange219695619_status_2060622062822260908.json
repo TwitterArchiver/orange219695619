@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060403780496347356",
+    "created_at": "2026-05-30T07:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060622062822260908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1705893354016489472",
+          "start": 0,
+          "username": "g0frt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060622062822260908",
+    "in_reply_to_user_id": "1705893354016489472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060403780496347356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g0frt 闪电战这一块（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060403780496347356",
+        "created_at": "2026-05-30T07:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060622062822260908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1705893354016489472",
+              "start": 0,
+              "username": "g0frt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060622062822260908",
+        "in_reply_to_user_id": "1705893354016489472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060403780496347356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g0frt 闪电战这一块（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705893354016489472",
+        "conversation_id": "2060403780496347356",
+        "created_at": "2026-05-29T16:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060403780496347356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/g0frt/status/2…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/g0frt/status/2059295629478924325",
+              "start": 6,
+              "url": "https://t.co/v1BmLeDLuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060403780496347356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 864888,
+          "like_count": 7630,
+          "quote_count": 37,
+          "reply_count": 182,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059295629478924325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "別れたンゴ https://t.co/v1BmLeDLuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 145,
+          "like_count": 6367,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 4681
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T10:34:58.000Z",
+        "description": "LJK DM🔺通話❌出会い厨❌病み垢フォロバ100 お別れはブロ解で 大好きな愛方&生きる意味@Yume__tya サブ@Sanso_san_O2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Yume__tya"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Sanso_san_O2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/g0frt/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/g0frt/",
+                "start": 0,
+                "url": "https://t.co/kXjbuAMYS5"
+              }
+            ]
+          }
+        },
+        "id": "1705893354016489472",
+        "location": "9月8日",
+        "name": "酸素",
+        "pinned_tweet_id": "1858518218408874460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037750741704843264/ram3hErn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1455,
+          "like_count": 92744,
+          "listed_count": 44,
+          "media_count": 236,
+          "tweet_count": 36981
+        },
+        "url": "https://t.co/kXjbuAMYS5",
+        "username": "g0frt",
+        "verified": false
+      }
+    ]
+  }
+}

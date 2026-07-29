@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2037110341851545617",
+    "created_at": "2026-03-26T20:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037265661551120438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999160290395762689",
+          "start": 0,
+          "username": "75T_T56"
+        },
+        {
+          "end": 22,
+          "id": "1893670660721061888",
+          "start": 9,
+          "username": "xk1234567891"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037265661551120438",
+    "in_reply_to_user_id": "1999160290395762689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037232252980257025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@75T_T56 @xk1234567891 展示出货原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2037110341851545617",
+        "created_at": "2026-03-26T20:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037265661551120438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999160290395762689",
+              "start": 0,
+              "username": "75T_T56"
+            },
+            {
+              "end": 22,
+              "id": "1893670660721061888",
+              "start": 9,
+              "username": "xk1234567891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037265661551120438",
+        "in_reply_to_user_id": "1999160290395762689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037232252980257025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@75T_T56 @xk1234567891 展示出货原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999160290395762689",
+        "conversation_id": "2037110341851545617",
+        "created_at": "2026-03-26T18:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037232252980257025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893670660721061888",
+              "start": 0,
+              "username": "xk1234567891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037232252980257025",
+        "in_reply_to_user_id": "1893670660721061888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037194565468512758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xk1234567891 没错 在摸的时候挨打了 朋友上来也被赛伊德打倒了 赛伊德你个贱入。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 40,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 271
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:52:29.000Z",
+        "description": "如果你也听我碎碎念＞𐋣＜",
+        "id": "1999160290395762689",
+        "name": "卖萌被肘击",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009459959759540224/T39IkNn7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 8,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 723
+        },
+        "username": "75T_T56",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T14:34:50.000Z",
+        "description": "明月光 为何未照地堂",
+        "id": "1893670660721061888",
+        "name": "坏天气",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029611570976931840/uxoBbYT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1224
+        },
+        "username": "xk1234567891",
+        "verified": false
+      }
+    ]
+  }
+}

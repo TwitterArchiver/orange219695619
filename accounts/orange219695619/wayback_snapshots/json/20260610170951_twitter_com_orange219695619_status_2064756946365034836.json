@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064727396276986097",
+    "created_at": "2026-06-10T17:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064756946365034836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025951595020845056",
+          "start": 0,
+          "username": "fhv932189957574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064756946365034836",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064727396276986097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhv932189957574 好诶🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2064727382691659776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdinXtbwAAbpgj.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064727396276986097",
+        "created_at": "2026-06-10T17:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064756946365034836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064756946365034836",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064727396276986097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 好诶🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064727382691659776"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2064727396276986097",
+        "created_at": "2026-06-10T15:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064727396276986097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 57,
+              "expanded_url": "https://infinitetweet.me/interaction-circle",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2064422065038352384/LpDI4rEU?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064422065038352384/LpDI4rEU?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle",
+              "url": "https://t.co/ScDrxOA7AH"
+            },
+            {
+              "display_url": "pic.x.com/V3fTX06Uez",
+              "end": 81,
+              "expanded_url": "https://x.com/fhv932189957574/status/2064727396276986097/photo/1",
+              "media_key": "3_2064727382691659776",
+              "start": 58,
+              "url": "https://t.co/V3fTX06Uez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064727396276986097",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter Interaction Circle\n\n➡️ https://t.co/ScDrxOA7AH https://t.co/V3fTX06Uez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 166,
+          "like_count": 8734,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 5818
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了｜随地乱拉我是啥子｜求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不讨论政治不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜爱搬屎｜疑似无性恋｜但是无比缺爱｜https://t.co/LfSVdErXNk😋😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/2370448",
+                "end": 139,
+                "expanded_url": "https://ngl.link/2370448",
+                "start": 116,
+                "url": "https://t.co/LfSVdErXNk"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2064045648304103475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 122,
+          "like_count": 5644,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 1365
+        },
+        "username": "fhv932189957574",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067424600837996757",
+    "created_at": "2026-06-18T05:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067479264866562414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686671929540042752",
+          "start": 0,
+          "username": "Rinko_Boquette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067479264866562414",
+    "in_reply_to_user_id": "1686671929540042752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067424600837996757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_Boquette 好美味的金黄色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067424587651121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLD3tXLagAA8S4t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067424600837996757",
+        "created_at": "2026-06-18T05:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067479264866562414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686671929540042752",
+              "start": 0,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067479264866562414",
+        "in_reply_to_user_id": "1686671929540042752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067424600837996757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_Boquette 好美味的金黄色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067424587651121152"
+          ]
+        },
+        "author_id": "1686671929540042752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067424600837996757",
+        "created_at": "2026-06-18T01:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067424600837996757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdQvVv3HDn",
+              "end": 31,
+              "expanded_url": "https://x.com/Rinko_Boquette/status/2067424600837996757/photo/1",
+              "media_key": "3_2067424587651121152",
+              "start": 8,
+              "url": "https://t.co/IdQvVv3HDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067424600837996757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧耶，靓靓的圈 https://t.co/IdQvVv3HDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 187,
+          "like_count": 10694,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 6637
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:37:41.000Z",
+        "description": "你是我争战的斧子和打仗的兵器。                                                            我用你们打碎列国，用你毁灭万邦。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desu.life",
+                "end": 23,
+                "expanded_url": "http://desu.life",
+                "start": 0,
+                "url": "https://t.co/cqoLugYjEr"
+              }
+            ]
+          }
+        },
+        "id": "1686671929540042752",
+        "location": "流星",
+        "name": "Rinko7614",
+        "pinned_tweet_id": "2042207301508255918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066530783842754560/rhz-s42z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 131,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 1081,
+          "tweet_count": 4500
+        },
+        "url": "https://t.co/cqoLugYjEr",
+        "username": "Rinko_Boquette",
+        "verified": false
+      }
+    ]
+  }
+}

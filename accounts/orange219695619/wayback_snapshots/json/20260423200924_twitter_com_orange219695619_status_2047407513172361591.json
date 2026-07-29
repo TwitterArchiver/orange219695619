@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2047407513172361591",
+    "created_at": "2026-04-23T20:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047407513172361591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Cldeop/status/2047324722413887926",
+          "start": 19,
+          "url": "https://t.co/p7IO0aA05f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047407513172361591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047324722413887926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这才是健康的作息（心理健康也是健康） https://t.co/p7IO0aA05f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2047324715795247104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmO-1jacAASvFj.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2047407513172361591",
+        "created_at": "2026-04-23T20:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047407513172361591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Cldeop/status/2047324722413887926",
+              "start": 19,
+              "url": "https://t.co/p7IO0aA05f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047407513172361591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047324722413887926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这才是健康的作息（心理健康也是健康） https://t.co/p7IO0aA05f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047324715795247104"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2047324722413887926",
+        "created_at": "2026-04-23T14:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047324722413887926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JzboC5TtT0",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2047324722413887926/photo/1",
+              "media_key": "3_2047324715795247104",
+              "start": 0,
+              "url": "https://t.co/JzboC5TtT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047324722413887926",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5070,
+          "like_count": 418,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/JzboC5TtT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 81,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1439
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101947,
+          "following_count": 763,
+          "like_count": 36352,
+          "listed_count": 284,
+          "media_count": 17892,
+          "tweet_count": 25707
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

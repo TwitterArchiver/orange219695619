@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041134867329761724",
+    "created_at": "2026-04-07T12:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041497897116807320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        },
+        {
+          "end": 23,
+          "id": "1637363426967318528",
+          "start": 11,
+          "username": "0724linxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041497897116807320",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041156928303399339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 @0724linxing 初三好像也不怎么管作业了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041134867329761724",
+        "created_at": "2026-04-07T12:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041497897116807320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            },
+            {
+              "end": 23,
+              "id": "1637363426967318528",
+              "start": 11,
+              "username": "0724linxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041497897116807320",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041156928303399339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 @0724linxing 初三好像也不怎么管作业了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2041134867329761724",
+        "created_at": "2026-04-06T14:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041156928303399339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1637363426967318528",
+              "start": 0,
+              "username": "0724linxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041156928303399339",
+        "in_reply_to_user_id": "1637363426967318528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041134867329761724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0724linxing 我这个清明都没写作业 我明天就假装我不知道作业。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 68,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 702
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 308,
+          "like_count": 36037,
+          "listed_count": 1,
+          "media_count": 1338,
+          "tweet_count": 12523
+        },
+        "username": "wmy072011",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T08:00:54.000Z",
+        "description": "090909老公是好闺闺。封心锁爱中 欢迎来提问箱找我玩🦋#极品女高 int/fp天蝎 @shushusdl1105 我没有陪聊的义务。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "极品女高"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "shushusdl1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qswlbgnwl_1155…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qswlbgnwl_1155hhh1",
+                "start": 0,
+                "url": "https://t.co/1tbw7H8Cb5"
+              }
+            ]
+          }
+        },
+        "id": "1637363426967318528",
+        "location": "汁 我没有陪聊的义务。",
+        "name": "小枝大王",
+        "pinned_tweet_id": "1961117705517588536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956670645334667264/10lk2JvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 536,
+          "like_count": 11281,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 3081
+        },
+        "url": "https://t.co/1tbw7H8Cb5",
+        "username": "0724linxing",
+        "verified": false
+      }
+    ]
+  }
+}

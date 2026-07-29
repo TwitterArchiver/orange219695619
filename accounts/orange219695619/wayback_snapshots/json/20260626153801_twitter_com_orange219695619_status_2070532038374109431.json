@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070476732273189279",
+    "created_at": "2026-06-26T15:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070532038374109431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041912871576035328",
+          "start": 0,
+          "username": "nanguo7W7"
+        },
+        {
+          "end": 21,
+          "id": "1952269546079055873",
+          "start": 11,
+          "username": "XinQAQwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070532038374109431",
+    "in_reply_to_user_id": "2041912871576035328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070493356598386994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanguo7W7 @XinQAQwww 这个号无所谓，而且也没怎么漏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070476732273189279",
+        "created_at": "2026-06-26T15:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070532038374109431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041912871576035328",
+              "start": 0,
+              "username": "nanguo7W7"
+            },
+            {
+              "end": 21,
+              "id": "1952269546079055873",
+              "start": 11,
+              "username": "XinQAQwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070532038374109431",
+        "in_reply_to_user_id": "2041912871576035328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070493356598386994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanguo7W7 @XinQAQwww 这个号无所谓，而且也没怎么漏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041912871576035328",
+        "conversation_id": "2070476732273189279",
+        "created_at": "2026-06-26T13:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070493356598386994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 27,
+              "id": "1952269546079055873",
+              "start": 17,
+              "username": "XinQAQwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070493356598386994",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070487232482566645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @XinQAQwww 手机号是不是该遮一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 194,
+          "like_count": 13332,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 7625
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T16:16:09.000Z",
+        "description": "",
+        "id": "2041912871576035328",
+        "name": "南国山川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041912994666266624/9yaGJLSE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "nanguo7W7",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T07:25:22.000Z",
+        "description": "霜桦的小屋🏠|喵喵喵喵喵|炸柜💥|男的呢|半吃糖🍥|自残（划掉）|不od|喝酒|孤单喵|喜欢雨天🌧️|坐标北京|想去杭州🌳|互fo🥺|交个朋友喵|\n\n请肆意骚扰我喵，好无聊好无聊🥺\n喵喵喵",
+        "id": "1952269546079055873",
+        "name": "XinQAQ",
+        "pinned_tweet_id": "2065006702450360703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064629476625985536/Vz0IR-h2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 364,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "XinQAQwww",
+        "verified": false
+      }
+    ]
+  }
+}

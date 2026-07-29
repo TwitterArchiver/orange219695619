@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058505623600517120"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058505629585785082",
+    "created_at": "2026-05-24T11:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058505629585785082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y5ZLRxRVCS",
+          "end": 35,
+          "expanded_url": "https://x.com/orange219695619/status/2058505629585785082/photo/1",
+          "media_key": "3_2058505623600517120",
+          "start": 12,
+          "url": "https://t.co/Y5ZLRxRVCS"
+        },
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/orange219695619/status/2058502459241500883",
+          "start": 36,
+          "url": "https://t.co/T4GwHrRFUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058505629585785082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058502459241500883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是鸡煲是区有没有懂得 https://t.co/Y5ZLRxRVCS https://t.co/T4GwHrRFUg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2058505623600517120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFH9U7aUAAD_hs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058505623600517120"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058505629585785082",
+        "created_at": "2026-05-24T11:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058505629585785082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5ZLRxRVCS",
+              "end": 35,
+              "expanded_url": "https://x.com/orange219695619/status/2058505629585785082/photo/1",
+              "media_key": "3_2058505623600517120",
+              "start": 12,
+              "url": "https://t.co/Y5ZLRxRVCS"
+            },
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/orange219695619/status/2058502459241500883",
+              "start": 36,
+              "url": "https://t.co/T4GwHrRFUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058505629585785082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058502459241500883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是鸡煲是区有没有懂得 https://t.co/Y5ZLRxRVCS https://t.co/T4GwHrRFUg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058502459241500883",
+        "created_at": "2026-05-24T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058502459241500883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058502459241500883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于下山了！\n爬塔爬塔😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 134,
+          "like_count": 5113,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 4075
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

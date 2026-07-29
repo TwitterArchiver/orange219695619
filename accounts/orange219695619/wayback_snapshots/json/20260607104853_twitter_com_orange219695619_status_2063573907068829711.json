@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2063573907068829711",
+    "created_at": "2026-06-07T10:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063573907068829711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/motinozoukiebi…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/motinozoukiebi/status/2063468395337777662",
+          "start": 7,
+          "url": "https://t.co/bufF6mShT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063573907068829711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063468395337777662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "双缝干涉实验 https://t.co/bufF6mShT6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063468389151232000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLpkTSbUAA85ot.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2063573907068829711",
+        "created_at": "2026-06-07T10:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063573907068829711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/motinozoukiebi…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/motinozoukiebi/status/2063468395337777662",
+              "start": 7,
+              "url": "https://t.co/bufF6mShT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063573907068829711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063468395337777662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "双缝干涉实验 https://t.co/bufF6mShT6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063468389151232000"
+          ]
+        },
+        "author_id": "1968681844750348288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2063468395337777662",
+        "created_at": "2026-06-07T03:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063468395337777662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnFZNM5d84",
+              "end": 43,
+              "expanded_url": "https://x.com/motinozoukiebi/status/2063468395337777662/photo/1",
+              "media_key": "3_2063468389151232000",
+              "start": 20,
+              "url": "https://t.co/fnFZNM5d84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063468395337777662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 635740,
+          "like_count": 5055,
+          "quote_count": 168,
+          "reply_count": 119,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "これだけでなんのアニメかわかったら凄い https://t.co/fnFZNM5d84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 160,
+          "like_count": 8087,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 5514
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T14:21:52.000Z",
+        "description": "超かぐや姫の沼にハマりにハマってる限界高校生です。仲良くしてください！  フォロー基本的に返してます！",
+        "id": "1968681844750348288",
+        "name": "音色@いろP推し",
+        "pinned_tweet_id": "2059964070246388004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058922386398068736/c4OZX-FH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 337,
+          "like_count": 380,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 467
+        },
+        "username": "motinozoukiebi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053471213440364570",
+    "created_at": "2026-05-14T06:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054818712159760685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597945043251187712",
+          "start": 0,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054818712159760685",
+    "in_reply_to_user_id": "1597945043251187712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053471213440364570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorsacerba 多少大爆炸？😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 805,
+        "media_key": "3_2053471203239821312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9lLfmagAA-fyx.jpg",
+        "width": 1502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053471213440364570",
+        "created_at": "2026-05-14T06:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054818712159760685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054818712159760685",
+        "in_reply_to_user_id": "1597945043251187712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053471213440364570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorsacerba 多少大爆炸？😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053471203239821312"
+          ]
+        },
+        "author_id": "1597945043251187712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053471213440364570",
+        "created_at": "2026-05-10T13:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053471213440364570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eqNlc7Zlxt",
+              "end": 37,
+              "expanded_url": "https://x.com/Sorsacerba/status/2053471213440364570/photo/1",
+              "media_key": "3_2053471203239821312",
+              "start": 14,
+              "url": "https://t.co/eqNlc7Zlxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053471213440364570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没这么放空大脑了，，， https://t.co/eqNlc7Zlxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 114,
+          "like_count": 3350,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3095
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @HacchiTheMaid \n///\n农友：@ceciliahyve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "HacchiTheMaid"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "ceciliahyve"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "我家",
+        "name": "芋粥冷漠",
+        "pinned_tweet_id": "2050960198819541292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005238125216534528/kDTOQwsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 698,
+          "like_count": 68873,
+          "listed_count": 6,
+          "media_count": 1578,
+          "tweet_count": 20176
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

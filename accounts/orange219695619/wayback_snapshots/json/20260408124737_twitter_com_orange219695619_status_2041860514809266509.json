@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041567434411274240"
+      ],
+      "media_source_tweet_id": [
+        "2041567438081311103"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041860514809266509",
+    "created_at": "2026-04-08T12:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041860514809266509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1405301480316444672",
+          "start": 3,
+          "username": "twaniimals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Xy0mTQQlK",
+          "end": 39,
+          "expanded_url": "https://x.com/twaniimals/status/2041567438081311103/photo/1",
+          "media_key": "3_2041567434411274240",
+          "start": 16,
+          "url": "https://t.co/0Xy0mTQQlK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041860514809266509",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1801
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041567438081311103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twaniimals: https://t.co/0Xy0mTQQlK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2041567434411274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUaw9EW8AALnVV.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041567434411274240"
+          ],
+          "media_source_tweet_id": [
+            "2041567438081311103"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041860514809266509",
+        "created_at": "2026-04-08T12:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041860514809266509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1405301480316444672",
+              "start": 3,
+              "username": "twaniimals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Xy0mTQQlK",
+              "end": 39,
+              "expanded_url": "https://x.com/twaniimals/status/2041567438081311103/photo/1",
+              "media_key": "3_2041567434411274240",
+              "start": 16,
+              "url": "https://t.co/0Xy0mTQQlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041860514809266509",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1801
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041567438081311103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twaniimals: https://t.co/0Xy0mTQQlK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041567434411274240"
+          ]
+        },
+        "author_id": "1405301480316444672",
+        "conversation_id": "2041567438081311103",
+        "created_at": "2026-04-07T17:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041567438081311103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Xy0mTQQlK",
+              "end": 23,
+              "expanded_url": "https://x.com/twaniimals/status/2041567438081311103/photo/1",
+              "media_key": "3_2041567434411274240",
+              "start": 0,
+              "url": "https://t.co/0Xy0mTQQlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041567438081311103",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 278788,
+          "like_count": 13836,
+          "quote_count": 77,
+          "reply_count": 46,
+          "retweet_count": 1801
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0Xy0mTQQlK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 68,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 737
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T23:09:29.000Z",
+        "description": "sígueme para más contenido diario 🐶",
+        "id": "1405301480316444672",
+        "location": "Mx",
+        "name": "💖",
+        "pinned_tweet_id": "2041595810769408330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034495631020920832/-PSD_a-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253529,
+          "following_count": 182,
+          "like_count": 13175,
+          "listed_count": 1688,
+          "media_count": 36471,
+          "tweet_count": 39648
+        },
+        "username": "twaniimals",
+        "verified": true
+      }
+    ]
+  }
+}

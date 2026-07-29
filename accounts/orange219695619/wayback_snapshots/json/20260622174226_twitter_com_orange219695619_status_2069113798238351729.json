@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069113798238351729",
+    "created_at": "2026-06-22T17:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069113798238351729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miiharukawa/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Miiharukawa/status/2069086980697465236",
+          "start": 17,
+          "url": "https://t.co/jPgKVRerLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069113798238351729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069086980697465236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有诶\n倒是有前任给我发的小作文 https://t.co/jPgKVRerLE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069113798238351729",
+        "created_at": "2026-06-22T17:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069113798238351729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2069086980697465236",
+              "start": 17,
+              "url": "https://t.co/jPgKVRerLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069113798238351729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069086980697465236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有诶\n倒是有前任给我发的小作文 https://t.co/jPgKVRerLE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069086980697465236",
+        "created_at": "2026-06-22T15:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069086980697465236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069086980697465236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你要是实在没段子发了，就把你给你前任发的小作文发出来，那个好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 198,
+          "like_count": 12103,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 7207
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 241,
+          "like_count": 9628,
+          "listed_count": 6,
+          "media_count": 429,
+          "tweet_count": 3671
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

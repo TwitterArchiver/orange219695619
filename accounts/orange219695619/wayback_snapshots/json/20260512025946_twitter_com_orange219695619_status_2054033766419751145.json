@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053741070480261271",
+    "created_at": "2026-05-12T02:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054033766419751145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1379256068887416836",
+          "start": 0,
+          "username": "Tom00031559"
+        },
+        {
+          "end": 28,
+          "id": "1918274202580467713",
+          "start": 13,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 44,
+          "id": "1845454917236031495",
+          "start": 29,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054033766419751145",
+    "in_reply_to_user_id": "1379256068887416836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053917152785346735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom00031559 @CyberKanjousen @Dontbesadforit 那是祂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053741070480261271",
+        "created_at": "2026-05-12T02:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054033766419751145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1379256068887416836",
+              "start": 0,
+              "username": "Tom00031559"
+            },
+            {
+              "end": 28,
+              "id": "1918274202580467713",
+              "start": 13,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 44,
+              "id": "1845454917236031495",
+              "start": 29,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054033766419751145",
+        "in_reply_to_user_id": "1379256068887416836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053917152785346735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom00031559 @CyberKanjousen @Dontbesadforit 那是祂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379256068887416836",
+        "conversation_id": "2053741070480261271",
+        "created_at": "2026-05-11T19:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T20:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053917152785346735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 31,
+              "id": "1845454917236031495",
+              "start": 16,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053917152785346735",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053897268408078596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @Dontbesadforit 这个字不是形容上帝的吗…😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 107,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2855
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-06T02:14:16.000Z",
+        "description": "",
+        "id": "1379256068887416836",
+        "name": "Tom",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 340,
+          "like_count": 3559,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2485
+        },
+        "username": "Tom00031559",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 818,
+          "like_count": 19368,
+          "listed_count": 7,
+          "media_count": 1024,
+          "tweet_count": 5676
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中中！？",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052688556548919296/2XRbsJTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 998,
+          "like_count": 72148,
+          "listed_count": 6,
+          "media_count": 462,
+          "tweet_count": 9186
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

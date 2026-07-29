@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066086835458306253",
+    "created_at": "2026-06-14T13:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066155065094856835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998983271640870913",
+          "start": 0,
+          "username": "blueicesamaOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066155065094856835",
+    "in_reply_to_user_id": "1998983271640870913",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066086835458306253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesamaOwO ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066086817938759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw3A6pbYAABrd5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2066086817968099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw3A6wbEAA0Azs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2066086817963876352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw3A6vaoAAqgcb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066086835458306253",
+        "created_at": "2026-06-14T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066155065094856835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998983271640870913",
+              "start": 0,
+              "username": "blueicesamaOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066155065094856835",
+        "in_reply_to_user_id": "1998983271640870913",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066086835458306253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesamaOwO ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066086817938759680",
+            "3_2066086817968099328",
+            "3_2066086817963876352"
+          ]
+        },
+        "author_id": "1998983271640870913",
+        "conversation_id": "2066086835458306253",
+        "created_at": "2026-06-14T09:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066086835458306253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tek5939ioZ",
+              "end": 39,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2066086835458306253/photo/1",
+              "media_key": "3_2066086817938759680",
+              "start": 16,
+              "url": "https://t.co/Tek5939ioZ"
+            },
+            {
+              "display_url": "pic.x.com/Tek5939ioZ",
+              "end": 39,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2066086835458306253/photo/1",
+              "media_key": "3_2066086817968099328",
+              "start": 16,
+              "url": "https://t.co/Tek5939ioZ"
+            },
+            {
+              "display_url": "pic.x.com/Tek5939ioZ",
+              "end": 39,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2066086835458306253/photo/1",
+              "media_key": "3_2066086817963876352",
+              "start": 16,
+              "url": "https://t.co/Tek5939ioZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066086835458306253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 26960,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你甚至可以在大连周水子机场灌肠 https://t.co/Tek5939ioZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 175,
+          "like_count": 9648,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 6244
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:08:57.000Z",
+        "description": "🏳️‍🌈男同/furry/INFJ-T/Apple全肯定bot/中文·日本語·ENG/网蓝/苦逼设计人/大连土著/杂学·碎碎念·生活账/三倍厚袜/不涉政/里@blueicesamaQWQ/手帐狐🦊@ri_si16512/好哥哥👾@subt_0928/好诡秘@hikarimazu/本号关注不代表本人立场 推止推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "subt_0928"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "hikarimazu"
+              }
+            ]
+          }
+        },
+        "id": "1998983271640870913",
+        "location": "「落し水  岐れて細き  川生る」",
+        "name": "蓝冰冰冰蓝蓝（二代目）",
+        "pinned_tweet_id": "2030637705080803659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998983393892274176/RtE8BagF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 1801,
+          "like_count": 7707,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 1468
+        },
+        "username": "blueicesamaOwO",
+        "verified": false
+      }
+    ]
+  }
+}

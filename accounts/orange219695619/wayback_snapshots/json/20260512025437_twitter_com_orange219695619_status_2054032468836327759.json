@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053741346587070960",
+    "created_at": "2026-05-12T02:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054032468836327759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583502450710937600",
+          "start": 0,
+          "username": "Allenqqqqc"
+        },
+        {
+          "end": 21,
+          "id": "126581934",
+          "start": 12,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054032468836327759",
+    "in_reply_to_user_id": "1583502450710937600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053858718706753872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenqqqqc @dearemon 太地狱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053741346587070960",
+        "created_at": "2026-05-12T02:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054032468836327759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583502450710937600",
+              "start": 0,
+              "username": "Allenqqqqc"
+            },
+            {
+              "end": 21,
+              "id": "126581934",
+              "start": 12,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054032468836327759",
+        "in_reply_to_user_id": "1583502450710937600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053858718706753872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenqqqqc @dearemon 太地狱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583502450710937600",
+        "conversation_id": "2053741346587070960",
+        "created_at": "2026-05-11T15:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053858718706753872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053858718706753872",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053741346587070960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 小时候老师说红领巾是革命先烈用鲜血染红的，我就在想红领巾的制作工厂是怎样放先烈的血再让它浸透红领巾的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 107,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2854
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:56:35.000Z",
+        "description": "当你打开我的主页的那一刻，你就已经彻底的打开了我的主页，我的主页像主页一样浅浅地加载到你眼中，你试图点击我的头像，所以你打开了我的主页，可是你打开了我的主页，我的主页是公开的，你可以打开",
+        "id": "1583502450710937600",
+        "name": "K̸̸r̸̸a̸̸w̸̸a̸̸l̸̸l̸🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909014826665607168/FbYcvd-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 725,
+          "like_count": 70393,
+          "listed_count": 7,
+          "media_count": 1227,
+          "tweet_count": 20191
+        },
+        "username": "Allenqqqqc",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56715,
+          "following_count": 689,
+          "like_count": 5829,
+          "listed_count": 214,
+          "media_count": 29051,
+          "tweet_count": 389604
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

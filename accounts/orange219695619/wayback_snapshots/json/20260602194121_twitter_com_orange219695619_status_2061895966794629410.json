@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061895966794629410",
+    "created_at": "2026-06-02T19:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061895966794629410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1979068278673981440",
+          "start": 3,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061895966794629410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061894048265511137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orange219695619: 我也是这么认为的\n如果只是报警但不提供后续帮助，这其实是把自杀者推向更深的深渊\n（咱都知道晶哥是什么德行）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061895966794629410",
+        "created_at": "2026-06-02T19:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061895966794629410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979068278673981440",
+              "start": 3,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061895966794629410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061894048265511137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orange219695619: 我也是这么认为的\n如果只是报警但不提供后续帮助，这其实是把自杀者推向更深的深渊\n（咱都知道晶哥是什么德行）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061894048265511137",
+        "created_at": "2026-06-02T19:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061894048265511137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sjshb57/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/sjshb57/status/2061813515015639355",
+              "start": 54,
+              "url": "https://t.co/64LJaxhEB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061894048265511137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061813515015639355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是这么认为的\n如果只是报警但不提供后续帮助，这其实是把自杀者推向更深的深渊\n（咱都知道晶哥是什么德行） https://t.co/64LJaxhEB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 153,
+          "like_count": 7180,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 5074
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

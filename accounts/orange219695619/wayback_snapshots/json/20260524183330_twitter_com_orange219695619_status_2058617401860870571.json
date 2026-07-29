@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058614375032770736",
+    "created_at": "2026-05-24T18:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T19:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058617401860870571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058617401860870571",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058614375032770736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 好好笑的小摆件"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058614349057466368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGq1-0XoAAnxB8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058614347589386240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGq15WWgAALFZh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058614375032770736",
+        "created_at": "2026-05-24T18:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058617401860870571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058617401860870571",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058614375032770736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 好好笑的小摆件"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058614349057466368",
+            "3_2058614347589386240"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058614375032770736",
+        "created_at": "2026-05-24T18:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058614375032770736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H9w4kbEhjF",
+              "end": 63,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2058614375032770736/photo/1",
+              "media_key": "3_2058614349057466368",
+              "start": 40,
+              "url": "https://t.co/H9w4kbEhjF"
+            },
+            {
+              "display_url": "pic.x.com/H9w4kbEhjF",
+              "end": 63,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2058614375032770736/photo/1",
+              "media_key": "3_2058614347589386240",
+              "start": 40,
+              "url": "https://t.co/H9w4kbEhjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058614375032770736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个看起来像是巧克力慕斯的东西很好吃😋！它上层比较致密 下面则是巧克力奶油😯🤤 https://t.co/H9w4kbEhjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 139,
+          "like_count": 5341,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 4177
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 259,
+          "like_count": 21686,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1563
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056750671656046994",
+    "created_at": "2026-05-19T14:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056750671656046994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902735424839413760",
+          "start": 3,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056750671656046994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056730801627430950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litgraley: 所以说孔老二纯他妈傻逼是有道理的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056750671656046994",
+        "created_at": "2026-05-19T14:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056750671656046994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902735424839413760",
+              "start": 3,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056750671656046994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056730801627430950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litgraley: 所以说孔老二纯他妈傻逼是有道理的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902735424839413760",
+        "conversation_id": "2056730801627430950",
+        "created_at": "2026-05-19T13:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056730801627430950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zerstoorer23__…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/zerstoorer23__/status/2056674909145997438",
+              "start": 17,
+              "url": "https://t.co/P6ElrdlXOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056730801627430950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056674909145997438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说孔老二纯他妈傻逼是有道理的 https://t.co/P6ElrdlXOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 124,
+          "like_count": 4101,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 3528
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/59/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2041124500218220938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 811,
+          "like_count": 33974,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 5219
+        },
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

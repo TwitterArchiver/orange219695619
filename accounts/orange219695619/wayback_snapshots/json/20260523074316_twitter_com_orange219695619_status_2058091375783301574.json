@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058090489774239911",
+    "created_at": "2026-05-23T07:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058091375783301574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053726229984075776",
+          "start": 0,
+          "username": "Kuromi_ooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058091375783301574",
+    "in_reply_to_user_id": "2053726229984075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058090489774239911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuromi_ooooo 离谱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058090480437776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_OY0IbUAA0IIt.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058090489774239911",
+        "created_at": "2026-05-23T07:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058091375783301574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053726229984075776",
+              "start": 0,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058091375783301574",
+        "in_reply_to_user_id": "2053726229984075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058090489774239911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuromi_ooooo 离谱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058090480437776384"
+          ]
+        },
+        "author_id": "2053726229984075776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058090489774239911",
+        "created_at": "2026-05-23T07:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058090489774239911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRJCiGkPKF",
+              "end": 27,
+              "expanded_url": "https://x.com/Kuromi_ooooo/status/2058090489774239911/photo/1",
+              "media_key": "3_2058090480437776384",
+              "start": 4,
+              "url": "https://t.co/WRJCiGkPKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058090489774239911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃这个 https://t.co/WRJCiGkPKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 130,
+          "like_count": 4771,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 3892
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "寻回互关\n我只是想要我的生活過得好一點\n共号：@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "你看看你身后",
+        "name": "中2病娇0️⃣",
+        "pinned_tweet_id": "2057741023271621089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057778913133416448/4hjfJxt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 302,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 215
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

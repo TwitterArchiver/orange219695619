@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066110058958852536",
+    "created_at": "2026-06-14T17:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066207782832062868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807404510026809344",
+          "start": 0,
+          "username": "dorull_ame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066207782832062868",
+    "in_reply_to_user_id": "1807404510026809344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066110058958852536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorull_ame 我还以为是胸肌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066109989325099009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxMFqyb0AEIhHq.jpg",
+        "width": 2034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066110058958852536",
+        "created_at": "2026-06-14T17:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066207782832062868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807404510026809344",
+              "start": 0,
+              "username": "dorull_ame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066207782832062868",
+        "in_reply_to_user_id": "1807404510026809344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066110058958852536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorull_ame 我还以为是胸肌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066109989325099009"
+          ]
+        },
+        "author_id": "1807404510026809344",
+        "conversation_id": "2066110058958852536",
+        "created_at": "2026-06-14T10:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066110058958852536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfUwqfhebA",
+              "end": 32,
+              "expanded_url": "https://x.com/dorull_ame/status/2066110058958852536/photo/1",
+              "media_key": "3_2066109989325099009",
+              "start": 9,
+              "url": "https://t.co/zfUwqfhebA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066110058958852536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 31026,
+          "like_count": 839,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "更像男的了……… https://t.co/zfUwqfhebA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 176,
+          "like_count": 9683,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 6258
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T13:23:26.000Z",
+        "description": "即使我不再疯魔\n不约不聊不线下不加lxfs\n私信会回感兴趣的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ame14667",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ame14667",
+                "start": 0,
+                "url": "https://t.co/9zkHBJgs8r"
+              }
+            ]
+          }
+        },
+        "id": "1807404510026809344",
+        "name": "我保证我是天使只是偶尔有点坏",
+        "pinned_tweet_id": "2063147010174136779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051993551781920768/6uksSo_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 31,
+          "like_count": 308,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/9zkHBJgs8r",
+        "username": "dorull_ame",
+        "verified": false
+      }
+    ]
+  }
+}

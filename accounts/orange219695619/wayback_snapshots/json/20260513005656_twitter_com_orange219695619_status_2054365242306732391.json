@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054034151247098192",
+    "created_at": "2026-05-13T00:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054365242306732391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054365242306732391",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054034151247098192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun 自从被掉落的火药烧过眉毛，我就一直很惧怕露天看放烟花\n直到今年又有一片碎纸屑掉我手里了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054034151247098192",
+        "created_at": "2026-05-13T00:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054365242306732391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054365242306732391",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054034151247098192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun 自从被掉落的火药烧过眉毛，我就一直很惧怕露天看放烟花\n直到今年又有一片碎纸屑掉我手里了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030455725374550016",
+        "conversation_id": "2054034151247098192",
+        "created_at": "2026-05-12T03:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054034151247098192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054034151247098192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年放的烟花不是会往下掉火药还是什么其他小物质嘛，而我就害怕这些东西跑进我的眼睛(今年跑进好多...)\n直到现在我眼睛里还有我弄不出来..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 112,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2961
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "超级社恐、胆小 | 不建政 不聊H |\n精神状态不稳定 | 没情商（回复不好请原谅...） |\n回fo私信我喵...",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "云兮酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 144,
+          "like_count": 8291,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1541
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

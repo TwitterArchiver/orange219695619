@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067046268216758272"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067046270703980918",
+    "created_at": "2026-06-17T00:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067046270703980918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hVEYf0iSXF",
+          "end": 51,
+          "expanded_url": "https://x.com/orange219695619/status/2067046270703980918/photo/1",
+          "media_key": "3_2067046268216758272",
+          "start": 28,
+          "url": "https://t.co/hVEYf0iSXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067046270703980918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我决定再去睡会，困死了…\n\n依旧琳琅地下，躺着都能穿模 https://t.co/hVEYf0iSXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2067046268216758272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-foRdbUAAC_G-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067046268216758272"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067046270703980918",
+        "created_at": "2026-06-17T00:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067046270703980918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hVEYf0iSXF",
+              "end": 51,
+              "expanded_url": "https://x.com/orange219695619/status/2067046270703980918/photo/1",
+              "media_key": "3_2067046268216758272",
+              "start": 28,
+              "url": "https://t.co/hVEYf0iSXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067046270703980918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定再去睡会，困死了…\n\n依旧琳琅地下，躺着都能穿模 https://t.co/hVEYf0iSXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 185,
+          "like_count": 10254,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 6497
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065739882581082321",
+    "created_at": "2026-06-13T22:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065928500658536737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065928500658536737",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065739882581082321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 干拌面换成空盒可以吗？\n跟干拌面一样，就是没有面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065739857570504704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr7dKjbIAAOc53.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065739882581082321",
+        "created_at": "2026-06-13T22:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065928500658536737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065928500658536737",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065739882581082321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 干拌面换成空盒可以吗？\n跟干拌面一样，就是没有面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065739857570504704"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2065739882581082321",
+        "created_at": "2026-06-13T10:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065739882581082321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Rm4eTdQr0",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2065739882581082321/photo/1",
+              "media_key": "3_2065739857570504704",
+              "start": 0,
+              "url": "https://t.co/2Rm4eTdQr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065739882581082321",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 297756,
+          "like_count": 551,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2Rm4eTdQr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 176,
+          "like_count": 9503,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 6179
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120821,
+          "following_count": 1120,
+          "like_count": 52169,
+          "listed_count": 294,
+          "media_count": 22086,
+          "tweet_count": 32566
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

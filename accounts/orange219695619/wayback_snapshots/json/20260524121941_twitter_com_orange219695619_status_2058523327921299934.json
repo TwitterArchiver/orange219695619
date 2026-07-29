@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058518988393681119",
+    "created_at": "2026-05-24T12:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058523327921299934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053978556099883008",
+          "start": 0,
+          "username": "x_oii999"
+        },
+        {
+          "end": 23,
+          "id": "2053726229984075776",
+          "start": 10,
+          "username": "Kuromi_ooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058523327921299934",
+    "in_reply_to_user_id": "2053978556099883008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058520519667052942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_oii999 @Kuromi_ooooo 冰糖（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058518988393681119",
+        "created_at": "2026-05-24T12:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058523327921299934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053978556099883008",
+              "start": 0,
+              "username": "x_oii999"
+            },
+            {
+              "end": 23,
+              "id": "2053726229984075776",
+              "start": 10,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058523327921299934",
+        "in_reply_to_user_id": "2053978556099883008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058520519667052942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_oii999 @Kuromi_ooooo 冰糖（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053978556099883008",
+        "conversation_id": "2058518988393681119",
+        "created_at": "2026-05-24T12:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058520519667052942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053726229984075776",
+              "start": 0,
+              "username": "Kuromi_ooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058520519667052942",
+        "in_reply_to_user_id": "2053726229984075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058518988393681119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuromi_ooooo 五米米可以买什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 138,
+          "like_count": 5182,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 4107
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T23:20:49.000Z",
+        "description": "od/交友/抑郁/精分/不跟小粉红玩\n\n好想交朋友快来跟我互关",
+        "id": "2053978556099883008",
+        "name": "possible",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053986474220285952/50h9aepe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "x_oii999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:37:56.000Z",
+        "description": "寻回互关\n我只是想要我的生活過得好一點\n共号：@Melody_0v0_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Melody_0v0_"
+              }
+            ]
+          }
+        },
+        "id": "2053726229984075776",
+        "location": "你看看你身后",
+        "name": "中2病娇6.霖",
+        "pinned_tweet_id": "2057741023271621089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057778913133416448/4hjfJxt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 361,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 391
+        },
+        "username": "Kuromi_ooooo",
+        "verified": false
+      }
+    ]
+  }
+}

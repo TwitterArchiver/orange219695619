@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054572066771542395",
+    "created_at": "2026-05-14T06:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054806115825979832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686671929540042752",
+          "start": 0,
+          "username": "Rinko_Boquette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054806115825979832",
+    "in_reply_to_user_id": "1686671929540042752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054572066771542395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_Boquette 其实武大郎卖的是炊饼（）\n也就是馒头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054572066771542395",
+        "created_at": "2026-05-14T06:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054806115825979832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686671929540042752",
+              "start": 0,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054806115825979832",
+        "in_reply_to_user_id": "1686671929540042752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054572066771542395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_Boquette 其实武大郎卖的是炊饼（）\n也就是馒头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686671929540042752",
+        "conversation_id": "2054572066771542395",
+        "created_at": "2026-05-13T14:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054572066771542395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_Boquette…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Rinko_Boquette/status/2054570333982920930",
+              "start": 71,
+              "url": "https://t.co/nnouLjZchf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054572066771542395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054570333982920930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实打了好多字在设想做猪扒包的可行性。可是我连一个接380V的烤箱都没有，怎么做包胚呢？这么想着还是作罢了。也许武大郎烧饼更适合我这种人。 https://t.co/nnouLjZchf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 114,
+          "like_count": 3329,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3079
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:37:41.000Z",
+        "description": "我讨厌猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desu.life",
+                "end": 23,
+                "expanded_url": "http://desu.life",
+                "start": 0,
+                "url": "https://t.co/cqoLugYjEr"
+              }
+            ]
+          }
+        },
+        "id": "1686671929540042752",
+        "location": "流星",
+        "name": "Rinko7614",
+        "pinned_tweet_id": "2042207301508255918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038899807176335360/n2jAhZ6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 118,
+          "like_count": 836,
+          "listed_count": 1,
+          "media_count": 995,
+          "tweet_count": 4180
+        },
+        "url": "https://t.co/cqoLugYjEr",
+        "username": "Rinko_Boquette",
+        "verified": false
+      }
+    ]
+  }
+}

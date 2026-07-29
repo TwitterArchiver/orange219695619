@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058404941912477696"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058404964171702732",
+    "created_at": "2026-05-24T04:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058404964171702732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9FHUwQGpt1",
+          "end": 23,
+          "expanded_url": "https://x.com/orange219695619/status/2058404964171702732/video/1",
+          "media_key": "7_2058404941912477696",
+          "start": 0,
+          "url": "https://t.co/9FHUwQGpt1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058404964171702732",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9FHUwQGpt1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6290,
+        "height": 1280,
+        "media_key": "7_2058404941912477696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058404941912477696/pu/img/N0x3Rns4DeFW2KsP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058404941912477696/pu/vid/avc1/320x568/wIIVh8Hiqf5AM_X4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058404941912477696/pu/vid/avc1/480x852/YENFeyCEM06tGcaZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058404941912477696/pu/vid/avc1/720x1280/PzM-k9SBjleOgHth.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058404941912477696/pu/pl/4VpIkrLxt9Em7fwx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058404941912477696"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058404964171702732",
+        "created_at": "2026-05-24T04:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058404964171702732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FHUwQGpt1",
+              "end": 23,
+              "expanded_url": "https://x.com/orange219695619/status/2058404964171702732/video/1",
+              "media_key": "7_2058404941912477696",
+              "start": 0,
+              "url": "https://t.co/9FHUwQGpt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058404964171702732",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9FHUwQGpt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 132,
+          "like_count": 4934,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 3978
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

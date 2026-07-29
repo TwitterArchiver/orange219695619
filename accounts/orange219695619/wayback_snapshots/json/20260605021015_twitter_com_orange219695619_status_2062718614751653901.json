@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062614634386051238",
+    "created_at": "2026-06-05T02:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062718614751653901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900202897738252288",
+          "start": 0,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062718614751653901",
+    "in_reply_to_user_id": "1900202897738252288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062657736517750919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HGangmakot97631 谢谢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062614634386051238",
+        "created_at": "2026-06-05T02:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062718614751653901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900202897738252288",
+              "start": 0,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062718614751653901",
+        "in_reply_to_user_id": "1900202897738252288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062657736517750919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HGangmakot97631 谢谢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900202897738252288",
+        "conversation_id": "2062614634386051238",
+        "created_at": "2026-06-04T22:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062657736517750919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062657736517750919",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062614634386051238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 感觉拍照技术好不错欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 158,
+          "like_count": 7539,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 5261
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "背景图才是本体喵/\n在下的名字为疏桐哦/\nMTF🏳️‍⚧️/HRT始于  2025.10.06/止于2025.10.31\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "location": "湖北荆门下属某个地方",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 556,
+          "like_count": 8149,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1195
+        },
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

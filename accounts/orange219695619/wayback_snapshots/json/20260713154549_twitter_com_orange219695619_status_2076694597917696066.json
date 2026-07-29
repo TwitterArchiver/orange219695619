@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076655714177798144"
+      ],
+      "media_source_tweet_id": [
+        "2076655932453609522"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076694597917696066",
+    "created_at": "2026-07-13T15:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076694597917696066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1476546742577504265",
+          "start": 3,
+          "username": "luoshuyao"
+        },
+        {
+          "end": 47,
+          "id": "1967736228725575681",
+          "start": 37,
+          "username": "shier6639"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJqhI8EF6E",
+          "end": 71,
+          "expanded_url": "https://x.com/luoshuyao/status/2076655932453609522/photo/1",
+          "media_key": "3_2076655714177798144",
+          "start": 48,
+          "url": "https://t.co/SJqhI8EF6E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076694597917696066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076655932453609522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luoshuyao: 十二点妹妹的原账号被冻结，这是她新开的账号。@shier6639 https://t.co/SJqhI8EF6E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2076655714177798144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHDXpRaUAAR5A8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076655714177798144"
+          ],
+          "media_source_tweet_id": [
+            "2076655932453609522"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076694597917696066",
+        "created_at": "2026-07-13T15:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076694597917696066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1476546742577504265",
+              "start": 3,
+              "username": "luoshuyao"
+            },
+            {
+              "end": 47,
+              "id": "1967736228725575681",
+              "start": 37,
+              "username": "shier6639"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJqhI8EF6E",
+              "end": 71,
+              "expanded_url": "https://x.com/luoshuyao/status/2076655932453609522/photo/1",
+              "media_key": "3_2076655714177798144",
+              "start": 48,
+              "url": "https://t.co/SJqhI8EF6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076694597917696066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076655932453609522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luoshuyao: 十二点妹妹的原账号被冻结，这是她新开的账号。@shier6639 https://t.co/SJqhI8EF6E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076655714177798144"
+          ]
+        },
+        "author_id": "1476546742577504265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076655932453609522",
+        "created_at": "2026-07-13T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076655932453609522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1967736228725575681",
+              "start": 22,
+              "username": "shier6639"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJqhI8EF6E",
+              "end": 56,
+              "expanded_url": "https://x.com/luoshuyao/status/2076655932453609522/photo/1",
+              "media_key": "3_2076655714177798144",
+              "start": 33,
+              "url": "https://t.co/SJqhI8EF6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076655932453609522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "十二点妹妹的原账号被冻结，这是她新开的账号。@shier6639 https://t.co/SJqhI8EF6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 174,
+          "like_count": 17429,
+          "listed_count": 2,
+          "media_count": 523,
+          "tweet_count": 8842
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T13:32:40.000Z",
+        "description": "最让我流泪的是你的温柔\n提问箱：https://t.co/dIkwTmjXqR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 39,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 16,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoshuyao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoshuyao",
+                "start": 0,
+                "url": "https://t.co/dIkwTmjXqR"
+              }
+            ]
+          }
+        },
+        "id": "1476546742577504265",
+        "name": "洛书瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044423925191585794/Jm83hRvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 280,
+          "like_count": 19670,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 4579
+        },
+        "url": "https://t.co/dIkwTmjXqR",
+        "username": "luoshuyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 40,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069230961095815419",
+    "created_at": "2026-06-24T16:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069813183687376899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1576980304522199041",
+          "start": 0,
+          "username": "geishimo"
+        },
+        {
+          "end": 21,
+          "id": "1543009994320203776",
+          "start": 10,
+          "username": "yasifeini1"
+        },
+        {
+          "end": 29,
+          "id": "1613079089879076864",
+          "start": 22,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069813183687376899",
+    "in_reply_to_user_id": "1576980304522199041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069809038972641747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geishimo @yasifeini1 @YunJiu 好像有吧（）\n忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069230961095815419",
+        "created_at": "2026-06-24T16:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813183687376899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1576980304522199041",
+              "start": 0,
+              "username": "geishimo"
+            },
+            {
+              "end": 21,
+              "id": "1543009994320203776",
+              "start": 10,
+              "username": "yasifeini1"
+            },
+            {
+              "end": 29,
+              "id": "1613079089879076864",
+              "start": 22,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813183687376899",
+        "in_reply_to_user_id": "1576980304522199041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069809038972641747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geishimo @yasifeini1 @YunJiu 好像有吧（）\n忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576980304522199041",
+        "conversation_id": "2069230961095815419",
+        "created_at": "2026-06-24T15:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069809038972641747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 28,
+              "id": "1543009994320203776",
+              "start": 17,
+              "username": "yasifeini1"
+            },
+            {
+              "end": 36,
+              "id": "1613079089879076864",
+              "start": 29,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069809038972641747",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069281116851507559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @yasifeini1 @YunJiu 并没有，咖喱饺子只是原po想吃（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 195,
+          "like_count": 12728,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 7408
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T16:59:47.000Z",
+        "description": "请输入文本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/wprDhSg",
+                "end": 23,
+                "expanded_url": "https://b23.tv/wprDhSg",
+                "start": 0,
+                "url": "https://t.co/jHQixCO8s6"
+              }
+            ]
+          }
+        },
+        "id": "1576980304522199041",
+        "location": "Furritopia",
+        "name": "げいしも_芸",
+        "pinned_tweet_id": "1632066566102876161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874015909288783872/QQBBsMNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 365,
+          "like_count": 8099,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/jHQixCO8s6",
+        "username": "geishimo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T23:14:01.000Z",
+        "description": "",
+        "id": "1543009994320203776",
+        "name": "亞斯菲尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543010063526215680/aIuEmGGy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1290,
+          "like_count": 42634,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 555
+        },
+        "url": "",
+        "username": "yasifeini1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105562,
+          "following_count": 811,
+          "like_count": 37351,
+          "listed_count": 294,
+          "media_count": 19611,
+          "tweet_count": 28040
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

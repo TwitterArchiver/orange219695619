@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080276403560529920"
+      ],
+      "media_source_tweet_id": [
+        "2080276408308523026"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080501592340812058",
+    "created_at": "2026-07-24T03:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080501592340812058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845833774212546560",
+          "start": 3,
+          "username": "amecino_75"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwhXYwqxBe",
+          "end": 84,
+          "expanded_url": "https://x.com/amecino_75/status/2080276408308523026/photo/1",
+          "media_key": "3_2080276403560529920",
+          "start": 61,
+          "url": "https://t.co/uwhXYwqxBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080501592340812058",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080276408308523026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecino_75: 窓の部分が透過になってるので\nぜひ使ってみてください〜🙌\n\n色んな最終電車見てみたい！！ https://t.co/uwhXYwqxBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080276403560529920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6gXgTaQAAu0Lw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080276403560529920"
+          ]
+        },
+        "author_id": "1845833774212546560",
+        "conversation_id": "2080276408308523026",
+        "created_at": "2026-07-23T12:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080276408308523026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwhXYwqxBe",
+              "end": 68,
+              "expanded_url": "https://x.com/amecino_75/status/2080276408308523026/photo/1",
+              "media_key": "3_2080276403560529920",
+              "start": 45,
+              "url": "https://t.co/uwhXYwqxBe"
+            },
+            {
+              "display_url": "x.com/amecino_75/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/amecino_75/status/2080241856009679355",
+              "start": 69,
+              "url": "https://t.co/rNIJHq0zGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080276408308523026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1770,
+          "impression_count": 749348,
+          "like_count": 8980,
+          "quote_count": 37,
+          "reply_count": 25,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080241856009679355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窓の部分が透過になってるので\nぜひ使ってみてください〜🙌\n\n色んな最終電車見てみたい！！ https://t.co/uwhXYwqxBe https://t.co/rNIJHq0zGX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080276403560529920"
+          ],
+          "media_source_tweet_id": [
+            "2080276408308523026"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080501592340812058",
+        "created_at": "2026-07-24T03:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080501592340812058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845833774212546560",
+              "start": 3,
+              "username": "amecino_75"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwhXYwqxBe",
+              "end": 84,
+              "expanded_url": "https://x.com/amecino_75/status/2080276408308523026/photo/1",
+              "media_key": "3_2080276403560529920",
+              "start": 61,
+              "url": "https://t.co/uwhXYwqxBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080501592340812058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080276408308523026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecino_75: 窓の部分が透過になってるので\nぜひ使ってみてください〜🙌\n\n色んな最終電車見てみたい！！ https://t.co/uwhXYwqxBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19723,
+          "listed_count": 3,
+          "media_count": 548,
+          "tweet_count": 9573
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T14:29:48.000Z",
+        "description": "後書き/ZENSEⅠ/ヨルシカ/♂/素敵なアイコン⇨@Artemis_L_Y様",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Artemis_L_Y"
+              }
+            ]
+          }
+        },
+        "id": "1845833774212546560",
+        "location": "火星",
+        "name": "うた◂Ⓘ▸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013473374110904321/ketoQHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1453,
+          "like_count": 34798,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 3896
+        },
+        "url": "",
+        "username": "amecino_75",
+        "verified": false
+      }
+    ]
+  }
+}

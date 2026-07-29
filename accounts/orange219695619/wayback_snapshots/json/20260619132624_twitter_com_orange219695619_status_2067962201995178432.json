@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067950323910754317",
+    "created_at": "2026-06-19T13:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067962201995178432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "SakurabaAya514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067962201995178432",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067950323910754317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaAya514 豪到我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067950315048251392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLV2uWbsAACxuh.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067950323910754317",
+        "created_at": "2026-06-19T13:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067962201995178432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "SakurabaAya514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067962201995178432",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067950323910754317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaAya514 豪到我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067950315048251392"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "conversation_id": "2067950323910754317",
+        "created_at": "2026-06-19T12:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067950323910754317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "嘉豪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnI1KiniFN",
+              "end": 70,
+              "expanded_url": "https://x.com/SakurabaAya514/status/2067950323910754317/photo/1",
+              "media_key": "3_2067950315048251392",
+              "start": 47,
+              "url": "https://t.co/YnI1KiniFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067950323910754317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可惜你不跑步，不然你体会不到跑400米中，最后100米不断加速冲刺，燃尽一切的爽感😎\n#嘉豪 https://t.co/YnI1KiniFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 193,
+          "like_count": 10968,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 6738
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自坎通国（现居巴蜀）/东方project/魔裁/Arcaea/舞萌/键政⚠️/双相情感障碍⚠️/亚文化B/欢迎互fo（会看成分致歉）/LGBTQ+🏳️‍🌈友好/友跨🏳️‍⚧️\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念，以及负面推文⚠️",
+        "id": "2042276998668525573",
+        "location": "真理就是没真理！",
+        "name": "赤月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062600655634907136/sl1r5PSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 836,
+          "like_count": 9815,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

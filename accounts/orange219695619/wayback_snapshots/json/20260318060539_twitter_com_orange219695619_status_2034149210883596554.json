@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2033972152228319243",
+    "created_at": "2026-03-18T06:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034149210883596554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927175141319999488",
+          "start": 0,
+          "username": "acfeiji0321"
+        },
+        {
+          "end": 29,
+          "id": "1060084311502708736",
+          "start": 13,
+          "username": "dingingcingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034149210883596554",
+    "in_reply_to_user_id": "1927175141319999488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034066509639913598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acfeiji0321 @dingingcingking 他爱咋办咋办，哪怕给我红烧了都没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2033972152228319243",
+        "created_at": "2026-03-18T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034149210883596554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927175141319999488",
+              "start": 0,
+              "username": "acfeiji0321"
+            },
+            {
+              "end": 29,
+              "id": "1060084311502708736",
+              "start": 13,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034149210883596554",
+        "in_reply_to_user_id": "1927175141319999488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034066509639913598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acfeiji0321 @dingingcingking 他爱咋办咋办，哪怕给我红烧了都没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927175141319999488",
+        "conversation_id": "2033972152228319243",
+        "created_at": "2026-03-18T00:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034066509639913598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1060084311502708736",
+              "start": 0,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034066509639913598",
+        "in_reply_to_user_id": "1060084311502708736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033972152228319243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingingcingking 别人收你尸的时候咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T01:29:15.000Z",
+        "description": "已婚，喜欢看别人的身体，爱看大屁股",
+        "id": "1927175141319999488",
+        "name": "只关注屁股大的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927176721360461824/-84QzjyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "username": "acfeiji0321",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T08:19:30.000Z",
+        "description": "不接电报推广＇其他推广私聊合作  废话很多，偶尔掉落性感照片",
+        "id": "1060084311502708736",
+        "location": "  不知道",
+        "name": "dingingcingking",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627253477146755072/ggLGz0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66219,
+          "following_count": 263,
+          "like_count": 22845,
+          "listed_count": 142,
+          "media_count": 1320,
+          "tweet_count": 17173
+        },
+        "username": "dingingcingking",
+        "verified": false
+      }
+    ]
+  }
+}

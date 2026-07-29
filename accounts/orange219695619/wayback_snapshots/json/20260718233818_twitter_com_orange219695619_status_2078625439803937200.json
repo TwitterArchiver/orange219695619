@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2078625439803937200",
+    "created_at": "2026-07-18T23:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078625439803937200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mao_Parody/sta…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Mao_Parody/status/2078439419158343788",
+          "start": 40,
+          "url": "https://t.co/qIBqtrQDwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078625439803937200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078439419158343788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "历朝历代控制禁书好歹有个名单，告诉你什么该说什么不该说，你老中直接当成文字狱了 https://t.co/qIBqtrQDwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2078438525859770368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgY08VbsAAeGNl.jpg",
+        "width": 1331
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2078625439803937200",
+        "created_at": "2026-07-18T23:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078625439803937200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mao_Parody/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Mao_Parody/status/2078439419158343788",
+              "start": 40,
+              "url": "https://t.co/qIBqtrQDwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078625439803937200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078439419158343788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "历朝历代控制禁书好歹有个名单，告诉你什么该说什么不该说，你老中直接当成文字狱了 https://t.co/qIBqtrQDwU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078438525859770368"
+          ]
+        },
+        "author_id": "1800026071108313088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2078429572866146582",
+        "created_at": "2026-07-18T11:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078439419158343788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "习近平"
+            },
+            {
+              "end": 141,
+              "start": 132,
+              "tag": "中共统治术101"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvPjdUyK9y",
+              "end": 165,
+              "expanded_url": "https://x.com/Mao_Parody/status/2078439419158343788/photo/1",
+              "media_key": "3_2078438525859770368",
+              "start": 142,
+              "url": "https://t.co/lvPjdUyK9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078439419158343788",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2719,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078429572866146582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 沙雕 #习近平 的食品安全逻辑，翻译过来就是：想知道蘑菇有毒没毒，你得先吃，吃完就知道了。其实名单放出来，就相当于中共自己受限制了。它真正想要的是书店的自我审查，在恐惧中摸索那条模糊的红线，中共反而可以随意收紧，因为这对它最有利。 #中共统治术101 https://t.co/lvPjdUyK9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 178,
+          "like_count": 18426,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 9195
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T04:44:23.000Z",
+        "description": "Fuck the CCP\nFuck CCP pawns & bots\nPARODY / SATIRE ACCOUNT",
+        "id": "1800026071108313088",
+        "location": "Tiananmen Square, Beijing, PRC",
+        "name": "Mao_Parody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954564665973051392/c8RPpidG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 113,
+          "like_count": 6227,
+          "listed_count": 6,
+          "media_count": 1630,
+          "tweet_count": 3721
+        },
+        "url": "",
+        "username": "Mao_Parody",
+        "verified": false
+      }
+    ]
+  }
+}

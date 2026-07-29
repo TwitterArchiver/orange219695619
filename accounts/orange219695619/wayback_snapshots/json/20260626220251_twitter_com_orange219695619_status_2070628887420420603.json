@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070628885281243137"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070356721953067145",
+    "created_at": "2026-06-26T22:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070628887420420603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057339295476953088",
+          "start": 0,
+          "username": "s_kydaires"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FAj8161rGw",
+          "end": 38,
+          "expanded_url": "https://x.com/orange219695619/status/2070628887420420603/photo/1",
+          "media_key": "3_2070628885281243137",
+          "start": 15,
+          "url": "https://t.co/FAj8161rGw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070628887420420603",
+    "in_reply_to_user_id": "2057339295476953088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070356721953067145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s_kydaires 是的 https://t.co/FAj8161rGw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2070628885281243137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxaACDaAAE6Yv6.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070628885281243137"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070356721953067145",
+        "created_at": "2026-06-26T22:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070628887420420603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057339295476953088",
+              "start": 0,
+              "username": "s_kydaires"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAj8161rGw",
+              "end": 38,
+              "expanded_url": "https://x.com/orange219695619/status/2070628887420420603/photo/1",
+              "media_key": "3_2070628885281243137",
+              "start": 15,
+              "url": "https://t.co/FAj8161rGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070628887420420603",
+        "in_reply_to_user_id": "2057339295476953088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070356721953067145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s_kydaires 是的 https://t.co/FAj8161rGw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057339295476953088",
+        "conversation_id": "2070356721953067145",
+        "created_at": "2026-06-26T04:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070356721953067145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070356721953067145",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 225058,
+          "like_count": 1899,
+          "quote_count": 1590,
+          "reply_count": 1848,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "is your pfp actually you?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 194,
+          "like_count": 13499,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 7683
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T06:13:01.000Z",
+        "description": "",
+        "id": "2057339295476953088",
+        "name": "skŷ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057344753365286912/aPvZEPXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 635,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "s_kydaires",
+        "verified": true
+      }
+    ]
+  }
+}

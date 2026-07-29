@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2043592975670988967",
+    "created_at": "2026-04-13T14:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043691043082928208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043691043082928208",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043592975670988967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaiiea 不知道，但我觉得像我这种缺爱逼就适合找缺爱逼谈🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043592975670988967",
+        "created_at": "2026-04-13T14:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043691043082928208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043691043082928208",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043592975670988967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea 不知道，但我觉得像我这种缺爱逼就适合找缺爱逼谈🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816489710682030080",
+        "conversation_id": "2043592975670988967",
+        "created_at": "2026-04-13T07:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043592975670988967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043592975670988967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1606,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "像我们这种精神病到底是应该找另一个精神病相爱相杀，还是应该找一个正常人带我们走出阳光（祸害别人）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 952
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 388,
+          "like_count": 24931,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070535970487992549",
+    "created_at": "2026-06-26T16:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070543426295398535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_ropuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070543426295398535",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070535970487992549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropuu 好大的扔子（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2070535960866275329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwFfHobQAEvMdy.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070535970487992549",
+        "created_at": "2026-06-26T16:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070543426295398535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_ropuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070543426295398535",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070535970487992549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropuu 好大的扔子（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070535960866275329"
+          ]
+        },
+        "author_id": "2013724577529049088",
+        "conversation_id": "2070535970487992549",
+        "created_at": "2026-06-26T15:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070535970487992549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOildKR891",
+              "end": 30,
+              "expanded_url": "https://x.com/_ropuu/status/2070535970487992549/photo/1",
+              "media_key": "3_2070535960866275329",
+              "start": 7,
+              "url": "https://t.co/QOildKR891"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070535970487992549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我所有的社交 https://t.co/QOildKR891"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 195,
+          "like_count": 13370,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 7639
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "|| 本垢 @_ropu || 号主是病娇吸血鬼 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "ロプリス",
+        "pinned_tweet_id": "2070105891094012282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070503972709044224/K5ki-vmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 212,
+          "like_count": 640,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "_ropuu",
+        "verified": false
+      }
+    ]
+  }
+}

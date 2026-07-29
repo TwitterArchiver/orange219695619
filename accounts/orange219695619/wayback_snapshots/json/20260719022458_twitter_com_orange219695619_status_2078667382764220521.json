@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078326550483947589",
+    "created_at": "2026-07-19T02:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078667382764220521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859472760277434372",
+          "start": 0,
+          "username": "wangjun1342"
+        },
+        {
+          "end": 29,
+          "id": "1169975952182398976",
+          "start": 13,
+          "username": "1Fz6kSUhiGTAGYN"
+        },
+        {
+          "end": 37,
+          "id": "1880871015036923904",
+          "start": 30,
+          "username": "DLSZBY"
+        },
+        {
+          "end": 53,
+          "id": "1303335410609790976",
+          "start": 38,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078667382764220521",
+    "in_reply_to_user_id": "1859472760277434372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078666770014183447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjun1342 @1Fz6kSUhiGTAGYN @DLSZBY @Rococo90933671 咱这不说反腐嘛，你这是扯到哪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078326550483947589",
+        "created_at": "2026-07-19T02:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078667382764220521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859472760277434372",
+              "start": 0,
+              "username": "wangjun1342"
+            },
+            {
+              "end": 29,
+              "id": "1169975952182398976",
+              "start": 13,
+              "username": "1Fz6kSUhiGTAGYN"
+            },
+            {
+              "end": 37,
+              "id": "1880871015036923904",
+              "start": 30,
+              "username": "DLSZBY"
+            },
+            {
+              "end": 53,
+              "id": "1303335410609790976",
+              "start": 38,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078667382764220521",
+        "in_reply_to_user_id": "1859472760277434372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078666770014183447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjun1342 @1Fz6kSUhiGTAGYN @DLSZBY @Rococo90933671 咱这不说反腐嘛，你这是扯到哪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859472760277434372",
+        "conversation_id": "2078326550483947589",
+        "created_at": "2026-07-19T02:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078666770014183447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 33,
+              "id": "1169975952182398976",
+              "start": 17,
+              "username": "1Fz6kSUhiGTAGYN"
+            },
+            {
+              "end": 41,
+              "id": "1880871015036923904",
+              "start": 34,
+              "username": "DLSZBY"
+            },
+            {
+              "end": 57,
+              "id": "1303335410609790976",
+              "start": 42,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078666770014183447",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078661349115355214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @1Fz6kSUhiGTAGYN @DLSZBY @Rococo90933671 其实就是人性使然，当官有权的谁不贪？东大贪，西大不贪？川普那手画K线合法贪污了都。普通人呢，我觉得普通人的生活条件有无改善才是评价制度优劣的标准，没必要和有权有钱的人比，他们都一样。当然你也可以努力变的有权有钱，跳出普通老百姓的阶层。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 180,
+          "like_count": 18467,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 9209
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T05:44:02.000Z",
+        "description": "",
+        "id": "1859472760277434372",
+        "name": "fishes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909942499206217728/ZC3c1iS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "wangjun1342",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T14:09:46.000Z",
+        "description": "互联网就是一个巨大的搏击俱乐部，而我来这里的唯一原因就只是为了把别人打下擂台，是非对错我并不关心。",
+        "id": "1169975952182398976",
+        "location": "Taiwan",
+        "name": "N",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1321426429490335744/lHbuMyLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 958,
+          "like_count": 453,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2000
+        },
+        "url": "",
+        "username": "1Fz6kSUhiGTAGYN",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T06:53:37.000Z",
+        "description": "隆武帝拈花，看后清国正在土崩瓦解，汉人翻身之日即将到来，皇漢（汉民族主义者），反共，保守不喜欢“进步”。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/vfv888…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/vfv8888.bsky.social",
+                "start": 0,
+                "url": "https://t.co/YhlYUuwvjy"
+              }
+            ]
+          }
+        },
+        "id": "1880871015036923904",
+        "location": "距离3.2km",
+        "name": "🟨🔴🟨隆武帝拈花，看后清国正在土崩瓦解，汉人翻身之日即将到来（眼熟回关）🟥🐉🟥",
+        "pinned_tweet_id": "2010673017358106799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005791277233635328/Vx9-izC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 327,
+          "like_count": 7135,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/YhlYUuwvjy",
+        "username": "DLSZBY",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13372,
+          "following_count": 3192,
+          "like_count": 43928,
+          "listed_count": 40,
+          "media_count": 4718,
+          "tweet_count": 24040
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

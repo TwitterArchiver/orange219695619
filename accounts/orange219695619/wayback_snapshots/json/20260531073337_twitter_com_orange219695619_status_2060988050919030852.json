@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060988050919030852",
+    "created_at": "2026-05-31T07:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060988050919030852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520285442737770496",
+          "start": 3,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060988050919030852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060979518739726358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Magpieneko: 越看墙内某些平台就越觉得很多人的公正世界幻觉真的很严重…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060988050919030852",
+        "created_at": "2026-05-31T07:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060988050919030852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520285442737770496",
+              "start": 3,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060988050919030852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060979518739726358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Magpieneko: 越看墙内某些平台就越觉得很多人的公正世界幻觉真的很严重…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2060979518739726358",
+        "created_at": "2026-05-31T06:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060979518739726358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060979518739726358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "越看墙内某些平台就越觉得很多人的公正世界幻觉真的很严重\n\n唉…很多时候一些人无法想象别人到底经历过什么事情，他们非但不同情还觉得“可怜之人必有可恨之处”，以此来维持他们“只要我乖乖的就不会遇到坏事、不会遇到无端的恶意”的幻觉，比如说“不是你撞的你为什么要扶”“被抢劫是太张扬/被强奸是女孩穿衣服的问题”…\n\n本质上不是他们真的相信世界公正，而是他们需要相信世界公正，否则他们就要面对一个很恐怖的事实：\n坏事可能不是因为受害者做错了。\n恶意可能是无端的。\n家庭、学校、社会、权力机构都有可能伤害一个无辜的人。\n我乖乖听话，也不一定安全。\n这个事实太吓人了，所以他们会下意识把责任塞回受害者身上。这样世界就又“可控”了\n\n唉…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "越看墙内某些平台就越觉得很多人的公正世界幻觉真的很严重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 6613,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 4812
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜Cptsd｜是个不可爱的孩子｜学着成为人类｜社恐｜总是很困｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 45,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 830
+        },
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

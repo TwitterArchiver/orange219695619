@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074419075854516226"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074419084276781488",
+    "created_at": "2026-07-07T09:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074419084276781488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v98M6YWpyo",
+          "end": 61,
+          "expanded_url": "https://x.com/orange219695619/status/2074419084276781488/photo/1",
+          "media_key": "3_2074419075854516226",
+          "start": 38,
+          "url": "https://t.co/v98M6YWpyo"
+        },
+        {
+          "display_url": "x.com/orange21969561…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/orange219695619/status/2074416641820250294",
+          "start": 62,
+          "url": "https://t.co/HmIUm2G5Tl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074419084276781488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074416641820250294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天喝这个🤤\n这瓶酒比那包薯片和饼干都便宜，我服了，这瓶才9块，沟槽的老板 https://t.co/v98M6YWpyo https://t.co/HmIUm2G5Tl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074419075854516226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnRKKOaQAIgPBS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074416633440079872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnO7_hbkAADOYH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074419075854516226"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074419084276781488",
+        "created_at": "2026-07-07T09:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074419084276781488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v98M6YWpyo",
+              "end": 61,
+              "expanded_url": "https://x.com/orange219695619/status/2074419084276781488/photo/1",
+              "media_key": "3_2074419075854516226",
+              "start": 38,
+              "url": "https://t.co/v98M6YWpyo"
+            },
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/orange219695619/status/2074416641820250294",
+              "start": 62,
+              "url": "https://t.co/HmIUm2G5Tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074419084276781488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074416641820250294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天喝这个🤤\n这瓶酒比那包薯片和饼干都便宜，我服了，这瓶才9块，沟槽的老板 https://t.co/v98M6YWpyo https://t.co/HmIUm2G5Tl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074416633440079872"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074416641820250294",
+        "created_at": "2026-07-07T08:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074416641820250294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zu6qe7xLBE",
+              "end": 56,
+              "expanded_url": "https://x.com/orange219695619/status/2074416641820250294/photo/1",
+              "media_key": "3_2074416633440079872",
+              "start": 33,
+              "url": "https://t.co/Zu6qe7xLBE"
+            },
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/orange219695619/status/2074321603358593132",
+              "start": 57,
+              "url": "https://t.co/yiiXsIrpwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074416641820250294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074321603358593132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啧…这个要我12\ntmd以后不去他那买了😡\n不过一如既往的好吃🤤 https://t.co/Zu6qe7xLBE https://t.co/yiiXsIrpwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 196,
+          "like_count": 15869,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 8374
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057504481642967384",
+    "created_at": "2026-05-24T12:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058529475038716034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782932905419046912",
+          "start": 0,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058529475038716034",
+    "in_reply_to_user_id": "1782932905419046912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057504481642967384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratshelprats 我看鼠姨肌肉也不小"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057504481642967384",
+        "created_at": "2026-05-24T12:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058529475038716034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058529475038716034",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057504481642967384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 我看鼠姨肌肉也不小"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782932905419046912",
+        "conversation_id": "2057504481642967384",
+        "created_at": "2026-05-21T16:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057504481642967384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057504481642967384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32817,
+          "like_count": 152,
+          "quote_count": 2,
+          "reply_count": 60,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "小伙子你肌肉真大，鼠姨想撕烂你的裤衩🌹🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 138,
+          "like_count": 5204,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 4110
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2058079097004421237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106708,
+          "following_count": 491,
+          "like_count": 92520,
+          "listed_count": 160,
+          "media_count": 617,
+          "tweet_count": 1524
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

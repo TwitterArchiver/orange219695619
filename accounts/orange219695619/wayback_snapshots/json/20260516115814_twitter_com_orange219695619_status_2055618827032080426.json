@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055452634052763648"
+      ],
+      "media_source_tweet_id": [
+        "2055575481634771034"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055618827032080426",
+    "created_at": "2026-05-16T11:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055618827032080426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "868354704",
+          "start": 3,
+          "username": "TheCatsX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MW7oRoNwtR",
+          "end": 45,
+          "expanded_url": "https://x.com/TheCatsX/status/2055575481634771034/video/1",
+          "media_key": "13_2055452634052763648",
+          "start": 22,
+          "url": "https://t.co/MW7oRoNwtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055618827032080426",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055575481634771034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheCatsX: chillin https://t.co/MW7oRoNwtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7871,
+        "height": 576,
+        "media_key": "13_2055452634052763648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055452634052763648/img/dYI1rgJvbEar_M6i.jpg",
+        "public_metrics": {
+          "view_count": 629
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055452634052763648/vid/avc1/478x270/aJ2UjRCrS-X31K7z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055452634052763648/vid/avc1/636x360/f4KTUdbK8_Og3tl5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055452634052763648/vid/avc1/1020x576/nSSVJ6AQfE8osFbY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055452634052763648/pl/cJSXs3mEvPHxNc6I.m3u8"
+          }
+        ],
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055452634052763648"
+          ],
+          "media_source_tweet_id": [
+            "2055575481634771034"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055618827032080426",
+        "created_at": "2026-05-16T11:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055618827032080426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "868354704",
+              "start": 3,
+              "username": "TheCatsX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MW7oRoNwtR",
+              "end": 45,
+              "expanded_url": "https://x.com/TheCatsX/status/2055575481634771034/video/1",
+              "media_key": "13_2055452634052763648",
+              "start": 22,
+              "url": "https://t.co/MW7oRoNwtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055618827032080426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055575481634771034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheCatsX: chillin https://t.co/MW7oRoNwtR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055452634052763648"
+          ]
+        },
+        "author_id": "868354704",
+        "conversation_id": "2055575481634771034",
+        "created_at": "2026-05-16T09:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055575481634771034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MW7oRoNwtR",
+              "end": 31,
+              "expanded_url": "https://x.com/TheCatsX/status/2055575481634771034/video/1",
+              "media_key": "13_2055452634052763648",
+              "start": 8,
+              "url": "https://t.co/MW7oRoNwtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055575481634771034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3057,
+          "like_count": 87,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "chillin https://t.co/MW7oRoNwtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 121,
+          "like_count": 3691,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 3275
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-08T17:25:41.000Z",
+        "description": "Your Daily Dose of Cats",
+        "id": "868354704",
+        "name": "The Cats 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007846404929245184/sAN8YnzL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352869,
+          "following_count": 10,
+          "like_count": 1012,
+          "listed_count": 622,
+          "media_count": 12575,
+          "tweet_count": 13166
+        },
+        "username": "TheCatsX",
+        "verified": true
+      }
+    ]
+  }
+}

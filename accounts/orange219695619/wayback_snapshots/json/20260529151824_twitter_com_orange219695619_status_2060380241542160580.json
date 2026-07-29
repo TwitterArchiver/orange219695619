@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060379506486157312"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060380241542160580",
+    "created_at": "2026-05-29T15:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060380241542160580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2k4yKIJGK1",
+          "end": 30,
+          "expanded_url": "https://x.com/orange219695619/status/2060380241542160580/video/1",
+          "media_key": "7_2060379506486157312",
+          "start": 7,
+          "url": "https://t.co/2k4yKIJGK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060380241542160580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还不让摸摸了 https://t.co/2k4yKIJGK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16722,
+        "height": 720,
+        "media_key": "7_2060379506486157312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060379506486157312/pu/img/At424W-h7oaChwNx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060379506486157312/pu/vid/avc1/480x270/ZX6YrofvKWPMYWsv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060379506486157312/pu/vid/avc1/640x360/ggDjpvhWMLimxsTD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060379506486157312/pu/vid/avc1/1280x720/b6X1buakC5kEdpC8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060379506486157312/pu/pl/TE9ITD_wgkuZ85lw.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060379506486157312"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060380241542160580",
+        "created_at": "2026-05-29T15:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060380241542160580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2k4yKIJGK1",
+              "end": 30,
+              "expanded_url": "https://x.com/orange219695619/status/2060380241542160580/video/1",
+              "media_key": "7_2060379506486157312",
+              "start": 7,
+              "url": "https://t.co/2k4yKIJGK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060380241542160580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还不让摸摸了 https://t.co/2k4yKIJGK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 141,
+          "like_count": 6247,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 4606
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

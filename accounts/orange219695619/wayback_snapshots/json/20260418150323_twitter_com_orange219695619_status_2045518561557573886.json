@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2045518561557573886",
+    "created_at": "2026-04-18T15:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045518561557573886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rita_burns5261…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/rita_burns52614/status/2045427331960132043",
+          "start": 5,
+          "url": "https://t.co/NK8AhlEkiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045518561557573886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045427331960132043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成挂件了 https://t.co/NK8AhlEkiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2774,
+        "media_key": "3_2045427313807147009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLRTgVbQAE4hqR.jpg",
+        "width": 1280
+      },
+      {
+        "height": 560,
+        "media_key": "16_2045427313886810112",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGLRTgoa0AAGDNm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGLRTgoa0AAGDNm.mp4"
+          }
+        ],
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2045518561557573886",
+        "created_at": "2026-04-18T15:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045518561557573886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rita_burns5261…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/rita_burns52614/status/2045427331960132043",
+              "start": 5,
+              "url": "https://t.co/NK8AhlEkiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045518561557573886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045427331960132043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成挂件了 https://t.co/NK8AhlEkiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045427313807147009",
+            "16_2045427313886810112"
+          ]
+        },
+        "author_id": "2013218070689447936",
+        "conversation_id": "2045427331960132043",
+        "created_at": "2026-04-18T09:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045427331960132043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/spt1qzzel7",
+              "end": 30,
+              "expanded_url": "https://x.com/rita_burns52614/status/2045427331960132043/photo/1",
+              "media_key": "3_2045427313807147009",
+              "start": 7,
+              "url": "https://t.co/spt1qzzel7"
+            },
+            {
+              "display_url": "pic.x.com/spt1qzzel7",
+              "end": 30,
+              "expanded_url": "https://x.com/rita_burns52614/status/2045427331960132043/photo/1",
+              "media_key": "16_2045427313886810112",
+              "start": 7,
+              "url": "https://t.co/spt1qzzel7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045427331960132043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 83302,
+          "like_count": 294,
+          "quote_count": 3,
+          "reply_count": 96,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这也太吓人了 https://t.co/spt1qzzel7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1182
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T11:52:56.000Z",
+        "description": "原账号@LST12123，互fo快来骚扰我\n07男大学生傻卵二次，新手交易员，碎碎念区煮波，可以找我打游戏apex|英雄联盟|邦邦人|明日方舟……\n喜欢我请给我打钱\n自用梯子yy：https://t.co/HTQeTyPE7T\n欢迎提问！https://t.co/bgDcJAfMGm\n100fo抽红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "LST12123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register",
+                "end": 113,
+                "expanded_url": "https://www.yy.tz69.vip/#/register",
+                "start": 90,
+                "url": "https://t.co/HTQeTyPE7T"
+              },
+              {
+                "display_url": "miyu.link/LST",
+                "end": 142,
+                "expanded_url": "https://miyu.link/LST",
+                "start": 119,
+                "url": "https://t.co/bgDcJAfMGm"
+              }
+            ]
+          }
+        },
+        "id": "2013218070689447936",
+        "location": "520m",
+        "name": "困困神",
+        "pinned_tweet_id": "2037939101186527491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031316879877484548/zq5PMAXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 226,
+          "like_count": 1436,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 796
+        },
+        "username": "rita_burns52614",
+        "verified": true
+      }
+    ]
+  }
+}

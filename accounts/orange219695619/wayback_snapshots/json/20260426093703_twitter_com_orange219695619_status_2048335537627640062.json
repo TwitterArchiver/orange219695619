@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048248893566259417",
+    "created_at": "2026-04-26T09:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048335537627640062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910230395188363264",
+          "start": 0,
+          "username": "xiaojianjian567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048335537627640062",
+    "in_reply_to_user_id": "1910230395188363264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048248893566259417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojianjian567 歪逼扒布"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32660,
+        "height": 1280,
+        "media_key": "13_2048248816651096064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048248816651096064/img/1tCv-96JVwkHVUsx.jpg",
+        "public_metrics": {
+          "view_count": 174574
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048248816651096064/vid/avc1/320x568/fgOr5jldMzDM5KBZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048248816651096064/vid/avc1/480x852/wQbHMFn9Wulz2VpV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048248816651096064/vid/avc1/720x1280/J-taFp8Z8f61LO3D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048248816651096064/pl/LUFVTMmK_ZaP7UDW.m3u8?v=352"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048248893566259417",
+        "created_at": "2026-04-26T09:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048335537627640062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910230395188363264",
+              "start": 0,
+              "username": "xiaojianjian567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048335537627640062",
+        "in_reply_to_user_id": "1910230395188363264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048248893566259417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojianjian567 歪逼扒布"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048248816651096064"
+          ]
+        },
+        "author_id": "1910230395188363264",
+        "conversation_id": "2048248893566259417",
+        "created_at": "2026-04-26T03:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048248893566259417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8rAvnN6kC",
+              "end": 78,
+              "expanded_url": "https://x.com/xiaojianjian567/status/2048248893566259417/video/1",
+              "media_key": "13_2048248816651096064",
+              "start": 55,
+              "url": "https://t.co/O8rAvnN6kC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048248893566259417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 248909,
+          "like_count": 471,
+          "quote_count": 2,
+          "reply_count": 381,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "困扰POLO好久的问题终于解决了\n兄弟们过来学穿搭了\n今天学习：连体裤怎么上厕所！\n学完去教给你们的女朋友吧 https://t.co/O8rAvnN6kC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 84,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1645
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:16:43.000Z",
+        "description": "💥2024年12月31日卖掉了跟随我很久的奔驰，2025年1月2日买了一辆2013年产红色1.4排量polo💥我和孙哥(去过太空版)同年同月同日生 💥八字：土 土 火 土 土 土 土 土💥我的优势：好奇心、愚忠、固执💥留学一半 🕹️我经常梦到它我的三叉星徽。AMB @idolly_AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "idolly_AI"
+              }
+            ]
+          }
+        },
+        "id": "1910230395188363264",
+        "location": "Kowloon City District",
+        "name": "Polo1.4 贱🕊️",
+        "pinned_tweet_id": "1993966958824272275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930536284830973952/GVvhULsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44214,
+          "following_count": 26663,
+          "like_count": 99476,
+          "listed_count": 71,
+          "media_count": 2607,
+          "tweet_count": 61084
+        },
+        "username": "xiaojianjian567",
+        "verified": true
+      }
+    ]
+  }
+}

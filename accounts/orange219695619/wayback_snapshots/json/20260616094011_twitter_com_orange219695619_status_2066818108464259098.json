@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066803906819272984",
+    "created_at": "2026-06-16T09:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066818108464259098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064591194139901952",
+          "start": 0,
+          "username": "OHOHOH321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066818108464259098",
+    "in_reply_to_user_id": "2064591194139901952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066803906819272984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH321 抱抱你🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2066803898162315264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7DMepbgAAgagE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066803906819272984",
+        "created_at": "2026-06-16T09:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066818108464259098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064591194139901952",
+              "start": 0,
+              "username": "OHOHOH321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066818108464259098",
+        "in_reply_to_user_id": "2064591194139901952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066803906819272984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH321 抱抱你🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066803898162315264"
+          ]
+        },
+        "author_id": "2064591194139901952",
+        "conversation_id": "2066803906819272984",
+        "created_at": "2026-06-16T08:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066803906819272984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARId4czo2Z",
+              "end": 23,
+              "expanded_url": "https://x.com/OHOHOH321/status/2066803906819272984/photo/1",
+              "media_key": "3_2066803898162315264",
+              "start": 0,
+              "url": "https://t.co/ARId4czo2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066803906819272984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ARId4czo2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 184,
+          "like_count": 10014,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 6416
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T06:12:58.000Z",
+        "description": "",
+        "id": "2064591194139901952",
+        "name": "AAA.梦幻批发户（2.0）",
+        "pinned_tweet_id": "2065303130129191157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064596030130380800/_D1GWhGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 201,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 64
+        },
+        "username": "OHOHOH321",
+        "verified": false
+      }
+    ]
+  }
+}

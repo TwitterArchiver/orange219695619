@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2030699008700879187",
+    "created_at": "2026-03-09T12:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030987415004041251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588939620670001152",
+          "start": 0,
+          "username": "Ajaras_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030987415004041251",
+    "in_reply_to_user_id": "1588939620670001152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030699008700879187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajaras_ 爆率高吗，会被非洲之心绊倒吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2030699008700879187",
+        "created_at": "2026-03-09T12:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030987415004041251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588939620670001152",
+              "start": 0,
+              "username": "Ajaras_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030987415004041251",
+        "in_reply_to_user_id": "1588939620670001152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030699008700879187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajaras_ 爆率高吗，会被非洲之心绊倒吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588939620670001152",
+        "conversation_id": "2030699008700879187",
+        "created_at": "2026-03-08T17:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030699008700879187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030699008700879187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6299,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有想带我打三角洲的…新手除了跑刀捡垃圾啥也不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T17:01:48.000Z",
+        "description": "sub 联系方式看心情加",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A7%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A7%E5%85%8B%E5%8A%9B38843",
+                "start": 0,
+                "url": "https://t.co/54mZcoEb5q"
+              }
+            ]
+          }
+        },
+        "id": "1588939620670001152",
+        "location": "江苏",
+        "name": "爱吃巧克力麦芬",
+        "pinned_tweet_id": "2029799666108473650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882498464405417984/k2JIlzFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 170,
+          "like_count": 47,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/54mZcoEb5q",
+        "username": "Ajaras_",
+        "verified": false
+      }
+    ]
+  }
+}

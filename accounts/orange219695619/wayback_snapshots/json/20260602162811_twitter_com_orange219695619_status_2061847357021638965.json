@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061847354408591360",
+        "3_2061847353230020608"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061785833548755351",
+    "created_at": "2026-06-02T16:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061847357021638965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PzycZmBgg",
+          "end": 46,
+          "expanded_url": "https://x.com/orange219695619/status/2061847357021638965/photo/1",
+          "media_key": "3_2061847354408591360",
+          "start": 23,
+          "url": "https://t.co/5PzycZmBgg"
+        },
+        {
+          "display_url": "pic.x.com/5PzycZmBgg",
+          "end": 46,
+          "expanded_url": "https://x.com/orange219695619/status/2061847357021638965/photo/1",
+          "media_key": "3_2061847353230020608",
+          "start": 23,
+          "url": "https://t.co/5PzycZmBgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061847357021638965",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061846130619736195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 小刀猎加这俩好玩😭 https://t.co/5PzycZmBgg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2061847354408591360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nPqSaYAAaeEk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 930,
+        "media_key": "3_2061847353230020608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0nPl5a0AAhdjC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061847354408591360",
+            "3_2061847353230020608"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061785833548755351",
+        "created_at": "2026-06-02T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061847357021638965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PzycZmBgg",
+              "end": 46,
+              "expanded_url": "https://x.com/orange219695619/status/2061847357021638965/photo/1",
+              "media_key": "3_2061847354408591360",
+              "start": 23,
+              "url": "https://t.co/5PzycZmBgg"
+            },
+            {
+              "display_url": "pic.x.com/5PzycZmBgg",
+              "end": 46,
+              "expanded_url": "https://x.com/orange219695619/status/2061847357021638965/photo/1",
+              "media_key": "3_2061847353230020608",
+              "start": 23,
+              "url": "https://t.co/5PzycZmBgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061847357021638965",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061846130619736195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 小刀猎加这俩好玩😭 https://t.co/5PzycZmBgg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2061785833548755351",
+        "created_at": "2026-06-02T16:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061846130619736195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061846130619736195",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061845938906529906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 跳牌最多时丢了20多张小刀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 153,
+          "like_count": 7088,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 5014
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟解离大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 293,
+          "like_count": 24405,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1927
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

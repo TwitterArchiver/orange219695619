@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060748528268571043",
+    "created_at": "2026-05-30T15:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060748528268571043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896077810655170560",
+          "start": 3,
+          "username": "zhyzhy655231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060748528268571043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060259637295980756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhyzhy655231: 为什么明明现在过得很好却还是会想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060748528268571043",
+        "created_at": "2026-05-30T15:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060748528268571043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896077810655170560",
+              "start": 3,
+              "username": "zhyzhy655231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060748528268571043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060259637295980756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhyzhy655231: 为什么明明现在过得很好却还是会想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896077810655170560",
+        "conversation_id": "2060259637295980756",
+        "created_at": "2026-05-29T07:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060259637295980756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060259637295980756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6472,
+          "like_count": 86,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "为什么明明现在过得很好却还是会想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 147,
+          "like_count": 6458,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 4736
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T05:59:37.000Z",
+        "description": "病み垢 | 顺性别女 | 重度抑郁 | 16岁休学中 | 基本想到什么发什么 | 互fo",
+        "id": "1896077810655170560",
+        "name": "血野澪",
+        "pinned_tweet_id": "2053521630190837999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041804787503812608/vN38r6MB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 57,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 150
+        },
+        "username": "zhyzhy655231",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063199338810200500",
+    "created_at": "2026-06-06T10:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063199338810200500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zxy1473129/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/zxy1473129/status/2063052741577207828",
+          "start": 9,
+          "url": "https://t.co/Cn5zjNK1cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063199338810200500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063052741577207828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事实上确实如此… https://t.co/Cn5zjNK1cg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063199338810200500",
+        "created_at": "2026-06-06T10:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063199338810200500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zxy1473129/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/zxy1473129/status/2063052741577207828",
+              "start": 9,
+              "url": "https://t.co/Cn5zjNK1cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063199338810200500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063052741577207828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上确实如此… https://t.co/Cn5zjNK1cg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858042250158358528",
+        "conversation_id": "2063052741577207828",
+        "created_at": "2026-06-06T00:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063052741577207828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063052741577207828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 47692,
+          "like_count": 714,
+          "quote_count": 36,
+          "reply_count": 214,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "有些人真的很恐怖，，，缺爱到那种无法想象的地步，你似乎只是和他正常的聊天语气稍微那么温柔一点，就算你们才认识几天或者几小时，她就能对你产生好感 甚至衍生到依赖性，占有欲这种，，其实别人知道了会很无奈吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 160,
+          "like_count": 7848,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 5412
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:59:36.000Z",
+        "description": "|07|🚪随缘|纯吐槽|怨气很大|绿色玩家|\n期待特别特别多女宝找我玩！\n（骚扰我骂你全家你就受着吧）",
+        "id": "1858042250158358528",
+        "location": "神仙国",
+        "name": "Ruruuuuu",
+        "pinned_tweet_id": "2057875576309088404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059670321956012032/cA67yQ_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 30,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 252
+        },
+        "username": "zxy1473129",
+        "verified": false
+      }
+    ]
+  }
+}

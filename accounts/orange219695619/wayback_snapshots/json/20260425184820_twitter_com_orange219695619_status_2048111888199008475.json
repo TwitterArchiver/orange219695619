@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048111888199008475",
+    "created_at": "2026-04-25T18:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048111888199008475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvjin1993/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/lvjin1993/status/2047904937171173586",
+          "start": 20,
+          "url": "https://t.co/YWVz5Y5IHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048111888199008475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047904937171173586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还以为是ai\n这章鱼怎么长了张龙图脸 https://t.co/YWVz5Y5IHu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18763,
+        "height": 960,
+        "media_key": "7_2047902947221393408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047902947221393408/pu/img/vxQYpT-YLeNb4aZq.jpg",
+        "public_metrics": {
+          "view_count": 2107948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047902947221393408/pu/vid/avc1/320x568/9AmNApAqU5DZRzHd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047902947221393408/pu/vid/avc1/480x852/dvnb9coROSoR7Mfq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047902947221393408/pu/vid/avc1/540x960/wU6EywEBEhG_wL-X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047902947221393408/pu/pl/ZnucZ0SL8XFpfWA8.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048111888199008475",
+        "created_at": "2026-04-25T18:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048111888199008475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvjin1993/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lvjin1993/status/2047904937171173586",
+              "start": 20,
+              "url": "https://t.co/YWVz5Y5IHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048111888199008475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047904937171173586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还以为是ai\n这章鱼怎么长了张龙图脸 https://t.co/YWVz5Y5IHu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047902947221393408"
+          ]
+        },
+        "author_id": "1437318233883701249",
+        "conversation_id": "2047904937171173586",
+        "created_at": "2026-04-25T05:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047904937171173586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrBMpDjs9N",
+              "end": 60,
+              "expanded_url": "https://x.com/lvjin1993/status/2047904937171173586/video/1",
+              "media_key": "7_2047902947221393408",
+              "start": 37,
+              "url": "https://t.co/DrBMpDjs9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047904937171173586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3241,
+          "impression_count": 5056506,
+          "like_count": 16194,
+          "quote_count": 340,
+          "reply_count": 1059,
+          "retweet_count": 1145
+        },
+        "reply_settings": "everyone",
+        "text": "能模仿人脸的章鱼～它看见人类拿着鱼靠近，把自己伪装成了人脸，细思极恐。😱 https://t.co/DrBMpDjs9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 83,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1593
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T07:33:07.000Z",
+        "description": "热爱祖国 小城卖茶 鲜果采摘  江边夜跑 爱猫人士 老物件迷 幽默搞笑 游山玩水 谢绝闲聊 请您谅解！",
+        "id": "1437318233883701249",
+        "name": "Li Mengbai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021405798950371331/kZizNwsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203564,
+          "following_count": 61854,
+          "like_count": 86478,
+          "listed_count": 200,
+          "media_count": 25794,
+          "tweet_count": 37801
+        },
+        "username": "lvjin1993",
+        "verified": true
+      }
+    ]
+  }
+}

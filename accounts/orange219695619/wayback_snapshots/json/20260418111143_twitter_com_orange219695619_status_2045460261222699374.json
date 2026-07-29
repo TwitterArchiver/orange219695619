@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2045453827479081377",
+    "created_at": "2026-04-18T11:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045460261222699374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045460261222699374",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045453827479081377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 桌子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045453745216188416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLpWBAacAARX-l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2045453827479081377",
+        "created_at": "2026-04-18T11:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045460261222699374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045460261222699374",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045453827479081377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 桌子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045453745216188416"
+          ]
+        },
+        "author_id": "1936091086470193152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045453827479081377",
+        "created_at": "2026-04-18T10:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045453827479081377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMjuLPt4Q1",
+              "end": 30,
+              "expanded_url": "https://x.com/yui1225love/status/2045453827479081377/photo/1",
+              "media_key": "3_2045453745216188416",
+              "start": 7,
+              "url": "https://t.co/zMjuLPt4Q1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045453827479081377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们要吃哪个 https://t.co/zMjuLPt4Q1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1166
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "放下屠刀OK？我只是个喜欢胡言乱语的精神病。一只兔的清水推，泛，选择性回关。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yui1225love?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yui1225love?igsh=MWZmYmttbml4Nm40aA==",
+                "start": 0,
+                "url": "https://t.co/5R7R0p3v6t"
+              }
+            ]
+          }
+        },
+        "id": "1936091086470193152",
+        "location": "🚪52开放朋友圈，88开放私信",
+        "name": "这里没有你要找的好小兔",
+        "pinned_tweet_id": "2044825698658029638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762959352549376/9CemZR-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 121,
+          "like_count": 1746,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/5R7R0p3v6t",
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

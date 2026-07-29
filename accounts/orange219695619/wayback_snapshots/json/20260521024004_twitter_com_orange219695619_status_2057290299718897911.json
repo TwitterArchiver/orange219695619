@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+          "id": "1840858535829057537",
+          "name": "CBS News 2024 Vice Presidential Debate"
+        }
+      }
+    ],
+    "conversation_id": "2057290299718897911",
+    "created_at": "2026-05-21T02:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057290299718897911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057290299718897911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057242615419134134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsCatRoll: 并非，是受家人的创伤太多导致了social regression（社会化退行），变成小孩子来保护自己\n\n嗯，比如我，前两年严重精神病，到现在2*岁了也不工作，同学都phd毕业or做到VP了，我还在推上跟xyn喵来喵去…\n\n当然咱确实希望自己一辈子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "2057290299718897911",
+        "created_at": "2026-05-21T02:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057290299718897911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057290299718897911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057242615419134134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsCatRoll: 并非，是受家人的创伤太多导致了social regression（社会化退行），变成小孩子来保护自己\n\n嗯，比如我，前两年严重精神病，到现在2*岁了也不工作，同学都phd毕业or做到VP了，我还在推上跟xyn喵来喵去…\n\n当然咱确实希望自己一辈子…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "2057242615419134134",
+        "created_at": "2026-05-20T23:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057242615419134134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingopark21/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/lingopark21/status/2057004140350582789",
+              "start": 129,
+              "url": "https://t.co/2NZx03CU4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057242615419134134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4709,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057004140350582789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非，是受家人的创伤太多导致了social regression（社会化退行），变成小孩子来保护自己\n\n嗯，比如我，前两年严重精神病，到现在2*岁了也不工作，同学都phd毕业or做到VP了，我还在推上跟xyn喵来喵去…\n\n当然咱确实希望自己一辈子14岁喵w https://t.co/2NZx03CU4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4322,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3649
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "中学生jk 工程师猫娘 软饭猫猫（x\n🇯🇵🇹🇭🇹🇷🍥请私信/tg: https://t.co/9vPU5sObId\n💌@hobartr6\n温柔猫猫@leetfs1\n🐱@_furryfur_\n笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "hobartr6"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "leetfs1"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 57,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 34,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "衍星猫卷",
+        "pinned_tweet_id": "2016774614928724220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055614606752817152/8HUtqwRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3891,
+          "following_count": 823,
+          "like_count": 3969,
+          "listed_count": 8,
+          "media_count": 28,
+          "tweet_count": 199
+        },
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053297785672458377",
+    "created_at": "2026-05-10T05:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T06:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053340943781433835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593267144803901445",
+          "start": 0,
+          "username": "bb60040873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053340943781433835",
+    "in_reply_to_user_id": "1593267144803901445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053297785672458377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bb60040873 很舒服，但是伸爪会被划伤😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053297785672458377",
+        "created_at": "2026-05-10T05:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053340943781433835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593267144803901445",
+              "start": 0,
+              "username": "bb60040873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053340943781433835",
+        "in_reply_to_user_id": "1593267144803901445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053297785672458377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bb60040873 很舒服，但是伸爪会被划伤😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593267144803901445",
+        "conversation_id": "2053297785672458377",
+        "created_at": "2026-05-10T02:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053297785672458377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053297785672458377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被小猫用肉垫邦邦打是什么感觉啊，我也想被打😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 99,
+          "like_count": 2595,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2615
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T15:39:09.000Z",
+        "description": "爱碎碎念胡言乱语，间歇性发疯，bl，混的圈子杂啥都能吃一口，绝望的直女",
+        "id": "1593267144803901445",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013094892193382400/6-yy9Ldp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 470,
+          "like_count": 9522,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 3586
+        },
+        "username": "bb60040873",
+        "verified": false
+      }
+    ]
+  }
+}

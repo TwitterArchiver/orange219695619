@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078752596018569269",
+    "created_at": "2026-07-19T09:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078777846554821049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1934473367245217793",
+          "start": 0,
+          "username": "ision0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078777846554821049",
+    "in_reply_to_user_id": "1934473367245217793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078752596018569269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ision0511 还有药后甜点（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078752596018569269",
+        "created_at": "2026-07-19T09:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078777846554821049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1934473367245217793",
+              "start": 0,
+              "username": "ision0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078777846554821049",
+        "in_reply_to_user_id": "1934473367245217793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078752596018569269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ision0511 还有药后甜点（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934473367245217793",
+        "conversation_id": "2078752596018569269",
+        "created_at": "2026-07-19T08:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078752596018569269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078752596018569269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟們。我再也不吃普瑞巴林了。準確點說是我再也不跟朋友一起吃了，我倆吃完之後晚上一起睡，她把我扣了，撒由那拉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 181,
+          "like_count": 18515,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 9237
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:49:34.000Z",
+        "description": "叫我夾子就好 割/o 我很溫良可以來找我玩 謝謝你們的喜歡",
+        "id": "1934473367245217793",
+        "name": "為你奉上我迄今為止的人生",
+        "pinned_tweet_id": "2060428756481622093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046282060499968000/ZyyawPW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 462,
+          "like_count": 5392,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "ision0511",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065332085204922497",
+    "created_at": "2026-06-12T07:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065332085204922497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/URA_kimou/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/URA_kimou/status/2065109483681144881",
+          "start": 6,
+          "url": "https://t.co/adZqp2Ou1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065332085204922497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065109483681144881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的好好笑 https://t.co/adZqp2Ou1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2065109241128747008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKi96dPbAAAULOg.jpg",
+        "width": 2886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065332085204922497",
+        "created_at": "2026-06-12T07:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065332085204922497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/URA_kimou/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/URA_kimou/status/2065109483681144881",
+              "start": 6,
+              "url": "https://t.co/adZqp2Ou1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065332085204922497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065109483681144881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的好好笑 https://t.co/adZqp2Ou1G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065109241128747008"
+          ]
+        },
+        "author_id": "1566754936985370630",
+        "conversation_id": "2065109483681144881",
+        "created_at": "2026-06-11T16:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065109483681144881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UyTRbIYxI",
+              "end": 36,
+              "expanded_url": "https://x.com/URA_kimou/status/2065109483681144881/photo/1",
+              "media_key": "3_2065109241128747008",
+              "start": 13,
+              "url": "https://t.co/1UyTRbIYxI"
+            },
+            {
+              "display_url": "x.com/URA_kimou/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/URA_kimou/status/1990726256984211566",
+              "start": 37,
+              "url": "https://t.co/Q0DsnvFCxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065109483681144881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 511,
+          "impression_count": 1395945,
+          "like_count": 9014,
+          "quote_count": 50,
+          "reply_count": 82,
+          "retweet_count": 1650
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990726256984211566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "頭の上の数字　令和最新版 https://t.co/1UyTRbIYxI https://t.co/Q0DsnvFCxa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 169,
+          "like_count": 9072,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 5986
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T11:48:05.000Z",
+        "description": "シリーズもの：https://t.co/jjNVwqxKNH\nFANBOX：https://t.co/LXv7hZ41Ih\nYoutube：https://t.co/Loem20GEfd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/momosaezuri",
+                "end": 30,
+                "expanded_url": "https://x.com/momosaezuri",
+                "start": 7,
+                "url": "https://t.co/jjNVwqxKNH"
+              },
+              {
+                "display_url": "urakimou.fanbox.cc",
+                "end": 61,
+                "expanded_url": "https://urakimou.fanbox.cc/",
+                "start": 38,
+                "url": "https://t.co/LXv7hZ41Ih"
+              },
+              {
+                "display_url": "youtube.com/channel/UCQeFJ…",
+                "end": 93,
+                "expanded_url": "https://www.youtube.com/channel/UCQeFJo502tbh5Q09WGq6Niw",
+                "start": 70,
+                "url": "https://t.co/Loem20GEfd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/39438322",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/39438322",
+                "start": 0,
+                "url": "https://t.co/aOi38ba3fr"
+              }
+            ]
+          }
+        },
+        "id": "1566754936985370630",
+        "name": "浦木 猛",
+        "pinned_tweet_id": "2039021907421573467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056889657808609280/WqzzOWYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53445,
+          "following_count": 90,
+          "like_count": 2986,
+          "listed_count": 206,
+          "media_count": 730,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/aOi38ba3fr",
+        "username": "URA_kimou",
+        "verified": false
+      }
+    ]
+  }
+}

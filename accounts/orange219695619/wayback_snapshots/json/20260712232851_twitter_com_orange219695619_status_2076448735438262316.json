@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075906843050918098",
+    "created_at": "2026-07-12T23:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T00:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076448735438262316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062847536134590464",
+          "start": 0,
+          "username": "aruannie512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076448735438262316",
+    "in_reply_to_user_id": "2062847536134590464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076356759019823359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aruannie512 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075906843050918098",
+        "created_at": "2026-07-12T23:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076448735438262316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062847536134590464",
+              "start": 0,
+              "username": "aruannie512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076448735438262316",
+        "in_reply_to_user_id": "2062847536134590464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076356759019823359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aruannie512 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062847536134590464",
+        "conversation_id": "2075906843050918098",
+        "created_at": "2026-07-12T17:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076356759019823359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076356759019823359",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075906843050918098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 你奶奶了个三角篓子的，做容器给我做好了啊（恼）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 173,
+          "like_count": 17194,
+          "listed_count": 2,
+          "media_count": 522,
+          "tweet_count": 8768
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T10:44:45.000Z",
+        "description": "已有对象：@hajihajimo\nremember our promise",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "hajihajimo"
+              }
+            ]
+          }
+        },
+        "id": "2062847536134590464",
+        "location": "彭罗斯号",
+        "name": "灵鹊🐦",
+        "pinned_tweet_id": "2067268237168165029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071524495861665792/q1ObEJgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 118,
+          "like_count": 1360,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "aruannie512",
+        "verified": false
+      }
+    ]
+  }
+}

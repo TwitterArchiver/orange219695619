@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074550346165408157",
+    "created_at": "2026-07-08T00:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074644817641107666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039986041218592768",
+          "start": 0,
+          "username": "7xEcuUp3Sf61887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074644817641107666",
+    "in_reply_to_user_id": "2039986041218592768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074550346165408157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xEcuUp3Sf61887 瑟瑟！🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074550339085451264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpIir3awAAOEmF.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2074550340234649600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpIiwJaIAApmqM.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074550346165408157",
+        "created_at": "2026-07-08T00:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074644817641107666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039986041218592768",
+              "start": 0,
+              "username": "7xEcuUp3Sf61887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074644817641107666",
+        "in_reply_to_user_id": "2039986041218592768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074550346165408157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xEcuUp3Sf61887 瑟瑟！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074550339085451264",
+            "3_2074550340234649600"
+          ]
+        },
+        "author_id": "2039986041218592768",
+        "conversation_id": "2074550346165408157",
+        "created_at": "2026-07-07T17:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074550346165408157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zg7GoLXZXr",
+              "end": 29,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2074550346165408157/photo/1",
+              "media_key": "3_2074550339085451264",
+              "start": 6,
+              "url": "https://t.co/zg7GoLXZXr"
+            },
+            {
+              "display_url": "pic.x.com/zg7GoLXZXr",
+              "end": 29,
+              "expanded_url": "https://x.com/7xEcuUp3Sf61887/status/2074550346165408157/photo/1",
+              "media_key": "3_2074550340234649600",
+              "start": 6,
+              "url": "https://t.co/zg7GoLXZXr"
+            },
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/orange219695619/status/2073954577561555348",
+              "start": 30,
+              "url": "https://t.co/w3GM281QqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074550346165408157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073954577561555348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被嚇暈，， https://t.co/zg7GoLXZXr https://t.co/w3GM281QqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 172,
+          "like_count": 15926,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 8388
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:39:21.000Z",
+        "description": "廢話很多。可以叫我hibiki｜江浙滬正體字消腫逼一枚｜DM○",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuriafries",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuriafries",
+                "start": 0,
+                "url": "https://t.co/5WmYE4Ga5J"
+              }
+            ]
+          }
+        },
+        "id": "2039986041218592768",
+        "location": "一個人 一條街 一場雨 心碎一整夜",
+        "name": "響き渡る🥃",
+        "pinned_tweet_id": "2070813276167094635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039992924474392576/YSYh1AIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 98,
+          "like_count": 5775,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/5WmYE4Ga5J",
+        "username": "7xEcuUp3Sf61887",
+        "verified": false
+      }
+    ]
+  }
+}

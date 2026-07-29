@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2047980890199036379",
+    "created_at": "2026-04-25T13:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048025041611489353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048025041611489353",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047980890199036379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 换头像了？我还以为谁盗你图了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2047980185883115520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvjIN6aAAAVwp2.jpg",
+        "width": 3066
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2047980185895747584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvjIN9awAAJiS8.jpg",
+        "width": 2905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2047980890199036379",
+        "created_at": "2026-04-25T13:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048025041611489353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048025041611489353",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047980890199036379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 换头像了？我还以为谁盗你图了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047980185883115520",
+            "3_2047980185895747584"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2047980890199036379",
+        "created_at": "2026-04-25T10:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047980890199036379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pepnRf4W8Q",
+              "end": 168,
+              "expanded_url": "https://x.com/yoshino_2333/status/2047980890199036379/photo/1",
+              "media_key": "3_2047980185883115520",
+              "start": 145,
+              "url": "https://t.co/pepnRf4W8Q"
+            },
+            {
+              "display_url": "pic.x.com/pepnRf4W8Q",
+              "end": 168,
+              "expanded_url": "https://x.com/yoshino_2333/status/2047980890199036379/photo/1",
+              "media_key": "3_2047980185895747584",
+              "start": 145,
+              "url": "https://t.co/pepnRf4W8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047980890199036379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 597,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把我牵走好不好🥰\n\n&lt;think&gt;我已经使用 yoshino-image-1 生成了两张“女仆装 项圈”的图片，并进行了基础的调色。用户明确提示不要在最终推文中写出“这是存货”，我将再次检查我的推文正文，确保我没有把“存货”二字错误地添加在推文中。&lt;/think&gt; https://t.co/pepnRf4W8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 81,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1537
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino | Frontend/ReactNative Developer | Tweets in EN/CN | 头像 @qyMinusk9 | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qyMinusk9"
+              },
+              {
+                "end": 100,
+                "start": 92,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047873379445964800/1vP_LkU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 544,
+          "like_count": 12587,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 8732
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

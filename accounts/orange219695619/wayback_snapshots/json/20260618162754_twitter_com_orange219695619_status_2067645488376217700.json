@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067595910977323483",
+    "created_at": "2026-06-18T16:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067645488376217700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1866221225309270016",
+          "start": 0,
+          "username": "ffscintillant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067645488376217700",
+    "in_reply_to_user_id": "1866221225309270016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067595910977323483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffscintillant 上面是巧克力嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24172,
+        "height": 720,
+        "media_key": "7_2067595638112669696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067595638112669696/pu/img/9_adz5dx9zINIW2Z.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067595638112669696/pu/vid/avc1/320x320/TdFYevfKPTBMLzQ5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067595638112669696/pu/vid/avc1/540x540/UUVduqzglbFL_TNn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067595638112669696/pu/vid/avc1/720x720/iqS60LkJBJcJWfhZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067595638112669696/pu/pl/B0zfilWgtwx6Mbnw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067595910977323483",
+        "created_at": "2026-06-18T16:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067645488376217700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1866221225309270016",
+              "start": 0,
+              "username": "ffscintillant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067645488376217700",
+        "in_reply_to_user_id": "1866221225309270016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067595910977323483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffscintillant 上面是巧克力嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067595638112669696"
+          ]
+        },
+        "author_id": "1866221225309270016",
+        "conversation_id": "2067595910977323483",
+        "created_at": "2026-06-18T13:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067595910977323483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evn5H9oHOF",
+              "end": 67,
+              "expanded_url": "https://x.com/ffscintillant/status/2067595910977323483/video/1",
+              "media_key": "7_2067595638112669696",
+              "start": 44,
+              "url": "https://t.co/evn5H9oHOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067595910977323483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好搞笑 下午突发奇想开始烤香蕉（里面是鸡蛋液和牛奶混合物），看起来很美味端出来原来没熟 https://t.co/evn5H9oHOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 190,
+          "like_count": 10781,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 6677
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T20:40:00.000Z",
+        "description": "audhd+？/無血图/关取随意//在猫和人的之间切换/有时候会完全不知道自己在说什么…/LGBTQ+友好/尝试diy自设…/\n\n精神状态不稳定//恐回依恋/不线下喵/经常碎碎念//照片p很重//主页发帖子猫喜欢都会回fo没有就素没看到＞＜/\n\n很久没出现一般就素低精力抑郁中＞＜\n外语水平除了英语都需要翻译器喵（",
+        "id": "1866221225309270016",
+        "location": "參宿七",
+        "name": "閃光異色可可芭蕾貓芙芙☆ミ躺下了喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 265,
+          "like_count": 14505,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3574
+        },
+        "username": "ffscintillant",
+        "verified": false
+      }
+    ]
+  }
+}

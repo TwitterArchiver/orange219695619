@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057120914903617833",
+    "created_at": "2026-05-21T05:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057337524901834788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865995824775462912",
+          "start": 0,
+          "username": "king1818888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057337524901834788",
+    "in_reply_to_user_id": "1865995824775462912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057120914903617833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@king1818888 相爱相杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057120914903617833",
+        "created_at": "2026-05-21T05:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057337524901834788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865995824775462912",
+              "start": 0,
+              "username": "king1818888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057337524901834788",
+        "in_reply_to_user_id": "1865995824775462912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057120914903617833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@king1818888 相爱相杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865995824775462912",
+        "conversation_id": "2057120914903617833",
+        "created_at": "2026-05-20T15:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057120914903617833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057120914903617833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8436,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个词，语义同时融合\n\n我爱你 和 我恨你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4357,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3662
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T05:44:17.000Z",
+        "description": "💡 热爱分享｜热爱科技｜热爱生活\n\n🎓 墨尔本著名野鸡大学Data水硕失业率重要贡献者\n💰 金融小白幻想翻身成数据驱动投资者的半码农\n🌟 实测硬核AI工具 + 疯狂踩坑记录 + 追星解压日常分享",
+        "id": "1865995824775462912",
+        "location": "Melbourne, Victoria",
+        "name": "Kimberly",
+        "pinned_tweet_id": "2055133918727434564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050829855701487616/cMQeXTZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 396,
+          "like_count": 12835,
+          "listed_count": 8,
+          "media_count": 207,
+          "tweet_count": 5727
+        },
+        "username": "king1818888",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040255237190283264"
+      ],
+      "media_source_tweet_id": [
+        "2040263087228428770"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1248370550247849988",
+          "name": "Tokusatsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296035544485392384",
+          "name": "Kaiju"
+        }
+      }
+    ],
+    "conversation_id": "2040611591948018022",
+    "created_at": "2026-04-05T02:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T03:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040611591948018022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647951973881380865",
+          "start": 3,
+          "username": "KcraftAIart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4OjxSH0guO",
+          "end": 97,
+          "expanded_url": "https://x.com/KcraftAIart/status/2040263087228428770/photo/1",
+          "media_key": "3_2040255237190283264",
+          "start": 74,
+          "url": "https://t.co/4OjxSH0guO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040611591948018022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040263087228428770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KcraftAIart: おひるだで\nプロンプトの怪獣とドラゴンの違いは、羽が出るか出ないか、かなぁ\nKaiju Girl\n怪獣少女倶楽部 https://t.co/4OjxSH0guO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1904,
+        "media_key": "3_2040255237190283264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBxVBfbcAAlVp3.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040255237190283264"
+          ],
+          "media_source_tweet_id": [
+            "2040263087228428770"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "2040611591948018022",
+        "created_at": "2026-04-05T02:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T03:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040611591948018022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647951973881380865",
+              "start": 3,
+              "username": "KcraftAIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OjxSH0guO",
+              "end": 97,
+              "expanded_url": "https://x.com/KcraftAIart/status/2040263087228428770/photo/1",
+              "media_key": "3_2040255237190283264",
+              "start": 74,
+              "url": "https://t.co/4OjxSH0guO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040611591948018022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040263087228428770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KcraftAIart: おひるだで\nプロンプトの怪獣とドラゴンの違いは、羽が出るか出ないか、かなぁ\nKaiju Girl\n怪獣少女倶楽部 https://t.co/4OjxSH0guO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040255237190283264"
+          ]
+        },
+        "author_id": "1647951973881380865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296035544485392384",
+              "name": "Kaiju"
+            }
+          }
+        ],
+        "conversation_id": "2040263087228428770",
+        "created_at": "2026-04-04T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040263087228428770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OjxSH0guO",
+              "end": 80,
+              "expanded_url": "https://x.com/KcraftAIart/status/2040263087228428770/photo/1",
+              "media_key": "3_2040255237190283264",
+              "start": 57,
+              "url": "https://t.co/4OjxSH0guO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040263087228428770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 41436,
+          "like_count": 1702,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "おひるだで\nプロンプトの怪獣とドラゴンの違いは、羽が出るか出ないか、かなぁ\nKaiju Girl\n怪獣少女倶楽部 https://t.co/4OjxSH0guO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 64,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 556
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T13:16:21.000Z",
+        "description": "陶芸家のAIイラストアカ｜怪獣少女俱楽部 兎耳少女倶楽部 All images are generated by AI nijijourney 陶芸展示会情報-随時発信- →https://t.co/fGKYdYF7Ko Header @lemonsui_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "lemonsui_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/rokurosuruhito",
+                "end": 110,
+                "expanded_url": "https://linktr.ee/rokurosuruhito",
+                "start": 87,
+                "url": "https://t.co/fGKYdYF7Ko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rokurosuruhito",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rokurosuruhito",
+                "start": 0,
+                "url": "https://t.co/fGKYdYF7Ko"
+              }
+            ]
+          }
+        },
+        "id": "1647951973881380865",
+        "location": "Japan",
+        "name": "Kcraft AIart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029000397688586240/mJDGUW3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37804,
+          "following_count": 2443,
+          "like_count": 94258,
+          "listed_count": 217,
+          "media_count": 4562,
+          "tweet_count": 11810
+        },
+        "url": "https://t.co/fGKYdYF7Ko",
+        "username": "KcraftAIart",
+        "verified": true
+      }
+    ]
+  }
+}

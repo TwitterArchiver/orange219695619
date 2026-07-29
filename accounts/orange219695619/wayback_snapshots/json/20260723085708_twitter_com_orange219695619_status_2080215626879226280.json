@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080215626879226280",
+    "created_at": "2026-07-23T08:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080215626879226280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2080133046670708799",
+          "start": 12,
+          "url": "https://t.co/VhBdC9nRUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080215626879226280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080133046670708799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后悔，但是不表白不甘心 https://t.co/VhBdC9nRUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2080133039171207169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4d-mVagAEjqEH.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080215626879226280",
+        "created_at": "2026-07-23T08:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080215626879226280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2080133046670708799",
+              "start": 12,
+              "url": "https://t.co/VhBdC9nRUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080215626879226280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080133046670708799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后悔，但是不表白不甘心 https://t.co/VhBdC9nRUC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080133039171207169"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080133046670708799",
+        "created_at": "2026-07-23T03:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080133046670708799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJtnTEYd3F",
+              "end": 23,
+              "expanded_url": "https://x.com/__fanqie__/status/2080133046670708799/photo/1",
+              "media_key": "3_2080133039171207169",
+              "start": 0,
+              "url": "https://t.co/dJtnTEYd3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080133046670708799",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3050,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dJtnTEYd3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 181,
+          "like_count": 19593,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 9529
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2077018352132968707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11468,
+          "following_count": 2804,
+          "like_count": 1610,
+          "listed_count": 25,
+          "media_count": 2336,
+          "tweet_count": 11072
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054492605619294208",
+        "3_2054492605615083520"
+      ],
+      "media_source_tweet_id": [
+        "2054492613060014432",
+        "2054492613060014432"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055311201383698490",
+    "created_at": "2026-05-15T15:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055311201383698490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1732495901313421312",
+          "start": 3,
+          "username": "00rr111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xStKsZoTxu",
+          "end": 62,
+          "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+          "media_key": "3_2054492605619294208",
+          "start": 39,
+          "url": "https://t.co/xStKsZoTxu"
+        },
+        {
+          "display_url": "pic.x.com/xStKsZoTxu",
+          "end": 62,
+          "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+          "media_key": "3_2054492605615083520",
+          "start": 39,
+          "url": "https://t.co/xStKsZoTxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055311201383698490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054492613060014432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @00rr111: R-15🦊🐙吸血！\n※流血表現有り！\n※微センシ！ https://t.co/xStKsZoTxu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055311201383698490].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055311201383698490",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055311201383698490"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2054492605619294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMGI7-a0AAIQ2q.jpg",
+        "width": 1035
+      },
+      {
+        "height": 799,
+        "media_key": "3_2054492605615083520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMGI79akAAfPu_.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054492605619294208",
+            "3_2054492605615083520"
+          ]
+        },
+        "author_id": "1732495901313421312",
+        "conversation_id": "2054492613060014432",
+        "created_at": "2026-05-13T09:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054492613060014432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xStKsZoTxu",
+              "end": 49,
+              "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+              "media_key": "3_2054492605619294208",
+              "start": 26,
+              "url": "https://t.co/xStKsZoTxu"
+            },
+            {
+              "display_url": "pic.x.com/xStKsZoTxu",
+              "end": 49,
+              "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+              "media_key": "3_2054492605615083520",
+              "start": 26,
+              "url": "https://t.co/xStKsZoTxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054492613060014432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 11067,
+          "like_count": 941,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "R-15🦊🐙吸血！\n※流血表現有り！\n※微センシ！ https://t.co/xStKsZoTxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 117,
+          "like_count": 3594,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3235
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T20:23:20.000Z",
+        "description": "20↑描いたり描かなかったり\n超かぐ超ネタバレあり！",
+        "id": "1732495901313421312",
+        "name": "おり",
+        "pinned_tweet_id": "2052722192979464552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048567313851629568/Nl2-II-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 26,
+          "like_count": 175,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 148
+        },
+        "username": "00rr111",
+        "verified": false
+      }
+    ]
+  }
+}

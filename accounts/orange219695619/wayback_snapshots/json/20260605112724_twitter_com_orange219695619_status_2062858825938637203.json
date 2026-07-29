@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062858825938637203",
+    "created_at": "2026-06-05T11:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062858825938637203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oyassan_Zhen/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Oyassan_Zhen/status/2062676527029137461",
+          "start": 7,
+          "url": "https://t.co/9z2qYswm3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062858825938637203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062676527029137461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好臭的冰淇淋 https://t.co/9z2qYswm3r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062858825938637203",
+        "created_at": "2026-06-05T11:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062858825938637203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyassan_Zhen/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Oyassan_Zhen/status/2062676527029137461",
+              "start": 7,
+              "url": "https://t.co/9z2qYswm3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062858825938637203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062676527029137461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好臭的冰淇淋 https://t.co/9z2qYswm3r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968801052081311744",
+        "conversation_id": "2062676527029137461",
+        "created_at": "2026-06-04T23:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062676527029137461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062676527029137461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14283,
+          "like_count": 151,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "中国で人気らしいアイスの野人先生。毎回、野獣先輩と見間違えてしまいます。どうしたら良いでしょうか？\nてか、どんなものか味見しに行きたいね🍨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 158,
+          "like_count": 7656,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 5325
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-28T10:52:25.000Z",
+        "description": "世の中にはなんj民という闇があるんですよ。\n猫好き🐱怪談・ホラー全般好きです。 のんびり中国語を勉強中。tweetが0とかRPばかりの怪しいアカはブロックします。",
+        "id": "968801052081311744",
+        "location": "景徳鎮",
+        "name": "なんj民のおやっさん",
+        "pinned_tweet_id": "1904184332295852063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043191220357529601/7_FQWOlG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 2301,
+          "like_count": 414413,
+          "listed_count": 10,
+          "media_count": 8435,
+          "tweet_count": 26576
+        },
+        "username": "Oyassan_Zhen",
+        "verified": false
+      }
+    ]
+  }
+}

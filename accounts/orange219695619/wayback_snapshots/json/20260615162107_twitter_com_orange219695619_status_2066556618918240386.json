@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066556618918240386",
+    "created_at": "2026-06-15T16:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066556618918240386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SakurasakaRiko…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/SakurasakaRiko/status/2066473888624824581",
+          "start": 17,
+          "url": "https://t.co/a1oUgGbty7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066556618918240386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066473888624824581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种美妙的爱情什么时候能轮到我🥰 https://t.co/a1oUgGbty7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2066473863656226816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2XB8TbwAAvKCw.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066556618918240386",
+        "created_at": "2026-06-15T16:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066556618918240386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SakurasakaRiko…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/SakurasakaRiko/status/2066473888624824581",
+              "start": 17,
+              "url": "https://t.co/a1oUgGbty7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066556618918240386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066473888624824581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种美妙的爱情什么时候能轮到我🥰 https://t.co/a1oUgGbty7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066473863656226816"
+          ]
+        },
+        "author_id": "1735728536827334657",
+        "conversation_id": "2066473888624824581",
+        "created_at": "2026-06-15T10:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066473888624824581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXNpDrBdgB",
+              "end": 29,
+              "expanded_url": "https://x.com/SakurasakaRiko/status/2066473888624824581/photo/1",
+              "media_key": "3_2066473863656226816",
+              "start": 6,
+              "url": "https://t.co/XXNpDrBdgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066473888624824581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9903,
+          "like_count": 239,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正常在哪？ https://t.co/XXNpDrBdgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 177,
+          "like_count": 9838,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 6339
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n前移动端音游公司总助｜PM｜周边主管｜赛事策划\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2066461385077465101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063885823553191936/2yMWRrzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 449,
+          "like_count": 5871,
+          "listed_count": 5,
+          "media_count": 247,
+          "tweet_count": 1936
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

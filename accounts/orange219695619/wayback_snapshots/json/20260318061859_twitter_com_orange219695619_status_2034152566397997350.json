@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2034103211959980427",
+    "created_at": "2026-03-18T06:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034152566397997350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "165407871",
+          "start": 0,
+          "username": "Solitude_Sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034152566397997350",
+    "in_reply_to_user_id": "165407871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034103211959980427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solitude_Sola 这不就是男性向和女性向的区别吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2034103211959980427",
+        "created_at": "2026-03-18T06:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034152566397997350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "165407871",
+              "start": 0,
+              "username": "Solitude_Sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034152566397997350",
+        "in_reply_to_user_id": "165407871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034103211959980427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solitude_Sola 这不就是男性向和女性向的区别吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "165407871",
+        "conversation_id": "2034103211959980427",
+        "created_at": "2026-03-18T03:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034103211959980427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ehitomiiiii/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/ehitomiiiii/status/2033978938008211474",
+              "start": 45,
+              "url": "https://t.co/5Swy3oA8YW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034103211959980427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24786,
+          "like_count": 318,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033978938008211474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说明你看的黄文路子不正，为什么我看的写的都是哥布林的流脓烂根 vs 人类公主的桃源蜜穴？ https://t.co/5Swy3oA8YW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 122
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "location": "投身之所",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20367,
+          "following_count": 551,
+          "like_count": 561,
+          "listed_count": 126,
+          "media_count": 20945,
+          "tweet_count": 69265
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": false
+      }
+    ]
+  }
+}

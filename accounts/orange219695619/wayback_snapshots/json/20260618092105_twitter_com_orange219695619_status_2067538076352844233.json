@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067467562628345940",
+    "created_at": "2026-06-18T09:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067538076352844233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048047043600617472",
+          "start": 0,
+          "username": "Ainoz_a148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067538076352844233",
+    "in_reply_to_user_id": "2048047043600617472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067473054914277555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ainoz_a148 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067467562628345940",
+        "created_at": "2026-06-18T09:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067538076352844233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048047043600617472",
+              "start": 0,
+              "username": "Ainoz_a148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067538076352844233",
+        "in_reply_to_user_id": "2048047043600617472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067473054914277555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainoz_a148 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048047043600617472",
+        "conversation_id": "2067467562628345940",
+        "created_at": "2026-06-18T05:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067473054914277555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067473054914277555",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067467562628345940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 手抬起来就消失了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 187,
+          "like_count": 10691,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 6641
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:32:14.000Z",
+        "description": "浙江-杭州府\n出生於崇禎三百八十二年十月十一（2009.11.27）\n現高一\n我想去看更遠的世界",
+        "id": "2048047043600617472",
+        "location": "杭州",
+        "name": "決明子Ainoz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064144964075048960/l0io6nRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 188
+        },
+        "username": "Ainoz_a148",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040678439532003368",
+    "created_at": "2026-04-05T13:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040779140283207735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691273370858401792",
+          "start": 0,
+          "username": "ge_qiang1582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040779140283207735",
+    "in_reply_to_user_id": "1691273370858401792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040678439532003368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ge_qiang1582 高考加学分吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040678439532003368",
+        "created_at": "2026-04-05T13:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040779140283207735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691273370858401792",
+              "start": 0,
+              "username": "ge_qiang1582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040779140283207735",
+        "in_reply_to_user_id": "1691273370858401792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040678439532003368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ge_qiang1582 高考加学分吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691273370858401792",
+        "conversation_id": "2040678439532003368",
+        "created_at": "2026-04-05T06:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T07:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040678439532003368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040678439532003368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要高考了，你们信不信我不考也有大学上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 589
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记（其实还是更喜欢你们叫我小强），私信找我互fo喵，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pigeon44697",
+                "end": 23,
+                "expanded_url": "http://ngl.link/pigeon44697",
+                "start": 0,
+                "url": "https://t.co/BTRO9KOYFi"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "location": "啊",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 184,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/BTRO9KOYFi",
+        "username": "ge_qiang1582",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057434728693997568"
+      ],
+      "media_source_tweet_id": [
+        "2057823802348687389"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058055055383879859",
+    "created_at": "2026-05-23T05:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058055055383879859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2kgUDnudko",
+          "end": 66,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2057823802348687389/photo/1",
+          "media_key": "3_2057434728693997568",
+          "start": 43,
+          "url": "https://t.co/2kgUDnudko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058055055383879859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057823802348687389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 谢谢大夫 \n我突然觉得富马酸喹硫平特别好吃 跟糖豆一样 https://t.co/2kgUDnudko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2057434728693997568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI15_ChboAAuL6S.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057434728693997568"
+          ],
+          "media_source_tweet_id": [
+            "2057823802348687389"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058055055383879859",
+        "created_at": "2026-05-23T05:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058055055383879859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kgUDnudko",
+              "end": 66,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2057823802348687389/photo/1",
+              "media_key": "3_2057434728693997568",
+              "start": 43,
+              "url": "https://t.co/2kgUDnudko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058055055383879859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057823802348687389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 谢谢大夫 \n我突然觉得富马酸喹硫平特别好吃 跟糖豆一样 https://t.co/2kgUDnudko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057434728693997568"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2057823802348687389",
+        "created_at": "2026-05-22T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057823802348687389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kgUDnudko",
+              "end": 51,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2057823802348687389/photo/1",
+              "media_key": "3_2057434728693997568",
+              "start": 28,
+              "url": "https://t.co/2kgUDnudko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057823802348687389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1371,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大夫 \n我突然觉得富马酸喹硫平特别好吃 跟糖豆一样 https://t.co/2kgUDnudko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 129,
+          "like_count": 4734,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3868
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "看日常@Xyliaxka，淡圈，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "MTF"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "HRT"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8754,
+          "following_count": 2362,
+          "like_count": 30894,
+          "listed_count": 25,
+          "media_count": 1610,
+          "tweet_count": 5513
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

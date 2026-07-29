@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060338734583996594",
+    "created_at": "2026-05-29T12:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060338734583996594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030239969202327552",
+          "start": 3,
+          "username": "AngelaRouge_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060338734583996594",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 471
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060073700603375840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelaRouge_: Podemos dejar las guerras de género?\nLas mujeres necesitamos a los hombres, y los hombres necesitan a las mujeres."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060338734583996594",
+        "created_at": "2026-05-29T12:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060338734583996594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030239969202327552",
+              "start": 3,
+              "username": "AngelaRouge_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060338734583996594",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 471
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060073700603375840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AngelaRouge_: Podemos dejar las guerras de género?\nLas mujeres necesitamos a los hombres, y los hombres necesitan a las mujeres."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030239969202327552",
+        "conversation_id": "2060073700603375840",
+        "created_at": "2026-05-28T19:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060073700603375840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060073700603375840",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 323866,
+          "like_count": 4727,
+          "quote_count": 111,
+          "reply_count": 840,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "Podemos dejar las guerras de género?\nLas mujeres necesitamos a los hombres, y los hombres necesitan a las mujeres."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 142,
+          "like_count": 6232,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 4599
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:12:30.000Z",
+        "description": "21 años | River de corazón ⚽❤️🤍\nNos seguimos en IG👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/angelarouge1/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/angelarouge1/",
+                "start": 0,
+                "url": "https://t.co/8VSXoLOWGi"
+              }
+            ]
+          }
+        },
+        "id": "2030239969202327552",
+        "location": "Buenos Aires, Argentina",
+        "name": "Angela 🐔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033986728172613632/rUQPUnNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10055,
+          "following_count": 439,
+          "like_count": 8428,
+          "listed_count": 4,
+          "media_count": 8,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/8VSXoLOWGi",
+        "username": "AngelaRouge_",
+        "verified": true
+      }
+    ]
+  }
+}

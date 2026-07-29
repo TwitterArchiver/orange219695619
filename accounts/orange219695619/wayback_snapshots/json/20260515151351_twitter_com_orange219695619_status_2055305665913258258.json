@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055169336390946979",
+    "created_at": "2026-05-15T15:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055305665913258258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1828024160036995072",
+          "start": 0,
+          "username": "maomaobaobei11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055305665913258258",
+    "in_reply_to_user_id": "1828024160036995072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055169336390946979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaobaobei11 那你的伴侣情绪很稳定了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055169336390946979",
+        "created_at": "2026-05-15T15:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055305665913258258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1828024160036995072",
+              "start": 0,
+              "username": "maomaobaobei11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055305665913258258",
+        "in_reply_to_user_id": "1828024160036995072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055169336390946979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaobaobei11 那你的伴侣情绪很稳定了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828024160036995072",
+        "conversation_id": "2055169336390946979",
+        "created_at": "2026-05-15T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055169336390946979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055169336390946979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6023,
+          "like_count": 147,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我的伴侣只能是一种人 就是我突发奇想爬他身上尿尿他都只会淡淡的说我是个坏孩子  然后给我把逼擦干净我们一起去洗澡  事后得夸我尿的真多真有劲这种话  还得反思一下我为什么会突然做出这种行为是不是他哪里惹到我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 116,
+          "like_count": 3544,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 3219
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T10:58:27.000Z",
+        "description": "猫猫话筒 看不惯我的请拉黑！不要骂我谢谢！🐾",
+        "id": "1828024160036995072",
+        "name": "猫猫",
+        "pinned_tweet_id": "1960387158574838008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829599060451295233/4Ihfw2y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 25,
+          "like_count": 11238,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3775
+        },
+        "username": "maomaobaobei11",
+        "verified": false
+      }
+    ]
+  }
+}

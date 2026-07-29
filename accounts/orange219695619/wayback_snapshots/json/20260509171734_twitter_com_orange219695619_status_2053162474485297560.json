@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052800751202889770",
+    "created_at": "2026-05-09T17:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053162474485297560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909266536604512256",
+          "start": 0,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053162474485297560",
+    "in_reply_to_user_id": "1909266536604512256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052800751202889770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xun404214 两个焦虑型在一起会发生什么呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052800751202889770",
+        "created_at": "2026-05-09T17:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053162474485297560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909266536604512256",
+              "start": 0,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053162474485297560",
+        "in_reply_to_user_id": "1909266536604512256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052800751202889770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xun404214 两个焦虑型在一起会发生什么呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "2052800751202889770",
+        "created_at": "2026-05-08T17:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052800751202889770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052800751202889770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10356,
+          "like_count": 214,
+          "quote_count": 5,
+          "reply_count": 36,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我们焦虑型这辈子完了，最终的下场就是惹的对方厌烦然后被甩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 100,
+          "like_count": 2501,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2549
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈|les|0.5|dom",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 0,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "距离你0.5km",
+        "name": "玄",
+        "pinned_tweet_id": "2009211803260309517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052067307544023040/bTSz1_8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10807,
+          "following_count": 337,
+          "like_count": 6132,
+          "listed_count": 8,
+          "media_count": 200,
+          "tweet_count": 9210
+        },
+        "url": "https://t.co/BwKNjBbg24",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

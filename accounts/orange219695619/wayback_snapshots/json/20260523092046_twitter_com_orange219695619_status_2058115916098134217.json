@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058013581892022393",
+    "created_at": "2026-05-23T09:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058115916098134217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922574083348414464",
+          "start": 0,
+          "username": "7q46843886669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058115916098134217",
+    "in_reply_to_user_id": "1922574083348414464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058013581892022393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7q46843886669 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2058013518679711744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-IZDPbIAAV7sT.jpg",
+        "width": 3264
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2058013518667141121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-IZDMbUAEhYEC.jpg",
+        "width": 3264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058013581892022393",
+        "created_at": "2026-05-23T09:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058115916098134217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922574083348414464",
+              "start": 0,
+              "username": "7q46843886669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058115916098134217",
+        "in_reply_to_user_id": "1922574083348414464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058013581892022393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7q46843886669 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058013518679711744",
+            "3_2058013518667141121"
+          ]
+        },
+        "author_id": "1922574083348414464",
+        "conversation_id": "2058013581892022393",
+        "created_at": "2026-05-23T02:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058013581892022393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9gSiwGNEz",
+              "end": 26,
+              "expanded_url": "https://x.com/7q46843886669/status/2058013581892022393/photo/1",
+              "media_key": "3_2058013518679711744",
+              "start": 3,
+              "url": "https://t.co/h9gSiwGNEz"
+            },
+            {
+              "display_url": "pic.x.com/h9gSiwGNEz",
+              "end": 26,
+              "expanded_url": "https://x.com/7q46843886669/status/2058013581892022393/photo/1",
+              "media_key": "3_2058013518667141121",
+              "start": 3,
+              "url": "https://t.co/h9gSiwGNEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058013581892022393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 768,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦齁 https://t.co/h9gSiwGNEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 131,
+          "like_count": 4797,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 3907
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T08:46:02.000Z",
+        "description": "共情之神",
+        "id": "1922574083348414464",
+        "location": "1q84",
+        "name": "1.538964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057143464383627264/250b3RqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 3105,
+          "like_count": 14811,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 4476
+        },
+        "username": "7q46843886669",
+        "verified": false
+      }
+    ]
+  }
+}

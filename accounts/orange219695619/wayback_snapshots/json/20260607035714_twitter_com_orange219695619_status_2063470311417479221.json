@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063133631896510898",
+    "created_at": "2026-06-07T03:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063470311417479221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034430362139676672",
+          "start": 0,
+          "username": "Tapir_the_chef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063470311417479221",
+    "in_reply_to_user_id": "2034430362139676672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063133631896510898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tapir_the_chef 曾经是我身体的一部分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063133627630952448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG5GncbIAA3n2J.jpg",
+        "width": 2018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063133631896510898",
+        "created_at": "2026-06-07T03:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063470311417479221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034430362139676672",
+              "start": 0,
+              "username": "Tapir_the_chef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063470311417479221",
+        "in_reply_to_user_id": "2034430362139676672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063133631896510898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tapir_the_chef 曾经是我身体的一部分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063133627630952448"
+          ]
+        },
+        "author_id": "2034430362139676672",
+        "conversation_id": "2063133631896510898",
+        "created_at": "2026-06-06T05:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063133631896510898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2oEEdUoBN",
+              "end": 60,
+              "expanded_url": "https://x.com/Tapir_the_chef/status/2063133631896510898/photo/1",
+              "media_key": "3_2063133627630952448",
+              "start": 37,
+              "url": "https://t.co/N2oEEdUoBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063133631896510898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1659,
+          "impression_count": 5027141,
+          "like_count": 91806,
+          "quote_count": 268,
+          "reply_count": 226,
+          "retweet_count": 3427
+        },
+        "reply_settings": "everyone",
+        "text": "冷蔵庫にあるヤバいもの選手権しよー\nまずはおれから、2023年に降った雪 https://t.co/N2oEEdUoBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 8033,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 5485
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T00:44:40.000Z",
+        "description": "08 ギター 音楽",
+        "id": "2034430362139676672",
+        "name": "PAVI",
+        "pinned_tweet_id": "2054154044927811998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062672303633453056/ze1oVCvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 379,
+          "like_count": 12076,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 2224
+        },
+        "username": "Tapir_the_chef",
+        "verified": false
+      }
+    ]
+  }
+}

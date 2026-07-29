@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052406714016911361",
+        "3_2052406714599952384"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052406716936093901",
+    "created_at": "2026-05-07T15:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052406716936093901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KpXPdaTHCx",
+          "end": 25,
+          "expanded_url": "https://x.com/orange219695619/status/2052406716936093901/photo/1",
+          "media_key": "3_2052406714016911361",
+          "start": 2,
+          "url": "https://t.co/KpXPdaTHCx"
+        },
+        {
+          "display_url": "pic.x.com/KpXPdaTHCx",
+          "end": 25,
+          "expanded_url": "https://x.com/orange219695619/status/2052406716936093901/photo/1",
+          "media_key": "3_2052406714599952384",
+          "start": 2,
+          "url": "https://t.co/KpXPdaTHCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052406716936093901",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😡 https://t.co/KpXPdaTHCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2052406714016911361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHudCEOa0AEA86k.jpg",
+        "width": 2048
+      },
+      {
+        "height": 930,
+        "media_key": "3_2052406714599952384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHudCGZbUAAeIBj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052406714016911361",
+            "3_2052406714599952384"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052406716936093901",
+        "created_at": "2026-05-07T15:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052406716936093901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpXPdaTHCx",
+              "end": 25,
+              "expanded_url": "https://x.com/orange219695619/status/2052406716936093901/photo/1",
+              "media_key": "3_2052406714016911361",
+              "start": 2,
+              "url": "https://t.co/KpXPdaTHCx"
+            },
+            {
+              "display_url": "pic.x.com/KpXPdaTHCx",
+              "end": 25,
+              "expanded_url": "https://x.com/orange219695619/status/2052406716936093901/photo/1",
+              "media_key": "3_2052406714599952384",
+              "start": 2,
+              "url": "https://t.co/KpXPdaTHCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052406716936093901",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😡 https://t.co/KpXPdaTHCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 97,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2377
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056984234527711232"
+      ],
+      "media_source_tweet_id": [
+        "2057012953447379117"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057044165809377767",
+    "created_at": "2026-05-20T10:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057044165809377767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931797478302552064",
+          "start": 3,
+          "username": "facet_boy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tIRVgYWURd",
+          "end": 38,
+          "expanded_url": "https://x.com/facet_boy/status/2057012953447379117/photo/1",
+          "media_key": "3_2056984234527711232",
+          "start": 15,
+          "url": "https://t.co/tIRVgYWURd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057044165809377767",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057012953447379117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @facet_boy: https://t.co/tIRVgYWURd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2056984234527711232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvgQ0-aYAAMPsP.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056984234527711232"
+          ],
+          "media_source_tweet_id": [
+            "2057012953447379117"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057044165809377767",
+        "created_at": "2026-05-20T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057044165809377767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931797478302552064",
+              "start": 3,
+              "username": "facet_boy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIRVgYWURd",
+              "end": 38,
+              "expanded_url": "https://x.com/facet_boy/status/2057012953447379117/photo/1",
+              "media_key": "3_2056984234527711232",
+              "start": 15,
+              "url": "https://t.co/tIRVgYWURd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057044165809377767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057012953447379117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @facet_boy: https://t.co/tIRVgYWURd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056984234527711232"
+          ]
+        },
+        "author_id": "931797478302552064",
+        "conversation_id": "2057012953447379117",
+        "created_at": "2026-05-20T08:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057012953447379117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIRVgYWURd",
+              "end": 23,
+              "expanded_url": "https://x.com/facet_boy/status/2057012953447379117/photo/1",
+              "media_key": "3_2056984234527711232",
+              "start": 0,
+              "url": "https://t.co/tIRVgYWURd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057012953447379117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 1660,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tIRVgYWURd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 124,
+          "like_count": 4191,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3572
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:13:25.000Z",
+        "description": "気ままにAI生成イラストを楽しんでいる者です。\n👇ポートフォリオ(イラストリクエスト募集中)\n🔗https://t.co/8KEyVO2je5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mopslipper.github.io/mopslipper-Ill…",
+                "end": 71,
+                "expanded_url": "https://mopslipper.github.io/mopslipper-Illustration-site/",
+                "start": 48,
+                "url": "https://t.co/8KEyVO2je5"
+              }
+            ]
+          }
+        },
+        "id": "931797478302552064",
+        "location": "Japan",
+        "name": "mopslipper",
+        "pinned_tweet_id": "2051241675478192463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000568752816193536/5s4kXP-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10229,
+          "following_count": 447,
+          "like_count": 12859,
+          "listed_count": 44,
+          "media_count": 659,
+          "tweet_count": 1024
+        },
+        "username": "facet_boy",
+        "verified": false
+      }
+    ]
+  }
+}

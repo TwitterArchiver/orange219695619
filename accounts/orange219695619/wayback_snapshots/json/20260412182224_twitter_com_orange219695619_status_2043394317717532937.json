@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2043326148512506017",
+    "created_at": "2026-04-12T18:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043394317717532937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043394317717532937",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043326148512506017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DXMDusk o喹硫平？这得失眠到什么程度了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2043325963212410880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtaIzWb0AA60f1.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043326148512506017",
+        "created_at": "2026-04-12T18:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043394317717532937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043394317717532937",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043326148512506017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DXMDusk o喹硫平？这得失眠到什么程度了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043325963212410880"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2043326148512506017",
+        "created_at": "2026-04-12T13:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043326148512506017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgZ8ZrKqQp",
+              "end": 28,
+              "expanded_url": "https://x.com/DXMDusk/status/2043326148512506017/photo/1",
+              "media_key": "3_2043325963212410880",
+              "start": 5,
+              "url": "https://t.co/lgZ8ZrKqQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043326148512506017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1185,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "时间真快 https://t.co/lgZ8ZrKqQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 901
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 1118,
+          "like_count": 2122,
+          "listed_count": 3,
+          "media_count": 395,
+          "tweet_count": 2247
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

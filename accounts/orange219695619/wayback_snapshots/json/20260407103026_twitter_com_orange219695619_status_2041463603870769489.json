@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041463603870769489",
+    "created_at": "2026-04-07T10:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041463603870769489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/axzamyzed/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/axzamyzed/status/2041309138928673112",
+          "start": 14,
+          "url": "https://t.co/lhnGgMuo2L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041463603870769489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041309138928673112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果能爽玩三年我也会怀念的 https://t.co/lhnGgMuo2L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2041309132440133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQv1zPa4AA6W5E.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041463603870769489",
+        "created_at": "2026-04-07T10:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041463603870769489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2041309138928673112",
+              "start": 14,
+              "url": "https://t.co/lhnGgMuo2L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041463603870769489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041309138928673112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果能爽玩三年我也会怀念的 https://t.co/lhnGgMuo2L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041309132440133632"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2041309138928673112",
+        "created_at": "2026-04-07T00:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041309138928673112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RMR2bbVVIz",
+              "end": 55,
+              "expanded_url": "https://x.com/axzamyzed/status/2041309138928673112/photo/1",
+              "media_key": "3_2041309132440133632",
+              "start": 32,
+              "url": "https://t.co/RMR2bbVVIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041309138928673112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15913,
+          "like_count": 394,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个人怀念的是高中的生活而不只是同学，那他可能没有好好学习 https://t.co/RMR2bbVVIz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 67,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 689
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 929,
+          "like_count": 8484,
+          "listed_count": 4,
+          "media_count": 638,
+          "tweet_count": 5122
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

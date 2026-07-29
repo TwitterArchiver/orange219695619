@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063900237165674854",
+    "created_at": "2026-06-08T09:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063919751928389751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063228399586541568",
+          "start": 0,
+          "username": "_FanQie11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063919751928389751",
+    "in_reply_to_user_id": "2063228399586541568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063900237165674854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FanQie11_ ？！弱弱！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063900237165674854",
+        "created_at": "2026-06-08T09:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063919751928389751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063228399586541568",
+              "start": 0,
+              "username": "_FanQie11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063919751928389751",
+        "in_reply_to_user_id": "2063228399586541568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063900237165674854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FanQie11_ ？！弱弱！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063228399586541568",
+        "conversation_id": "2063900237165674854",
+        "created_at": "2026-06-08T08:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063900237165674854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063900237165674854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "害人之心我有 但我不敢/.\n防人之心我也有 但沒防住/.\n精打細算我算了 沒算明白/.\n深思熟慮出來的 都是漏洞/.\n權衡利弊選出來的 全是弊/.\n一怒之下站了起來 結果兩眼一黑 又坐下了/."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 160,
+          "like_count": 8254,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 5593
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "操蛋第11世\n寶寶@7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/GHBdAGFG8e"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "location": "看看你身後呢",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2063486029290787151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063229850941579264/ABMYWBep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 105,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/GHBdAGFG8e",
+        "username": "_FanQie11_",
+        "verified": false
+      }
+    ]
+  }
+}

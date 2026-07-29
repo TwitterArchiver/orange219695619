@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048077205021003976",
+    "created_at": "2026-04-25T17:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048092712398958806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039052178791514112",
+          "start": 0,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048092712398958806",
+    "in_reply_to_user_id": "2039052178791514112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048077205021003976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodoeqiu 那真的很好了，不焦虑比什么都强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048077205021003976",
+        "created_at": "2026-04-25T17:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048092712398958806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039052178791514112",
+              "start": 0,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048092712398958806",
+        "in_reply_to_user_id": "2039052178791514112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048077205021003976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodoeqiu 那真的很好了，不焦虑比什么都强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039052178791514112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048077205021003976",
+        "created_at": "2026-04-25T16:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048077205021003976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048077205021003976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道重度抑郁的平台期有多爽吗 有精力有心情不焦虑 去掉一直有的脑鸣耳鸣别的躯体化 和健康人看上去没有区别 据说这个状态3-5月一次 能保持好几天 祈祷多留几天（但是她们说这个状态过去后自杀概率很高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 81,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1572
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "互fo直接关注 看到会回（微查成分。\n 我腦子有病說的話別當真 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 32,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "location": "男🚪52  ",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "pinned_tweet_id": "2043546666511589402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 285,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 792
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

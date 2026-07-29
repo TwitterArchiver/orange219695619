@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074321057457258871",
+    "created_at": "2026-07-07T08:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074414246801383742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074414246801383742",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074344894488007004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao OK谢谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074321057457258871",
+        "created_at": "2026-07-07T08:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074414246801383742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074414246801383742",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074344894488007004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao OK谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "919628976208752640",
+        "conversation_id": "2074321057457258871",
+        "created_at": "2026-07-07T04:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074344894488007004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074344894488007004",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1.看执行标准，查了下好像还不是国标，这点存疑（固态白酒：GB/T 10781.x，固液法白酒：GB/T 20821，液态法酒精酒：GB/T 20822）；\n2.看配料表，一般配料表不敢做假，罚得厉害；\n3.优先选大厂、知名品牌，产线正规，杂醇油控制技术好，俗称喝完不容易上头。只要是喝完头痛，到第二天还昏沉难受，元凶都是它。\n4.还是少喝酒为好😇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074321057457258871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 1.看执行标准，查了下好像还不是国标，这点存疑（固态白酒：GB/T 10781.x，固液法白酒：GB/T 20821，液态法酒精酒：GB/T 20822）；\n2.看配料表，一般配料表不敢做假，罚得厉害；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 196,
+          "like_count": 15850,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 8364
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "AuDHD/BPD积极治疗｜瑾瑾@K66cheng｜给你加什么title？@Leaf_Fallfield｜本人无任何宗教信仰，仅分享日常生活，不相信任何政治谣言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "location": "Beijing",
+        "name": "白糖豆包",
+        "pinned_tweet_id": "2016739048262672787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 635,
+          "like_count": 36340,
+          "listed_count": 3,
+          "media_count": 717,
+          "tweet_count": 8650
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062771930051268608",
+        "3_2062771930030350336",
+        "3_2062771930051342336",
+        "3_2062771930013564928"
+      ],
+      "media_source_tweet_id": [
+        "2062771945352069421",
+        "2062771945352069421",
+        "2062771945352069421",
+        "2062771945352069421"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063306411715809646",
+    "created_at": "2026-06-06T17:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063306411715809646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809604484173295620",
+          "start": 3,
+          "username": "for_4ngel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qf1VDkgJAc",
+          "end": 123,
+          "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+          "media_key": "3_2062771930051268608",
+          "start": 100,
+          "url": "https://t.co/Qf1VDkgJAc"
+        },
+        {
+          "display_url": "pic.x.com/Qf1VDkgJAc",
+          "end": 123,
+          "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+          "media_key": "3_2062771930030350336",
+          "start": 100,
+          "url": "https://t.co/Qf1VDkgJAc"
+        },
+        {
+          "display_url": "pic.x.com/Qf1VDkgJAc",
+          "end": 123,
+          "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+          "media_key": "3_2062771930051342336",
+          "start": 100,
+          "url": "https://t.co/Qf1VDkgJAc"
+        },
+        {
+          "display_url": "pic.x.com/Qf1VDkgJAc",
+          "end": 123,
+          "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+          "media_key": "3_2062771930013564928",
+          "start": 100,
+          "url": "https://t.co/Qf1VDkgJAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063306411715809646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062771945352069421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel: 希望大家能转帖让更多人看到，很多人对自杀干预这件事存在误区，并且在做自杀干预的时候往往因为操作错误酿成悲剧，如果你身边有常有自杀冲动的朋友，请你一定要仔细阅读这篇长文。 https://t.co/Qf1VDkgJAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062771930051268608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwJC9aUAAQ3ij.jpg",
+        "width": 543
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2062771930030350336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwJC4bIAAwsrG.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062771930051342336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwJC9bcAA1Iat.jpg",
+        "width": 532
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2062771930013564928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBwJC0bAAA_-2N.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062771930051268608",
+            "3_2062771930030350336",
+            "3_2062771930051342336",
+            "3_2062771930013564928"
+          ],
+          "media_source_tweet_id": [
+            "2062771945352069421",
+            "2062771945352069421",
+            "2062771945352069421",
+            "2062771945352069421"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063306411715809646",
+        "created_at": "2026-06-06T17:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063306411715809646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809604484173295620",
+              "start": 3,
+              "username": "for_4ngel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 123,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930051268608",
+              "start": 100,
+              "url": "https://t.co/Qf1VDkgJAc"
+            },
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 123,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930030350336",
+              "start": 100,
+              "url": "https://t.co/Qf1VDkgJAc"
+            },
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 123,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930051342336",
+              "start": 100,
+              "url": "https://t.co/Qf1VDkgJAc"
+            },
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 123,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930013564928",
+              "start": 100,
+              "url": "https://t.co/Qf1VDkgJAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063306411715809646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062771945352069421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel: 希望大家能转帖让更多人看到，很多人对自杀干预这件事存在误区，并且在做自杀干预的时候往往因为操作错误酿成悲剧，如果你身边有常有自杀冲动的朋友，请你一定要仔细阅读这篇长文。 https://t.co/Qf1VDkgJAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062771930051268608",
+            "3_2062771930030350336",
+            "3_2062771930051342336",
+            "3_2062771930013564928"
+          ]
+        },
+        "author_id": "1809604484173295620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062771945352069421",
+        "created_at": "2026-06-05T05:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062771945352069421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 108,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930051268608",
+              "start": 85,
+              "url": "https://t.co/Qf1VDkgJAc"
+            },
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 108,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930030350336",
+              "start": 85,
+              "url": "https://t.co/Qf1VDkgJAc"
+            },
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 108,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930051342336",
+              "start": 85,
+              "url": "https://t.co/Qf1VDkgJAc"
+            },
+            {
+              "display_url": "pic.x.com/Qf1VDkgJAc",
+              "end": 108,
+              "expanded_url": "https://x.com/for_4ngel/status/2062771945352069421/photo/1",
+              "media_key": "3_2062771930013564928",
+              "start": 85,
+              "url": "https://t.co/Qf1VDkgJAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062771945352069421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 6516,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家能转帖让更多人看到，很多人对自杀干预这件事存在误区，并且在做自杀干预的时候往往因为操作错误酿成悲剧，如果你身边有常有自杀冲动的朋友，请你一定要仔细阅读这篇长文。 https://t.co/Qf1VDkgJAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 7954,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 5453
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 495,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 623
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

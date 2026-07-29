@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075490376941453676",
+    "created_at": "2026-07-12T13:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076291227935490286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1565907600",
+          "start": 0,
+          "username": "dakekang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076291227935490286",
+    "in_reply_to_user_id": "1565907600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075490376941453676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dakekang 如你所见，中国没有任何一个事物是和政治不沾边的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075490376941453676",
+        "created_at": "2026-07-12T13:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076291227935490286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1565907600",
+              "start": 0,
+              "username": "dakekang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076291227935490286",
+        "in_reply_to_user_id": "1565907600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075490376941453676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dakekang 如你所见，中国没有任何一个事物是和政治不沾边的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565907600",
+        "conversation_id": "2075490376941453676",
+        "created_at": "2026-07-10T08:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075490376941453676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 243,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2075173124480352544",
+              "start": 220,
+              "url": "https://t.co/eebnXucw8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075490376941453676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 163021,
+          "like_count": 365,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075173124480352544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "In 2021, during the height of COVID-fueled tensions between China and the U.S., I volunteered to cover floods in Henan because I thought - well, it’s a natural disaster, how political could it be?\n\nHow very naive I was. https://t.co/eebnXucw8L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 173,
+          "like_count": 17093,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 8740
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-03T14:34:08.000Z",
+        "description": "中文名：姜大翼｜Journalist @AP Beijing | 伟大时代的记录者 @美联社北京分社. 推特现在不让没有被验证的账户发私信，你可以用微信联系我（dakekang) 或者电报, Signal, WhatsApp (+1 201 937 9797). 邮箱: dakekang@protonmail.com.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 19,
+                "username": "AP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dakekang",
+                "end": 23,
+                "expanded_url": "http://t.me/dakekang",
+                "start": 0,
+                "url": "https://t.co/U1gSE3ZSQF"
+              }
+            ]
+          }
+        },
+        "id": "1565907600",
+        "location": "Beijing/北京",
+        "name": "Dake Kang",
+        "pinned_tweet_id": "2072894105575714909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984140906975604736/eYkAYrcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39183,
+          "following_count": 4092,
+          "like_count": 1825,
+          "listed_count": 570,
+          "media_count": 828,
+          "tweet_count": 5657
+        },
+        "url": "https://t.co/U1gSE3ZSQF",
+        "username": "dakekang",
+        "verified": false
+      }
+    ]
+  }
+}

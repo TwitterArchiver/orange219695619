@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041301704440946791",
+    "created_at": "2026-04-07T04:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041372786674090435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041372786674090435",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041301704440946791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 晚上会封寝的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_2041301701395951616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQpFQcbMAAl6pZ.jpg",
+        "width": 743
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041301704440946791",
+        "created_at": "2026-04-07T04:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041372786674090435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041372786674090435",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041301704440946791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 晚上会封寝的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041301701395951616"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2041301704440946791",
+        "created_at": "2026-04-06T23:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T00:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041301704440946791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hb6Belx7fq",
+              "end": 37,
+              "expanded_url": "https://x.com/jianlvya/status/2041301704440946791/photo/1",
+              "media_key": "3_2041301701395951616",
+              "start": 14,
+              "url": "https://t.co/Hb6Belx7fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041301704440946791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 405377,
+          "like_count": 712,
+          "quote_count": 0,
+          "reply_count": 90,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意放在寝室楼里咋赚钱? https://t.co/Hb6Belx7fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 671
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2041083955156484325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5022,
+          "following_count": 990,
+          "like_count": 17729,
+          "listed_count": 12,
+          "media_count": 694,
+          "tweet_count": 1366
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

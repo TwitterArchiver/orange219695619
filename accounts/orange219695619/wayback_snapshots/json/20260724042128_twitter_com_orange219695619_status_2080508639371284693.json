@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080493765005804029",
+    "created_at": "2026-07-24T04:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080508639371284693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        },
+        {
+          "end": 29,
+          "id": "1896077810655170560",
+          "start": 16,
+          "username": "zhyzhy655231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080508639371284693",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080494496618254795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official @zhyzhy655231 好好笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_2080494490716942337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9mt2RXMAE7Ask.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080493765005804029",
+        "created_at": "2026-07-24T04:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080508639371284693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            },
+            {
+              "end": 29,
+              "id": "1896077810655170560",
+              "start": 16,
+              "username": "zhyzhy655231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080508639371284693",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080494496618254795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official @zhyzhy655231 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080494490716942337"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "conversation_id": "2080493765005804029",
+        "created_at": "2026-07-24T03:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080494496618254795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896077810655170560",
+              "start": 0,
+              "username": "zhyzhy655231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RyhTuhQjFK",
+              "end": 47,
+              "expanded_url": "https://x.com/warma_official/status/2080494496618254795/photo/1",
+              "media_key": "3_2080494490716942337",
+              "start": 24,
+              "url": "https://t.co/RyhTuhQjFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080494496618254795",
+        "in_reply_to_user_id": "1896077810655170560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080494372056137844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhyzhy655231 气死了！！！！！！ https://t.co/RyhTuhQjFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19763,
+          "listed_count": 3,
+          "media_count": 549,
+          "tweet_count": 9581
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/\n“永远在一起” @zhyzhy655231 真的这么说！/想和有趣的人成为朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "zhyzhy655231"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "全是澪的快乐星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2076735675261427888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 35,
+          "like_count": 1239,
+          "listed_count": 0,
+          "media_count": 719,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "warma_official",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T05:59:37.000Z",
+        "description": "永远不会再丢下你 @warma_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "warma_official"
+              }
+            ]
+          }
+        },
+        "id": "1896077810655170560",
+        "location": "那个拥有MOKA的星球",
+        "name": "血野澪",
+        "pinned_tweet_id": "2075948502002393288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063839547990081536/bhFRYQGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 55,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "zhyzhy655231",
+        "verified": false
+      }
+    ]
+  }
+}

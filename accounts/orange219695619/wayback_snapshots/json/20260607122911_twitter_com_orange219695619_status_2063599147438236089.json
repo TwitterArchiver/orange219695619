@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063399372511985664"
+      ],
+      "media_source_tweet_id": [
+        "2063399385476608218"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063599147438236089",
+    "created_at": "2026-06-07T12:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063599147438236089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1577910220357074944",
+          "start": 3,
+          "username": "_1jiis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4kBkzY1nl",
+          "end": 70,
+          "expanded_url": "https://x.com/_1jiis/status/2063399385476608218/photo/1",
+          "media_key": "3_2063399372511985664",
+          "start": 47,
+          "url": "https://t.co/p4kBkzY1nl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063599147438236089",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4049
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063399385476608218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_1jiis: سؤال جغرافي :\nأين تقع هذه الهضاب ؟ https://t.co/p4kBkzY1nl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2063399372511985664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKqzARXQAAuU3M.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063399372511985664"
+          ],
+          "media_source_tweet_id": [
+            "2063399385476608218"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063599147438236089",
+        "created_at": "2026-06-07T12:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063599147438236089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1577910220357074944",
+              "start": 3,
+              "username": "_1jiis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4kBkzY1nl",
+              "end": 70,
+              "expanded_url": "https://x.com/_1jiis/status/2063399385476608218/photo/1",
+              "media_key": "3_2063399372511985664",
+              "start": 47,
+              "url": "https://t.co/p4kBkzY1nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063599147438236089",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4049
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063399385476608218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_1jiis: سؤال جغرافي :\nأين تقع هذه الهضاب ؟ https://t.co/p4kBkzY1nl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063399372511985664"
+          ]
+        },
+        "author_id": "1577910220357074944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063399385476608218",
+        "created_at": "2026-06-06T23:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063399385476608218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4kBkzY1nl",
+              "end": 58,
+              "expanded_url": "https://x.com/_1jiis/status/2063399385476608218/photo/1",
+              "media_key": "3_2063399372511985664",
+              "start": 35,
+              "url": "https://t.co/p4kBkzY1nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063399385476608218",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4462,
+          "impression_count": 8538767,
+          "like_count": 42767,
+          "quote_count": 13312,
+          "reply_count": 10405,
+          "retweet_count": 4049
+        },
+        "reply_settings": "everyone",
+        "text": "سؤال جغرافي :\nأين تقع هذه الهضاب ؟ https://t.co/p4kBkzY1nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 160,
+          "like_count": 8120,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 5533
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T06:35:02.000Z",
+        "description": "سنرحل و يبقى الأثر .",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/_1iijs",
+                "end": 23,
+                "expanded_url": "http://tellonym.me/_1iijs",
+                "start": 0,
+                "url": "https://t.co/s115fZ6JXN"
+              }
+            ]
+          }
+        },
+        "id": "1577910220357074944",
+        "name": "َ",
+        "pinned_tweet_id": "2056178883171348487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974706849015349248/g6nI_RRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10660,
+          "following_count": 6917,
+          "like_count": 17501,
+          "listed_count": 1,
+          "media_count": 818,
+          "tweet_count": 21551
+        },
+        "url": "https://t.co/s115fZ6JXN",
+        "username": "_1jiis",
+        "verified": true
+      }
+    ]
+  }
+}

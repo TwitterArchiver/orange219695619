@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040023469690327333",
+    "created_at": "2026-04-03T13:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040063075425079350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479550299815645185",
+          "start": 0,
+          "username": "Stanleysobest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040063075425079350",
+    "in_reply_to_user_id": "1479550299815645185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040023469690327333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanleysobest 每月三万，因为我不生小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040023469690327333",
+        "created_at": "2026-04-03T13:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040063075425079350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040063075425079350",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040023469690327333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest 每月三万，因为我不生小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479550299815645185",
+        "conversation_id": "2040023469690327333",
+        "created_at": "2026-04-03T11:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040023469690327333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040023469690327333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10746,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你早出晚归，\n\n每月赚三万但小孩成绩一塌糊涂，\n\n和朝九晚六，\n\n每月赚五千但小孩成绩名列前茅，\n\n你会怎么选？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 61,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 489
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2004868035409313879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33306,
+          "following_count": 1680,
+          "like_count": 23785,
+          "listed_count": 138,
+          "media_count": 3982,
+          "tweet_count": 27330
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

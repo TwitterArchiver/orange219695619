@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2050313512170480048",
+    "created_at": "2026-05-02T14:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050581189334024686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044392328966680576",
+          "start": 0,
+          "username": "OE3IIGFQRQ9473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050581189334024686",
+    "in_reply_to_user_id": "2044392328966680576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050313512170480048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OE3IIGFQRQ9473 记得消毒🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20983,
+        "height": 1080,
+        "media_key": "13_2050312967653347328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050312967653347328/img/bki--rdbN3ZyI8-L.jpg",
+        "public_metrics": {
+          "view_count": 773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050312967653347328/vid/avc1/480x270/bjJN6pfVkmtzCed_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050312967653347328/vid/avc1/640x360/pK2Hgm9jglW36YJq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050312967653347328/vid/avc1/1280x720/vic1b_DGtJxPvKLp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050312967653347328/pl/-DVN_qXYMlys-nZq.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2050313512170480048",
+        "created_at": "2026-05-02T14:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050581189334024686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044392328966680576",
+              "start": 0,
+              "username": "OE3IIGFQRQ9473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050581189334024686",
+        "in_reply_to_user_id": "2044392328966680576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050313512170480048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OE3IIGFQRQ9473 记得消毒🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050312967653347328"
+          ]
+        },
+        "author_id": "2044392328966680576",
+        "conversation_id": "2050313512170480048",
+        "created_at": "2026-05-01T20:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050313512170480048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qq9GOktRWX",
+              "end": 61,
+              "expanded_url": "https://x.com/OE3IIGFQRQ9473/status/2050313512170480048/video/1",
+              "media_key": "13_2050312967653347328",
+              "start": 38,
+              "url": "https://t.co/Qq9GOktRWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050313512170480048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1570,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在畫畫的時候不小心把紅色顏料弄到手上了！好像血，但這不是血！請不要舉報。 https://t.co/Qq9GOktRWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 92,
+          "like_count": 1704,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2002
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T12:28:23.000Z",
+        "description": "",
+        "id": "2044392328966680576",
+        "name": "Bloodlover8964",
+        "pinned_tweet_id": "2049473521794044125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044393437995356160/yh7YtJqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 46,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 180
+        },
+        "username": "OE3IIGFQRQ9473",
+        "verified": false
+      }
+    ]
+  }
+}

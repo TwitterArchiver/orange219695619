@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053610166231384528",
+    "created_at": "2026-05-11T18:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T19:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053903981517410393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1275066101068513294",
+          "start": 0,
+          "username": "MSpeedyou"
+        },
+        {
+          "end": 23,
+          "id": "1581937806435573760",
+          "start": 11,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053903981517410393",
+    "in_reply_to_user_id": "1275066101068513294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053699988786749951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSpeedyou @fadai202202 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053610166231384528",
+        "created_at": "2026-05-11T18:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T19:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053903981517410393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1275066101068513294",
+              "start": 0,
+              "username": "MSpeedyou"
+            },
+            {
+              "end": 23,
+              "id": "1581937806435573760",
+              "start": 11,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053903981517410393",
+        "in_reply_to_user_id": "1275066101068513294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053699988786749951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSpeedyou @fadai202202 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1275066101068513294",
+        "conversation_id": "2053610166231384528",
+        "created_at": "2026-05-11T04:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053699988786749951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053699988786749951",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 72292,
+          "like_count": 614,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053610166231384528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 没听说过有会操人的房子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 105,
+          "like_count": 2930,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2824
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-22T14:00:30.000Z",
+        "description": "",
+        "id": "1275066101068513294",
+        "name": "Moya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1541333826026487808/Lo7wiNN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 362,
+          "like_count": 1480,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 652
+        },
+        "username": "MSpeedyou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n小号@berrybun_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "berrybun_04"
+              }
+            ]
+          }
+        },
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11362,
+          "following_count": 2,
+          "like_count": 946,
+          "listed_count": 8,
+          "media_count": 106,
+          "tweet_count": 881
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060032351074422784"
+      ],
+      "media_source_tweet_id": [
+        "2060032353809134036"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060234849219453425",
+    "created_at": "2026-05-29T05:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060234849219453425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1515282048977891328",
+          "start": 3,
+          "username": "weifengyouyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DL4X0yfz1x",
+          "end": 85,
+          "expanded_url": "https://x.com/weifengyouyou/status/2060032353809134036/photo/1",
+          "media_key": "3_2060032351074422784",
+          "start": 62,
+          "url": "https://t.co/DL4X0yfz1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060234849219453425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060032353809134036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weifengyouyou: 当你在凝视被自动翻译的各国用户的推文时，其他国家的用户也在凝视被自动翻译的你的推文🤗 https://t.co/DL4X0yfz1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2060032351074422784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa0gj-akAAU8M8.jpg",
+        "width": 1105
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060032351074422784"
+          ],
+          "media_source_tweet_id": [
+            "2060032353809134036"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060234849219453425",
+        "created_at": "2026-05-29T05:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060234849219453425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1515282048977891328",
+              "start": 3,
+              "username": "weifengyouyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DL4X0yfz1x",
+              "end": 85,
+              "expanded_url": "https://x.com/weifengyouyou/status/2060032353809134036/photo/1",
+              "media_key": "3_2060032351074422784",
+              "start": 62,
+              "url": "https://t.co/DL4X0yfz1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060234849219453425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060032353809134036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weifengyouyou: 当你在凝视被自动翻译的各国用户的推文时，其他国家的用户也在凝视被自动翻译的你的推文🤗 https://t.co/DL4X0yfz1x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060032351074422784"
+          ]
+        },
+        "author_id": "1515282048977891328",
+        "conversation_id": "2060032353809134036",
+        "created_at": "2026-05-28T16:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060032353809134036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DL4X0yfz1x",
+              "end": 66,
+              "expanded_url": "https://x.com/weifengyouyou/status/2060032353809134036/photo/1",
+              "media_key": "3_2060032351074422784",
+              "start": 43,
+              "url": "https://t.co/DL4X0yfz1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032353809134036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10738,
+          "like_count": 423,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "当你在凝视被自动翻译的各国用户的推文时，其他国家的用户也在凝视被自动翻译的你的推文🤗 https://t.co/DL4X0yfz1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 142,
+          "like_count": 6168,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 4554
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T10:54:47.000Z",
+        "description": "ENFP-T｜生活推｜老婆@Hermione115423｜我喜欢温柔又有见解的人!很高兴和你相遇😽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "Hermione115423"
+              }
+            ]
+          }
+        },
+        "id": "1515282048977891328",
+        "location": "远在天边",
+        "name": "微风悠悠",
+        "pinned_tweet_id": "1806273497637015829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637486650497564673/D882yss5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1804,
+          "like_count": 29187,
+          "listed_count": 8,
+          "media_count": 870,
+          "tweet_count": 6896
+        },
+        "username": "weifengyouyou",
+        "verified": true
+      }
+    ]
+  }
+}

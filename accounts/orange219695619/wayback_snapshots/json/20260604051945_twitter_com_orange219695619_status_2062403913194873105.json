@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062403910477004800",
+        "3_2062403902516170752"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2062373107588026548",
+    "created_at": "2026-06-04T05:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062403913194873105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nkii9g7Y7D",
+          "end": 72,
+          "expanded_url": "https://x.com/orange219695619/status/2062403913194873105/photo/1",
+          "media_key": "3_2062403910477004800",
+          "start": 49,
+          "url": "https://t.co/nkii9g7Y7D"
+        },
+        {
+          "display_url": "pic.x.com/nkii9g7Y7D",
+          "end": 72,
+          "expanded_url": "https://x.com/orange219695619/status/2062403913194873105/photo/1",
+          "media_key": "3_2062403902516170752",
+          "start": 49,
+          "url": "https://t.co/nkii9g7Y7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062403913194873105",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062373107588026548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 是的，重庆很美\n今年年初去旅游了\n（拍照技术不是很好还请见谅） https://t.co/nkii9g7Y7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062403910477004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8hbfNbwAAK8Pm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062403902516170752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8hbBjbEAAHIEQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062373092568293376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8FZpjbYAAAooN.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062403910477004800",
+            "3_2062403902516170752"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2062373107588026548",
+        "created_at": "2026-06-04T05:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062403913194873105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkii9g7Y7D",
+              "end": 72,
+              "expanded_url": "https://x.com/orange219695619/status/2062403913194873105/photo/1",
+              "media_key": "3_2062403910477004800",
+              "start": 49,
+              "url": "https://t.co/nkii9g7Y7D"
+            },
+            {
+              "display_url": "pic.x.com/nkii9g7Y7D",
+              "end": 72,
+              "expanded_url": "https://x.com/orange219695619/status/2062403913194873105/photo/1",
+              "media_key": "3_2062403902516170752",
+              "start": 49,
+              "url": "https://t.co/nkii9g7Y7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062403913194873105",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062373107588026548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 是的，重庆很美\n今年年初去旅游了\n（拍照技术不是很好还请见谅） https://t.co/nkii9g7Y7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062373092568293376"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062373107588026548",
+        "created_at": "2026-06-04T03:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062373107588026548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m79Uf3O6f0",
+              "end": 44,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2062373107588026548/photo/1",
+              "media_key": "3_2062373092568293376",
+              "start": 21,
+              "url": "https://t.co/m79Uf3O6f0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062373107588026548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "需要一位重庆人告诉我一下重庆真的这么美吗 https://t.co/m79Uf3O6f0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 156,
+          "like_count": 7436,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 5208
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062240095227592980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 4027,
+          "like_count": 42153,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 11803
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

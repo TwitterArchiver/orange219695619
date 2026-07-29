@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042142573708636165"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2042076030769226073",
+    "created_at": "2026-04-09T07:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042142575692542004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574300405026017280",
+          "start": 0,
+          "username": "yantanzhang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/htTGBgc6EK",
+          "end": 36,
+          "expanded_url": "https://x.com/orange219695619/status/2042142575692542004/photo/1",
+          "media_key": "3_2042142573708636165",
+          "start": 13,
+          "url": "https://t.co/htTGBgc6EK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042142575692542004",
+    "in_reply_to_user_id": "1574300405026017280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042076030769226073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yantanzhang https://t.co/htTGBgc6EK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 984,
+        "media_key": "3_2042142573708636165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcl2d6a8AUlfFL.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2041955267412377600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZ7fzlaQAAkDPB.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042142573708636165"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2042076030769226073",
+        "created_at": "2026-04-09T07:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042142575692542004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574300405026017280",
+              "start": 0,
+              "username": "yantanzhang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htTGBgc6EK",
+              "end": 36,
+              "expanded_url": "https://x.com/orange219695619/status/2042142575692542004/photo/1",
+              "media_key": "3_2042142573708636165",
+              "start": 13,
+              "url": "https://t.co/htTGBgc6EK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042142575692542004",
+        "in_reply_to_user_id": "1574300405026017280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042076030769226073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yantanzhang https://t.co/htTGBgc6EK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041955267412377600"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2042076030769226073",
+        "created_at": "2026-04-09T03:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042076030769226073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQKf5fcKGK",
+              "end": 36,
+              "expanded_url": "https://x.com/yantanzhang/status/2042076030769226073/photo/1",
+              "media_key": "3_2041955267412377600",
+              "start": 13,
+              "url": "https://t.co/YQKf5fcKGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042076030769226073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 67033,
+          "like_count": 387,
+          "quote_count": 0,
+          "reply_count": 102,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "什么JB小说，这么硬核？ https://t.co/YQKf5fcKGK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 70,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 809
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45453,
+          "following_count": 259,
+          "like_count": 2902,
+          "listed_count": 129,
+          "media_count": 4182,
+          "tweet_count": 5092
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

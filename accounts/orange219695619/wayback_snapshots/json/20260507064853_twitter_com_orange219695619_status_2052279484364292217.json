@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052189194609652006",
+    "created_at": "2026-05-07T06:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052279484364292217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1990796130305937408",
+          "start": 0,
+          "username": "l1399982185079"
+        },
+        {
+          "end": 32,
+          "id": "1880947070837964800",
+          "start": 16,
+          "username": "Guillermin45548"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052279484364292217",
+    "in_reply_to_user_id": "1990796130305937408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052249916274245738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l1399982185079 @Guillermin45548 还有劳务派遣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052189194609652006",
+        "created_at": "2026-05-07T06:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052279484364292217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1990796130305937408",
+              "start": 0,
+              "username": "l1399982185079"
+            },
+            {
+              "end": 32,
+              "id": "1880947070837964800",
+              "start": 16,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052279484364292217",
+        "in_reply_to_user_id": "1990796130305937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052249916274245738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l1399982185079 @Guillermin45548 还有劳务派遣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990796130305937408",
+        "conversation_id": "2052189194609652006",
+        "created_at": "2026-05-07T04:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052249916274245738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880947070837964800",
+              "start": 0,
+              "username": "Guillermin45548"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052249916274245738",
+        "in_reply_to_user_id": "1880947070837964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20932,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052189194609652006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guillermin45548 你点个外卖让小哥去然后给小哥小费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 96,
+          "like_count": 2143,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2339
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T14:56:12.000Z",
+        "description": "",
+        "id": "1990796130305937408",
+        "name": "里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994612889530109954/qB2dwA07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 564,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "l1399982185079",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2051815715494318089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146294750240768/atsWlS0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16471,
+          "following_count": 95,
+          "like_count": 1009,
+          "listed_count": 15,
+          "media_count": 393,
+          "tweet_count": 1805
+        },
+        "url": "",
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

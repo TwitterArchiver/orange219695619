@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065469640554516833",
+    "created_at": "2026-06-12T20:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065530134707527764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065530134707527764",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065469640554516833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 什么日不落帝国"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2065469632946049026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoFsBYbEAIxMxK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065469640554516833",
+        "created_at": "2026-06-12T20:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065530134707527764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065530134707527764",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065469640554516833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 什么日不落帝国"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065469632946049026"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2065469640554516833",
+        "created_at": "2026-06-12T16:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065469640554516833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EB60wwBGWw",
+              "end": 48,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2065469640554516833/photo/1",
+              "media_key": "3_2065469632946049026",
+              "start": 25,
+              "url": "https://t.co/EB60wwBGWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065469640554516833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "按这个逻辑 世界上所有用英语的国家都是英国的国土 https://t.co/EB60wwBGWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 171,
+          "like_count": 9218,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 6047
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1467,
+          "like_count": 3080,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 6423
+        },
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

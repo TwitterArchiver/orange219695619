@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059366713213563014",
+    "created_at": "2026-06-02T19:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061898470659944750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1250094835869954049",
+          "start": 0,
+          "username": "LancherAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061898470659944750",
+    "in_reply_to_user_id": "1250094835869954049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059366713213563014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LancherAM 现在知道为什么第一回合会被瓦库接管了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2204,
+        "media_key": "3_2059366131555831808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRWle3bEAA6S-j.jpg",
+        "width": 2246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059366713213563014",
+        "created_at": "2026-06-02T19:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061898470659944750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1250094835869954049",
+              "start": 0,
+              "username": "LancherAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061898470659944750",
+        "in_reply_to_user_id": "1250094835869954049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059366713213563014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LancherAM 现在知道为什么第一回合会被瓦库接管了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059366131555831808"
+          ]
+        },
+        "author_id": "1250094835869954049",
+        "conversation_id": "2059366713213563014",
+        "created_at": "2026-05-26T20:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059366713213563014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "slaythespire2"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "sts2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h75ZqjV0GX",
+              "end": 44,
+              "expanded_url": "https://x.com/LancherAM/status/2059366713213563014/photo/1",
+              "media_key": "3_2059366131555831808",
+              "start": 21,
+              "url": "https://t.co/h75ZqjV0GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059366713213563014",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 6528,
+          "like_count": 389,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#slaythespire2 #sts2 https://t.co/h75ZqjV0GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 153,
+          "like_count": 7181,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 5075
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-14T16:13:42.000Z",
+        "description": "=Lancher/AM/阿毛\n20+ || any pronouns || multi-fandom 不讨论二次元以外的任何事 || use translation  || ⚠未成年人请不要关注！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lancheram.straw.page",
+                "end": 23,
+                "expanded_url": "https://lancheram.straw.page",
+                "start": 0,
+                "url": "https://t.co/B1hxC49PXu"
+              }
+            ]
+          }
+        },
+        "id": "1250094835869954049",
+        "name": "LancherAM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913921434445045760/YtMUslMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 90,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/B1hxC49PXu",
+        "username": "LancherAM",
+        "verified": false
+      }
+    ]
+  }
+}

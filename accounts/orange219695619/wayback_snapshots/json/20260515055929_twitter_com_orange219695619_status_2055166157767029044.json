@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054898762943016965",
+    "created_at": "2026-05-15T05:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055166157767029044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669667793699225600",
+          "start": 0,
+          "username": "kig999164149189"
+        },
+        {
+          "end": 26,
+          "id": "1280001743162609664",
+          "start": 17,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055166157767029044",
+    "in_reply_to_user_id": "1669667793699225600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054923254633218071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kig999164149189 @Poca2381 一看就是麦当劳的顾客"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054898762943016965",
+        "created_at": "2026-05-15T05:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055166157767029044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669667793699225600",
+              "start": 0,
+              "username": "kig999164149189"
+            },
+            {
+              "end": 26,
+              "id": "1280001743162609664",
+              "start": 17,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055166157767029044",
+        "in_reply_to_user_id": "1669667793699225600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054923254633218071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kig999164149189 @Poca2381 一看就是麦当劳的顾客"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669667793699225600",
+        "conversation_id": "2054898762943016965",
+        "created_at": "2026-05-14T13:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054923254633218071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054923254633218071",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8359,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054898762943016965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 终于见到正常大小的汉堡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 116,
+          "like_count": 3473,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3174
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T11:26:49.000Z",
+        "description": "没有，哈哈",
+        "id": "1669667793699225600",
+        "location": "People's Republic of China",
+        "name": "沙二坊主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995849700508139525/ZqeVjep8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1265,
+          "like_count": 221,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 980
+        },
+        "username": "kig999164149189",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20428,
+          "following_count": 7934,
+          "like_count": 150610,
+          "listed_count": 49,
+          "media_count": 4162,
+          "tweet_count": 48403
+        },
+        "username": "Poca2381",
+        "verified": false
+      }
+    ]
+  }
+}

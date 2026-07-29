@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040789588956839965",
+    "created_at": "2026-04-05T14:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040795104475254845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038614200172326912",
+          "start": 0,
+          "username": "mingxukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040795104475254845",
+    "in_reply_to_user_id": "2038614200172326912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040789588956839965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxukong 卡物种吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "3_2040789573706698752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJXTgIb0AA2cXc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040789588956839965",
+        "created_at": "2026-04-05T14:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040795104475254845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038614200172326912",
+              "start": 0,
+              "username": "mingxukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040795104475254845",
+        "in_reply_to_user_id": "2038614200172326912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040789588956839965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxukong 卡物种吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040789573706698752"
+          ]
+        },
+        "author_id": "2038614200172326912",
+        "conversation_id": "2040789588956839965",
+        "created_at": "2026-04-05T13:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040789588956839965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54WFVIZKsO",
+              "end": 89,
+              "expanded_url": "https://x.com/mingxukong/status/2040789588956839965/photo/1",
+              "media_key": "3_2040789573706698752",
+              "start": 66,
+              "url": "https://t.co/54WFVIZKsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040789588956839965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡性别 卡年龄 卡地区 卡成绩 \n卡经济 卡处男 卡身材 卡肤色\n卡血型 卡睡姿 卡头像 卡发量 \n卡骨相 卡吃相 卡身高 卡鞋码 https://t.co/54WFVIZKsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 66,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 610
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T13:48:30.000Z",
+        "description": "OvO\n我只是一个可爱的小学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 0,
+                "url": "https://t.co/Mt2EOcLCvM"
+              }
+            ]
+          }
+        },
+        "id": "2038614200172326912",
+        "location": "我操你冯",
+        "name": "坏",
+        "pinned_tweet_id": "2040051215308906764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 25,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/Mt2EOcLCvM",
+        "username": "mingxukong",
+        "verified": false
+      }
+    ]
+  }
+}

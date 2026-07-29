@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079386817804357854",
+    "created_at": "2026-07-21T07:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079472543958716555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502470666834280448",
+          "start": 0,
+          "username": "yibanluguojiuc1"
+        },
+        {
+          "end": 27,
+          "id": "1982449259774656512",
+          "start": 17,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079472543958716555",
+    "in_reply_to_user_id": "1502470666834280448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079457807729111128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yibanluguojiuc1 @smiroyama 是啊诺（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079386817804357854",
+        "created_at": "2026-07-21T07:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079472543958716555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502470666834280448",
+              "start": 0,
+              "username": "yibanluguojiuc1"
+            },
+            {
+              "end": 27,
+              "id": "1982449259774656512",
+              "start": 17,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079472543958716555",
+        "in_reply_to_user_id": "1502470666834280448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079457807729111128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yibanluguojiuc1 @smiroyama 是啊诺（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502470666834280448",
+        "conversation_id": "2079386817804357854",
+        "created_at": "2026-07-21T06:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079457807729111128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 27,
+              "id": "1982449259774656512",
+              "start": 17,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079457807729111128",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079399625468047780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @smiroyama 用雌二醇的是药娘\n那用类固醇的是不是药郎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 182,
+          "like_count": 18982,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 9373
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T02:25:19.000Z",
+        "description": "東方project/日本語初心者/正在健身✊️",
+        "id": "1502470666834280448",
+        "name": "久侘歌世界第一可爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502471093348888578/gjg5ZzQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 72,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "yibanluguojiuc1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 78,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 55,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7221,
+          "following_count": 2587,
+          "like_count": 13891,
+          "listed_count": 14,
+          "media_count": 2369,
+          "tweet_count": 8657
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

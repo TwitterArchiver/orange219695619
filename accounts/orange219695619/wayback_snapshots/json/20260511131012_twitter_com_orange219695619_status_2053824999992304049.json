@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053815899422081270",
+    "created_at": "2026-05-11T13:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053824999992304049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050947066709573632",
+          "start": 0,
+          "username": "KetChup_Mew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053824999992304049",
+    "in_reply_to_user_id": "2050947066709573632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053815899422081270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KetChup_Mew 抱抱你🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053815899422081270",
+        "created_at": "2026-05-11T13:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053824999992304049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050947066709573632",
+              "start": 0,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053824999992304049",
+        "in_reply_to_user_id": "2050947066709573632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053815899422081270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KetChup_Mew 抱抱你🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050947066709573632",
+        "conversation_id": "2053815899422081270",
+        "created_at": "2026-05-11T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053815899422081270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053815899422081270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想結束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 103,
+          "like_count": 2882,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2796
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T14:34:35.000Z",
+        "description": "",
+        "id": "2050947066709573632",
+        "name": "Ketchup.",
+        "pinned_tweet_id": "2052411668899258599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051593518955769856/hjmXPxj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 5,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "KetChup_Mew",
+        "verified": false
+      }
+    ]
+  }
+}

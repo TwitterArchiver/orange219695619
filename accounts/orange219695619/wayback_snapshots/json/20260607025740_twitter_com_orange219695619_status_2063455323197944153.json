@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063267460690608539",
+    "created_at": "2026-06-07T02:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063455323197944153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058293907759259648",
+          "start": 0,
+          "username": "kvartet22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063455323197944153",
+    "in_reply_to_user_id": "2058293907759259648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063267460690608539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kvartet22 乌克兰还是你们自己打吧，无论是站在哪一方对我们来说都没有好处"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063267447059140609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIyz7qWUAEkpKu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063267460690608539",
+        "created_at": "2026-06-07T02:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063455323197944153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058293907759259648",
+              "start": 0,
+              "username": "kvartet22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063455323197944153",
+        "in_reply_to_user_id": "2058293907759259648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063267460690608539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kvartet22 乌克兰还是你们自己打吧，无论是站在哪一方对我们来说都没有好处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063267447059140609"
+          ]
+        },
+        "author_id": "2058293907759259648",
+        "conversation_id": "2063267460690608539",
+        "created_at": "2026-06-06T14:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063267460690608539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u874esORcj",
+              "end": 180,
+              "expanded_url": "https://x.com/kvartet22/status/2063267460690608539/photo/1",
+              "media_key": "3_2063267447059140609",
+              "start": 157,
+              "url": "https://t.co/u874esORcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063267460690608539",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2810,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Ахаха, это что получается, все мои подписчики появились после того, как я стала шестнадцатилетней девочкой? Я накоплю армию китайцев и мы захватим Украину♥️ https://t.co/u874esORcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 8022,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 5480
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T21:09:04.000Z",
+        "description": "Умру за котиков🥰",
+        "id": "2058293907759259648",
+        "location": "Крым, Россия",
+        "name": "Квартет",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061159661881966594/2X920XJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 151,
+          "like_count": 1157,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 618
+        },
+        "username": "kvartet22",
+        "verified": false
+      }
+    ]
+  }
+}

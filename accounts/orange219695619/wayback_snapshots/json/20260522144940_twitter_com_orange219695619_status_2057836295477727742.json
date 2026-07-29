@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057752153935183900",
+    "created_at": "2026-05-22T14:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057836295477727742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782932905419046912",
+          "start": 0,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057836295477727742",
+    "in_reply_to_user_id": "1782932905419046912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057752153935183900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratshelprats 好难绷的表情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2057752151288680449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6ard1bkAE4ofN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057752153935183900",
+        "created_at": "2026-05-22T14:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057836295477727742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057836295477727742",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057752153935183900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 好难绷的表情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057752151288680449"
+          ]
+        },
+        "author_id": "1782932905419046912",
+        "conversation_id": "2057752153935183900",
+        "created_at": "2026-05-22T09:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057752153935183900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNrA8UC0om",
+              "end": 44,
+              "expanded_url": "https://x.com/ratshelprats/status/2057752153935183900/photo/1",
+              "media_key": "3_2057752151288680449",
+              "start": 21,
+              "url": "https://t.co/eNrA8UC0om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057752153935183900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 52596,
+          "like_count": 503,
+          "quote_count": 2,
+          "reply_count": 261,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "因为家里蹲，我爹准备花钱从社会上找人干我 https://t.co/eNrA8UC0om"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 129,
+          "like_count": 4588,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3794
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1890285410628375009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105782,
+          "following_count": 490,
+          "like_count": 91943,
+          "listed_count": 161,
+          "media_count": 616,
+          "tweet_count": 1519
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060326437513830440",
+    "created_at": "2026-05-30T16:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060764993403105641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916857039672016896",
+          "start": 0,
+          "username": "Kikiko11810931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060764993403105641",
+    "in_reply_to_user_id": "1916857039672016896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060764557862408668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikiko11810931 我好像在玩找不同（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060326437513830440",
+        "created_at": "2026-05-30T16:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060764993403105641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916857039672016896",
+              "start": 0,
+              "username": "Kikiko11810931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060764993403105641",
+        "in_reply_to_user_id": "1916857039672016896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060764557862408668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikiko11810931 我好像在玩找不同（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916857039672016896",
+        "conversation_id": "2060326437513830440",
+        "created_at": "2026-05-30T16:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060764557862408668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060764557862408668",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060400604036682074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 或许第一幅更梦幻一些💁‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 148,
+          "like_count": 6485,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 4745
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T14:08:47.000Z",
+        "description": "無人在意",
+        "id": "1916857039672016896",
+        "name": "kikiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057048037281992705/2nLcvydy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 121,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 174
+        },
+        "username": "Kikiko11810931",
+        "verified": false
+      }
+    ]
+  }
+}

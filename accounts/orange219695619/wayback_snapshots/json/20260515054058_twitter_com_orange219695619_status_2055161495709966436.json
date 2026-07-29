@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055161495709966436",
+    "created_at": "2026-05-15T05:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055161495709966436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1787854097388859392",
+          "start": 3,
+          "username": "Bengrenrenbeng"
+        },
+        {
+          "end": 36,
+          "id": "1843201902550634496",
+          "start": 20,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055161495709966436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055078584717594791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bengrenrenbeng: @LwrDHYyuxR22499 中国大陆的家暴问题比乌克兰战争甚至巴以战争还难解决。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055161495709966436",
+        "created_at": "2026-05-15T05:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055161495709966436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1787854097388859392",
+              "start": 3,
+              "username": "Bengrenrenbeng"
+            },
+            {
+              "end": 36,
+              "id": "1843201902550634496",
+              "start": 20,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055161495709966436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055078584717594791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bengrenrenbeng: @LwrDHYyuxR22499 中国大陆的家暴问题比乌克兰战争甚至巴以战争还难解决。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787854097388859392",
+        "conversation_id": "2054956539044323376",
+        "created_at": "2026-05-15T00:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055078584717594791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055078584717594791",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054956539044323376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 中国大陆的家暴问题比乌克兰战争甚至巴以战争还难解决。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 116,
+          "like_count": 3456,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3161
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T14:37:07.000Z",
+        "description": "爱咋地咋地",
+        "id": "1787854097388859392",
+        "name": "Bengren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017766921584992257/d_1BoAAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 135,
+          "like_count": 991,
+          "listed_count": 6,
+          "media_count": 133,
+          "tweet_count": 2453
+        },
+        "username": "Bengrenrenbeng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 2787,
+          "like_count": 2763,
+          "listed_count": 18,
+          "media_count": 415,
+          "tweet_count": 2744
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

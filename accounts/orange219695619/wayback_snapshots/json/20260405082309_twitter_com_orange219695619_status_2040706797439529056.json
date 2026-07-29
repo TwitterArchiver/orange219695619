@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040686361687286167",
+    "created_at": "2026-04-05T08:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040706797439529056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829502489227575296",
+          "start": 0,
+          "username": "hajihajimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040706797439529056",
+    "in_reply_to_user_id": "1829502489227575296",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040686361687286167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajihajimo ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040686361687286167",
+        "created_at": "2026-04-05T08:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040706797439529056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829502489227575296",
+              "start": 0,
+              "username": "hajihajimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040706797439529056",
+        "in_reply_to_user_id": "1829502489227575296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040686361687286167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajihajimo ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829502489227575296",
+        "conversation_id": "2040686361687286167",
+        "created_at": "2026-04-05T07:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040686361687286167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040686361687286167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我去我的老师也割腕😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 65,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 568
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T12:52:50.000Z",
+        "description": "11年笨小孩|178/78|男|三无产品|现居天津|七年xnn|神经病式xnn|唐蛋|不证建|微社恐|fo|别骂我|加q/v🚪10|不线下|已有男友|别过分骚扰我🥲\n神病精神病精神病哈哈哈哈哈哈哈\n饿啊啊啊啊我真的是小孩🥲🥲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hajihajimo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hajihajimo",
+                "start": 0,
+                "url": "https://t.co/aoP0J2WNXw"
+              }
+            ]
+          }
+        },
+        "id": "1829502489227575296",
+        "location": "日耳曼尼亚",
+        "name": "施工作业🦐(阿拉僧限定)",
+        "pinned_tweet_id": "1989908835893440829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318367346286592/LwndLiCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 309,
+          "like_count": 2960,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 1343
+        },
+        "url": "https://t.co/aoP0J2WNXw",
+        "username": "hajihajimo",
+        "verified": false
+      }
+    ]
+  }
+}

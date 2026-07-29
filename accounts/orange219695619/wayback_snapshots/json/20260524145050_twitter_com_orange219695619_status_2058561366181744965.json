@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058490281478246466",
+    "created_at": "2026-05-24T14:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058561366181744965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801277209044451328",
+          "start": 0,
+          "username": "chuhecher1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058561366181744965",
+    "in_reply_to_user_id": "1801277209044451328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058490281478246466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuhecher1201 那我要是说吸毒呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058490281478246466",
+        "created_at": "2026-05-24T14:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058561366181744965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801277209044451328",
+              "start": 0,
+              "username": "chuhecher1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058561366181744965",
+        "in_reply_to_user_id": "1801277209044451328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058490281478246466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuhecher1201 那我要是说吸毒呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801277209044451328",
+        "conversation_id": "2058490281478246466",
+        "created_at": "2026-05-24T10:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058490281478246466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058490281478246466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1452,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都把嗑药说成od 这样说能好听一点 说磕药的话就像掀开了我的遮羞布 袒露出我肮脏的内里 我承受不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 138,
+          "like_count": 5250,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 4130
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:35:36.000Z",
+        "description": "个人原因无法抑制厌世厌人，请谅解  地雷女精神病过激女别招惹我 看我好戏的都死了 但是其实我还是想好好的爱人",
+        "id": "1801277209044451328",
+        "name": "小糖",
+        "pinned_tweet_id": "1920721573629116733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001702010522079235/k6fK__D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 30,
+          "like_count": 494,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 210
+        },
+        "username": "chuhecher1201",
+        "verified": false
+      }
+    ]
+  }
+}

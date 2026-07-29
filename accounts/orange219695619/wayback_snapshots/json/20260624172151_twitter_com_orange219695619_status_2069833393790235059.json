@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069568428609048642",
+    "created_at": "2026-06-24T17:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069833393790235059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764920422662053888",
+          "start": 0,
+          "username": "xlll_1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069833393790235059",
+    "in_reply_to_user_id": "1764920422662053888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069568428609048642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xlll_1234 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1739,
+        "media_key": "3_2069568420933509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiVg4gboAAp_TR.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069568428609048642",
+        "created_at": "2026-06-24T17:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069833393790235059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764920422662053888",
+              "start": 0,
+              "username": "xlll_1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069833393790235059",
+        "in_reply_to_user_id": "1764920422662053888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069568428609048642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xlll_1234 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069568420933509120"
+          ]
+        },
+        "author_id": "1764920422662053888",
+        "conversation_id": "2069568428609048642",
+        "created_at": "2026-06-23T23:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069568428609048642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UflIB1kk8T",
+              "end": 36,
+              "expanded_url": "https://x.com/xlll_1234/status/2069568428609048642/photo/1",
+              "media_key": "3_2069568420933509120",
+              "start": 13,
+              "url": "https://t.co/UflIB1kk8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069568428609048642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 30955,
+          "like_count": 465,
+          "quote_count": 0,
+          "reply_count": 64,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個是我近期遇到最神的人 https://t.co/UflIB1kk8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 195,
+          "like_count": 12778,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 7428
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T07:46:42.000Z",
+        "description": "肉體本來就是牢籠關不住靈魂飛走\n07｜od｜躁鬱｜高p｜紋身｜互fo會查成分｜線下看情況\n睡個好覺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xlll_1234",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xlll_1234",
+                "start": 0,
+                "url": "https://t.co/NZthvqqejZ"
+              }
+            ]
+          }
+        },
+        "id": "1764920422662053888",
+        "location": "地球",
+        "name": "喵喵喵",
+        "pinned_tweet_id": "2065837950290845942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065875569552797696/h0bPa3Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 93,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/NZthvqqejZ",
+        "username": "xlll_1234",
+        "verified": false
+      }
+    ]
+  }
+}

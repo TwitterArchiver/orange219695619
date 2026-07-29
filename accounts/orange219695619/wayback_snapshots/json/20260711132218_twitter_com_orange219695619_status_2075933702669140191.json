@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075813633423032756",
+    "created_at": "2026-07-11T13:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075933702669140191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "993493604",
+          "start": 0,
+          "username": "ClockWorkMe"
+        },
+        {
+          "end": 26,
+          "id": "1876613242887282688",
+          "start": 13,
+          "username": "liujiayi1111"
+        },
+        {
+          "end": 35,
+          "id": "259611996",
+          "start": 27,
+          "username": "bearliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075933702669140191",
+    "in_reply_to_user_id": "993493604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075928470467891295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClockWorkMe @liujiayi1111 @bearliu 意满离"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075813633423032756",
+        "created_at": "2026-07-11T13:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075933702669140191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "993493604",
+              "start": 0,
+              "username": "ClockWorkMe"
+            },
+            {
+              "end": 26,
+              "id": "1876613242887282688",
+              "start": 13,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 35,
+              "id": "259611996",
+              "start": 27,
+              "username": "bearliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075933702669140191",
+        "in_reply_to_user_id": "993493604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075928470467891295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClockWorkMe @liujiayi1111 @bearliu 意满离"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993493604",
+        "conversation_id": "2075813633423032756",
+        "created_at": "2026-07-11T13:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075928470467891295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 22,
+              "id": "259611996",
+              "start": 14,
+              "username": "bearliu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "AI Will Smith eating spaghetti pasta (AI footage and audio) Suppor...",
+              "display_url": "youtu.be/XQr4Xklqzw8",
+              "end": 61,
+              "expanded_url": "https://youtu.be/XQr4Xklqzw8",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2074774707816259584/14pkU9sS?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074774707816259584/14pkU9sS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "AI Will Smith eating spaghetti pasta (AI footage and audio)",
+              "unwound_url": "https://www.youtube.com/watch?v=XQr4Xklqzw8&feature=youtu.be",
+              "url": "https://t.co/FohWZAQ9Xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075928470467891295",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075912986783346859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @bearliu 不如经典神作威尔史密斯吃面🤣\nhttps://t.co/FohWZAQ9Xa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 173,
+          "like_count": 16859,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 8661
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-06T17:28:20.000Z",
+        "description": "一个靠出卖写代码的能力换饭钱的家伙，但是技术力可能只有二流甚至三流。\n母语是普通话，英语也算是流利，会两句半吊子日语并且想学到向英语一样流利。\nGitHub: https://t.co/nZbTSvwAfb\nIG: https://t.co/TzSbshybsi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/boris1993",
+                "end": 103,
+                "expanded_url": "http://github.com/boris1993",
+                "start": 80,
+                "url": "https://t.co/nZbTSvwAfb"
+              },
+              {
+                "display_url": "instagram.com/boris.zhao/",
+                "end": 131,
+                "expanded_url": "http://instagram.com/boris.zhao/",
+                "start": 108,
+                "url": "https://t.co/TzSbshybsi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boris1993.com",
+                "end": 23,
+                "expanded_url": "https://www.boris1993.com",
+                "start": 0,
+                "url": "https://t.co/Nlmhu0aOj6"
+              }
+            ]
+          }
+        },
+        "id": "993493604",
+        "name": "boris1993",
+        "pinned_tweet_id": "1889540230723805670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1014585662161342464/QkPWFgJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 326,
+          "like_count": 159454,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 10081
+        },
+        "url": "https://t.co/Nlmhu0aOj6",
+        "username": "ClockWorkMe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9345,
+          "following_count": 99,
+          "like_count": 12166,
+          "listed_count": 27,
+          "media_count": 275,
+          "tweet_count": 2759
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-02T06:53:54.000Z",
+        "description": "Product Designer, 10 year+ podcaster and author of 2 books. Love things around design, tech and productivity, cooking design at https://t.co/B71LwV0u14 ✍️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bearliu.com",
+                "end": 151,
+                "expanded_url": "https://bearliu.com",
+                "start": 128,
+                "url": "https://t.co/B71LwV0u14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bearliu.com",
+                "end": 23,
+                "expanded_url": "https://bearliu.com",
+                "start": 0,
+                "url": "https://t.co/B71LwV0u14"
+              }
+            ]
+          }
+        },
+        "id": "259611996",
+        "location": "Best product teardown here  👉",
+        "name": "Bear Liu",
+        "pinned_tweet_id": "2071099500958220459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117642,
+          "following_count": 2725,
+          "like_count": 6151,
+          "listed_count": 725,
+          "media_count": 7394,
+          "tweet_count": 21597
+        },
+        "url": "https://t.co/B71LwV0u14",
+        "username": "bearliu",
+        "verified": true
+      }
+    ]
+  }
+}

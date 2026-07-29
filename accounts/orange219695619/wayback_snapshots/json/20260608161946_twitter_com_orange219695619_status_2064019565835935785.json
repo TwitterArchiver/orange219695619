@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064019565835935785",
+    "created_at": "2026-06-08T16:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064019565835935785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2002716961604812800",
+          "start": 3,
+          "username": "imduyyyyopppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064019565835935785",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 806
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063886082694115342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imduyyyyopppp: 나 요즘 성격 좀 나빠진듯\n길가다가 민들레가 보였는데 좀 띠껍게 생겨서\n따가지고 그냥 우걱우걱 씹어먹음\n좀 쓰고 맛은 없었음 지금 좀 후회됨\n민들레야 미안해…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064019565835935785",
+        "created_at": "2026-06-08T16:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064019565835935785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2002716961604812800",
+              "start": 3,
+              "username": "imduyyyyopppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064019565835935785",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 801
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063886082694115342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imduyyyyopppp: 나 요즘 성격 좀 나빠진듯\n길가다가 민들레가 보였는데 좀 띠껍게 생겨서\n따가지고 그냥 우걱우걱 씹어먹음\n좀 쓰고 맛은 없었음 지금 좀 후회됨\n민들레야 미안해…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002716961604812800",
+        "conversation_id": "2063886082694115342",
+        "created_at": "2026-06-08T07:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063886082694115342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063886082694115342",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 148830,
+          "like_count": 3283,
+          "quote_count": 472,
+          "reply_count": 12,
+          "retweet_count": 801
+        },
+        "reply_settings": "everyone",
+        "text": "나 요즘 성격 좀 나빠진듯\n길가다가 민들레가 보였는데 좀 띠껍게 생겨서\n따가지고 그냥 우걱우걱 씹어먹음\n좀 쓰고 맛은 없었음 지금 좀 후회됨\n민들레야 미안해…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 159,
+          "like_count": 8340,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 5628
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T12:25:18.000Z",
+        "description": "전두엽 아니고 귀두엽 아니고 유두엽 아니고 정두팔 아니고 정두엽입니다 우인:@iseogheon539552",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "iseogheon539552"
+              }
+            ]
+          }
+        },
+        "id": "2002716961604812800",
+        "location": "오티♥ 서연♥ 레정자♥ 상이(른)♥ 설유♥",
+        "name": "정두엽",
+        "pinned_tweet_id": "2061037259223388305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062072292713373696/G1MNB71F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 494,
+          "like_count": 36565,
+          "listed_count": 20,
+          "media_count": 273,
+          "tweet_count": 6951
+        },
+        "username": "imduyyyyopppp",
+        "verified": false
+      }
+    ]
+  }
+}

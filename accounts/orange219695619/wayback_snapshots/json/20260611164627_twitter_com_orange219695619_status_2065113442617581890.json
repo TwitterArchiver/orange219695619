@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064957094139482248",
+    "created_at": "2026-06-11T16:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065113442617581890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036606973786071040",
+          "start": 0,
+          "username": "hey_sucheol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065113442617581890",
+    "in_reply_to_user_id": "2036606973786071040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064957094139482248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hey_sucheol 这是茄子吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_2064957042054631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgzfTgbkAArw4i.jpg",
+        "width": 1075
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2064957057007259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgzgLNakAASLhV.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064957094139482248",
+        "created_at": "2026-06-11T16:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065113442617581890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036606973786071040",
+              "start": 0,
+              "username": "hey_sucheol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065113442617581890",
+        "in_reply_to_user_id": "2036606973786071040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064957094139482248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hey_sucheol 这是茄子吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064957042054631424",
+            "3_2064957057007259648"
+          ]
+        },
+        "author_id": "2036606973786071040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064957094139482248",
+        "created_at": "2026-06-11T06:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064957094139482248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vwgTua8O1g",
+              "end": 49,
+              "expanded_url": "https://x.com/hey_sucheol/status/2064957094139482248/photo/1",
+              "media_key": "3_2064957042054631424",
+              "start": 26,
+              "url": "https://t.co/vwgTua8O1g"
+            },
+            {
+              "display_url": "pic.x.com/vwgTua8O1g",
+              "end": 49,
+              "expanded_url": "https://x.com/hey_sucheol/status/2064957094139482248/photo/1",
+              "media_key": "3_2064957057007259648",
+              "start": 26,
+              "url": "https://t.co/vwgTua8O1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064957094139482248",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 697,
+          "impression_count": 893474,
+          "like_count": 9891,
+          "quote_count": 520,
+          "reply_count": 386,
+          "retweet_count": 716
+        },
+        "reply_settings": "everyone",
+        "text": "중국은 이제 이런 대왕 블루베리도 나오는거지? https://t.co/vwgTua8O1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 167,
+          "like_count": 8985,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 5955
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T00:52:00.000Z",
+        "description": "#블루레이디 🤙\n\n모든 여자들의 사랑을 독차지하고 싶은 여자\n#협찬 #광고 DM 주세요 🙏🙏 \n\n👇블로그도 구경와조",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "블루레이디"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "협찬"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "광고"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.naver.com/vudtnr77_",
+                "end": 23,
+                "expanded_url": "https://blog.naver.com/vudtnr77_",
+                "start": 0,
+                "url": "https://t.co/8JSVHQpsHk"
+              }
+            ]
+          }
+        },
+        "id": "2036606973786071040",
+        "name": "수철이",
+        "pinned_tweet_id": "2063896589417238780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039889754154729472/rs8rxoF1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1623,
+          "like_count": 20120,
+          "listed_count": 7,
+          "media_count": 1215,
+          "tweet_count": 22126
+        },
+        "url": "https://t.co/8JSVHQpsHk",
+        "username": "hey_sucheol",
+        "verified": true
+      }
+    ]
+  }
+}

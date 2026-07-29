@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063221669683179520"
+      ],
+      "media_source_tweet_id": [
+        "2063221672031965675"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063480591463645464",
+    "created_at": "2026-06-07T04:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063480591463645464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576083963713503232",
+          "start": 3,
+          "username": "WhitesugarC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xk485iSCu",
+          "end": 101,
+          "expanded_url": "https://x.com/WhitesugarC/status/2063221672031965675/photo/1",
+          "media_key": "3_2063221669683179520",
+          "start": 78,
+          "url": "https://t.co/3xk485iSCu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063480591463645464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063221672031965675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhitesugarC: 突然想到，城市里的雨一般带着空气中的灰尘、二氧化氮、二氧化碳——雨并不是纯净的雨。\n那么是不是应该叫：杂雨 ~ 杂雨 ~ https://t.co/3xk485iSCu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2063221669683179520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIJLVpasAAVhoR.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063221669683179520"
+          ],
+          "media_source_tweet_id": [
+            "2063221672031965675"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063480591463645464",
+        "created_at": "2026-06-07T04:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063480591463645464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576083963713503232",
+              "start": 3,
+              "username": "WhitesugarC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xk485iSCu",
+              "end": 101,
+              "expanded_url": "https://x.com/WhitesugarC/status/2063221672031965675/photo/1",
+              "media_key": "3_2063221669683179520",
+              "start": 78,
+              "url": "https://t.co/3xk485iSCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063480591463645464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063221672031965675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhitesugarC: 突然想到，城市里的雨一般带着空气中的灰尘、二氧化氮、二氧化碳——雨并不是纯净的雨。\n那么是不是应该叫：杂雨 ~ 杂雨 ~ https://t.co/3xk485iSCu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063221669683179520"
+          ]
+        },
+        "author_id": "1576083963713503232",
+        "conversation_id": "2063221672031965675",
+        "created_at": "2026-06-06T11:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063221672031965675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xk485iSCu",
+              "end": 84,
+              "expanded_url": "https://x.com/WhitesugarC/status/2063221672031965675/photo/1",
+              "media_key": "3_2063221669683179520",
+              "start": 61,
+              "url": "https://t.co/3xk485iSCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063221672031965675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 368,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到，城市里的雨一般带着空气中的灰尘、二氧化氮、二氧化碳——雨并不是纯净的雨。\n那么是不是应该叫：杂雨 ~ 杂雨 ~ https://t.co/3xk485iSCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 162,
+          "like_count": 8039,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 5491
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 二阶段｜友男跨顺｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/XdFzuqLNUB"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 28,
+          "like_count": 106,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/XdFzuqLNUB",
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055866630773919744"
+      ],
+      "media_source_tweet_id": [
+        "2055866729964962210"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055976385177670097",
+    "created_at": "2026-05-17T11:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055976385177670097"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 44,
+          "tag": "ストリートフェスタ"
+        },
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "ストフェス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "905943823250997248",
+          "start": 3,
+          "username": "machiotablog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WBEWuk41YP",
+          "end": 85,
+          "expanded_url": "https://x.com/machiotablog/status/2055866729964962210/video/1",
+          "media_key": "13_2055866630773919744",
+          "start": 62,
+          "url": "https://t.co/WBEWuk41YP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055976385177670097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3591
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055866729964962210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machiotablog: めちゃくちゃストフェス にクリーパーいて叫んだわw\n#ストリートフェスタ\n#ストフェス https://t.co/WBEWuk41YP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21201,
+        "height": 720,
+        "media_key": "13_2055866630773919744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055866630773919744/img/wRHwnJkIxtQRfi9e.jpg",
+        "public_metrics": {
+          "view_count": 545704
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055866630773919744/vid/avc1/480x270/n-Zq4YasiKPOdU_Q.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055866630773919744/vid/avc1/640x360/88qDaDqPDdpBANhv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055866630773919744/vid/avc1/1280x720/FbgxTPubExbKEXQr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055866630773919744/pl/jPS9fR_kqpy29Tqq.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055866630773919744"
+          ],
+          "media_source_tweet_id": [
+            "2055866729964962210"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055976385177670097",
+        "created_at": "2026-05-17T11:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055976385177670097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 44,
+              "tag": "ストリートフェスタ"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "ストフェス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "905943823250997248",
+              "start": 3,
+              "username": "machiotablog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBEWuk41YP",
+              "end": 85,
+              "expanded_url": "https://x.com/machiotablog/status/2055866729964962210/video/1",
+              "media_key": "13_2055866630773919744",
+              "start": 62,
+              "url": "https://t.co/WBEWuk41YP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055976385177670097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055866729964962210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machiotablog: めちゃくちゃストフェス にクリーパーいて叫んだわw\n#ストリートフェスタ\n#ストフェス https://t.co/WBEWuk41YP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055866630773919744"
+          ]
+        },
+        "author_id": "905943823250997248",
+        "conversation_id": "2055866729964962210",
+        "created_at": "2026-05-17T04:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055866729964962210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "ストリートフェスタ"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "ストフェス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBEWuk41YP",
+              "end": 67,
+              "expanded_url": "https://x.com/machiotablog/status/2055866729964962210/video/1",
+              "media_key": "13_2055866630773919744",
+              "start": 44,
+              "url": "https://t.co/WBEWuk41YP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055866729964962210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2077,
+          "impression_count": 1222530,
+          "like_count": 29576,
+          "quote_count": 391,
+          "reply_count": 78,
+          "retweet_count": 3591
+        },
+        "reply_settings": "everyone",
+        "text": "めちゃくちゃストフェス にクリーパーいて叫んだわw\n#ストリートフェスタ\n#ストフェス https://t.co/WBEWuk41YP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 122,
+          "like_count": 3819,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3326
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-08T00:00:13.000Z",
+        "description": "WCS2025取材パスいただきました！コスプレイベントに体当たり取材をしている唯一のブログ「マチオタ 」 ようこそコスプレの世界へ！ 取材依頼受けます(休みが合って嫁の許可が出れば）うちは変な記事しか書かないよ。フォローしていただけると最新記事がすぐ読めます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "machiota.com",
+                "end": 23,
+                "expanded_url": "http://www.machiota.com/",
+                "start": 0,
+                "url": "https://t.co/dkyPdk4Ho0"
+              }
+            ]
+          }
+        },
+        "id": "905943823250997248",
+        "name": "ピカ兄さん@コスプレブログ",
+        "pinned_tweet_id": "2055056924371275977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953223487042281472/b5xdFD1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 1571,
+          "like_count": 10927,
+          "listed_count": 28,
+          "media_count": 1795,
+          "tweet_count": 11733
+        },
+        "url": "https://t.co/dkyPdk4Ho0",
+        "username": "machiotablog",
+        "verified": false
+      }
+    ]
+  }
+}

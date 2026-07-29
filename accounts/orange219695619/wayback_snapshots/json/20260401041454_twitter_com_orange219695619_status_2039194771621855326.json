@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2039041497098842383",
+    "created_at": "2026-04-01T04:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039194771621855326"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039194771621855326",
+    "in_reply_to_user_id": "1979068278673981440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039041497098842383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过在春天自杀感觉好浪漫（）砰的一枪，释怀的倒在花海中，温和的阳光洒在尚有余温的尸体上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2039041497098842383",
+        "created_at": "2026-04-01T04:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039194771621855326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039194771621855326",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039041497098842383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过在春天自杀感觉好浪漫（）砰的一枪，释怀的倒在花海中，温和的阳光洒在尚有余温的尸体上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2039041497098842383",
+        "created_at": "2026-03-31T18:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039041497098842383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qikai0904/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/qikai0904/status/2038964641582497965",
+              "start": 16,
+              "url": "https://t.co/d0qwnwxzqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039041497098842383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038964641582497965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最希望的死亡方式，天天都在幻想 https://t.co/d0qwnwxzqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 50,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 396
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065432053399888195",
+    "created_at": "2026-06-12T17:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065492977234190658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675225794375987201",
+          "start": 0,
+          "username": "Trotter55569805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065492977234190658",
+    "in_reply_to_user_id": "1675225794375987201",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065490802738872649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trotter55569805 OK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065432053399888195",
+        "created_at": "2026-06-12T17:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065492977234190658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675225794375987201",
+              "start": 0,
+              "username": "Trotter55569805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065492977234190658",
+        "in_reply_to_user_id": "1675225794375987201",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065490802738872649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trotter55569805 OK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675225794375987201",
+        "conversation_id": "2065432053399888195",
+        "created_at": "2026-06-12T17:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065490802738872649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065490802738872649",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065432053399888195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 加油～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 171,
+          "like_count": 9196,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 6038
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T19:32:40.000Z",
+        "description": "失去尊严的人是得不到幸福的",
+        "id": "1675225794375987201",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "✟夏一奎✝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047282445889024000/n3Uld4Br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1143,
+          "like_count": 13842,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 6243
+        },
+        "username": "Trotter55569805",
+        "verified": false
+      }
+    ]
+  }
+}

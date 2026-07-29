@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082088450606674278",
+    "created_at": "2026-07-28T12:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082088450606674278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duanhjlt/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/duanhjlt/status/2081874960901870073",
+          "start": 30,
+          "url": "https://t.co/UYMQYhgkRY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082088450606674278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081874960901870073",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看一只可能下金蛋还可以当做畜牲随意打骂的鸡也会眼神发亮的 https://t.co/UYMQYhgkRY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081874950894370816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOROPNLXwAAVV4K.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082088450606674278",
+        "created_at": "2026-07-28T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082088450606674278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duanhjlt/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/duanhjlt/status/2081874960901870073",
+              "start": 30,
+              "url": "https://t.co/UYMQYhgkRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082088450606674278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081874960901870073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看一只可能下金蛋还可以当做畜牲随意打骂的鸡也会眼神发亮的 https://t.co/UYMQYhgkRY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081874950894370816"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2081874960901870073",
+        "created_at": "2026-07-27T22:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081874960901870073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hnVYe7sqo",
+              "end": 42,
+              "expanded_url": "https://x.com/duanhjlt/status/2081874960901870073/photo/1",
+              "media_key": "3_2081874950894370816",
+              "start": 19,
+              "url": "https://t.co/4hnVYe7sqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081874960901870073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 145784,
+          "like_count": 988,
+          "quote_count": 6,
+          "reply_count": 228,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "为什么穷人喜欢将希望寄托在下一代上？ https://t.co/4hnVYe7sqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 183,
+          "like_count": 20660,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 9898
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "搞钱、打工、阶层下滑、中年焦虑。\n记录普通人怎么在这个时代硬撑着活。",
+        "id": "340107534",
+        "name": "赴野",
+        "pinned_tweet_id": "2072130137555083762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24528,
+          "following_count": 1075,
+          "like_count": 815,
+          "listed_count": 107,
+          "media_count": 8115,
+          "tweet_count": 14766
+        },
+        "url": "",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

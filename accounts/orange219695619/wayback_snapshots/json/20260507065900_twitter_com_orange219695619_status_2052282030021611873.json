@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052180573721071637",
+    "created_at": "2026-05-07T06:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052282030021611873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600811336010674176",
+          "start": 0,
+          "username": "Chu9w0ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052282030021611873",
+    "in_reply_to_user_id": "1600811336010674176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052180573721071637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu9w0ww 从外往里刷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052180573721071637",
+        "created_at": "2026-05-07T06:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052282030021611873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600811336010674176",
+              "start": 0,
+              "username": "Chu9w0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052282030021611873",
+        "in_reply_to_user_id": "1600811336010674176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052180573721071637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu9w0ww 从外往里刷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600811336010674176",
+        "conversation_id": "2052180573721071637",
+        "created_at": "2026-05-07T00:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052180573721071637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052180573721071637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6036,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特到底是从上往下刷还是从下往上刷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 96,
+          "like_count": 2148,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2343
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T11:15:53.000Z",
+        "description": "",
+        "id": "1600811336010674176",
+        "name": "Chu9w0ww",
+        "pinned_tweet_id": "1951923527482790305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653423862753935360/WRP832Lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4053,
+          "following_count": 36,
+          "like_count": 6563,
+          "listed_count": 14,
+          "media_count": 17,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Chu9w0ww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2078436646425682214",
+    "created_at": "2026-07-19T07:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078746343443714132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565539347176165376",
+          "start": 0,
+          "username": "sngtihng1"
+        },
+        {
+          "end": 25,
+          "id": "1983919037810962432",
+          "start": 11,
+          "username": "orange6699166"
+        },
+        {
+          "end": 37,
+          "id": "2044796233508605952",
+          "start": 26,
+          "username": "yue_li0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078746343443714132",
+    "in_reply_to_user_id": "1565539347176165376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078717827041968336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngtihng1 @orange6699166 @yue_li0712 ftm那个好像也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2078436646425682214",
+        "created_at": "2026-07-19T07:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078746343443714132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565539347176165376",
+              "start": 0,
+              "username": "sngtihng1"
+            },
+            {
+              "end": 25,
+              "id": "1983919037810962432",
+              "start": 11,
+              "username": "orange6699166"
+            },
+            {
+              "end": 37,
+              "id": "2044796233508605952",
+              "start": 26,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078746343443714132",
+        "in_reply_to_user_id": "1565539347176165376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078717827041968336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngtihng1 @orange6699166 @yue_li0712 ftm那个好像也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565539347176165376",
+        "conversation_id": "2078436646425682214",
+        "created_at": "2026-07-19T05:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078717827041968336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 31,
+              "id": "1983919037810962432",
+              "start": 17,
+              "username": "orange6699166"
+            },
+            {
+              "end": 43,
+              "id": "2044796233508605952",
+              "start": 32,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078717827041968336",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078639606560694609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @orange6699166 @yue_li0712 本来就可以吧，看过这样的新闻，但ftm栽树还是做不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 180,
+          "like_count": 18491,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 9228
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T03:18:09.000Z",
+        "description": "无糖马蹄飞。身高182cm 体重125斤 \n｜ag女性恋 双｜地雷系｜安虚｜躁郁｜洁癖｜多动adhd｜扁头｜拖延｜讨好型｜偏执型｜infp｜中专｜手写输入｜左利手｜素食、对辣过敏｜孙抗v朴银动物园神带｜西海｜炼铜｜反抄袭｜反反AI｜反流浪猫｜系统宿主",
+        "id": "1565539347176165376",
+        "location": "北京",
+        "name": "-_・)ﾝ♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852878440950812672/k8FfBGif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 191,
+          "like_count": 21681,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "sngtihng1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T15:29:11.000Z",
+        "description": "推主是跨性别女，m，179/60kg",
+        "id": "1983919037810962432",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983919237950533632/nGPoOIGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 212,
+          "like_count": 1752,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "orange6699166",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜中术｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜不定期会发一些COS照｜同类互fo喵｜精神支柱：@hn_luotianyi712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 128,
+                "username": "hn_luotianyi712"
+              }
+            ]
+          }
+        },
+        "id": "2044796233508605952",
+        "location": "瓦纳海姆",
+        "name": "曦玥玥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 118,
+          "like_count": 2972,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": true
+      }
+    ]
+  }
+}

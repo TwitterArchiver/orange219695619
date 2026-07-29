@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070481154755711197",
+    "created_at": "2026-06-26T12:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070481154755711197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022652917606682630",
+          "start": 3,
+          "username": "hitochousub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070481154755711197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070466832050663453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitochousub: 想死的念头一直在脑袋里面消散不去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070481154755711197",
+        "created_at": "2026-06-26T12:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070481154755711197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022652917606682630",
+              "start": 3,
+              "username": "hitochousub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070481154755711197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070466832050663453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitochousub: 想死的念头一直在脑袋里面消散不去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022652917606682630",
+        "conversation_id": "2070466832050663453",
+        "created_at": "2026-06-26T11:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070466832050663453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070466832050663453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想死的念头一直在脑袋里面消散不去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 194,
+          "like_count": 13308,
+          "listed_count": 2,
+          "media_count": 448,
+          "tweet_count": 7616
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T12:43:38.000Z",
+        "description": "壁打ち",
+        "id": "2022652917606682630",
+        "name": "返事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046055821365403648/GPxFbjMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "hitochousub",
+        "verified": false
+      }
+    ]
+  }
+}

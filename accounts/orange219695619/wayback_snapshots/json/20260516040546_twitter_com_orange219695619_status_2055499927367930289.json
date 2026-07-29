@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2055499927367930289",
+    "created_at": "2026-05-16T04:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055499927367930289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789599446881513472",
+          "start": 3,
+          "username": "xchase173294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055499927367930289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054805910690922516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xchase173294: 我真就不懂了 \n\n有些app退出或者卸载的时候显示什么“残忍离开”“狠心拒绝” \n\n你装nm呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2055499927367930289",
+        "created_at": "2026-05-16T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055499927367930289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789599446881513472",
+              "start": 3,
+              "username": "xchase173294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055499927367930289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054805910690922516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xchase173294: 我真就不懂了 \n\n有些app退出或者卸载的时候显示什么“残忍离开”“狠心拒绝” \n\n你装nm呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789599446881513472",
+        "conversation_id": "2054805910690922516",
+        "created_at": "2026-05-14T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054805910690922516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054805910690922516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 282154,
+          "like_count": 4847,
+          "quote_count": 8,
+          "reply_count": 193,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "我真就不懂了 \n\n有些app退出或者卸载的时候显示什么“残忍离开”“狠心拒绝” \n\n你装nm呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 119,
+          "like_count": 3646,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 3250
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T10:12:25.000Z",
+        "description": "🚀985经济学本科在读\n🇸🇬非传统NUS留子\n👀现象思考、经济分析",
+        "id": "1789599446881513472",
+        "name": "Xu",
+        "pinned_tweet_id": "2042954888179781717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044695956634157056/gXVFkotO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 300,
+          "like_count": 4205,
+          "listed_count": 9,
+          "media_count": 498,
+          "tweet_count": 3745
+        },
+        "username": "xchase173294",
+        "verified": true
+      }
+    ]
+  }
+}

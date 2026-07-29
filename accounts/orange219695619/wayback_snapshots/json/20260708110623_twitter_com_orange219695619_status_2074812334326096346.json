@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074812328907030528"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074812334326096346",
+    "created_at": "2026-07-08T11:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074812334326096346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2eoY19w1HQ",
+          "end": 35,
+          "expanded_url": "https://x.com/orange219695619/status/2074812334326096346/photo/1",
+          "media_key": "3_2074812328907030528",
+          "start": 12,
+          "url": "https://t.co/2eoY19w1HQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074812334326096346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大金比大红贵？\n你妈的 https://t.co/2eoY19w1HQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2074812328907030528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs20gAawAAyqko.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074812328907030528"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074812334326096346",
+        "created_at": "2026-07-08T11:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074812334326096346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eoY19w1HQ",
+              "end": 35,
+              "expanded_url": "https://x.com/orange219695619/status/2074812334326096346/photo/1",
+              "media_key": "3_2074812328907030528",
+              "start": 12,
+              "url": "https://t.co/2eoY19w1HQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074812334326096346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大金比大红贵？\n你妈的 https://t.co/2eoY19w1HQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 173,
+          "like_count": 16103,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 8438
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

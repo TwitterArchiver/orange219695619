@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046799552133611520"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046620706872676846",
+    "created_at": "2026-04-22T03:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046799559012290607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mbuumGl7jt",
+          "end": 66,
+          "expanded_url": "https://x.com/orange219695619/status/2046799559012290607/photo/1",
+          "media_key": "3_2046799552133611520",
+          "start": 43,
+          "url": "https://t.co/mbuumGl7jt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046799559012290607",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046620706872676846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Min1440r 你不许玩…嗷不对你可以玩三角洲🤗\n你怎么知道我在飞升出步战车了🥰 https://t.co/mbuumGl7jt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2046799552133611520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGexWSdaQAAJB3h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2046620695925608448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcOrfKb0AAMYkq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2046620695963336704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcOrfTbgAANuvm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2046620695967531008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcOrfUbgAARIxM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2046620695891935233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGcOrfCaAAEZkSW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046799552133611520"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046620706872676846",
+        "created_at": "2026-04-22T03:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T04:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046799559012290607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mbuumGl7jt",
+              "end": 66,
+              "expanded_url": "https://x.com/orange219695619/status/2046799559012290607/photo/1",
+              "media_key": "3_2046799552133611520",
+              "start": 43,
+              "url": "https://t.co/mbuumGl7jt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046799559012290607",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046620706872676846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Min1440r 你不许玩…嗷不对你可以玩三角洲🤗\n你怎么知道我在飞升出步战车了🥰 https://t.co/mbuumGl7jt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046620695925608448",
+            "3_2046620695963336704",
+            "3_2046620695967531008",
+            "3_2046620695891935233"
+          ]
+        },
+        "author_id": "2001670790669058048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046620706872676846",
+        "created_at": "2026-04-21T16:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046620706872676846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxWOlpOUdH",
+              "end": 23,
+              "expanded_url": "https://x.com/Min1440r/status/2046620706872676846/photo/1",
+              "media_key": "3_2046620695925608448",
+              "start": 0,
+              "url": "https://t.co/KxWOlpOUdH"
+            },
+            {
+              "display_url": "pic.x.com/KxWOlpOUdH",
+              "end": 23,
+              "expanded_url": "https://x.com/Min1440r/status/2046620706872676846/photo/1",
+              "media_key": "3_2046620695963336704",
+              "start": 0,
+              "url": "https://t.co/KxWOlpOUdH"
+            },
+            {
+              "display_url": "pic.x.com/KxWOlpOUdH",
+              "end": 23,
+              "expanded_url": "https://x.com/Min1440r/status/2046620706872676846/photo/1",
+              "media_key": "3_2046620695967531008",
+              "start": 0,
+              "url": "https://t.co/KxWOlpOUdH"
+            },
+            {
+              "display_url": "pic.x.com/KxWOlpOUdH",
+              "end": 23,
+              "expanded_url": "https://x.com/Min1440r/status/2046620706872676846/photo/1",
+              "media_key": "3_2046620695891935233",
+              "start": 0,
+              "url": "https://t.co/KxWOlpOUdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046620706872676846",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KxWOlpOUdH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 79,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1347
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "想要和大家所有人一起玩游戏！想和你一起。 痛苦与欢乐让我们一起面对。 ip江苏苏州/江苏盐城来找我玩来找我玩！ 我爱你们。NGL提问：https://t.co/9e5mRIkpE5 负能里推：@Stressmaxp加我q好嘛可能会注销 。💕@wlxlmjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Stressmaxp"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "wlxlmjj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 90,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 67,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 69,
+          "like_count": 2691,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1577
+        },
+        "username": "Min1440r",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070854658156032108",
+    "created_at": "2026-06-28T03:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071071424455028986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025558473082322944",
+          "start": 0,
+          "username": "godgunnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071071424455028986",
+    "in_reply_to_user_id": "2025558473082322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071060012311675367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godgunnnnn 好呀🥰\n感觉会很惬意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-28T03:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071071424455028986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025558473082322944",
+              "start": 0,
+              "username": "godgunnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071071424455028986",
+        "in_reply_to_user_id": "2025558473082322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071060012311675367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godgunnnnn 好呀🥰\n感觉会很惬意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025558473082322944",
+        "conversation_id": "2070854658156032108",
+        "created_at": "2026-06-28T02:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071060012311675367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071060012311675367",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070854658156032108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 陪我喝酒 陪我逛街 陪我在城墙下面喝茶 陪我打游戏 陪我吃好多好多好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 192,
+          "like_count": 13760,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 7789
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-22T13:09:15.000Z",
+        "description": "07大学生  还在读读读读读  \n目标是做一个温柔的人（什）",
+        "id": "2025558473082322944",
+        "location": "中国西安",
+        "name": "王梓瑾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025558571937861633/IH4GpEEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "godgunnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

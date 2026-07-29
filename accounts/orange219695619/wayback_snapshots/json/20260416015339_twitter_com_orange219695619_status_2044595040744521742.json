@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2044450406323847589",
+    "created_at": "2026-04-16T01:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044595040744521742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952044125454475264",
+          "start": 0,
+          "username": "Neflibata0626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044595040744521742",
+    "in_reply_to_user_id": "1952044125454475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044450406323847589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neflibata0626 政治敏感可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2044450406323847589",
+        "created_at": "2026-04-16T01:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044595040744521742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952044125454475264",
+              "start": 0,
+              "username": "Neflibata0626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044595040744521742",
+        "in_reply_to_user_id": "1952044125454475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044450406323847589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neflibata0626 政治敏感可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952044125454475264",
+        "conversation_id": "2044450406323847589",
+        "created_at": "2026-04-15T16:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044450406323847589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044450406323847589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人和我聊一下敏感的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 76,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1067
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "一个人鹅已｜07 istj ｜大一 商科在学中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8B%9C%E8%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8B%9C%E8%A7%81%E5%8E%A8%E5%B8%88%E9%95%BF%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/qioAo4sOTt"
+              }
+            ]
+          }
+        },
+        "id": "1952044125454475264",
+        "location": "距离你钱包的-1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042199778004811776/BGHy2wc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 117,
+          "like_count": 8311,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/qioAo4sOTt",
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

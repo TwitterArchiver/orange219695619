@@ -1,0 +1,753 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054866686978007073",
+    "created_at": "2026-05-14T11:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054879563436712354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025951595020845056",
+          "start": 0,
+          "username": "fhv932189957574"
+        },
+        {
+          "end": 33,
+          "id": "1874334613403033602",
+          "start": 17,
+          "username": "WKB623Wonderful"
+        },
+        {
+          "end": 42,
+          "id": "1554298614406492161",
+          "start": 34,
+          "username": "ruiccai"
+        },
+        {
+          "end": 58,
+          "id": "1183860024",
+          "start": 43,
+          "username": "PrecisTheodore"
+        },
+        {
+          "end": 75,
+          "id": "1699273459325390848",
+          "start": 59,
+          "username": "DurantRaym93677"
+        },
+        {
+          "end": 90,
+          "id": "1946593949180993536",
+          "start": 76,
+          "username": "RogerDisboard"
+        },
+        {
+          "end": 105,
+          "id": "1834507955804536833",
+          "start": 91,
+          "username": "qianye_zhenyu"
+        },
+        {
+          "end": 118,
+          "id": "2052775240103559168",
+          "start": 106,
+          "username": "yangtao1708"
+        },
+        {
+          "end": 128,
+          "id": "1824126478046613504",
+          "start": 119,
+          "username": "Cielrkka"
+        },
+        {
+          "end": 144,
+          "id": "2052922316745809920",
+          "start": 129,
+          "username": "takahashiAya57"
+        },
+        {
+          "end": 161,
+          "id": "2019293013114253313",
+          "start": 145,
+          "username": "seeyouinthe2999"
+        },
+        {
+          "end": 174,
+          "id": "1914766734420279296",
+          "start": 162,
+          "username": "yangtao1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054879563436712354",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054866686978007073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhv932189957574 @WKB623Wonderful @ruiccai @PrecisTheodore @DurantRaym93677 @RogerDisboard @qianye_zhenyu @yangtao1708 @Cielrkka @takahashiAya57 @seeyouinthe2999 @yangtao1729 已严肃投票"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2054866676777361408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRaWvoaIAA4wJG.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054866686978007073",
+        "created_at": "2026-05-14T11:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054879563436712354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            },
+            {
+              "end": 33,
+              "id": "1874334613403033602",
+              "start": 17,
+              "username": "WKB623Wonderful"
+            },
+            {
+              "end": 42,
+              "id": "1554298614406492161",
+              "start": 34,
+              "username": "ruiccai"
+            },
+            {
+              "end": 58,
+              "id": "1183860024",
+              "start": 43,
+              "username": "PrecisTheodore"
+            },
+            {
+              "end": 75,
+              "id": "1699273459325390848",
+              "start": 59,
+              "username": "DurantRaym93677"
+            },
+            {
+              "end": 90,
+              "id": "1946593949180993536",
+              "start": 76,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 105,
+              "id": "1834507955804536833",
+              "start": 91,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 118,
+              "id": "2052775240103559168",
+              "start": 106,
+              "username": "yangtao1708"
+            },
+            {
+              "end": 128,
+              "id": "1824126478046613504",
+              "start": 119,
+              "username": "Cielrkka"
+            },
+            {
+              "end": 144,
+              "id": "2052922316745809920",
+              "start": 129,
+              "username": "takahashiAya57"
+            },
+            {
+              "end": 161,
+              "id": "2019293013114253313",
+              "start": 145,
+              "username": "seeyouinthe2999"
+            },
+            {
+              "end": 174,
+              "id": "1914766734420279296",
+              "start": 162,
+              "username": "yangtao1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054879563436712354",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054866686978007073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 @WKB623Wonderful @ruiccai @PrecisTheodore @DurantRaym93677 @RogerDisboard @qianye_zhenyu @yangtao1708 @Cielrkka @takahashiAya57 @seeyouinthe2999 @yangtao1729 已严肃投票"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054866676777361408"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2054866686978007073",
+        "created_at": "2026-05-14T10:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054866686978007073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 35,
+              "id": "1874334613403033602",
+              "start": 19,
+              "username": "WKB623Wonderful"
+            },
+            {
+              "end": 46,
+              "id": "1554298614406492161",
+              "start": 38,
+              "username": "ruiccai"
+            },
+            {
+              "end": 64,
+              "id": "1183860024",
+              "start": 49,
+              "username": "PrecisTheodore"
+            },
+            {
+              "end": 83,
+              "id": "1699273459325390848",
+              "start": 67,
+              "username": "DurantRaym93677"
+            },
+            {
+              "end": 100,
+              "id": "1946593949180993536",
+              "start": 86,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 117,
+              "id": "1834507955804536833",
+              "start": 103,
+              "username": "qianye_zhenyu"
+            },
+            {
+              "end": 132,
+              "id": "2052775240103559168",
+              "start": 120,
+              "username": "yangtao1708"
+            },
+            {
+              "end": 144,
+              "id": "1824126478046613504",
+              "start": 135,
+              "username": "Cielrkka"
+            },
+            {
+              "end": 162,
+              "id": "2052922316745809920",
+              "start": 147,
+              "username": "takahashiAya57"
+            },
+            {
+              "end": 181,
+              "id": "2019293013114253313",
+              "start": 165,
+              "username": "seeyouinthe2999"
+            },
+            {
+              "end": 196,
+              "id": "1914766734420279296",
+              "start": 184,
+              "username": "yangtao1729"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYD2ueY3TA",
+              "end": 234,
+              "expanded_url": "https://x.com/fhv932189957574/status/2054866686978007073/photo/1",
+              "media_key": "3_2054866676777361408",
+              "start": 211,
+              "url": "https://t.co/sYD2ueY3TA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054866686978007073",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@orange219695619 \n\n@WKB623Wonderful \n\n@ruiccai \n\n@PrecisTheodore \n\n@DurantRaym93677 \n\n@RogerDisboard \n\n@qianye_zhenyu \n\n@yangtao1708 \n\n@Cielrkka \n\n@takahashiAya57 \n\n@seeyouinthe2999 \n\n@yangtao1729 \n\n互关全来给我投票😭😭😭 https://t.co/sYD2ueY3TA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 114,
+          "like_count": 3354,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3099
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "小号@lranaissocute有点死了丨求互相骚扰朋友千万千万要骚扰我丨自私希望大家活着｜不跨不割｜不健不聊黄｜不遭禁言有时安慰人｜卑微的复读机｜不是健全b ｜爱好纯随机｜疑似无性恋｜但是无比缺爱｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "lranaissocute"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "location": "万达广场",
+        "name": "f hv",
+        "pinned_tweet_id": "2054497226811228654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 2002,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 623
+        },
+        "username": "fhv932189957574",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T06:00:23.000Z",
+        "description": "祥（さき）...私、気づいた。オタクは人生だって。 モ「このアカウントは非公式のなりきりアカウントだよ。公式とは全く関係ないからね。ちなみに私は同担も他担も大歓迎だよ」ﾑｯ「推し活...楽しくないって思ったこと...一度もない」",
+        "id": "1874334613403033602",
+        "location": "月ノ森女子学園",
+        "name": "オタクに目覚めた若葉睦",
+        "pinned_tweet_id": "1906552565464174632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008587907481907200/qvMO2J1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3073,
+          "following_count": 750,
+          "like_count": 19647,
+          "listed_count": 4,
+          "media_count": 5303,
+          "tweet_count": 10540
+        },
+        "username": "WKB623Wonderful",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:51:03.000Z",
+        "description": "",
+        "id": "1554298614406492161",
+        "name": "roy cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894762066738872320/locW_Q9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 96,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "ruiccai",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-15T21:45:04.000Z",
+        "description": "キャリアと自立を大事にしています。\n一人の女性として誇りを持って生きたい。\n性的な誘いには一切興味ありません。\n心で繋がれる人とだけ、丁寧に向き合いたいです。",
+        "id": "1183860024",
+        "name": "みお",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946926413426159616/j4ymAhSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 430,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 59
+        },
+        "username": "PrecisTheodore",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 サクラみ🥦⛩️",
+        "pinned_tweet_id": "2037423075608936457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 3263,
+          "like_count": 46126,
+          "listed_count": 16,
+          "media_count": 539,
+          "tweet_count": 11148
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008出厂/（希望）永远是12岁/不o不割不健全/友跨/妄想成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/逃生舱@RogerDisboardex/和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "RogerDisboardex"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2053853109173240269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1054,
+          "like_count": 4361,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1049
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T08:22:49.000Z",
+        "description": "07年传奇耐杀王美术生再次复活！！！\n（大家可以叫我阿夜或是阿迁都行喔ww\n不喜欢被别人贴上标签//喜欢一个人安静//所以我简介到底要写什么啊淦！\n主玩明日方舟，终末地，wt，hoi4，魔裁｜最喜欢二阶堂希罗亲！！\n现阶段躺平中。欢迎互fo🌹",
+        "id": "1834507955804536833",
+        "location": "南极洲",
+        "name": "遷鵺_SENNEU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047367942644649984/nEimgL7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 1606,
+          "like_count": 34571,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 881
+        },
+        "username": "qianye_zhenyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T15:39:02.000Z",
+        "description": "男♂\n🤤@xideerdaimu          \n                                          我小弟@yangtao1729",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "xideerdaimu"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "yangtao1729"
+              }
+            ]
+          }
+        },
+        "id": "2052775240103559168",
+        "name": "堕天使与善恶魔",
+        "pinned_tweet_id": "2052817565878296713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052778327556210688/4DgWzCnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 30,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 193
+        },
+        "username": "yangtao1708",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:50:36.000Z",
+        "description": "od｜交友互fo 🎱聊天💬｜INFP｜穿孔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sasiverer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sasiverer",
+                "start": 0,
+                "url": "https://t.co/hRmm2ewQEd"
+              }
+            ]
+          }
+        },
+        "id": "1824126478046613504",
+        "location": "第四高原",
+        "name": "Ciel｜求交友版！🎀",
+        "pinned_tweet_id": "2042224437588873235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040704766712664064/TIlVUDv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 116,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/hRmm2ewQEd",
+        "username": "Cielrkka",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T01:25:43.000Z",
+        "description": "かわりにこの終点に、夏を教えてくれ。\n我是小药。\n18 ↓｜生日2013.5.7｜低龄傻福｜不登校｜不od 自残 ｜中抑中焦\n只存在于互联网的天使",
+        "id": "2052922316745809920",
+        "location": "梦",
+        "name": "盛夏将我灼伤",
+        "pinned_tweet_id": "2053220880017490021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052930389438767104/b5GTTuDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "takahashiAya57",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊 mtf 抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥马库斯爱吃蛋糕💊​🏳️‍⚧️",
+        "pinned_tweet_id": "2051915709974974926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 711,
+          "like_count": 2860,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T19:42:30.000Z",
+        "description": "♂男\n                 永远的@XiShangguan    \n                   没有自我介绍喔，我不配被认识喵。                                               我大哥@yangtao1708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "XiShangguan"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "yangtao1708"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangtao1729",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangtao1729",
+                "start": 0,
+                "url": "https://t.co/MjsQHi05n5"
+              }
+            ]
+          }
+        },
+        "id": "1914766734420279296",
+        "location": "下界",
+        "name": "白骑士与刺玫瑰",
+        "pinned_tweet_id": "2053721671597760852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000433652501774336/VpJJuMMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 232,
+          "like_count": 17029,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 8202
+        },
+        "url": "https://t.co/MjsQHi05n5",
+        "username": "yangtao1729",
+        "verified": false
+      }
+    ]
+  }
+}

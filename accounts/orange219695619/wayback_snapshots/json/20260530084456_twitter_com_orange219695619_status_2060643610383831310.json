@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060632693671653414",
+    "created_at": "2026-05-30T08:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060643610383831310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060643610383831310",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060632693671653414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 好萌🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7070,
+        "height": 1280,
+        "media_key": "13_2060632276804026368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060632276804026368/img/-yQtw8pcIa1JMl8e.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/vid/avc1/320x568/gjmIxrnf1zSTvYmG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/vid/avc1/480x852/6XecfBEEtEZ4Sv42.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/vid/avc1/720x1280/8ctPW-QmKuSr4ylz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060632276804026368/pl/Sew_3-8oJ7XcgUyp.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060632693671653414",
+        "created_at": "2026-05-30T08:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060643610383831310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060643610383831310",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060632693671653414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 好萌🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060632276804026368"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2060632693671653414",
+        "created_at": "2026-05-30T08:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060632693671653414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjgDdgSIjk",
+              "end": 49,
+              "expanded_url": "https://x.com/wmy072011/status/2060632693671653414/video/1",
+              "media_key": "13_2060632276804026368",
+              "start": 26,
+              "url": "https://t.co/IjgDdgSIjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060632693671653414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我真的很讨厌斜刘海 但我忽然觉得斜刘海还挺萌的 https://t.co/IjgDdgSIjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 145,
+          "like_count": 6377,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 4687
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利\n宝宝：@OTxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "OTxiashu"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 457,
+          "like_count": 49408,
+          "listed_count": 1,
+          "media_count": 1576,
+          "tweet_count": 15391
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

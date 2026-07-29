@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2073392103347065029",
+    "created_at": "2026-07-04T15:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073422170878099593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569933180270161920",
+          "start": 0,
+          "username": "AcdeAsdff"
+        },
+        {
+          "end": 21,
+          "id": "162974851",
+          "start": 11,
+          "username": "Paramjitt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073422170878099593",
+    "in_reply_to_user_id": "1569933180270161920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073399405907198448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcdeAsdff @Paramjitt 别说，这玩意真好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2073392103347065029",
+        "created_at": "2026-07-04T15:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073422170878099593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569933180270161920",
+              "start": 0,
+              "username": "AcdeAsdff"
+            },
+            {
+              "end": 21,
+              "id": "162974851",
+              "start": 11,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073422170878099593",
+        "in_reply_to_user_id": "1569933180270161920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073399405907198448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcdeAsdff @Paramjitt 别说，这玩意真好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569933180270161920",
+        "conversation_id": "2073392103347065029",
+        "created_at": "2026-07-04T13:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073399405907198448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "162974851",
+              "start": 0,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073399405907198448",
+        "in_reply_to_user_id": "162974851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073399080055890263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paramjitt 呃啊6202了真能拿这玩意打流感吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 196,
+          "like_count": 15238,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 8159
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T06:17:08.000Z",
+        "description": "可能是跨女/04/已读乱赞/\n/ngl.link/acdeasdff1",
+        "id": "1569933180270161920",
+        "name": "AcdeAsdff",
+        "pinned_tweet_id": "1913861360020308384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048186566905122816/qp4ZdxZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 269,
+          "like_count": 25428,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 2656
+        },
+        "url": "",
+        "username": "AcdeAsdff",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 32,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 9,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 309,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

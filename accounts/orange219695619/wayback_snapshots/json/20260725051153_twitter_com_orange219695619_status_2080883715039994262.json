@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080685664052641891",
+    "created_at": "2026-07-25T05:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080883715039994262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        },
+        {
+          "end": 28,
+          "id": "2080208153837449216",
+          "start": 15,
+          "username": "Chu_Echooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080883715039994262",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080879337146900681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@moremoreagain @Chu_Echooooo 确实不好认出来（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080685664052641891",
+        "created_at": "2026-07-25T05:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080883715039994262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            },
+            {
+              "end": 28,
+              "id": "2080208153837449216",
+              "start": 15,
+              "username": "Chu_Echooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080883715039994262",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080879337146900681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@moremoreagain @Chu_Echooooo 确实不好认出来（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933126466666496",
+        "conversation_id": "2080685664052641891",
+        "created_at": "2026-07-25T04:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080879337146900681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 30,
+              "id": "2080208153837449216",
+              "start": 17,
+              "username": "Chu_Echooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080879337146900681",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080836458211061828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@orange219695619 @Chu_Echooooo （完全认不出来恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 182,
+          "like_count": 19951,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 9637
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "轻薄欢谑｜自诩为非自愿圣人｜审判我的一个就够",
+        "id": "1862933126466666496",
+        "location": "上阙",
+        "name": "相公痴",
+        "pinned_tweet_id": "2041380219974787240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 1115,
+          "like_count": 76435,
+          "listed_count": 4,
+          "media_count": 1686,
+          "tweet_count": 37654
+        },
+        "url": "",
+        "username": "moremoreagain",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-23T08:29:22.000Z",
+        "description": "猫叫楚点点/喜欢女孩",
+        "id": "2080208153837449216",
+        "location": "电饭煲",
+        "name": "阿楚菇凉",
+        "pinned_tweet_id": "2080227803837116509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080210988859789312/VnncFyyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 27,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Chu_Echooooo",
+        "verified": false
+      }
+    ]
+  }
+}

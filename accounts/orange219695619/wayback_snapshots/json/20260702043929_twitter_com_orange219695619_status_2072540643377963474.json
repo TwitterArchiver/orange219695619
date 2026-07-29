@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2072540643377963474",
+    "created_at": "2026-07-02T04:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072540643377963474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YNxxxjjkk/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/YNxxxjjkk/status/2070067641952485384",
+          "start": 19,
+          "url": "https://t.co/MbMc5skuvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072540643377963474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070067641952485384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好长时间没见到你了，不会又被封了吧😨 https://t.co/MbMc5skuvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2070067639603617792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpbjO-a4AAtZGz.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2072540643377963474",
+        "created_at": "2026-07-02T04:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072540643377963474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YNxxxjjkk/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/YNxxxjjkk/status/2070067641952485384",
+              "start": 19,
+              "url": "https://t.co/MbMc5skuvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072540643377963474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070067641952485384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好长时间没见到你了，不会又被封了吧😨 https://t.co/MbMc5skuvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070067639603617792"
+          ]
+        },
+        "author_id": "2062972889729847296",
+        "conversation_id": "2070067641952485384",
+        "created_at": "2026-06-25T08:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070067641952485384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuIa1ZLPNY",
+              "end": 49,
+              "expanded_url": "https://x.com/YNxxxjjkk/status/2070067641952485384/photo/1",
+              "media_key": "3_2070067639603617792",
+              "start": 26,
+              "url": "https://t.co/zuIa1ZLPNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070067641952485384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2172,
+          "like_count": 22,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我是旖旎。我的前三世都被封锁了。马斯克，你无敌了。 https://t.co/zuIa1ZLPNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 193,
+          "like_count": 14751,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 8032
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T19:01:12.000Z",
+        "description": "我的病历本。\n前三世都被封了。马斯克，你就追着我杀吧。",
+        "id": "2062972889729847296",
+        "name": "YN",
+        "pinned_tweet_id": "2070067641952485384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973424906182656/JZRg31DI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "YNxxxjjkk",
+        "verified": false
+      }
+    ]
+  }
+}

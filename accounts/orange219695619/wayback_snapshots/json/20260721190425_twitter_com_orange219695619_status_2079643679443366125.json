@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2079417795792773514",
+    "created_at": "2026-07-21T19:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079643679443366125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057055984338833408",
+          "start": 0,
+          "username": "Yuramyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079643679443366125",
+    "in_reply_to_user_id": "2057055984338833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079417795792773514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuramyn 哦对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2079417795792773514",
+        "created_at": "2026-07-21T19:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079643679443366125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057055984338833408",
+              "start": 0,
+              "username": "Yuramyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079643679443366125",
+        "in_reply_to_user_id": "2057055984338833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079417795792773514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuramyn 哦对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057055984338833408",
+        "conversation_id": "2079417795792773514",
+        "created_at": "2026-07-21T04:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079417795792773514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079417795792773514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 20997,
+          "like_count": 347,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "能不能不要再做手工礼物给对象了，你对象根本不需要，只有你自己才享受到了做手工的这个过程，到时候还要埋怨对方看不见你的付出，你那纯纯自我感动行吗？还不如把它送给同样喜欢这种手工的人，还有点意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19225,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 9449
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T11:11:44.000Z",
+        "description": "本鱼决定断更一段时间…😌《没门》，不接广",
+        "id": "2057055984338833408",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2078829699443368151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 8,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "Yuramyn",
+        "verified": true
+      }
+    ]
+  }
+}

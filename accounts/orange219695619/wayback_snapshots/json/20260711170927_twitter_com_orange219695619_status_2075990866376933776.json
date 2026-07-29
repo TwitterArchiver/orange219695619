@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075933579226620175",
+    "created_at": "2026-07-11T17:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075990866376933776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819726141864964096",
+          "start": 0,
+          "username": "Harukawaiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075990866376933776",
+    "in_reply_to_user_id": "1819726141864964096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075984232065933379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harukawaiiko 好喝嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075933579226620175",
+        "created_at": "2026-07-11T17:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075990866376933776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819726141864964096",
+              "start": 0,
+              "username": "Harukawaiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075990866376933776",
+        "in_reply_to_user_id": "1819726141864964096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075984232065933379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harukawaiiko 好喝嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819726141864964096",
+        "conversation_id": "2075933579226620175",
+        "created_at": "2026-07-11T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075984232065933379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075984232065933379",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075933579226620175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 哦我曾经雪碧泡茶。剧烈冒泡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 173,
+          "like_count": 16887,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 8680
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T13:25:06.000Z",
+        "description": "僕はいいこなの？non-binary he/they  中文/Eng/日本語下手",
+        "id": "1819726141864964096",
+        "name": "葉瑠歌",
+        "pinned_tweet_id": "2073787613023228126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003412040296407040/iZnA93pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 390,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 544
+        },
+        "url": "",
+        "username": "Harukawaiiko",
+        "verified": false
+      }
+    ]
+  }
+}

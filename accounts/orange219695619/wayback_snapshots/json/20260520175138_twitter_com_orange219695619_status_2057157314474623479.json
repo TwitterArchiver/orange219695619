@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057089999137632258"
+      ],
+      "media_source_tweet_id": [
+        "2057090002933436454"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057157314474623479",
+    "created_at": "2026-05-20T17:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T18:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057157314474623479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "65328089",
+          "start": 3,
+          "username": "m_aiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R0zwxevo0l",
+          "end": 34,
+          "expanded_url": "https://x.com/m_aiu/status/2057090002933436454/photo/1",
+          "media_key": "3_2057089999137632258",
+          "start": 11,
+          "url": "https://t.co/R0zwxevo0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057157314474623479",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057090002933436454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m_aiu: https://t.co/R0zwxevo0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_2057089999137632258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxAdI2bcAIo-s1.jpg",
+        "width": 1524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057089999137632258"
+          ],
+          "media_source_tweet_id": [
+            "2057090002933436454"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057157314474623479",
+        "created_at": "2026-05-20T17:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057157314474623479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "65328089",
+              "start": 3,
+              "username": "m_aiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0zwxevo0l",
+              "end": 34,
+              "expanded_url": "https://x.com/m_aiu/status/2057090002933436454/photo/1",
+              "media_key": "3_2057089999137632258",
+              "start": 11,
+              "url": "https://t.co/R0zwxevo0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057157314474623479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057090002933436454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m_aiu: https://t.co/R0zwxevo0l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057089999137632258"
+          ]
+        },
+        "author_id": "65328089",
+        "conversation_id": "2057090002933436454",
+        "created_at": "2026-05-20T13:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057090002933436454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0zwxevo0l",
+              "end": 23,
+              "expanded_url": "https://x.com/m_aiu/status/2057090002933436454/photo/1",
+              "media_key": "3_2057089999137632258",
+              "start": 0,
+              "url": "https://t.co/R0zwxevo0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057090002933436454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 10538,
+          "like_count": 1716,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R0zwxevo0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 124,
+          "like_count": 4283,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3622
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-13T09:46:06.000Z",
+        "description": "(●◑‿◠●)フリーランスおえかきマン｜自著▶︎https://t.co/Gn0SnbkXlG｜pixiv▶︎https://t.co/dvp4dlXDNX｜他URL▶︎ https://t.co/8paDFQWukh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/43lcCcu",
+                "end": 47,
+                "expanded_url": "https://amzn.to/43lcCcu",
+                "start": 24,
+                "url": "https://t.co/Gn0SnbkXlG"
+              },
+              {
+                "display_url": "pixiv.me/m_aiu",
+                "end": 78,
+                "expanded_url": "http://pixiv.me/m_aiu",
+                "start": 55,
+                "url": "https://t.co/dvp4dlXDNX"
+              },
+              {
+                "display_url": "lit.link/mamimux3",
+                "end": 109,
+                "expanded_url": "https://lit.link/mamimux3",
+                "start": 86,
+                "url": "https://t.co/8paDFQWukh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ma-mi-mu.me",
+                "end": 23,
+                "expanded_url": "https://ma-mi-mu.me",
+                "start": 0,
+                "url": "https://t.co/jG3uGsXm3Z"
+              }
+            ]
+          }
+        },
+        "id": "65328089",
+        "location": "❌無断転載, 無断AI学習",
+        "name": "まみむ / mamimu",
+        "pinned_tweet_id": "1997104883951194370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052272573774450690/j4zaJZra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10079,
+          "following_count": 467,
+          "like_count": 20599,
+          "listed_count": 141,
+          "media_count": 2685,
+          "tweet_count": 102999
+        },
+        "url": "https://t.co/jG3uGsXm3Z",
+        "username": "m_aiu",
+        "verified": false
+      }
+    ]
+  }
+}

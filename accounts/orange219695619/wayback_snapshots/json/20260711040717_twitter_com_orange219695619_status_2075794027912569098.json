@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075780131570974878",
+    "created_at": "2026-07-11T04:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075794027912569098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1680039839209775107",
+          "start": 0,
+          "username": "A1tk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075794027912569098",
+    "in_reply_to_user_id": "1680039839209775107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075780131570974878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1tk0 用力一点就能都响了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075780131570974878",
+        "created_at": "2026-07-11T04:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075794027912569098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1680039839209775107",
+              "start": 0,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075794027912569098",
+        "in_reply_to_user_id": "1680039839209775107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075780131570974878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1tk0 用力一点就能都响了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680039839209775107",
+        "conversation_id": "2075780131570974878",
+        "created_at": "2026-07-11T03:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075780131570974878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075780131570974878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掰手指的时候不能全都响一遍会很难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 173,
+          "like_count": 16753,
+          "listed_count": 2,
+          "media_count": 511,
+          "tweet_count": 8612
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2074325692578505193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 471,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060355491285590501",
+    "created_at": "2026-05-29T18:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060435538944131184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835695498419937280",
+          "start": 0,
+          "username": "ErroR_eroi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060435538944131184",
+    "in_reply_to_user_id": "1835695498419937280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060355491285590501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErroR_eroi 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_2060355455462100992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfaXtnbUAAMINH.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060355491285590501",
+        "created_at": "2026-05-29T18:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060435538944131184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835695498419937280",
+              "start": 0,
+              "username": "ErroR_eroi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060435538944131184",
+        "in_reply_to_user_id": "1835695498419937280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060355491285590501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErroR_eroi 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060355455462100992"
+          ]
+        },
+        "author_id": "1835695498419937280",
+        "conversation_id": "2060355491285590501",
+        "created_at": "2026-05-29T13:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060355491285590501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sW8UmradmQ",
+              "end": 34,
+              "expanded_url": "https://x.com/ErroR_eroi/status/2060355491285590501/photo/1",
+              "media_key": "3_2060355455462100992",
+              "start": 11,
+              "url": "https://t.co/sW8UmradmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060355491285590501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 13766,
+          "like_count": 1082,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜发一张露脸的💜 https://t.co/sW8UmradmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 142,
+          "like_count": 6292,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 4642
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T15:01:35.000Z",
+        "description": "コスプレやイラストを投稿しています❤️アマチュア絵師で、美少女を描くのが大好きです☺️🥺",
+        "id": "1835695498419937280",
+        "name": "ErroR🤍",
+        "pinned_tweet_id": "2055281809941025178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005653125244608512/jmw6UvXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22735,
+          "following_count": 414,
+          "like_count": 2439,
+          "listed_count": 88,
+          "media_count": 104,
+          "tweet_count": 236
+        },
+        "username": "ErroR_eroi",
+        "verified": false
+      }
+    ]
+  }
+}

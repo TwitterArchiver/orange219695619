@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069812189712838815",
+    "created_at": "2026-06-24T16:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069819168812343550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1934473367245217793",
+          "start": 0,
+          "username": "ision0511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069819168812343550",
+    "in_reply_to_user_id": "1934473367245217793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069812189712838815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ision0511 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069812189712838815",
+        "created_at": "2026-06-24T16:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069819168812343550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1934473367245217793",
+              "start": 0,
+              "username": "ision0511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069819168812343550",
+        "in_reply_to_user_id": "1934473367245217793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069812189712838815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ision0511 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934473367245217793",
+        "conversation_id": "2069812189712838815",
+        "created_at": "2026-06-24T15:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069812189712838815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069812189712838815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要睡覺啦，晚安，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 195,
+          "like_count": 12762,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 7420
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:49:34.000Z",
+        "description": "叫我夾子就好 割/o 我很溫良可以來找我玩 謝謝你們的喜歡",
+        "id": "1934473367245217793",
+        "name": "為你奉上我迄今為止的人生",
+        "pinned_tweet_id": "2060428756481622093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046282060499968000/ZyyawPW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 470,
+          "like_count": 5434,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "ision0511",
+        "verified": false
+      }
+    ]
+  }
+}

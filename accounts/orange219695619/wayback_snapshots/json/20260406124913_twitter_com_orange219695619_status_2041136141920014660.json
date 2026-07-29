@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041052344348217538",
+    "created_at": "2026-04-06T12:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041136141920014660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038204190540136450",
+          "start": 0,
+          "username": "Asukav2d"
+        },
+        {
+          "end": 20,
+          "id": "1889200694986756096",
+          "start": 10,
+          "username": "OvOxiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041136141920014660",
+    "in_reply_to_user_id": "2038204190540136450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041120491361259923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukav2d @OvOxiaomi 活动还在吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041052344348217538",
+        "created_at": "2026-04-06T12:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041136141920014660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038204190540136450",
+              "start": 0,
+              "username": "Asukav2d"
+            },
+            {
+              "end": 20,
+              "id": "1889200694986756096",
+              "start": 10,
+              "username": "OvOxiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041136141920014660",
+        "in_reply_to_user_id": "2038204190540136450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041120491361259923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukav2d @OvOxiaomi 活动还在吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038204190540136450",
+        "conversation_id": "2041052344348217538",
+        "created_at": "2026-04-06T11:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041120491361259923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889200694986756096",
+              "start": 0,
+              "username": "OvOxiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041120491361259923",
+        "in_reply_to_user_id": "1889200694986756096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041052344348217538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOxiaomi 真想急头白脸的赚他们一次钱 看见那些评论刚注册花钱的我都馋哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 66,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 626
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T10:39:19.000Z",
+        "description": "纯发泄有不良影响",
+        "id": "2038204190540136450",
+        "name": "狩魔冥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038633017103790080/2qaeMe4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 63
+        },
+        "username": "Asukav2d",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "请不要骚扰我谢谢!我只是一块三文鱼和一块寿司🍣我是一只苦力怕! @OnOxiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "匿名提问在➡️",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033793301028249601/U-7a-4bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3664,
+          "following_count": 279,
+          "like_count": 28697,
+          "listed_count": 11,
+          "media_count": 934,
+          "tweet_count": 15604
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

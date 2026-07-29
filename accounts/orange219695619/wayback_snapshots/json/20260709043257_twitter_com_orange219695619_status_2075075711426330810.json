@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2075053313289232543",
+    "created_at": "2026-07-09T04:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075075711426330810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "757398339167981568",
+          "start": 0,
+          "username": "MankindFuture88"
+        },
+        {
+          "end": 31,
+          "id": "1622066090074607616",
+          "start": 17,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075075711426330810",
+    "in_reply_to_user_id": "757398339167981568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075074860737519711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MankindFuture88 @hoshinofujivy 检举一般就直接封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2075053313289232543",
+        "created_at": "2026-07-09T04:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075075711426330810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "757398339167981568",
+              "start": 0,
+              "username": "MankindFuture88"
+            },
+            {
+              "end": 31,
+              "id": "1622066090074607616",
+              "start": 17,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075075711426330810",
+        "in_reply_to_user_id": "757398339167981568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075074860737519711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MankindFuture88 @hoshinofujivy 检举一般就直接封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757398339167981568",
+        "conversation_id": "2075053313289232543",
+        "created_at": "2026-07-09T04:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075074860737519711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075074860737519711",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075053313289232543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 是不是要檢舉才會收到？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 172,
+          "like_count": 16221,
+          "listed_count": 2,
+          "media_count": 509,
+          "tweet_count": 8489
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T02:13:30.000Z",
+        "description": "香港🇭🇰出身，以邏輯和人性琢磨人類的未來，與及和極權戰鬥，求互fo；HongKonger, Shaping the human future and fighting against totalitarianism with logic and humanity, will follows back.",
+        "id": "757398339167981568",
+        "location": "Earth",
+        "name": "人類存活研究所 Mankind future",
+        "pinned_tweet_id": "1712109336338846029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740059195020599296/TbJ9LMgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 2191,
+          "like_count": 8249,
+          "listed_count": 26,
+          "media_count": 1788,
+          "tweet_count": 13255
+        },
+        "url": "",
+        "username": "MankindFuture88",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12593,
+          "following_count": 4398,
+          "like_count": 50646,
+          "listed_count": 29,
+          "media_count": 3181,
+          "tweet_count": 17385
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

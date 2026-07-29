@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2077828080958378044",
+    "created_at": "2026-07-17T18:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T19:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078179777790505143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068391308159508480",
+          "start": 0,
+          "username": "Peregrinxianze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078179777790505143",
+    "in_reply_to_user_id": "2068391308159508480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078177591555764316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peregrinxianze 你说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2077828080958378044",
+        "created_at": "2026-07-17T18:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078179777790505143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068391308159508480",
+              "start": 0,
+              "username": "Peregrinxianze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078179777790505143",
+        "in_reply_to_user_id": "2068391308159508480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078177591555764316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peregrinxianze 你说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068391308159508480",
+        "conversation_id": "2077828080958378044",
+        "created_at": "2026-07-17T17:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078177591555764316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078177591555764316",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077828080958378044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 朋友，这个世界各种各样的人太多了，我也希望你说的这些素质低下的人能够消失，但这显然不太可能，环球数十亿，即使产生这些人的概率是万里挑一，也有几十万的笨蛋在乱说话。我希望像你一样能看穿偏见和刻板印象，不被争执的戾气裹挟的人多一些，那那些人说的话自然而然成了小众，自然而然就成了笑话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 178,
+          "like_count": 18241,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 9114
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T17:52:43.000Z",
+        "description": "",
+        "id": "2068391308159508480",
+        "name": "Peregrin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068391760934682624/H-gRHfUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Peregrinxianze",
+        "verified": false
+      }
+    ]
+  }
+}

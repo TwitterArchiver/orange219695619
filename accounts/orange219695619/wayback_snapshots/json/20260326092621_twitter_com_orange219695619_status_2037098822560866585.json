@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2036819184173433091",
+    "created_at": "2026-03-26T09:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037098822560866585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820147687171530752",
+          "start": 0,
+          "username": "xueting0718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037098822560866585",
+    "in_reply_to_user_id": "1820147687171530752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036819184173433091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueting0718 男生也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2036819184173433091",
+        "created_at": "2026-03-26T09:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037098822560866585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820147687171530752",
+              "start": 0,
+              "username": "xueting0718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037098822560866585",
+        "in_reply_to_user_id": "1820147687171530752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036819184173433091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueting0718 男生也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820147687171530752",
+        "conversation_id": "2036819184173433091",
+        "created_at": "2026-03-25T14:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036819184173433091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036819184173433091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 55442,
+          "like_count": 427,
+          "quote_count": 5,
+          "reply_count": 68,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我发现自己有个小毛病，只要跟一个长得还不错的异性每天聊天，过不了多久，我就慢慢对他产生依赖了。忍不住开始幻想和他暧昧起来。要是哪天他没回消息，我就觉得空落落的，像少了点什么。现实里很多女生大概都有这种感觉吧？女生在感情上真的特别容易投入，尤其是那种聊天氛围刚好的男生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 254
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T17:20:30.000Z",
+        "description": "一个傻子室友带我来玩的，分享日常碎碎念，随便玩玩。",
+        "id": "1820147687171530752",
+        "location": "距离41.1KM",
+        "name": "婷奈奈",
+        "pinned_tweet_id": "2003697317376057419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820149161213456384/XUGJ2uQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 115,
+          "like_count": 4885,
+          "listed_count": 5,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "xueting0718",
+        "verified": false
+      }
+    ]
+  }
+}

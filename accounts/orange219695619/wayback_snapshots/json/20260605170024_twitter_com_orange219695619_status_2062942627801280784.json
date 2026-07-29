@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062725697043582976"
+      ],
+      "media_source_tweet_id": [
+        "2062725789674820039"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062942627801280784",
+    "created_at": "2026-06-05T17:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062942627801280784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1323216034396999681",
+          "start": 3,
+          "username": "ZZSSNNi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zpUGrApga",
+          "end": 65,
+          "expanded_url": "https://x.com/ZZSSNNi/status/2062725789674820039/video/1",
+          "media_key": "13_2062725697043582976",
+          "start": 42,
+          "url": "https://t.co/6zpUGrApga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062942627801280784",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4627
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062725789674820039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZSSNNi: 아닠ㅋㅋㅋㅋ눈물이나면ㅋㅋㅋ딴데가라곸ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/6zpUGrApga"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10900,
+        "height": 1280,
+        "media_key": "13_2062725697043582976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062725697043582976/img/X1E9CxZmBFmLntr0.jpg",
+        "public_metrics": {
+          "view_count": 206844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062725697043582976/vid/avc1/320x568/zjNNxo631fpOn5Og.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062725697043582976/vid/avc1/480x852/MdGsyruMxsPeOXza.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062725697043582976/vid/avc1/720x1280/loErsVfszOEllHNQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062725697043582976/pl/4LXmXPiwlHjU-DrZ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062725697043582976"
+          ],
+          "media_source_tweet_id": [
+            "2062725789674820039"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062942627801280784",
+        "created_at": "2026-06-05T17:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062942627801280784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1323216034396999681",
+              "start": 3,
+              "username": "ZZSSNNi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zpUGrApga",
+              "end": 65,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2062725789674820039/video/1",
+              "media_key": "13_2062725697043582976",
+              "start": 42,
+              "url": "https://t.co/6zpUGrApga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062942627801280784",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4627
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062725789674820039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZSSNNi: 아닠ㅋㅋㅋㅋ눈물이나면ㅋㅋㅋ딴데가라곸ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/6zpUGrApga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062725697043582976"
+          ]
+        },
+        "author_id": "1323216034396999681",
+        "conversation_id": "2062725789674820039",
+        "created_at": "2026-06-05T02:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062725789674820039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zpUGrApga",
+              "end": 52,
+              "expanded_url": "https://x.com/ZZSSNNi/status/2062725789674820039/video/1",
+              "media_key": "13_2062725697043582976",
+              "start": 29,
+              "url": "https://t.co/6zpUGrApga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062725789674820039",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1567,
+          "impression_count": 598207,
+          "like_count": 13594,
+          "quote_count": 254,
+          "reply_count": 164,
+          "retweet_count": 4627
+        },
+        "reply_settings": "everyone",
+        "text": "아닠ㅋㅋㅋㅋ눈물이나면ㅋㅋㅋ딴데가라곸ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/6zpUGrApga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 160,
+          "like_count": 7735,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 5370
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-02T10:51:10.000Z",
+        "description": "역마살 버섯팔이피플🍄‍🟫중국에서 자영업(백수)🦢제태크 초보📈3n살 한국인여성🇰🇷\n좋아하는거 위주로 아무거나 올립니다\n유튭: https://t.co/iavVtNg9et",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mogoomogoo0508",
+                "end": 92,
+                "expanded_url": "https://youtube.com/@mogoomogoo0508",
+                "start": 69,
+                "url": "https://t.co/iavVtNg9et"
+              }
+            ]
+          }
+        },
+        "id": "1323216034396999681",
+        "location": "중국 어딘가",
+        "name": "모구모구🍄",
+        "pinned_tweet_id": "2062725789674820039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642158239705092096/toqgIa3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5753,
+          "following_count": 1258,
+          "like_count": 49550,
+          "listed_count": 25,
+          "media_count": 4712,
+          "tweet_count": 14683
+        },
+        "username": "ZZSSNNi",
+        "verified": true
+      }
+    ]
+  }
+}

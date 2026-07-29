@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2040815401702203439",
+    "created_at": "2026-04-06T12:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041137436865274002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032715306632884224",
+          "start": 0,
+          "username": "omgnowihave"
+        },
+        {
+          "end": 24,
+          "id": "2028899853716320256",
+          "start": 13,
+          "username": "zzz1043903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041137436865274002",
+    "in_reply_to_user_id": "2032715306632884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040986031751872752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihave @zzz1043903 这种事情就没有必要攀比了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040986027066875904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMJ-l7bYAAtBtG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2040815401702203439",
+        "created_at": "2026-04-06T12:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041137436865274002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            },
+            {
+              "end": 24,
+              "id": "2028899853716320256",
+              "start": 13,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041137436865274002",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040986031751872752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave @zzz1043903 这种事情就没有必要攀比了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040986027066875904"
+          ]
+        },
+        "author_id": "2032715306632884224",
+        "conversation_id": "2040815401702203439",
+        "created_at": "2026-04-06T02:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040986031751872752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028899853716320256",
+              "start": 0,
+              "username": "zzz1043903"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9nS5emogq",
+              "end": 41,
+              "expanded_url": "https://x.com/omgnowihave/status/2040986031751872752/photo/1",
+              "media_key": "3_2040986027066875904",
+              "start": 18,
+              "url": "https://t.co/G9nS5emogq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040986031751872752",
+        "in_reply_to_user_id": "2028899853716320256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040983765145755797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1043903 我用的貝印 https://t.co/G9nS5emogq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 66,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 628
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 568,
+          "like_count": 3339,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 736
+        },
+        "username": "omgnowihave",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨 ℒᎭℯ MTF 重抑",
+        "id": "2028899853716320256",
+        "name": "许的什么愿🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 161
+        },
+        "username": "zzz1043903",
+        "verified": true
+      }
+    ]
+  }
+}

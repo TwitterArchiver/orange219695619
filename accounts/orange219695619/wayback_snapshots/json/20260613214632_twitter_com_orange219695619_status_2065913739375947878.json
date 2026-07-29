@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065913736410566656"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065913739375947878",
+    "created_at": "2026-06-13T21:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065913739375947878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8VXxpADjBl",
+          "end": 31,
+          "expanded_url": "https://x.com/orange219695619/status/2065913739375947878/photo/1",
+          "media_key": "3_2065913736410566656",
+          "start": 8,
+          "url": "https://t.co/8VXxpADjBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065913739375947878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大亮\n早安各位 https://t.co/8VXxpADjBl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065913736410566656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuZmPtaEAAd7iQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065913736410566656"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065913739375947878",
+        "created_at": "2026-06-13T21:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065913739375947878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VXxpADjBl",
+              "end": 31,
+              "expanded_url": "https://x.com/orange219695619/status/2065913739375947878/photo/1",
+              "media_key": "3_2065913736410566656",
+              "start": 8,
+              "url": "https://t.co/8VXxpADjBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065913739375947878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大亮\n早安各位 https://t.co/8VXxpADjBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 176,
+          "like_count": 9470,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 6167
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

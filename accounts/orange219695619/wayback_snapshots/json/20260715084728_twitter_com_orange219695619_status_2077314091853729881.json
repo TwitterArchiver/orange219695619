@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2076656451544928595",
+    "created_at": "2026-07-15T08:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T09:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077314091853729881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046957580791189504",
+          "start": 0,
+          "username": "yumeialinlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077314091853729881",
+    "in_reply_to_user_id": "2046957580791189504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076656451544928595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeialinlin 不！我最好用的感冒药😭\n一定不要禁啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2076656436344729600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHEBrjbMAA4JK-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076656436344696832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHEBrjasAA7Td9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2076656451544928595",
+        "created_at": "2026-07-15T08:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077314091853729881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046957580791189504",
+              "start": 0,
+              "username": "yumeialinlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077314091853729881",
+        "in_reply_to_user_id": "2046957580791189504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076656451544928595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeialinlin 不！我最好用的感冒药😭\n一定不要禁啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076656436344729600",
+            "3_2076656436344696832"
+          ]
+        },
+        "author_id": "2046957580791189504",
+        "conversation_id": "2076656451544928595",
+        "created_at": "2026-07-13T13:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076656451544928595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FqP3WKGoK6",
+              "end": 34,
+              "expanded_url": "https://x.com/yumeialinlin/status/2076656451544928595/photo/1",
+              "media_key": "3_2076656436344729600",
+              "start": 11,
+              "url": "https://t.co/FqP3WKGoK6"
+            },
+            {
+              "display_url": "pic.x.com/FqP3WKGoK6",
+              "end": 34,
+              "expanded_url": "https://x.com/yumeialinlin/status/2076656451544928595/photo/1",
+              "media_key": "3_2076656436344696832",
+              "start": 11,
+              "url": "https://t.co/FqP3WKGoK6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076656451544928595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14724,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我就知道会有这么一天 https://t.co/FqP3WKGoK6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 174,
+          "like_count": 17827,
+          "listed_count": 2,
+          "media_count": 527,
+          "tweet_count": 8961
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T14:21:44.000Z",
+        "description": "长叹息以掩涕兮，哀民生之多艰",
+        "id": "2046957580791189504",
+        "location": "格拉摩根",
+        "name": "玉米阿琳",
+        "pinned_tweet_id": "2062796073249476853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065967191871344640/EqF1huc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 146,
+          "like_count": 5247,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "yumeialinlin",
+        "verified": false
+      }
+    ]
+  }
+}

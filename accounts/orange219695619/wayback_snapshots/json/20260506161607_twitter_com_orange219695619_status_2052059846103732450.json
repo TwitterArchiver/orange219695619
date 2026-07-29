@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2051979993681625204",
+    "created_at": "2026-05-06T16:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052059846103732450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886965038608736256",
+          "start": 0,
+          "username": "yangyang200413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052059846103732450",
+    "in_reply_to_user_id": "1886965038608736256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051979993681625204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyang200413 也不能这么说，毕竟排行榜还是有好的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2051979993681625204",
+        "created_at": "2026-05-06T16:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052059846103732450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886965038608736256",
+              "start": 0,
+              "username": "yangyang200413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052059846103732450",
+        "in_reply_to_user_id": "1886965038608736256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051979993681625204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyang200413 也不能这么说，毕竟排行榜还是有好的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886965038608736256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2051979993681625204",
+        "created_at": "2026-05-06T10:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051979993681625204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051979993681625204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起哪吒2还是哔咔漫画排行榜更让我觉得当代美育没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 95,
+          "like_count": 2070,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2303
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T02:28:34.000Z",
+        "description": "femboy💕/SPQR/求fo💗/mo3/Apex Legends             \n关注yangyang谢谢喵，每日美图敬请期待！",
+        "id": "1886965038608736256",
+        "location": "维爱",
+        "name": "yangyang",
+        "pinned_tweet_id": "2039137802626195539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038541972621991936/eEV8Il3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 96,
+          "like_count": 2109,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 791
+        },
+        "username": "yangyang200413",
+        "verified": false
+      }
+    ]
+  }
+}

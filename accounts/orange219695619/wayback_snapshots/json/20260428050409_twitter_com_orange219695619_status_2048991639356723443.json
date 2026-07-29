@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048573917632360733",
+    "created_at": "2026-04-28T05:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048991639356723443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692126961446137856",
+          "start": 0,
+          "username": "mxioln852719882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048991639356723443",
+    "in_reply_to_user_id": "1692126961446137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048803522502893739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxioln852719882 贴贴🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048573917632360733",
+        "created_at": "2026-04-28T05:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048991639356723443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692126961446137856",
+              "start": 0,
+              "username": "mxioln852719882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048991639356723443",
+        "in_reply_to_user_id": "1692126961446137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048803522502893739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxioln852719882 贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692126961446137856",
+        "conversation_id": "2048573917632360733",
+        "created_at": "2026-04-27T16:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048803522502893739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048803522502893739",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048632737318461920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 蹭蹭…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 87,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1751
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:51:36.000Z",
+        "description": "高敏感人格 + 复杂性创伤后应激障碍 + 触发性抑郁症 + 有点回避型人格\n( 对别人的 咳嗽声 + 吐口水声 + 辱骂声 比较敏感 ）+ 一点点社交恐惧症\n24岁 刷到那些死去女友的录音 死亡妻回忆录 自杀者的遗言 我哭了一顿",
+        "id": "1692126961446137856",
+        "name": "莫小兰",
+        "pinned_tweet_id": "2043993341885591953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041620849644728321/i0BMHp_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 3127,
+          "like_count": 2727,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 552
+        },
+        "username": "mxioln852719882",
+        "verified": false
+      }
+    ]
+  }
+}

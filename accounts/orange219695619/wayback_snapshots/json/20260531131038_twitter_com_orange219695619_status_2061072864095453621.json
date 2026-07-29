@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061072864095453621",
+    "created_at": "2026-05-31T13:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061072864095453621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3529418117",
+          "start": 3,
+          "username": "bahhaninha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061072864095453621",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060880450709520826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bahhaninha: se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061072864095453621",
+        "created_at": "2026-05-31T13:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061072864095453621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3529418117",
+              "start": 3,
+              "username": "bahhaninha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061072864095453621",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060880450709520826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bahhaninha: se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3529418117",
+        "conversation_id": "2060880450709520826",
+        "created_at": "2026-05-31T00:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060880450709520826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060880450709520826",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 163455,
+          "like_count": 4952,
+          "quote_count": 36,
+          "reply_count": 84,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 149,
+          "like_count": 6637,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 4824
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-03T02:24:00.000Z",
+        "description": "viciada em pica, tapa e porra quente",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cityclowns",
+                "end": 23,
+                "expanded_url": "https://t.me/cityclowns",
+                "start": 0,
+                "url": "https://t.co/57KkUfp9NV"
+              }
+            ]
+          }
+        },
+        "id": "3529418117",
+        "location": "nuds aqui",
+        "name": "aninha 🦋",
+        "pinned_tweet_id": "1939822340063289845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058269937630576640/COZY0I37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8151,
+          "following_count": 34,
+          "like_count": 2072,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/57KkUfp9NV",
+        "username": "bahhaninha",
+        "verified": false
+      }
+    ]
+  }
+}

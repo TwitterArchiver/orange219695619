@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080792264503152640"
+      ],
+      "media_source_tweet_id": [
+        "2080792272074129648"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080969552842858802",
+    "created_at": "2026-07-25T10:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080969552842858802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286140906849153024",
+          "start": 3,
+          "username": "DanielRolack"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k8IMv8OJ9k",
+          "end": 139,
+          "expanded_url": "https://x.com/DanielRolack/status/2080792272074129648/photo/1",
+          "media_key": "3_2080792264503152640",
+          "start": 116,
+          "url": "https://t.co/k8IMv8OJ9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080969552842858802",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080792272074129648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanielRolack: ¿A ustedes también se les llenó su feed de X con imagenes \"Tap and hold\" que son literalmen esto: https://t.co/k8IMv8OJ9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2080792264503152640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOB1ikEXUAAuGVf.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080792264503152640"
+          ]
+        },
+        "author_id": "1286140906849153024",
+        "conversation_id": "2080792272074129648",
+        "created_at": "2026-07-24T23:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080792272074129648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8IMv8OJ9k",
+              "end": 121,
+              "expanded_url": "https://x.com/DanielRolack/status/2080792272074129648/photo/1",
+              "media_key": "3_2080792264503152640",
+              "start": 98,
+              "url": "https://t.co/k8IMv8OJ9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080792272074129648",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 675,
+          "impression_count": 851339,
+          "like_count": 32331,
+          "quote_count": 116,
+          "reply_count": 259,
+          "retweet_count": 2747
+        },
+        "reply_settings": "everyone",
+        "text": "¿A ustedes también se les llenó su feed de X con imagenes \"Tap and hold\" que son literalmen esto: https://t.co/k8IMv8OJ9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080792264503152640"
+          ],
+          "media_source_tweet_id": [
+            "2080792272074129648"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080969552842858802",
+        "created_at": "2026-07-25T10:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080969552842858802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286140906849153024",
+              "start": 3,
+              "username": "DanielRolack"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8IMv8OJ9k",
+              "end": 139,
+              "expanded_url": "https://x.com/DanielRolack/status/2080792272074129648/photo/1",
+              "media_key": "3_2080792264503152640",
+              "start": 116,
+              "url": "https://t.co/k8IMv8OJ9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080969552842858802",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080792272074129648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanielRolack: ¿A ustedes también se les llenó su feed de X con imagenes \"Tap and hold\" que son literalmen esto: https://t.co/k8IMv8OJ9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 182,
+          "like_count": 19988,
+          "listed_count": 3,
+          "media_count": 554,
+          "tweet_count": 9652
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T03:27:52.000Z",
+        "description": "✏️ Diseñador\n📷🦋✖️ /DanielRolack\n🇨🇱 Esp/Ing\n\n✨Comis desde 8 USD✨ DM por info\n⚖️ Ace Attorney ⚡ Pokemon 🍄 Nintendo 📺 TV & Series\n.\nIcon @YosiZimmerman",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 134,
+                "username": "YosiZimmerman"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danielrolack.straw.page",
+                "end": 23,
+                "expanded_url": "https://danielrolack.straw.page",
+                "start": 0,
+                "url": "https://t.co/Bhwl8k1Xrp"
+              }
+            ]
+          }
+        },
+        "id": "1286140906849153024",
+        "location": "Chile",
+        "name": "DanielRolack (Cris)",
+        "pinned_tweet_id": "1956803481198637374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952084298204393472/n4IGgTeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4973,
+          "following_count": 946,
+          "like_count": 73095,
+          "listed_count": 7,
+          "media_count": 1429,
+          "tweet_count": 4493
+        },
+        "url": "https://t.co/Bhwl8k1Xrp",
+        "username": "DanielRolack",
+        "verified": false
+      }
+    ]
+  }
+}

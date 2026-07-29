@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070461167768887296"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070431350725951733",
+    "created_at": "2026-06-26T10:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070461170235179077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q21Z6KwvQ1",
+          "end": 47,
+          "expanded_url": "https://x.com/orange219695619/status/2070461170235179077/photo/1",
+          "media_key": "3_2070461167768887296",
+          "start": 24,
+          "url": "https://t.co/q21Z6KwvQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070461170235179077",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070431350725951733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 楚点点be like： https://t.co/q21Z6KwvQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070461167768887296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvBdloa4AA_WAD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070461167768887296"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070431350725951733",
+        "created_at": "2026-06-26T10:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070461170235179077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q21Z6KwvQ1",
+              "end": 47,
+              "expanded_url": "https://x.com/orange219695619/status/2070461170235179077/photo/1",
+              "media_key": "3_2070461167768887296",
+              "start": 24,
+              "url": "https://t.co/q21Z6KwvQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070461170235179077",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070431350725951733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 楚点点be like： https://t.co/q21Z6KwvQ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033228136180219904",
+        "conversation_id": "2070431350725951733",
+        "created_at": "2026-06-26T08:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070431350725951733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070431350725951733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天还要补班，好难过，都怪楚点点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 194,
+          "like_count": 13239,
+          "listed_count": 2,
+          "media_count": 446,
+          "tweet_count": 7594
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！/防「猝死」分身@Chu_echoooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Chu_echoooo"
+              }
+            ]
+          }
+        },
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 96,
+          "like_count": 7571,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 2454
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

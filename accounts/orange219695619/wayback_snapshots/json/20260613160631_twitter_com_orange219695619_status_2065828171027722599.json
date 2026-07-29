@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065804706765803527",
+    "created_at": "2026-06-13T16:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065828171027722599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4751711714",
+          "start": 0,
+          "username": "PoorstarRMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065828171027722599",
+    "in_reply_to_user_id": "4751711714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065804706765803527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoorstarRMB 你或许可以找一些缺爱的，只需要稍微对ta们好一点，ta们就会把你当做好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065804706765803527",
+        "created_at": "2026-06-13T16:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065828171027722599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4751711714",
+              "start": 0,
+              "username": "PoorstarRMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065828171027722599",
+        "in_reply_to_user_id": "4751711714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065804706765803527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoorstarRMB 你或许可以找一些缺爱的，只需要稍微对ta们好一点，ta们就会把你当做好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4751711714",
+        "conversation_id": "2065804706765803527",
+        "created_at": "2026-06-13T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065804706765803527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065804706765803527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉一直在群聊里热闹是不会成为任何人的好朋友的\n想交一些可以经常私信聊天的朋友，但是没有头绪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 174,
+          "like_count": 9384,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 6115
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T05:54:33.000Z",
+        "description": "",
+        "id": "4751711714",
+        "location": "不文艺也不负",
+        "name": "文艺负星🌟",
+        "pinned_tweet_id": "2048431912382025962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054940505075838976/l-5oB7ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 305,
+          "like_count": 27122,
+          "listed_count": 7,
+          "media_count": 1760,
+          "tweet_count": 10854
+        },
+        "username": "PoorstarRMB",
+        "verified": false
+      }
+    ]
+  }
+}

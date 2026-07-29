@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066000362172260507",
+    "created_at": "2026-06-14T16:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066199161511534603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057418580459692032",
+          "start": 0,
+          "username": "Dishpizzacye3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066199161511534603",
+    "in_reply_to_user_id": "2057418580459692032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066163435440619623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dishpizzacye3 乌鸡块\n感觉是光线的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066000362172260507",
+        "created_at": "2026-06-14T16:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066199161511534603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057418580459692032",
+              "start": 0,
+              "username": "Dishpizzacye3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066199161511534603",
+        "in_reply_to_user_id": "2057418580459692032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066163435440619623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dishpizzacye3 乌鸡块\n感觉是光线的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057418580459692032",
+        "conversation_id": "2066000362172260507",
+        "created_at": "2026-06-14T14:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066163435440619623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066163435440619623",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066000362172260507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 這是什麼？肉嗎？為什麼是這個顏色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 175,
+          "like_count": 9662,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 6248
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:12:34.000Z",
+        "description": "繪畫學徒｜🍕｜oc",
+        "id": "2057418580459692032",
+        "name": "海鹽芝士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060734141881073667/gOdsdWRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "Dishpizzacye3",
+        "verified": false
+      }
+    ]
+  }
+}

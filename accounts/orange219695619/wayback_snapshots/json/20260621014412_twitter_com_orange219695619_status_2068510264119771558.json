@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068473757996548511",
+    "created_at": "2026-06-21T01:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068510264119771558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062562367368835072",
+          "start": 0,
+          "username": "nianbaionly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068510264119771558",
+    "in_reply_to_user_id": "2062562367368835072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068508350002975000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianbaionly 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2068508339559096320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLTRYBpaYAAbrVS.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLTRYBpaYAAbrVS.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068473757996548511",
+        "created_at": "2026-06-21T01:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068510264119771558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062562367368835072",
+              "start": 0,
+              "username": "nianbaionly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068510264119771558",
+        "in_reply_to_user_id": "2062562367368835072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068508350002975000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianbaionly 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068508339559096320"
+          ]
+        },
+        "author_id": "2062562367368835072",
+        "conversation_id": "2068473757996548511",
+        "created_at": "2026-06-21T01:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068508350002975000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKyYnAXFDe",
+              "end": 46,
+              "expanded_url": "https://x.com/nianbaionly/status/2068508350002975000/photo/1",
+              "media_key": "16_2068508339559096320",
+              "start": 23,
+              "url": "https://t.co/OKyYnAXFDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068508350002975000",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068473757996548511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 喵喵喵☄️ https://t.co/OKyYnAXFDe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 197,
+          "like_count": 11325,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 6854
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:50:13.000Z",
+        "description": "双允二号机，好玩喵\n@shuangyunonly\n但我知道我是我，我是双允",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "shuangyunonly"
+              }
+            ]
+          }
+        },
+        "id": "2062562367368835072",
+        "location": "从不存在的世界里",
+        "name": "廿白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062563046351093760/DoUM_2Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 28,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "nianbaionly",
+        "verified": false
+      }
+    ]
+  }
+}

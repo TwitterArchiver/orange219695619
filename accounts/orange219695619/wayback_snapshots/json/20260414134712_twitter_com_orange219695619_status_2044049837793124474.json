@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2042204572127760628",
+    "created_at": "2026-04-14T13:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044049837793124474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734929931325591552",
+          "start": 0,
+          "username": "JntmB81196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044049837793124474",
+    "in_reply_to_user_id": "1734929931325591552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042204572127760628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JntmB81196 什么要饿死了？😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2042204569284034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdePFbawAAEVrz.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2042204572127760628",
+        "created_at": "2026-04-14T13:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044049837793124474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734929931325591552",
+              "start": 0,
+              "username": "JntmB81196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044049837793124474",
+        "in_reply_to_user_id": "1734929931325591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042204572127760628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JntmB81196 什么要饿死了？😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042204569284034560"
+          ]
+        },
+        "author_id": "1734929931325591552",
+        "conversation_id": "2042204572127760628",
+        "created_at": "2026-04-09T11:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042204572127760628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPyqy7XfOL",
+              "end": 51,
+              "expanded_url": "https://x.com/JntmB81196/status/2042204572127760628/photo/1",
+              "media_key": "3_2042204569284034560",
+              "start": 28,
+              "url": "https://t.co/zPyqy7XfOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042204572127760628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1509,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找金主求包養喵～\n屁穴要餓死了\n求求了\n#男娘 #伪娘 https://t.co/zPyqy7XfOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 73,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 992
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T13:35:21.000Z",
+        "description": "並沒有什麼好看的，只是想做一個和自己一樣的，心目中的，我喜歡的自己。\n跨性別女性/男娘/含糖/🚪檻88CNY\n匿名提问:https://t.co/xejrOueRzE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cainaonao",
+                "end": 83,
+                "expanded_url": "https://ngl.link/cainaonao",
+                "start": 60,
+                "url": "https://t.co/xejrOueRzE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+5l1c3DGzTVUxM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+5l1c3DGzTVUxMDE1",
+                "start": 0,
+                "url": "https://t.co/ribTGp4uIo"
+              }
+            ]
+          }
+        },
+        "id": "1734929931325591552",
+        "location": "台南市, 台灣",
+        "name": "風起地🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042204572127760628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033453812279918592/7rVzzZ4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 2073,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/ribTGp4uIo",
+        "username": "JntmB81196",
+        "verified": false
+      }
+    ]
+  }
+}

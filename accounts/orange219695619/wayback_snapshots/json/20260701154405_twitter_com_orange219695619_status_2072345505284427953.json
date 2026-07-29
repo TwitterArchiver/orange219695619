@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2072295501912064190",
+    "created_at": "2026-07-01T15:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072345505284427953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1051421651781312512",
+          "start": 0,
+          "username": "A43gin40N"
+        },
+        {
+          "end": 25,
+          "id": "1622066090074607616",
+          "start": 11,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072345505284427953",
+    "in_reply_to_user_id": "1051421651781312512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072325111714140548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A43gin40N @hoshinofujivy 原来是河北省会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2072295501912064190",
+        "created_at": "2026-07-01T15:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072345505284427953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1051421651781312512",
+              "start": 0,
+              "username": "A43gin40N"
+            },
+            {
+              "end": 25,
+              "id": "1622066090074607616",
+              "start": 11,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072345505284427953",
+        "in_reply_to_user_id": "1051421651781312512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072325111714140548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A43gin40N @hoshinofujivy 原来是河北省会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1051421651781312512",
+        "conversation_id": "2072295501912064190",
+        "created_at": "2026-07-01T14:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072325111714140548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "天津"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072325111714140548",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072295501912064190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy #天津, 还是实际上的河北省会吧. \n只是北京截胡挡了一道. \n综合吸引上,河北省会不是天津就是北京.\n石家庄市第三省会.\n\n像: 马来亚首都, 吉隆坡+布城+皇宫皇城;\n荷兰, 阿姆斯特丹行政+海牙外交和司法;\n沙特阿拉伯, 利雅得+吉达+麦加+麦地那."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 193,
+          "like_count": 14504,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 7966
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-14T10:37:11.000Z",
+        "description": "Just keep it simple: family and career.",
+        "id": "1051421651781312512",
+        "name": "sidequest Degrowth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032452869798973440/ZcAgq89O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 582,
+          "like_count": 5174,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 2746
+        },
+        "url": "",
+        "username": "A43gin40N",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12368,
+          "following_count": 4383,
+          "like_count": 49923,
+          "listed_count": 36,
+          "media_count": 3061,
+          "tweet_count": 16932
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

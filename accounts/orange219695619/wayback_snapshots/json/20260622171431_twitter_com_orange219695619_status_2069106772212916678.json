@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068693072125612032"
+      ],
+      "media_source_tweet_id": [
+        "2068931990813049161"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069106772212916678",
+    "created_at": "2026-06-22T17:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069106772212916678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1473166885516906496",
+          "start": 3,
+          "username": "madaomoshiroi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rwyyp3HrJw",
+          "end": 60,
+          "expanded_url": "https://x.com/madaomoshiroi/status/2068931990813049161/video/1",
+          "media_key": "13_2068693072125612032",
+          "start": 37,
+          "url": "https://t.co/rwyyp3HrJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069106772212916678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4753
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068931990813049161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madaomoshiroi: 羊をモミモミマッサージする猫ちゃん https://t.co/rwyyp3HrJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62088,
+        "height": 720,
+        "media_key": "13_2068693072125612032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068693072125612032/img/I4S2FybrgBsnZ7ry.jpg",
+        "public_metrics": {
+          "view_count": 217645
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068693072125612032/vid/avc1/480x270/gxK5WQZ1xf6TdQId.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068693072125612032/vid/avc1/640x360/ltJjFNUnEfXSZoqi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068693072125612032/vid/avc1/1280x720/TU17a2C7N4hgoyBd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068693072125612032/pl/oo-TPuZwPYRCIgOS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068693072125612032"
+          ],
+          "media_source_tweet_id": [
+            "2068931990813049161"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069106772212916678",
+        "created_at": "2026-06-22T17:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069106772212916678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1473166885516906496",
+              "start": 3,
+              "username": "madaomoshiroi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwyyp3HrJw",
+              "end": 60,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2068931990813049161/video/1",
+              "media_key": "13_2068693072125612032",
+              "start": 37,
+              "url": "https://t.co/rwyyp3HrJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069106772212916678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4753
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068931990813049161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madaomoshiroi: 羊をモミモミマッサージする猫ちゃん https://t.co/rwyyp3HrJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068693072125612032"
+          ]
+        },
+        "author_id": "1473166885516906496",
+        "conversation_id": "2068931990813049161",
+        "created_at": "2026-06-22T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068931990813049161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwyyp3HrJw",
+              "end": 41,
+              "expanded_url": "https://x.com/madaomoshiroi/status/2068931990813049161/video/1",
+              "media_key": "13_2068693072125612032",
+              "start": 18,
+              "url": "https://t.co/rwyyp3HrJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068931990813049161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2323,
+          "impression_count": 690738,
+          "like_count": 29267,
+          "quote_count": 223,
+          "reply_count": 48,
+          "retweet_count": 4753
+        },
+        "reply_settings": "everyone",
+        "text": "羊をモミモミマッサージする猫ちゃん https://t.co/rwyyp3HrJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 198,
+          "like_count": 12081,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 7188
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T05:42:16.000Z",
+        "description": "まだ面白いものを引用しています。",
+        "id": "1473166885516906496",
+        "location": "採用→👍",
+        "name": "まだ面白い",
+        "pinned_tweet_id": "1821032266757283910",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322705,
+          "following_count": 0,
+          "like_count": 4582,
+          "listed_count": 491,
+          "media_count": 8854,
+          "tweet_count": 8996
+        },
+        "url": "",
+        "username": "madaomoshiroi",
+        "verified": true
+      }
+    ]
+  }
+}

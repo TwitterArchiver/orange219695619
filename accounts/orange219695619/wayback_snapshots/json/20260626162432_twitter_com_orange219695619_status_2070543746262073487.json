@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070455253435326692",
+    "created_at": "2026-06-26T16:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070543746262073487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995266194576961536",
+          "start": 0,
+          "username": "skyseafor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070543746262073487",
+    "in_reply_to_user_id": "1995266194576961536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070455253435326692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyseafor 监考老师：我chovy😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_2070455251199815680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu8FMsbcAA7Iu1.jpg",
+        "width": 1141
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T16:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070543746262073487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070543746262073487",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070455253435326692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 监考老师：我chovy😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070455251199815680"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2070455253435326692",
+        "created_at": "2026-06-26T10:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070455253435326692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLThs14mNg",
+              "end": 41,
+              "expanded_url": "https://x.com/skyseafor/status/2070455253435326692/photo/1",
+              "media_key": "3_2070455251199815680",
+              "start": 18,
+              "url": "https://t.co/HLThs14mNg"
+            },
+            {
+              "display_url": "x.com/skyseafor/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/skyseafor/status/2070065014317420924",
+              "start": 42,
+              "url": "https://t.co/Io4WXTjTkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070455253435326692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 91441,
+          "like_count": 201,
+          "quote_count": 4,
+          "reply_count": 71,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070065014317420924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家千万不要学我 否则也会被0分的 https://t.co/HLThs14mNg https://t.co/Io4WXTjTkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 195,
+          "like_count": 13374,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 7640
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 200,
+          "like_count": 810,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

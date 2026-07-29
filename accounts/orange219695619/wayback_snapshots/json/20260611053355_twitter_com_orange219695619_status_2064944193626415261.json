@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2064944193626415261",
+    "created_at": "2026-06-11T05:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064944193626415261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1979068278673981440",
+          "start": 3,
+          "username": "orange219695619"
+        },
+        {
+          "end": 33,
+          "id": "1716793662510940160",
+          "start": 21,
+          "username": "TekeLili222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064944193626415261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064944171581116620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orange219695619: @TekeLili222 就像我说如果杀掉一个人不留任何痕迹，那法官就无法定我的罪一样\n那你就可以说我是杀人犯？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064944193626415261",
+        "created_at": "2026-06-11T05:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064944193626415261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1979068278673981440",
+              "start": 3,
+              "username": "orange219695619"
+            },
+            {
+              "end": 33,
+              "id": "1716793662510940160",
+              "start": 21,
+              "username": "TekeLili222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064944193626415261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064944171581116620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orange219695619: @TekeLili222 就像我说如果杀掉一个人不留任何痕迹，那法官就无法定我的罪一样\n那你就可以说我是杀人犯？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2064943324424020302",
+        "created_at": "2026-06-11T05:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064944171581116620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1716793662510940160",
+              "start": 0,
+              "username": "TekeLili222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064944171581116620",
+        "in_reply_to_user_id": "1716793662510940160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064943324424020302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TekeLili222 就像我说如果杀掉一个人不留任何痕迹，那法官就无法定我的罪一样\n那你就可以说我是杀人犯？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 168,
+          "like_count": 8859,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 5904
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T12:28:08.000Z",
+        "description": "幸福的三要素：自私，无知，健康  。\n多锻炼身体，也祝你成为一个幸福的人",
+        "id": "1716793662510940160",
+        "name": "AAA饼干打孔污师傅",
+        "pinned_tweet_id": "2064710859503665333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062435608862314496/sZA3daqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 9,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 437
+        },
+        "username": "TekeLili222",
+        "verified": false
+      }
+    ]
+  }
+}

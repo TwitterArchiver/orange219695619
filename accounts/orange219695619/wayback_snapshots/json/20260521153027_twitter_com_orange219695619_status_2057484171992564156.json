@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057440200163541397",
+    "created_at": "2026-05-21T15:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057484171992564156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011175600787243008",
+          "start": 0,
+          "username": "LoganZ239495"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057484171992564156",
+    "in_reply_to_user_id": "2011175600787243008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057483374751543691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoganZ239495 对的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057440200163541397",
+        "created_at": "2026-05-21T15:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057484171992564156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011175600787243008",
+              "start": 0,
+              "username": "LoganZ239495"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057484171992564156",
+        "in_reply_to_user_id": "2011175600787243008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057483374751543691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoganZ239495 对的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011175600787243008",
+        "conversation_id": "2057440200163541397",
+        "created_at": "2026-05-21T15:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057483374751543691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057483374751543691",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057440200163541397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 吞拿鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 127,
+          "like_count": 4459,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3734
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T20:37:01.000Z",
+        "description": "",
+        "id": "2011175600787243008",
+        "name": "Logán",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011175678067273728/zrVlSrfV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "LoganZ239495",
+        "verified": false
+      }
+    ]
+  }
+}

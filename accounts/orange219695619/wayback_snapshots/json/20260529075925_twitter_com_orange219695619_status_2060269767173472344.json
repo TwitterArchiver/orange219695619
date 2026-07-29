@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060249615639937025"
+      ],
+      "media_source_tweet_id": [
+        "2060249624888377616"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2060269767173472344",
+    "created_at": "2026-05-29T07:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060269767173472344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824390995754225667",
+          "start": 3,
+          "username": "Bcattiy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9UllPsxuhv",
+          "end": 36,
+          "expanded_url": "https://x.com/Bcattiy/status/2060249624888377616/photo/1",
+          "media_key": "3_2060249615639937025",
+          "start": 13,
+          "url": "https://t.co/9UllPsxuhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060269767173472344",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060249624888377616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bcattiy: https://t.co/9UllPsxuhv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_2060249615639937025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJd6HBjagAEhSmn.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060249615639937025"
+          ],
+          "media_source_tweet_id": [
+            "2060249624888377616"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2060269767173472344",
+        "created_at": "2026-05-29T07:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060269767173472344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824390995754225667",
+              "start": 3,
+              "username": "Bcattiy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UllPsxuhv",
+              "end": 36,
+              "expanded_url": "https://x.com/Bcattiy/status/2060249624888377616/photo/1",
+              "media_key": "3_2060249615639937025",
+              "start": 13,
+              "url": "https://t.co/9UllPsxuhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060269767173472344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060249624888377616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bcattiy: https://t.co/9UllPsxuhv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060249615639937025"
+          ]
+        },
+        "author_id": "1824390995754225667",
+        "conversation_id": "2060249624888377616",
+        "created_at": "2026-05-29T06:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060249624888377616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UllPsxuhv",
+              "end": 23,
+              "expanded_url": "https://x.com/Bcattiy/status/2060249624888377616/photo/1",
+              "media_key": "3_2060249615639937025",
+              "start": 0,
+              "url": "https://t.co/9UllPsxuhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060249624888377616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9UllPsxuhv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 142,
+          "like_count": 6185,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 4564
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "淡推 有事请私信",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 89,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1076
+        },
+        "username": "Bcattiy",
+        "verified": true
+      }
+    ]
+  }
+}

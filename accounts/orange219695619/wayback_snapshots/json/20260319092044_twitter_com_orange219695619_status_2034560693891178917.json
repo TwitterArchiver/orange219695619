@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2034302061484155367",
+    "created_at": "2026-03-19T09:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034560693891178917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2011788447359598592",
+          "start": 0,
+          "username": "bear22uiko"
+        },
+        {
+          "end": 20,
+          "id": "1917047326990094336",
+          "start": 12,
+          "username": "0TwT012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034560693891178917",
+    "in_reply_to_user_id": "2011788447359598592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034376268091916729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bear22uiko @0TwT012 他们在你嘴里叫舔狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2034302061484155367",
+        "created_at": "2026-03-19T09:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034560693891178917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2011788447359598592",
+              "start": 0,
+              "username": "bear22uiko"
+            },
+            {
+              "end": 20,
+              "id": "1917047326990094336",
+              "start": 12,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034560693891178917",
+        "in_reply_to_user_id": "2011788447359598592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034376268091916729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bear22uiko @0TwT012 他们在你嘴里叫舔狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011788447359598592",
+        "conversation_id": "2034302061484155367",
+        "created_at": "2026-03-18T21:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034376268091916729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917047326990094336",
+              "start": 0,
+              "username": "0TwT012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034376268091916729",
+        "in_reply_to_user_id": "1917047326990094336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034302061484155367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0TwT012 接这样的老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 133
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T13:12:06.000Z",
+        "description": "",
+        "id": "2011788447359598592",
+        "location": "🚪",
+        "name": "小御台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029107849645965317/1q-HAVyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 65,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 685
+        },
+        "username": "bear22uiko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常/💬//情感博主//你喜欢我我喜欢你//讨厌没有礼貌的人//",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "🚪288/388/520纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 240,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

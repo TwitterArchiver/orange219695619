@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2065932308025422151",
+    "created_at": "2026-06-14T11:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066115966581497997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863222669208100864",
+          "start": 0,
+          "username": "jiang_yi1212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066115966581497997",
+    "in_reply_to_user_id": "1863222669208100864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066101915101114448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_yi1212 半杯白酒半杯清爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2065932308025422151",
+        "created_at": "2026-06-14T11:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066115966581497997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863222669208100864",
+              "start": 0,
+              "username": "jiang_yi1212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066115966581497997",
+        "in_reply_to_user_id": "1863222669208100864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066101915101114448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_yi1212 半杯白酒半杯清爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863222669208100864",
+        "conversation_id": "2065932308025422151",
+        "created_at": "2026-06-14T10:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066101915101114448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066101915101114448",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065932308025422151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 这是什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 175,
+          "like_count": 9613,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 6222
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:04:56.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯6.0 你们可以叫我小溯 我磕 zc 欢迎互fo🚪52不开放朋友圈消息看到都会回\n重抑/精分/躁狂/焦虑……多种问题暂时停止治疗\n我接sk定制\n提问箱：https://t.co/120HYp3gKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 114,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 91,
+                "url": "https://t.co/120HYp3gKG"
+              }
+            ]
+          }
+        },
+        "id": "1863222669208100864",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "鳞6.0（接伤定制）",
+        "pinned_tweet_id": "2061416504567177504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 53,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 162
+        },
+        "username": "jiang_yi1212",
+        "verified": false
+      }
+    ]
+  }
+}

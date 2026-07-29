@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2041504911503008219",
+    "created_at": "2026-04-08T12:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041853104422056019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1851962067236065281",
+          "start": 0,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041853104422056019",
+    "in_reply_to_user_id": "1851962067236065281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041504911503008219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzzzzz467732 对的，割前割后都需要消毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2041504911503008219",
+        "created_at": "2026-04-08T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041853104422056019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1851962067236065281",
+              "start": 0,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041853104422056019",
+        "in_reply_to_user_id": "1851962067236065281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041504911503008219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzzzzz467732 对的，割前割后都需要消毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851962067236065281",
+        "conversation_id": "2041504911503008219",
+        "created_at": "2026-04-07T13:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041504911503008219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041504911503008219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割手还要消毒的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 68,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 733
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "s",
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 110,
+          "like_count": 796,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 88
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

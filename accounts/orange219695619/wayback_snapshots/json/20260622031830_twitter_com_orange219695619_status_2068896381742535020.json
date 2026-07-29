@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068896379670511616"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2068896381742535020",
+    "created_at": "2026-06-22T03:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068896381742535020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GeQ9KccPe2",
+          "end": 33,
+          "expanded_url": "https://x.com/orange219695619/status/2068896381742535020/photo/1",
+          "media_key": "3_2068896379670511616",
+          "start": 10,
+          "url": "https://t.co/GeQ9KccPe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068896381742535020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有8\n不喜欢染发 https://t.co/GeQ9KccPe2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2068896379670511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYyS7taQAAmqi-.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068896379670511616"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2068896381742535020",
+        "created_at": "2026-06-22T03:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068896381742535020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeQ9KccPe2",
+              "end": 33,
+              "expanded_url": "https://x.com/orange219695619/status/2068896381742535020/photo/1",
+              "media_key": "3_2068896379670511616",
+              "start": 10,
+              "url": "https://t.co/GeQ9KccPe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068896381742535020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有8\n不喜欢染发 https://t.co/GeQ9KccPe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 198,
+          "like_count": 11774,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 7062
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

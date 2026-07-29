@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2074180531126939991",
+    "created_at": "2026-07-06T17:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074180531126939991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ROB_29/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/_ROB_29/status/2073915589694038072",
+          "start": 16,
+          "url": "https://t.co/xGInYX6m5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074180531126939991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073915589694038072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喂喂喂喂喂喂喂喂喂喂喂喂喂喂喂 https://t.co/xGInYX6m5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 740,
+        "media_key": "13_2073915528880820224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073915528880820224/img/1GiwzosqecYZebxW.jpg",
+        "public_metrics": {
+          "view_count": 584302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073915528880820224/vid/avc1/320x330/t3u89qhqD25hoy4g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073915528880820224/vid/avc1/480x496/S5zwjN6WVCt7N5R3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073915528880820224/vid/avc1/714x740/HVjIpB7kGsBk_fUy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073915528880820224/pl/OhkS6T3t7_Ue-HPF.m3u8?v=cfc"
+          }
+        ],
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2074180531126939991",
+        "created_at": "2026-07-06T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074180531126939991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ROB_29/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_ROB_29/status/2073915589694038072",
+              "start": 16,
+              "url": "https://t.co/xGInYX6m5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074180531126939991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073915589694038072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喂喂喂喂喂喂喂喂喂喂喂喂喂喂喂 https://t.co/xGInYX6m5S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073915528880820224"
+          ]
+        },
+        "author_id": "4048852873",
+        "conversation_id": "2073915589694038072",
+        "created_at": "2026-07-05T23:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073915589694038072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEXXp7HXWn",
+              "end": 60,
+              "expanded_url": "https://x.com/_ROB_29/status/2073915589694038072/video/1",
+              "media_key": "13_2073915528880820224",
+              "start": 37,
+              "url": "https://t.co/LEXXp7HXWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073915589694038072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10803,
+          "impression_count": 1999545,
+          "like_count": 66693,
+          "quote_count": 725,
+          "reply_count": 416,
+          "retweet_count": 9079
+        },
+        "reply_settings": "everyone",
+        "text": "Light up duck slippers for kitty cat https://t.co/LEXXp7HXWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 198,
+          "like_count": 15708,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 8305
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-28T17:35:25.000Z",
+        "description": "\"You have power over your mind - not outside events. Realize this, and\nyou will find strength.”     — Marcus Aurelius",
+        "id": "4048852873",
+        "location": "Vallas Marineris",
+        "name": "Rob",
+        "pinned_tweet_id": "1993159022351204834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620828060877737985/GhjwcgkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129092,
+          "following_count": 27279,
+          "like_count": 492701,
+          "listed_count": 68,
+          "media_count": 65425,
+          "tweet_count": 492970
+        },
+        "url": "",
+        "username": "_ROB_29",
+        "verified": true
+      }
+    ]
+  }
+}

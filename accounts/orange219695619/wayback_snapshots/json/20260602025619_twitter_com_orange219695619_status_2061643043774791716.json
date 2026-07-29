@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061494817595777304",
+    "created_at": "2026-06-02T02:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061643043774791716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061643043774791716",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494817595777304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Min1440r 不要😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061494817595777304",
+        "created_at": "2026-06-02T02:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061643043774791716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061643043774791716",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494817595777304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Min1440r 不要😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001670790669058048",
+        "conversation_id": "2061494817595777304",
+        "created_at": "2026-06-01T17:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061494817595777304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061494817595777304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死掉了就好了不会再给别人困扰了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 152,
+          "like_count": 6894,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 4931
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "NGL提问：https://t.co/9e5mRIkpE5 （几乎废弃）负能里推：@Stressmaxp加我q好嘛可能会注销 。💕@wlxlmjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Stressmaxp"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "wlxlmjj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 29,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 6,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 66,
+          "like_count": 2799,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1674
+        },
+        "username": "Min1440r",
+        "verified": false
+      }
+    ]
+  }
+}

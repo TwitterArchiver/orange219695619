@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2054082087469392122",
+    "created_at": "2026-05-12T16:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054231704035119438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054231704035119438",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054082087469392122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 你幸福吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19166,
+        "height": 748,
+        "media_key": "13_2054081924520611840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054081924520611840/img/984c5Rp6kSWvksiL.jpg",
+        "public_metrics": {
+          "view_count": 1563
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054081924520611840/vid/avc1/368x270/QxDpgr1LlHN43-Xk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054081924520611840/vid/avc1/492x360/8w8-Y4TWHcPERyP8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054081924520611840/vid/avc1/1024x748/l9IYxTYifof3CHmF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054081924520611840/pl/qQxB86suNwCTjV_1.m3u8?v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2054082087469392122",
+        "created_at": "2026-05-12T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054231704035119438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054231704035119438",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054082087469392122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 你幸福吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054081924520611840"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2054082087469392122",
+        "created_at": "2026-05-12T06:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054082087469392122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcprPkBULK",
+              "end": 36,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2054082087469392122/video/1",
+              "media_key": "13_2054081924520611840",
+              "start": 13,
+              "url": "https://t.co/vcprPkBULK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054082087469392122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3868,
+          "like_count": 112,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "他们问\n你  幸福  吗 https://t.co/vcprPkBULK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 108,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2939
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10692,
+          "following_count": 4296,
+          "like_count": 45747,
+          "listed_count": 35,
+          "media_count": 2199,
+          "tweet_count": 13644
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

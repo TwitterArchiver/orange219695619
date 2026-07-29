@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2052409800781083042",
+    "created_at": "2026-05-08T03:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052593738963353790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1879644163769335808",
+          "start": 0,
+          "username": "WhiteHouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052593738963353790",
+    "in_reply_to_user_id": "1879644163769335808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052409800781083042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhiteHouse 我草你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2052409800781083042",
+        "created_at": "2026-05-08T03:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052593738963353790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879644163769335808",
+              "start": 0,
+              "username": "WhiteHouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052593738963353790",
+        "in_reply_to_user_id": "1879644163769335808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052409800781083042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteHouse 我草你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879644163769335808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2052409800781083042",
+        "created_at": "2026-05-07T15:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052409800781083042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052409800781083042",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2779,
+          "impression_count": 6773047,
+          "like_count": 40065,
+          "quote_count": 1641,
+          "reply_count": 4422,
+          "retweet_count": 3892
+        },
+        "reply_settings": "everyone",
+        "text": "︎︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n︎\n\n︎ ︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\n\n︎\nMAGA."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 97,
+          "like_count": 2236,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2392
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4571875,
+          "following_count": 6,
+          "like_count": 263,
+          "listed_count": 8610,
+          "media_count": 5382,
+          "tweet_count": 14809
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      }
+    ]
+  }
+}

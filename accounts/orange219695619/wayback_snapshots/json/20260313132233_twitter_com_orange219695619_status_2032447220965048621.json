@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2032290709810917501",
+    "created_at": "2026-03-13T13:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032447220965048621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821431905071570944",
+          "start": 0,
+          "username": "tuitenvwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032447220965048621",
+    "in_reply_to_user_id": "1821431905071570944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032290709810917501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuitenvwang 你的意思是在澡堂洗澡的人都要在一起吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2032290709810917501",
+        "created_at": "2026-03-13T13:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032447220965048621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821431905071570944",
+              "start": 0,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032447220965048621",
+        "in_reply_to_user_id": "1821431905071570944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032290709810917501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitenvwang 你的意思是在澡堂洗澡的人都要在一起吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821431905071570944",
+        "conversation_id": "2032290709810917501",
+        "created_at": "2026-03-13T03:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032290709810917501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032290709810917501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5561,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "搞不懂 为什么相互看过屁股的人也会走散"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 19,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我 ｜｜｜段子自取👉🏻 @Dicksuck2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Dicksuck2778"
+              }
+            ]
+          }
+        },
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1918958966819704880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017060237157785600/E_Wtfgop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14404,
+          "following_count": 317,
+          "like_count": 5326,
+          "listed_count": 15,
+          "media_count": 404,
+          "tweet_count": 2536
+        },
+        "username": "tuitenvwang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056356152947151333",
+    "created_at": "2026-05-18T12:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056356152947151333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woshixiaoyu123…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/woshixiaoyu123/status/2056074855817347393",
+          "start": 7,
+          "url": "https://t.co/AsvWddx4hW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056356152947151333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056074855817347393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要抛弃我😭 https://t.co/AsvWddx4hW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2056074852814241792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIilL2GbQAACzYj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056356152947151333",
+        "created_at": "2026-05-18T12:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056356152947151333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woshixiaoyu123…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/woshixiaoyu123/status/2056074855817347393",
+              "start": 7,
+              "url": "https://t.co/AsvWddx4hW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056356152947151333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056074855817347393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要抛弃我😭 https://t.co/AsvWddx4hW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056074852814241792"
+          ]
+        },
+        "author_id": "1892595590527377408",
+        "conversation_id": "2056074855817347393",
+        "created_at": "2026-05-17T18:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056074855817347393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3VtQXMxMv",
+              "end": 31,
+              "expanded_url": "https://x.com/woshixiaoyu123/status/2056074855817347393/photo/1",
+              "media_key": "3_2056074852814241792",
+              "start": 8,
+              "url": "https://t.co/h3VtQXMxMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056074855817347393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 30174,
+          "like_count": 1237,
+          "quote_count": 18,
+          "reply_count": 47,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "我的敏感程度: https://t.co/h3VtQXMxMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 122,
+          "like_count": 3982,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3432
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "谢谢你们理我",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "2046785857198477733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997705873175752704/9_bNajVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19321,
+          "following_count": 153,
+          "like_count": 377,
+          "listed_count": 20,
+          "media_count": 1739,
+          "tweet_count": 6423
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

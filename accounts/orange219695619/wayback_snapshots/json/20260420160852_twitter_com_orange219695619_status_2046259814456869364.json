@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2046238006642983304",
+    "created_at": "2026-04-20T16:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046259814456869364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        },
+        {
+          "end": 24,
+          "id": "1704384066290843648",
+          "start": 11,
+          "username": "aika_linerot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046259814456869364",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046258313680359675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 @aika_linerot 我是本部的，本部这边校风挺好的，新星那边可能会乱一点，但好像也没有现在这么乱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2046238006642983304",
+        "created_at": "2026-04-20T16:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046259814456869364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            },
+            {
+              "end": 24,
+              "id": "1704384066290843648",
+              "start": 11,
+              "username": "aika_linerot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046259814456869364",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258313680359675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 @aika_linerot 我是本部的，本部这边校风挺好的，新星那边可能会乱一点，但好像也没有现在这么乱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634944403872833536",
+        "conversation_id": "2046238006642983304",
+        "created_at": "2026-04-20T16:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046258313680359675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 30,
+              "id": "1704384066290843648",
+              "start": 17,
+              "username": "aika_linerot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046258313680359675",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046257695100109085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @aika_linerot 我家离学校开车得半个小时 当初真的是听说这个学校好特意买的学区房 结果上了学和人家上四十 四十三的一比 没觉出好来T^T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 80,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1296
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 324,
+          "like_count": 38409,
+          "listed_count": 1,
+          "media_count": 1361,
+          "tweet_count": 12943
+        },
+        "username": "wmy072011",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T06:36:53.000Z",
+        "description": "mtx | 低能量 | 碎碎念 | hrt24.10.29 | 177cm 62kg | 高敏感自卑玻璃心 | 回避依恋型 | 日常就是到处吐黑泥 |💊 | 退学宅家 | 互fo喵 | 不善社交ごめんね | 努力进化中...... |",
+        "id": "1704384066290843648",
+        "name": "娜娜米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035240356783300609/xtWC26DA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 977,
+          "like_count": 16496,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 384
+        },
+        "username": "aika_linerot",
+        "verified": false
+      }
+    ]
+  }
+}

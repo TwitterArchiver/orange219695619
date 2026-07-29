@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052799092431143198",
+    "created_at": "2026-05-08T17:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052799092431143198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuhongwei22/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shuhongwei22/status/2052583570661839305",
+          "start": 4,
+          "url": "https://t.co/dRF4sekVbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052799092431143198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052583570661839305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "张力！ https://t.co/dRF4sekVbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2052583559786106880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw932DbkAADXuA.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052799092431143198",
+        "created_at": "2026-05-08T17:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052799092431143198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuhongwei22/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shuhongwei22/status/2052583570661839305",
+              "start": 4,
+              "url": "https://t.co/dRF4sekVbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052799092431143198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052583570661839305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张力！ https://t.co/dRF4sekVbE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052583559786106880"
+          ]
+        },
+        "author_id": "1517136026757599233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052583570661839305",
+        "created_at": "2026-05-08T02:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052583570661839305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDhAmOfzj2",
+              "end": 29,
+              "expanded_url": "https://x.com/shuhongwei22/status/2052583570661839305/photo/1",
+              "media_key": "3_2052583559786106880",
+              "start": 6,
+              "url": "https://t.co/mDhAmOfzj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052583570661839305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3550,
+          "like_count": 166,
+          "quote_count": 2,
+          "reply_count": 65,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "蒜苔大丰收 https://t.co/mDhAmOfzj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 99,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2449
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T13:40:20.000Z",
+        "description": "爱旅游，爱传播传统文化，爱讲奋斗故事！部分图片来自网络，如有侵权，请联系删除！",
+        "id": "1517136026757599233",
+        "location": "You may guess",
+        "name": "运动水货",
+        "pinned_tweet_id": "2052583780196732985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014937103491371008/Trjwfulx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61805,
+          "following_count": 23931,
+          "like_count": 213167,
+          "listed_count": 127,
+          "media_count": 4379,
+          "tweet_count": 15348
+        },
+        "username": "shuhongwei22",
+        "verified": false
+      }
+    ]
+  }
+}

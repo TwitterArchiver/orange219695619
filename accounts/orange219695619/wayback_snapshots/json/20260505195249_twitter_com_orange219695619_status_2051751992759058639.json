@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2051555274704773458",
+    "created_at": "2026-05-05T19:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051751992759058639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051751992759058639",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051555274704773458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 主公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2051555274704773458",
+        "created_at": "2026-05-05T19:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051751992759058639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051751992759058639",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051555274704773458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 主公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975129821111074816",
+        "conversation_id": "2051555274704773458",
+        "created_at": "2026-05-05T06:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051555274704773458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051555274704773458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我现实无论称呼谁都是兄弟，感觉怪怪的，谁能给我一个更好的称呼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 94,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2243
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "至于怎么称呼直接叫我朱雨辰就好了。很无聊希望有人能给我发私信。浙江人。我穷，低龄唐逼，嗯就是这样。不善交流所以可能会比较冒犯，对不起。然后如果我哪里惹到你了就和我说，会改…暂时就先这样吧",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰牛逼",
+        "pinned_tweet_id": "2031348486260887965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040900649588768769/fUXi9OrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 48,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1055
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

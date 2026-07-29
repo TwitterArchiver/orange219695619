@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063203836588954053",
+    "created_at": "2026-06-06T10:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063203836588954053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kevinnbass/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/kevinnbass/status/2063111302185140601",
+          "start": 11,
+          "url": "https://t.co/QdOhrT4SSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063203836588954053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063111302185140601",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特是中国的万达广场 https://t.co/QdOhrT4SSB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063203836588954053",
+        "created_at": "2026-06-06T10:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063203836588954053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kevinnbass/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/kevinnbass/status/2063111302185140601",
+              "start": 11,
+              "url": "https://t.co/QdOhrT4SSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063203836588954053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063111302185140601",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特是中国的万达广场 https://t.co/QdOhrT4SSB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1038726722",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2063111302185140601",
+        "created_at": "2026-06-06T04:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063111302185140601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/polymarket/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/polymarket/status/2063087661196173817",
+              "start": 35,
+              "url": "https://t.co/TGYu9inGDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063111302185140601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 6205129,
+          "like_count": 579,
+          "quote_count": 20,
+          "reply_count": 78,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063087661196173817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "X is the public square of the West https://t.co/TGYu9inGDw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 160,
+          "like_count": 7869,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 5422
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-27T03:44:47.000Z",
+        "description": "Interested in tech, AI, public health, healthcare — Kicked out of TTU med for truth-telling — I want Texas Tech to tell the truth about what it did",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kevinbass.substack.com/subscribe",
+                "end": 23,
+                "expanded_url": "http://kevinbass.substack.com/subscribe",
+                "start": 0,
+                "url": "https://t.co/JtQic75tZh"
+              }
+            ]
+          }
+        },
+        "id": "1038726722",
+        "name": "Kevin Bass",
+        "pinned_tweet_id": "1901442666367181249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947236538409988096/hZXVsMlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210362,
+          "following_count": 2693,
+          "like_count": 161503,
+          "listed_count": 1221,
+          "media_count": 2170,
+          "tweet_count": 25738
+        },
+        "url": "https://t.co/JtQic75tZh",
+        "username": "kevinnbass",
+        "verified": true
+      }
+    ]
+  }
+}

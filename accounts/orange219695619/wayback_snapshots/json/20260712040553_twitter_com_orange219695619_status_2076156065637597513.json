@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2076152421399593005",
+    "created_at": "2026-07-12T04:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076156065637597513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        },
+        {
+          "end": 22,
+          "id": "741127492614950913",
+          "start": 14,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076156065637597513",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076154316717474293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 @Lakr233 那就是咬半根烤肠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2076152421399593005",
+        "created_at": "2026-07-12T04:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076156065637597513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            },
+            {
+              "end": 22,
+              "id": "741127492614950913",
+              "start": 14,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076156065637597513",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076154316717474293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 @Lakr233 那就是咬半根烤肠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2076152421399593005",
+        "created_at": "2026-07-12T03:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076154316717474293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741127492614950913",
+              "start": 0,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076154316717474293",
+        "in_reply_to_user_id": "741127492614950913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076153817809539231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lakr233 不是不是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 173,
+          "like_count": 16984,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 8706
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9354,
+          "following_count": 99,
+          "like_count": 12243,
+          "listed_count": 27,
+          "media_count": 278,
+          "tweet_count": 2791
+        },
+        "url": "",
+        "username": "liujiayi1111",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "我不会在个人资料里头放除了 https://t.co/kOWUWwvGx5 的链接。 #-a-different-kind-of-human.\n\nPs: 若是被认定为生成式推文账号，则会被关小黑屋。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 37,
+                "expanded_url": "http://qaq.wiki",
+                "start": 14,
+                "url": "https://t.co/kOWUWwvGx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdf6qu"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "name": "砍砍.ᐟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861408647602176/R4ipccSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33397,
+          "following_count": 396,
+          "like_count": 63187,
+          "listed_count": 232,
+          "media_count": 112,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/FIGSbdf6qu",
+        "username": "Lakr233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2048781920872681666",
+    "created_at": "2026-04-28T13:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049119575820947960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003874583343210496",
+          "start": 0,
+          "username": "changdaobi85143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049119575820947960",
+    "in_reply_to_user_id": "2003874583343210496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048781920872681666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changdaobi85143 也算健身了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2048781920872681666",
+        "created_at": "2026-04-28T13:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049119575820947960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003874583343210496",
+              "start": 0,
+              "username": "changdaobi85143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049119575820947960",
+        "in_reply_to_user_id": "2003874583343210496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048781920872681666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changdaobi85143 也算健身了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003874583343210496",
+        "conversation_id": "2048781920872681666",
+        "created_at": "2026-04-27T15:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048781920872681666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048781920872681666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜跑去健身房以为24小时营业结果走了十五分钟到了发现门锁了然好又走了十五分钟回来了😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 87,
+          "like_count": 1405,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1793
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T17:05:15.000Z",
+        "description": "可以叫我长岛冰茶/请文明私信。ftx含睾酮\n泛性恋",
+        "id": "2003874583343210496",
+        "location": "Hong Kong",
+        "name": "来一杯长岛冰茶",
+        "pinned_tweet_id": "2040396852840005791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003875241773465600/4aLJ-_j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 161,
+          "like_count": 2193,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 201
+        },
+        "username": "changdaobi85143",
+        "verified": false
+      }
+    ]
+  }
+}

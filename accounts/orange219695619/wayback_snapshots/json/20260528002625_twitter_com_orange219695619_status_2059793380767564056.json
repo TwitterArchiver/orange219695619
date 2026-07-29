@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059630255141437441"
+      ],
+      "media_source_tweet_id": [
+        "2059630261214822679"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2059793380767564056",
+    "created_at": "2026-05-28T00:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059793380767564056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2385773107",
+          "start": 3,
+          "username": "tokerutyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4SvxCd9my",
+          "end": 72,
+          "expanded_url": "https://x.com/tokerutyan/status/2059630261214822679/photo/1",
+          "media_key": "3_2059630255141437441",
+          "start": 49,
+          "url": "https://t.co/q4SvxCd9my"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059793380767564056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 478
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059630261214822679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerutyan: 指輪でプリンセスになる撮り方やりたい、まっじで可愛いт⩊т 💍🤍 https://t.co/q4SvxCd9my"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059630255141437441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVGzf5aQAE2PY5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059630255141437441"
+          ],
+          "media_source_tweet_id": [
+            "2059630261214822679"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2059793380767564056",
+        "created_at": "2026-05-28T00:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059793380767564056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2385773107",
+              "start": 3,
+              "username": "tokerutyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4SvxCd9my",
+              "end": 72,
+              "expanded_url": "https://x.com/tokerutyan/status/2059630261214822679/photo/1",
+              "media_key": "3_2059630255141437441",
+              "start": 49,
+              "url": "https://t.co/q4SvxCd9my"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059793380767564056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 478
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059630261214822679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerutyan: 指輪でプリンセスになる撮り方やりたい、まっじで可愛いт⩊т 💍🤍 https://t.co/q4SvxCd9my"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059630255141437441"
+          ]
+        },
+        "author_id": "2385773107",
+        "conversation_id": "2059630261214822679",
+        "created_at": "2026-05-27T13:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059630261214822679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4SvxCd9my",
+              "end": 56,
+              "expanded_url": "https://x.com/tokerutyan/status/2059630261214822679/photo/1",
+              "media_key": "3_2059630255141437441",
+              "start": 33,
+              "url": "https://t.co/q4SvxCd9my"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059630261214822679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 864,
+          "impression_count": 107593,
+          "like_count": 10479,
+          "quote_count": 70,
+          "reply_count": 12,
+          "retweet_count": 478
+        },
+        "reply_settings": "everyone",
+        "text": "指輪でプリンセスになる撮り方やりたい、まっじで可愛いт⩊т 💍🤍 https://t.co/q4SvxCd9my"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 141,
+          "like_count": 6004,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 4459
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-12T20:20:29.000Z",
+        "description": "￤美容・コスメ・グルメ・ファッション•旅行・ライフスタイル・韓国も含めた新作情報まとめ ⸝꙳⋆  ￤フォローすると可愛くなれる🌷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/ja/MKeetle",
+                "end": 23,
+                "expanded_url": "https://mond.how/ja/MKeetle",
+                "start": 0,
+                "url": "https://t.co/Q2IE8ANywK"
+              }
+            ]
+          }
+        },
+        "id": "2385773107",
+        "name": "🫠🤍",
+        "pinned_tweet_id": "2035659725002650014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001471009862414337/9lkN5-xN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87062,
+          "following_count": 621,
+          "like_count": 14,
+          "listed_count": 64,
+          "media_count": 17,
+          "tweet_count": 164699
+        },
+        "url": "https://t.co/Q2IE8ANywK",
+        "username": "tokerutyan",
+        "verified": true
+      }
+    ]
+  }
+}

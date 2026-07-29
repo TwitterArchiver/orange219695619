@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2078436524253913589",
+    "created_at": "2026-07-18T11:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078436524253913589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904630459539312640",
+          "start": 3,
+          "username": "pubity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078436524253913589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 945
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078238321902514254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pubity: China is making romantic AI chatbots completely illegal.\n\nThey believe people falling in love with AI is contributing to declin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2078234268300394496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdfDloWwAAXtdq.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2078234290131800064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdfE29XkAABAlw.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2078436524253913589",
+        "created_at": "2026-07-18T11:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078436524253913589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904630459539312640",
+              "start": 3,
+              "username": "pubity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078436524253913589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 945
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078238321902514254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pubity: China is making romantic AI chatbots completely illegal.\n\nThey believe people falling in love with AI is contributing to declin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078234268300394496",
+            "3_2078234290131800064"
+          ]
+        },
+        "author_id": "904630459539312640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2078238321902514254",
+        "created_at": "2026-07-17T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078238321902514254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSI5RvLfLd",
+              "end": 167,
+              "expanded_url": "https://x.com/pubity/status/2078238321902514254/photo/1",
+              "media_key": "3_2078234268300394496",
+              "start": 144,
+              "url": "https://t.co/zSI5RvLfLd"
+            },
+            {
+              "display_url": "pic.x.com/zSI5RvLfLd",
+              "end": 167,
+              "expanded_url": "https://x.com/pubity/status/2078238321902514254/photo/1",
+              "media_key": "3_2078234290131800064",
+              "start": 144,
+              "url": "https://t.co/zSI5RvLfLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078238321902514254",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1449,
+          "impression_count": 861595,
+          "like_count": 18110,
+          "quote_count": 664,
+          "reply_count": 521,
+          "retweet_count": 945
+        },
+        "reply_settings": "everyone",
+        "text": "China is making romantic AI chatbots completely illegal.\n\nThey believe people falling in love with AI is contributing to declining birth rates. https://t.co/zSI5RvLfLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 178,
+          "like_count": 18352,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 9160
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T09:01:23.000Z",
+        "description": "Informative, entertaining and breaking news.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubitygroup.com",
+                "end": 23,
+                "expanded_url": "http://pubitygroup.com",
+                "start": 0,
+                "url": "https://t.co/BwmjjB83kA"
+              }
+            ]
+          }
+        },
+        "id": "904630459539312640",
+        "location": "New York, USA",
+        "name": "Pubity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778055517925146624/nJXOa2UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308141,
+          "following_count": 169,
+          "like_count": 852,
+          "listed_count": 855,
+          "media_count": 11599,
+          "tweet_count": 12361
+        },
+        "url": "https://t.co/BwmjjB83kA",
+        "username": "pubity",
+        "verified": true
+      }
+    ]
+  }
+}

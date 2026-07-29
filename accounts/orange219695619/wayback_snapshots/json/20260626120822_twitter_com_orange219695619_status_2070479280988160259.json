@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070469668515856560",
+    "created_at": "2026-06-26T12:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070479280988160259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053536594427338752",
+          "start": 0,
+          "username": "sonia_lychee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070479280988160259",
+    "in_reply_to_user_id": "2053536594427338752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070470541346255331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonia_lychee 你别说，还真挺像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2070470538578018304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvJ_CnawAA4bEQ.jpg",
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070469668515856560",
+        "created_at": "2026-06-26T12:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070479280988160259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053536594427338752",
+              "start": 0,
+              "username": "sonia_lychee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070479280988160259",
+        "in_reply_to_user_id": "2053536594427338752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070470541346255331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonia_lychee 你别说，还真挺像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070470538578018304"
+          ]
+        },
+        "author_id": "2053536594427338752",
+        "conversation_id": "2070469668515856560",
+        "created_at": "2026-06-26T11:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070470541346255331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvXCG8nx7a",
+              "end": 85,
+              "expanded_url": "https://x.com/sonia_lychee/status/2070470541346255331/photo/1",
+              "media_key": "3_2070470538578018304",
+              "start": 62,
+              "url": "https://t.co/QvXCG8nx7a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070470541346255331",
+        "in_reply_to_user_id": "2053536594427338752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070469668515856560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行，闺蜜一句话给我干emo了，她说我喜欢的这件针织裙穿上去看起来像是咖啡店店员😇😇😇何意味，我已急哭。你其实是敌蜜来的吧 https://t.co/QvXCG8nx7a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 194,
+          "like_count": 13301,
+          "listed_count": 2,
+          "media_count": 448,
+          "tweet_count": 7613
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T18:04:22.000Z",
+        "description": "只是吐黑泥的地方。\n路过的朋友我祝你肠胃健康，睡眠健康。",
+        "id": "2053536594427338752",
+        "location": "Nakano-ku, Tokyo",
+        "name": "AAA肠胃睡眠健康宣传大使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053536777672278016/QaKcIqe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 46,
+          "like_count": 2134,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "sonia_lychee",
+        "verified": false
+      }
+    ]
+  }
+}

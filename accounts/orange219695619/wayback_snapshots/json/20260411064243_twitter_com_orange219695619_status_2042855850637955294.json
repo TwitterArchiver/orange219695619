@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2042750461430952149",
+    "created_at": "2026-04-11T06:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042855850637955294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1934822866794762241",
+          "start": 0,
+          "username": "anorange111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042855850637955294",
+    "in_reply_to_user_id": "1934822866794762241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042750461430952149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anorange111 看起来很好吃的样子！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1629,
+        "media_key": "3_2042750449581985797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlOtgAakAUZXJp.jpg",
+        "width": 1431
+      },
+      {
+        "height": 1674,
+        "media_key": "3_2042750449569402881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlOtf9akAEQNmh.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2042750461430952149",
+        "created_at": "2026-04-11T06:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042855850637955294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934822866794762241",
+              "start": 0,
+              "username": "anorange111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042855850637955294",
+        "in_reply_to_user_id": "1934822866794762241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042750461430952149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anorange111 看起来很好吃的样子！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042750449581985797",
+            "3_2042750449569402881"
+          ]
+        },
+        "author_id": "1934822866794762241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042750461430952149",
+        "created_at": "2026-04-10T23:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042750461430952149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "美食"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pwEQPEYiNJ",
+              "end": 46,
+              "expanded_url": "https://x.com/anorange111/status/2042750461430952149/photo/1",
+              "media_key": "3_2042750449581985797",
+              "start": 23,
+              "url": "https://t.co/pwEQPEYiNJ"
+            },
+            {
+              "display_url": "pic.x.com/pwEQPEYiNJ",
+              "end": 46,
+              "expanded_url": "https://x.com/anorange111/status/2042750461430952149/photo/1",
+              "media_key": "3_2042750449569402881",
+              "start": 23,
+              "url": "https://t.co/pwEQPEYiNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042750461430952149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看我的煎蛋完美不，热锅凉油，定型翻面 #美食 https://t.co/pwEQPEYiNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 854
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T03:58:42.000Z",
+        "description": "爱吃爱逛爱分享，关赞评必回，遗漏请留言哦，少量图片视频来自网络，侵删。冲4000粉丝。黄赌灰、推销勿扰。",
+        "id": "1934822866794762241",
+        "name": "orange",
+        "pinned_tweet_id": "2042168512916168928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934824502975975425/OucqAhqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 3862,
+          "like_count": 10600,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 1568
+        },
+        "username": "anorange111",
+        "verified": false
+      }
+    ]
+  }
+}

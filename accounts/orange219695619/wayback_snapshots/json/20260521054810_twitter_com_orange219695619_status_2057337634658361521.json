@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057328466480234497"
+      ],
+      "media_source_tweet_id": [
+        "2057328470599086488"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057337634658361521",
+    "created_at": "2026-05-21T05:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057337634658361521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414672456804040705",
+          "start": 3,
+          "username": "Bunch_1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RVsannChII",
+          "end": 43,
+          "expanded_url": "https://x.com/Bunch_1123/status/2057328470599086488/photo/1",
+          "media_key": "3_2057328466480234497",
+          "start": 20,
+          "url": "https://t.co/RVsannChII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057337634658361521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057328470599086488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunch_1123: がお♡ https://t.co/RVsannChII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057328466480234497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0ZVw7agAEYmF0.jpg",
+        "width": 1531
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057328466480234497"
+          ],
+          "media_source_tweet_id": [
+            "2057328470599086488"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057337634658361521",
+        "created_at": "2026-05-21T05:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057337634658361521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414672456804040705",
+              "start": 3,
+              "username": "Bunch_1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVsannChII",
+              "end": 43,
+              "expanded_url": "https://x.com/Bunch_1123/status/2057328470599086488/photo/1",
+              "media_key": "3_2057328466480234497",
+              "start": 20,
+              "url": "https://t.co/RVsannChII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057337634658361521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057328470599086488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunch_1123: がお♡ https://t.co/RVsannChII"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057328466480234497"
+          ]
+        },
+        "author_id": "1414672456804040705",
+        "conversation_id": "2057328470599086488",
+        "created_at": "2026-05-21T05:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057328470599086488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RVsannChII",
+              "end": 27,
+              "expanded_url": "https://x.com/Bunch_1123/status/2057328470599086488/photo/1",
+              "media_key": "3_2057328466480234497",
+              "start": 4,
+              "url": "https://t.co/RVsannChII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057328470599086488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 6062,
+          "like_count": 1042,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "がお♡ https://t.co/RVsannChII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4360,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3663
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T19:46:22.000Z",
+        "description": "インターネットらくがきマン 擬人化シリーズ (主に海洋生物) JKシリーズ サキュバス ニャキュバス 悪魔シリーズ等描いてます！ 【skebは非商用利用のみ🙇‍♀️ サムネは🙆‍♂️ 】FANBOX→https://t.co/uWdpGMga4m 【お仕事はこちらから】buchi5433@gmail.comに",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "otintinn.fanbox.cc",
+                "end": 123,
+                "expanded_url": "http://otintinn.fanbox.cc",
+                "start": 100,
+                "url": "https://t.co/uWdpGMga4m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___OTINTIN",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@___OTINTIN",
+                "start": 0,
+                "url": "https://t.co/UgBLIfduWH"
+              }
+            ]
+          }
+        },
+        "id": "1414672456804040705",
+        "location": "キモータの掃き溜め",
+        "name": "ぶんち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652306716544106496/blLudldn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559305,
+          "following_count": 645,
+          "like_count": 26737,
+          "listed_count": 2926,
+          "media_count": 283,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/UgBLIfduWH",
+        "username": "Bunch_1123",
+        "verified": true
+      }
+    ]
+  }
+}

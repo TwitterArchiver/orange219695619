@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2049165507442479526",
+    "created_at": "2026-04-29T08:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049401915260502155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1389761207872147458",
+          "start": 0,
+          "username": "E3MzyYxxKgt1N1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049401915260502155",
+    "in_reply_to_user_id": "1389761207872147458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049165507442479526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E3MzyYxxKgt1N1v 这确实是暴论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2049165507442479526",
+        "created_at": "2026-04-29T08:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049401915260502155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1389761207872147458",
+              "start": 0,
+              "username": "E3MzyYxxKgt1N1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049401915260502155",
+        "in_reply_to_user_id": "1389761207872147458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049165507442479526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E3MzyYxxKgt1N1v 这确实是暴论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389761207872147458",
+        "conversation_id": "2049165507442479526",
+        "created_at": "2026-04-28T16:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049165507442479526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049165507442479526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 834,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发表暴论：没有人觉得裂口女……\n\n其实天生适合嚼槟榔吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 89,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1844
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T01:58:10.000Z",
+        "description": "我也想变得可爱！\n/社恐女绿/没什么门槛但是给我点钱会开心/先天小m圣体/不对恋爱抱有任何想法/骨科脑子/ \n怪怪的算命🥺…我觉得还算挺灵光的/ 坚决不涉及现实",
+        "id": "1389761207872147458",
+        "location": "（不会叫的布谷）",
+        "name": "布谷爱吃白切鸡",
+        "pinned_tweet_id": "1737471718564724737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957305735353860096/VzVcKoBW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2923,
+          "following_count": 742,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1937
+        },
+        "username": "E3MzyYxxKgt1N1v",
+        "verified": false
+      }
+    ]
+  }
+}

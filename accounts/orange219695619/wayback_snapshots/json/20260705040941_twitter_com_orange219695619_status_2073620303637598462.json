@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2073620303637598462",
+    "created_at": "2026-07-05T04:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073620303637598462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BelleHarro2762…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/BelleHarro27622/status/2073619526571466899",
+          "start": 10,
+          "url": "https://t.co/x97cp7fmhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073620303637598462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073619526571466899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼连表情都不发了 https://t.co/x97cp7fmhv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2073620303637598462",
+        "created_at": "2026-07-05T04:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073620303637598462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BelleHarro2762…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BelleHarro27622/status/2073619526571466899",
+              "start": 10,
+              "url": "https://t.co/x97cp7fmhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073620303637598462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073619526571466899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼连表情都不发了 https://t.co/x97cp7fmhv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040185408265371649",
+        "conversation_id": "2073454791448203614",
+        "created_at": "2026-07-05T04:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073619526571466899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073619526571466899",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073454791448203614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 [quote3]\n[quote1]\n[quote3]\n[quote1]\n 2026-07-05 12:06:36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 196,
+          "like_count": 15343,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 8184
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T21:51:22.000Z",
+        "description": "",
+        "id": "2040185408265371649",
+        "name": "Belle Harrod",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040185451215220736/J8yMrDrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "BelleHarro27622",
+        "verified": false
+      }
+    ]
+  }
+}

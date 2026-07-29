@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071072504815480832"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070973829321822320",
+    "created_at": "2026-06-28T03:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T04:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071072506983985255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bnh5gkqp0n",
+          "end": 31,
+          "expanded_url": "https://x.com/orange219695619/status/2071072506983985255/photo/1",
+          "media_key": "3_2071072504815480832",
+          "start": 8,
+          "url": "https://t.co/Bnh5gkqp0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071072506983985255",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071016264458453029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 https://t.co/Bnh5gkqp0n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071072504815480832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3teFma8AAIsii.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071072504815480832"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070973829321822320",
+        "created_at": "2026-06-28T03:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071072506983985255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bnh5gkqp0n",
+              "end": 31,
+              "expanded_url": "https://x.com/orange219695619/status/2071072506983985255/photo/1",
+              "media_key": "3_2071072504815480832",
+              "start": 8,
+              "url": "https://t.co/Bnh5gkqp0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071072506983985255",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071016264458453029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 https://t.co/Bnh5gkqp0n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291704894211186689",
+        "conversation_id": "2070973829321822320",
+        "created_at": "2026-06-27T23:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071016264458453029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071016264458453029",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070973829321822320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 看到啥了啊 好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 192,
+          "like_count": 13763,
+          "listed_count": 2,
+          "media_count": 464,
+          "tweet_count": 7792
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 679,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1819
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

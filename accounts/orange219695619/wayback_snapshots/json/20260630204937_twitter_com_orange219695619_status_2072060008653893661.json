@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2071900016763867447",
+    "created_at": "2026-06-30T20:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072060008653893661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809925244234424320",
+          "start": 0,
+          "username": "lootrahs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072060008653893661",
+    "in_reply_to_user_id": "1809925244234424320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071900016763867447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lootrahs 不过看起来确实不错🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_2071900013794353152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDeFcxW4AAz_EX.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2071900016763867447",
+        "created_at": "2026-06-30T20:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072060008653893661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809925244234424320",
+              "start": 0,
+              "username": "lootrahs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072060008653893661",
+        "in_reply_to_user_id": "1809925244234424320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071900016763867447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lootrahs 不过看起来确实不错🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071900013794353152"
+          ]
+        },
+        "author_id": "1809925244234424320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071900016763867447",
+        "created_at": "2026-06-30T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071900016763867447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tml3uUoukj",
+              "end": 112,
+              "expanded_url": "https://x.com/lootrahs/status/2071900016763867447/photo/1",
+              "media_key": "3_2071900013794353152",
+              "start": 89,
+              "url": "https://t.co/Tml3uUoukj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071900016763867447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 358475,
+          "like_count": 9545,
+          "quote_count": 30,
+          "reply_count": 94,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "I met this Chinese guy three months ago and all he does is send me videos of Peking Duck https://t.co/Tml3uUoukj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 195,
+          "like_count": 14386,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 7918
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T12:19:44.000Z",
+        "description": "Western Degenerate stuck in Ukraine. Retweets mostly. ꑭ",
+        "id": "1809925244234424320",
+        "location": "Ukraine",
+        "name": "Lutras 🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041258309307539456/_Q7MlM4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 5007,
+          "like_count": 68452,
+          "listed_count": 4,
+          "media_count": 3918,
+          "tweet_count": 92735
+        },
+        "url": "",
+        "username": "lootrahs",
+        "verified": true
+      }
+    ]
+  }
+}

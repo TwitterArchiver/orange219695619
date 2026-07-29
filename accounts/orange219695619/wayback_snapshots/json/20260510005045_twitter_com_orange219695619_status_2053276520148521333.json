@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053276520148521333",
+    "created_at": "2026-05-10T00:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053276520148521333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/izamamaa/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/izamamaa/status/2052724786611011922",
+          "start": 7,
+          "url": "https://t.co/Zgp76wZxFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053276520148521333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052724786611011922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猫猫：干嘛… https://t.co/Zgp76wZxFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11260,
+        "height": 1280,
+        "media_key": "13_2052724722605977605",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052724722605977605/img/3jsDqElmiILVWetx.jpg",
+        "public_metrics": {
+          "view_count": 2447424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052724722605977605/vid/avc1/320x568/iYPBkyhvb1k0IXnX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052724722605977605/vid/avc1/480x852/1p98N9y8BPavdBc5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052724722605977605/vid/avc1/720x1280/ch1k7gxphwwj1ztV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052724722605977605/pl/9BS0CGpKNjlayjxq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053276520148521333",
+        "created_at": "2026-05-10T00:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053276520148521333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/izamamaa/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/izamamaa/status/2052724786611011922",
+              "start": 7,
+              "url": "https://t.co/Zgp76wZxFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053276520148521333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052724786611011922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫：干嘛… https://t.co/Zgp76wZxFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052724722605977605"
+          ]
+        },
+        "author_id": "1837608355797651459",
+        "conversation_id": "2052724786611011922",
+        "created_at": "2026-05-08T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052724786611011922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tr9KV54P6M",
+              "end": 55,
+              "expanded_url": "https://x.com/izamamaa/status/2052724786611011922/video/1",
+              "media_key": "13_2052724722605977605",
+              "start": 32,
+              "url": "https://t.co/Tr9KV54P6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052724786611011922",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22524,
+          "impression_count": 7177245,
+          "like_count": 187235,
+          "quote_count": 774,
+          "reply_count": 864,
+          "retweet_count": 18319
+        },
+        "reply_settings": "everyone",
+        "text": "This video kills me everytime 😭 https://t.co/Tr9KV54P6M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 99,
+          "like_count": 2552,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2583
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T21:42:53.000Z",
+        "description": "her💋 Sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "rainbetcom"
+              }
+            ]
+          }
+        },
+        "id": "1837608355797651459",
+        "location": "Nearby ",
+        "name": "iza",
+        "pinned_tweet_id": "2044828148559200734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017883012608729088/4jzIFESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9723,
+          "following_count": 3748,
+          "like_count": 38744,
+          "listed_count": 118,
+          "media_count": 939,
+          "tweet_count": 31044
+        },
+        "username": "izamamaa",
+        "verified": true
+      }
+    ]
+  }
+}

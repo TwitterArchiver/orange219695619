@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069918722840797582",
+    "created_at": "2026-06-25T04:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070006881276571931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1910629733785870336",
+          "start": 0,
+          "username": "ji_chu25601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070006881276571931",
+    "in_reply_to_user_id": "1910629733785870336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069918722840797582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_chu25601 消毒还能爽！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069918722840797582",
+        "created_at": "2026-06-25T04:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070006881276571931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910629733785870336",
+              "start": 0,
+              "username": "ji_chu25601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070006881276571931",
+        "in_reply_to_user_id": "1910629733785870336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069918722840797582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_chu25601 消毒还能爽！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2069918722840797582",
+        "created_at": "2026-06-24T23:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069918722840797582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069918722840797582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢割手后涂酒精😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 195,
+          "like_count": 12932,
+          "listed_count": 2,
+          "media_count": 439,
+          "tweet_count": 7509
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我od/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分没回私我)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2067256693478834244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 146,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

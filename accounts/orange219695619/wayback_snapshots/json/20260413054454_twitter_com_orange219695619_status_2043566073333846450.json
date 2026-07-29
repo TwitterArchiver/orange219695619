@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2043566073333846450",
+    "created_at": "2026-04-13T05:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043566073333846450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2043518786998067258",
+          "start": 28,
+          "url": "https://t.co/69e8lwkfad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043566073333846450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043518786998067258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有时候很怀疑我那些会安慰人的朋友是不是面包师转行的（） https://t.co/69e8lwkfad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2043566073333846450",
+        "created_at": "2026-04-13T05:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043566073333846450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2043518786998067258",
+              "start": 28,
+              "url": "https://t.co/69e8lwkfad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043566073333846450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043518786998067258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候很怀疑我那些会安慰人的朋友是不是面包师转行的（） https://t.co/69e8lwkfad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2043518786998067258",
+        "created_at": "2026-04-13T02:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043518786998067258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043518786998067258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1570,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你累累的可能是酵母放多了，你苦苦的可能是要放糖了，你酸酸的可能是发酵太久了，你软软的可能是温度太高了，你硬硬的可能是放的时间太长了。你在说什么呀，这里是厨房，材料有的是，我们可以再做一次。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 71,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 920
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 54,
+          "like_count": 5720,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1402
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

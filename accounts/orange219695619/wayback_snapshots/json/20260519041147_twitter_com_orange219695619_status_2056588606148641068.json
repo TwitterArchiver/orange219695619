@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2056588606148641068",
+    "created_at": "2026-05-19T04:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056588606148641068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2056570133058040215",
+          "start": 36,
+          "url": "https://t.co/cZRSeObIHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056588606148641068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056570133058040215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑不出来，每次我妈也是，吵完架跟我爸苦诉，然后不分青红皂白的添油加醋… https://t.co/cZRSeObIHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2056570120718483457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpnoO0bgAE9-4V.jpg",
+        "width": 2530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2056588606148641068",
+        "created_at": "2026-05-19T04:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056588606148641068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2056570133058040215",
+              "start": 36,
+              "url": "https://t.co/cZRSeObIHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056588606148641068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056570133058040215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑不出来，每次我妈也是，吵完架跟我爸苦诉，然后不分青红皂白的添油加醋… https://t.co/cZRSeObIHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056570120718483457"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2056570133058040215",
+        "created_at": "2026-05-19T02:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056570133058040215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbA1d947vx",
+              "end": 44,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2056570133058040215/photo/1",
+              "media_key": "3_2056570120718483457",
+              "start": 21,
+              "url": "https://t.co/sbA1d947vx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056570133058040215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我提醒了女儿一句，她就和疯了一样? https://t.co/sbA1d947vx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 122,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 3439
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2056355935485071678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12054,
+          "following_count": 5074,
+          "like_count": 91634,
+          "listed_count": 22,
+          "media_count": 2252,
+          "tweet_count": 20002
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

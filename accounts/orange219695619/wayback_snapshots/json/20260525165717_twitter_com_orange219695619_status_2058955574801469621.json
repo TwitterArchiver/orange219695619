@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058597108513685504"
+      ],
+      "media_source_tweet_id": [
+        "2058597117632152001"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058955574801469621",
+    "created_at": "2026-05-25T16:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058955574801469621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902568136450424832",
+          "start": 3,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/62h5Oy6zxQ",
+          "end": 47,
+          "expanded_url": "https://x.com/aoim33/status/2058597117632152001/photo/1",
+          "media_key": "3_2058597108513685504",
+          "start": 24,
+          "url": "https://t.co/62h5Oy6zxQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058955574801469621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058597117632152001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @aoim33: 李华终于买下了那件衬衫 https://t.co/62h5Oy6zxQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2058597108513685504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGbKcyawAAEx61.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058597108513685504"
+          ],
+          "media_source_tweet_id": [
+            "2058597117632152001"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058955574801469621",
+        "created_at": "2026-05-25T16:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058955574801469621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902568136450424832",
+              "start": 3,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/62h5Oy6zxQ",
+              "end": 47,
+              "expanded_url": "https://x.com/aoim33/status/2058597117632152001/photo/1",
+              "media_key": "3_2058597108513685504",
+              "start": 24,
+              "url": "https://t.co/62h5Oy6zxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058955574801469621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058597117632152001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @aoim33: 李华终于买下了那件衬衫 https://t.co/62h5Oy6zxQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058597108513685504"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2058597117632152001",
+        "created_at": "2026-05-24T17:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058597117632152001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62h5Oy6zxQ",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2058597117632152001/photo/1",
+              "media_key": "3_2058597108513685504",
+              "start": 12,
+              "url": "https://t.co/62h5Oy6zxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058597117632152001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2006,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "other",
+        "text": "李华终于买下了那件衬衫 https://t.co/62h5Oy6zxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 139,
+          "like_count": 5532,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 4246
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5619,
+          "following_count": 2971,
+          "like_count": 50189,
+          "listed_count": 19,
+          "media_count": 2971,
+          "tweet_count": 12667
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

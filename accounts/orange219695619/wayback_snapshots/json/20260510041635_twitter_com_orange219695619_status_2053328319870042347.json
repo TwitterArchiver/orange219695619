@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053299058387956193",
+    "created_at": "2026-05-10T04:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053328319870042347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686671929540042752",
+          "start": 0,
+          "username": "Rinko_Boquette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053328319870042347",
+    "in_reply_to_user_id": "1686671929540042752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053299058387956193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinko_Boquette 看起来很好吃的样子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053299054474592256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7InHeagAAY-by.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053299058387956193",
+        "created_at": "2026-05-10T04:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053328319870042347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686671929540042752",
+              "start": 0,
+              "username": "Rinko_Boquette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053328319870042347",
+        "in_reply_to_user_id": "1686671929540042752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053299058387956193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_Boquette 看起来很好吃的样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053299054474592256"
+          ]
+        },
+        "author_id": "1686671929540042752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053299058387956193",
+        "created_at": "2026-05-10T02:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053299058387956193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KFMd2QiEs",
+              "end": 66,
+              "expanded_url": "https://x.com/Rinko_Boquette/status/2053299058387956193/photo/1",
+              "media_key": "3_2053299054474592256",
+              "start": 43,
+              "url": "https://t.co/9KFMd2QiEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053299058387956193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手很抖 很想吐 整个人都很难受\n这是新品 比以前那个好出多了 烟熏香肠面包总是很好的 https://t.co/9KFMd2QiEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 99,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2599
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:37:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desu.life",
+                "end": 23,
+                "expanded_url": "http://desu.life",
+                "start": 0,
+                "url": "https://t.co/cqoLugYjEr"
+              }
+            ]
+          }
+        },
+        "id": "1686671929540042752",
+        "location": "流星",
+        "name": "Rinko7614",
+        "pinned_tweet_id": "2042207301508255918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038899807176335360/n2jAhZ6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 119,
+          "like_count": 830,
+          "listed_count": 1,
+          "media_count": 985,
+          "tweet_count": 4144
+        },
+        "url": "https://t.co/cqoLugYjEr",
+        "username": "Rinko_Boquette",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066582486751088888",
+    "created_at": "2026-06-16T15:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066913040738750974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "146427447",
+          "start": 0,
+          "username": "carlosalumana"
+        },
+        {
+          "end": 26,
+          "id": "1635274725453643778",
+          "start": 15,
+          "username": "ChinaEnEsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066913040738750974",
+    "in_reply_to_user_id": "146427447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066640883319988251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carlosalumana @ChinaEnEsp 你说的对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066582486751088888",
+        "created_at": "2026-06-16T15:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066913040738750974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "146427447",
+              "start": 0,
+              "username": "carlosalumana"
+            },
+            {
+              "end": 26,
+              "id": "1635274725453643778",
+              "start": 15,
+              "username": "ChinaEnEsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066913040738750974",
+        "in_reply_to_user_id": "146427447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066640883319988251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carlosalumana @ChinaEnEsp 你说的对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "146427447",
+        "conversation_id": "2066582486751088888",
+        "created_at": "2026-06-15T21:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066640883319988251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1635274725453643778",
+              "start": 0,
+              "username": "ChinaEnEsp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "5727d936119423c0"
+        },
+        "id": "2066640883319988251",
+        "in_reply_to_user_id": "1635274725453643778",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4331,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066582486751088888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaEnEsp Si, Mao fue uno de los mayores líderes ignorantes y abusadores de la historia, que dejó entre 40 y 80 millones de muertos, por sus torpes politicas del gran salto adelante y la revolución cultural al mejor estilo de Stalin y de Lenin en la Rusia sovietica. Pedazo de basura."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 187,
+          "like_count": 10186,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 6474
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-21T12:07:35.000Z",
+        "description": "",
+        "id": "146427447",
+        "location": "Pembroke Pines, FL. USA",
+        "name": "Carlos Umana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1016216940069769218/Osp-563T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 880,
+          "like_count": 1522,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 4445
+        },
+        "username": "carlosalumana",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T13:41:04.000Z",
+        "description": "Todo sobre China, en español",
+        "id": "1635274725453643778",
+        "location": "Shanghái",
+        "name": "China en Español",
+        "pinned_tweet_id": "2055739562954313898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042738174489952256/r8eeSvXK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8532,
+          "following_count": 1062,
+          "like_count": 3866,
+          "listed_count": 27,
+          "media_count": 1315,
+          "tweet_count": 4671
+        },
+        "username": "ChinaEnEsp",
+        "verified": true
+      }
+    ]
+  }
+}

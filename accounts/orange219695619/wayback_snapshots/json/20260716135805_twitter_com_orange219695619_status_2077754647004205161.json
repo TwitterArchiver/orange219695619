@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2077750125863268862",
+    "created_at": "2026-07-16T13:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077754647004205161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010386046975139841",
+          "start": 0,
+          "username": "WanXin17900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077754647004205161",
+    "in_reply_to_user_id": "2010386046975139841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077750125863268862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanXin17900 没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2077750121140494336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmug6aoAAcrVF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2077750125863268862",
+        "created_at": "2026-07-16T13:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077754647004205161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010386046975139841",
+              "start": 0,
+              "username": "WanXin17900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077754647004205161",
+        "in_reply_to_user_id": "2010386046975139841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077750125863268862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanXin17900 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077750121140494336"
+          ]
+        },
+        "author_id": "2010386046975139841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077750125863268862",
+        "created_at": "2026-07-16T13:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077750125863268862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wK1zmANn19",
+              "end": 37,
+              "expanded_url": "https://x.com/WanXin17900/status/2077750125863268862/photo/1",
+              "media_key": "3_2077750121140494336",
+              "start": 14,
+              "url": "https://t.co/wK1zmANn19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077750125863268862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫珍爱生命远离赌博。？ https://t.co/wK1zmANn19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 176,
+          "like_count": 18053,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 9047
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T16:20:25.000Z",
+        "description": "Kaio \n\n愿意接受新鲜事物 喜欢一切有意思的东西 \n喜欢听摇滚 08男高中生 分享点日常用 LGBT+全友好\n精神不正常的不抽烟不喝酒不碰黄赌毒的五好青年（）\n小号@Kaiokawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Kaiokawaii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kaio43281",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kaio43281",
+                "start": 0,
+                "url": "https://t.co/3uY1EZOB3Q"
+              }
+            ]
+          }
+        },
+        "id": "2010386046975139841",
+        "location": "On your left ",
+        "name": "KaioMinster",
+        "pinned_tweet_id": "2074899501945614722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069432721404014592/aXy4ioKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 166,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/3uY1EZOB3Q",
+        "username": "WanXin17900",
+        "verified": false
+      }
+    ]
+  }
+}

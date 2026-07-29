@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063182265463762944"
+      ],
+      "media_source_tweet_id": [
+        "2063182278034071605"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063203547374916059",
+    "created_at": "2026-06-06T10:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063203547374916059"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "苦米"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/99zjZIog3q",
+          "end": 56,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2063182278034071605/photo/1",
+          "media_key": "3_2063182265463762944",
+          "start": 33,
+          "url": "https://t.co/99zjZIog3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063203547374916059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063182278034071605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: 切开切开切开切开切开 [#苦米] https://t.co/99zjZIog3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2063182265463762944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHlVtfacAADj_9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063182265463762944"
+          ],
+          "media_source_tweet_id": [
+            "2063182278034071605"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063203547374916059",
+        "created_at": "2026-06-06T10:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063203547374916059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "苦米"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/99zjZIog3q",
+              "end": 56,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2063182278034071605/photo/1",
+              "media_key": "3_2063182265463762944",
+              "start": 33,
+              "url": "https://t.co/99zjZIog3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063203547374916059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063182278034071605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: 切开切开切开切开切开 [#苦米] https://t.co/99zjZIog3q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063182265463762944"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2063182278034071605",
+        "created_at": "2026-06-06T08:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063182278034071605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "苦米"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/99zjZIog3q",
+              "end": 40,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2063182278034071605/photo/1",
+              "media_key": "3_2063182265463762944",
+              "start": 17,
+              "url": "https://t.co/99zjZIog3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063182278034071605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1080,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "切开切开切开切开切开 [#苦米] https://t.co/99zjZIog3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 160,
+          "like_count": 7868,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 5421
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络DM /📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米🩵Fox-Kikumi",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9003,
+          "following_count": 1015,
+          "like_count": 20134,
+          "listed_count": 40,
+          "media_count": 487,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": false
+      }
+    ]
+  }
+}

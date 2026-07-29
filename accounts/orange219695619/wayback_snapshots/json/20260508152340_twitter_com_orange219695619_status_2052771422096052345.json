@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052683599653285888"
+      ],
+      "media_source_tweet_id": [
+        "2052683606590648447"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052771422096052345",
+    "created_at": "2026-05-08T15:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052771422096052345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uQuHNNf4k",
+          "end": 127,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2052683606590648447/photo/1",
+          "media_key": "3_2052683599653285888",
+          "start": 104,
+          "url": "https://t.co/8uQuHNNf4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052771422096052345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052683606590648447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 在我20岁之前，我的身份就是投资工具，是父母培养的「潜力股」\n直到我心理出现问题休学，他们才醒悟\n\n他们有什么错？他们也是被时代裹挟着往前走的，但是数十年的伤痛难以治愈 https://t.co/8uQuHNNf4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2052683599653285888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyY27masAA2H96.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052683599653285888"
+          ],
+          "media_source_tweet_id": [
+            "2052683606590648447"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052771422096052345",
+        "created_at": "2026-05-08T15:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052771422096052345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uQuHNNf4k",
+              "end": 127,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2052683606590648447/photo/1",
+              "media_key": "3_2052683599653285888",
+              "start": 104,
+              "url": "https://t.co/8uQuHNNf4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052771422096052345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052683606590648447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 在我20岁之前，我的身份就是投资工具，是父母培养的「潜力股」\n直到我心理出现问题休学，他们才醒悟\n\n他们有什么错？他们也是被时代裹挟着往前走的，但是数十年的伤痛难以治愈 https://t.co/8uQuHNNf4k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052683599653285888"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2052683606590648447",
+        "created_at": "2026-05-08T09:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052683606590648447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uQuHNNf4k",
+              "end": 108,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2052683606590648447/photo/1",
+              "media_key": "3_2052683599653285888",
+              "start": 85,
+              "url": "https://t.co/8uQuHNNf4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052683606590648447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 974,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在我20岁之前，我的身份就是投资工具，是父母培养的「潜力股」\n直到我心理出现问题休学，他们才醒悟\n\n他们有什么错？他们也是被时代裹挟着往前走的，但是数十年的伤痛难以治愈 https://t.co/8uQuHNNf4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 99,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2443
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10377,
+          "following_count": 4286,
+          "like_count": 45468,
+          "listed_count": 33,
+          "media_count": 2154,
+          "tweet_count": 13483
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

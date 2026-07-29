@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068995024688488448"
+      ],
+      "media_source_tweet_id": [
+        "2068995026907169278"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2069046288017236435",
+    "created_at": "2026-06-22T13:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069046288017236435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1938417216338399232",
+          "start": 3,
+          "username": "anochan_gekini"
+        },
+        {
+          "end": 35,
+          "id": "184004752",
+          "start": 20,
+          "username": "McDonaldsJapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/evApOW2xxk",
+          "end": 59,
+          "expanded_url": "https://x.com/anochan_gekini/status/2068995026907169278/photo/1",
+          "media_key": "3_2068995024688488448",
+          "start": 36,
+          "url": "https://t.co/evApOW2xxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069046288017236435",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068995026907169278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anochan_gekini: @McDonaldsJapan https://t.co/evApOW2xxk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2068995024688488448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaMA1CboAAF4z4.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068995024688488448"
+          ],
+          "media_source_tweet_id": [
+            "2068995026907169278"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2069046288017236435",
+        "created_at": "2026-06-22T13:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069046288017236435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1938417216338399232",
+              "start": 3,
+              "username": "anochan_gekini"
+            },
+            {
+              "end": 35,
+              "id": "184004752",
+              "start": 20,
+              "username": "McDonaldsJapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/evApOW2xxk",
+              "end": 59,
+              "expanded_url": "https://x.com/anochan_gekini/status/2068995026907169278/photo/1",
+              "media_key": "3_2068995024688488448",
+              "start": 36,
+              "url": "https://t.co/evApOW2xxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069046288017236435",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068995026907169278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anochan_gekini: @McDonaldsJapan https://t.co/evApOW2xxk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068995024688488448"
+          ]
+        },
+        "author_id": "1938417216338399232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2068906828142932375",
+        "created_at": "2026-06-22T09:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068995026907169278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "184004752",
+              "start": 0,
+              "username": "McDonaldsJapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/evApOW2xxk",
+              "end": 39,
+              "expanded_url": "https://x.com/anochan_gekini/status/2068995026907169278/photo/1",
+              "media_key": "3_2068995024688488448",
+              "start": 16,
+              "url": "https://t.co/evApOW2xxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068995026907169278",
+        "in_reply_to_user_id": "184004752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4814,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068906828142932375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McDonaldsJapan https://t.co/evApOW2xxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 198,
+          "like_count": 11956,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 7141
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T02:01:14.000Z",
+        "description": "あのちゃん激似おじさんなのだ。本物のおじさんなのだ。\n\nTik Tok\nhttps://t.co/0MWO9wKFLd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@anochan_gekin…",
+                "end": 59,
+                "expanded_url": "https://www.tiktok.com/@anochan_gekini?_r=1&_t=ZS-919MMVKHPUK",
+                "start": 36,
+                "url": "https://t.co/0MWO9wKFLd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZZNt…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCZZNtt4u5SPbvRTE0jMNE-Q?si=g8SX1_vLvegfIEz-",
+                "start": 0,
+                "url": "https://t.co/stpTcVgyNC"
+              }
+            ]
+          }
+        },
+        "id": "1938417216338399232",
+        "name": "あのちゃん激似おじさん",
+        "pinned_tweet_id": "1971544634116698268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938418819103657986/FzgmqCBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 515,
+          "like_count": 24672,
+          "listed_count": 4,
+          "media_count": 1223,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/stpTcVgyNC",
+        "username": "anochan_gekini",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-28T12:54:08.000Z",
+        "description": "日本マクドナルド公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcdonalds.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.mcdonalds.co.jp/",
+                "start": 0,
+                "url": "https://t.co/SnnrXbyVLG"
+              }
+            ]
+          }
+        },
+        "id": "184004752",
+        "name": "マクドナルド",
+        "pinned_tweet_id": "2064165586154696997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979852381320851456/_8KOocC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9932250,
+          "following_count": 25,
+          "like_count": 14189,
+          "listed_count": 10919,
+          "media_count": 21989,
+          "tweet_count": 32193
+        },
+        "url": "https://t.co/SnnrXbyVLG",
+        "username": "McDonaldsJapan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063672040524263424"
+      ],
+      "media_source_tweet_id": [
+        "2063672044282347991"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063711994407244111",
+    "created_at": "2026-06-07T19:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063711994407244111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E59CHghPYO",
+          "end": 69,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2063672044282347991/photo/1",
+          "media_key": "3_2063672040524263424",
+          "start": 46,
+          "url": "https://t.co/E59CHghPYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063711994407244111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063672044282347991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 高考生喊话性同意上调到18岁的视频在国内被下架。 https://t.co/E59CHghPYO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_2063672040524263424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOiyXxasAA2OA5.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063672040524263424"
+          ],
+          "media_source_tweet_id": [
+            "2063672044282347991"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063711994407244111",
+        "created_at": "2026-06-07T19:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063711994407244111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E59CHghPYO",
+              "end": 69,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2063672044282347991/photo/1",
+              "media_key": "3_2063672040524263424",
+              "start": 46,
+              "url": "https://t.co/E59CHghPYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063711994407244111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063672044282347991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 高考生喊话性同意上调到18岁的视频在国内被下架。 https://t.co/E59CHghPYO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063672040524263424"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2063672044282347991",
+        "created_at": "2026-06-07T17:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063672044282347991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E59CHghPYO",
+              "end": 48,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2063672044282347991/photo/1",
+              "media_key": "3_2063672040524263424",
+              "start": 25,
+              "url": "https://t.co/E59CHghPYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063672044282347991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 43921,
+          "like_count": 932,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "高考生喊话性同意上调到18岁的视频在国内被下架。 https://t.co/E59CHghPYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 158,
+          "like_count": 8191,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 5563
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29667,
+          "following_count": 561,
+          "like_count": 36954,
+          "listed_count": 90,
+          "media_count": 10217,
+          "tweet_count": 28093
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

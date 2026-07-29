@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057304147553067008"
+      ],
+      "media_source_tweet_id": [
+        "2057304157606830495"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2057341340191752664",
+    "created_at": "2026-05-21T06:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057341340191752664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011397954033385472",
+          "start": 3,
+          "username": "yureiyks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xu2yK4m94t",
+          "end": 37,
+          "expanded_url": "https://x.com/yureiyks/status/2057304157606830495/photo/1",
+          "media_key": "3_2057304147553067008",
+          "start": 14,
+          "url": "https://t.co/xu2yK4m94t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057341340191752664",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057304157606830495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yureiyks: https://t.co/xu2yK4m94t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2057304147553067008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0DON3WoAA74Ar.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057304147553067008"
+          ],
+          "media_source_tweet_id": [
+            "2057304157606830495"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2057341340191752664",
+        "created_at": "2026-05-21T06:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057341340191752664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011397954033385472",
+              "start": 3,
+              "username": "yureiyks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xu2yK4m94t",
+              "end": 37,
+              "expanded_url": "https://x.com/yureiyks/status/2057304157606830495/photo/1",
+              "media_key": "3_2057304147553067008",
+              "start": 14,
+              "url": "https://t.co/xu2yK4m94t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057341340191752664",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057304157606830495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yureiyks: https://t.co/xu2yK4m94t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057304147553067008"
+          ]
+        },
+        "author_id": "2011397954033385472",
+        "conversation_id": "2057304157606830495",
+        "created_at": "2026-05-21T03:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057304157606830495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xu2yK4m94t",
+              "end": 23,
+              "expanded_url": "https://x.com/yureiyks/status/2057304157606830495/photo/1",
+              "media_key": "3_2057304147553067008",
+              "start": 0,
+              "url": "https://t.co/xu2yK4m94t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057304157606830495",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 12496,
+          "like_count": 1797,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xu2yK4m94t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 126,
+          "like_count": 4367,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 3673
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:20:35.000Z",
+        "description": "🐈‍⬛🐈‍⬛🐈‍⬛",
+        "id": "2011397954033385472",
+        "name": "Yūrei 幽霊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011400249890537472/SzuN0KCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66705,
+          "following_count": 519,
+          "like_count": 2193,
+          "listed_count": 122,
+          "media_count": 784,
+          "tweet_count": 1937
+        },
+        "username": "yureiyks",
+        "verified": true
+      }
+    ]
+  }
+}

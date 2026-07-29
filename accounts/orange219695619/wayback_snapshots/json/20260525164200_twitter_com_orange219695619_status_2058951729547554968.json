@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2058877062992232501",
+    "created_at": "2026-05-25T16:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058951729547554968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1280075700851011589",
+          "start": 0,
+          "username": "OvO332233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058951729547554968",
+    "in_reply_to_user_id": "1280075700851011589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058881606996422737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO332233 嘿嘿🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2058877062992232501",
+        "created_at": "2026-05-25T16:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058951729547554968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1280075700851011589",
+              "start": 0,
+              "username": "OvO332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058951729547554968",
+        "in_reply_to_user_id": "1280075700851011589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058881606996422737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO332233 嘿嘿🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2058877062992232501",
+        "created_at": "2026-05-25T12:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058881606996422737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058881606996422737",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058877062992232501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 窝趣这么高！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 138,
+          "like_count": 5523,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 4243
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "大号@error332233\n貌似被shadowban了所以玩小号！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "error332233"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "1291578137768161280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 2977,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 330
+        },
+        "username": "OvO332233",
+        "verified": false
+      }
+    ]
+  }
+}

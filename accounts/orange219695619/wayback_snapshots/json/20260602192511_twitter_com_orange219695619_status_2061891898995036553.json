@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2061797855254437946",
+    "created_at": "2026-06-02T19:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061891898995036553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852925229905108992",
+          "start": 0,
+          "username": "JinYuan78816"
+        },
+        {
+          "end": 25,
+          "id": "1829867271592026112",
+          "start": 14,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061891898995036553",
+    "in_reply_to_user_id": "1852925229905108992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061890827723624611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinYuan78816 @Shivam3228 话说你了解n55嘛，我在上推前她的号就被封了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2061797855254437946",
+        "created_at": "2026-06-02T19:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061891898995036553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852925229905108992",
+              "start": 0,
+              "username": "JinYuan78816"
+            },
+            {
+              "end": 25,
+              "id": "1829867271592026112",
+              "start": 14,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061891898995036553",
+        "in_reply_to_user_id": "1852925229905108992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061890827723624611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinYuan78816 @Shivam3228 话说你了解n55嘛，我在上推前她的号就被封了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852925229905108992",
+        "conversation_id": "2061797855254437946",
+        "created_at": "2026-06-02T19:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061890827723624611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 28,
+              "id": "1829867271592026112",
+              "start": 17,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061890827723624611",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061890104449507820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @Shivam3228 他没唐畜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 153,
+          "like_count": 7167,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 5065
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:06:25.000Z",
+        "description": "",
+        "id": "1852925229905108992",
+        "location": "Japantown, San Francisco",
+        "name": "槿远",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973529575717216257/l-6Yxnr7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 245,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 216
+        },
+        "username": "JinYuan78816",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 349,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 522
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

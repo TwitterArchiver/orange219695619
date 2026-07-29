@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1487278376633004033"
+      ],
+      "media_source_tweet_id": [
+        "1487278433742639104"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2069282972617109967",
+    "created_at": "2026-06-23T04:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069282972617109967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "768309408786821121",
+          "start": 3,
+          "username": "aguhiyori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOfPFyJGLT",
+          "end": 56,
+          "expanded_url": "https://x.com/aguhiyori/status/1487278433742639104/video/1",
+          "media_key": "7_1487278376633004033",
+          "start": 33,
+          "url": "https://t.co/HOfPFyJGLT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069282972617109967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55342
+    },
+    "referenced_tweets": [
+      {
+        "id": "1487278433742639104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aguhiyori: 2022年のでこぼこコンビです🦭🧡 https://t.co/HOfPFyJGLT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13566,
+        "height": 720,
+        "media_key": "7_1487278376633004033",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1487278376633004033/pu/img/AQD2xFjV6t2XwHcQ.jpg",
+        "public_metrics": {
+          "view_count": 15322257
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1487278376633004033/pu/vid/480x270/L3qjKi4iAUO3JvGO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1487278376633004033/pu/vid/640x360/lUTClMLhe_ArRu-E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1487278376633004033/pu/vid/1280x720/5LLz62YFK_M24Vkf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1487278376633004033/pu/pl/ocJ2RcwuLa5EyvKM.m3u8?tag=12&v=87f"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1487278376633004033"
+          ],
+          "media_source_tweet_id": [
+            "1487278433742639104"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2069282972617109967",
+        "created_at": "2026-06-23T04:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069282972617109967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "768309408786821121",
+              "start": 3,
+              "username": "aguhiyori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOfPFyJGLT",
+              "end": 56,
+              "expanded_url": "https://x.com/aguhiyori/status/1487278433742639104/video/1",
+              "media_key": "7_1487278376633004033",
+              "start": 33,
+              "url": "https://t.co/HOfPFyJGLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069282972617109967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55342
+        },
+        "referenced_tweets": [
+          {
+            "id": "1487278433742639104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aguhiyori: 2022年のでこぼこコンビです🦭🧡 https://t.co/HOfPFyJGLT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1487278376633004033"
+          ]
+        },
+        "author_id": "768309408786821121",
+        "conversation_id": "1487278433742639104",
+        "created_at": "2022-01-29T04:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2022-01-29T04:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1487278433742639104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOfPFyJGLT",
+              "end": 41,
+              "expanded_url": "https://x.com/aguhiyori/status/1487278433742639104/video/1",
+              "media_key": "7_1487278376633004033",
+              "start": 18,
+              "url": "https://t.co/HOfPFyJGLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1487278433742639104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7328,
+          "impression_count": 0,
+          "like_count": 279001,
+          "quote_count": 1870,
+          "reply_count": 361,
+          "retweet_count": 55342
+        },
+        "reply_settings": "everyone",
+        "text": "2022年のでこぼこコンビです🦭🧡 https://t.co/HOfPFyJGLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 198,
+          "like_count": 12247,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 7265
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-24T04:50:12.000Z",
+        "description": "紋別市アザラシシーパラダイスです。アザラシランドのお隣の小さな施設です。ゴマフアザラシへのえさやり体験を実施中！（12時14時の計2回）お問い合わせはガリンコ会社HPまでお願いします。写真、動画無断転載禁止です。Unauthorized reproduction prohibited",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "o-tower.co.jp/sp/",
+                "end": 23,
+                "expanded_url": "https://o-tower.co.jp/sp/",
+                "start": 0,
+                "url": "https://t.co/Yt3a6VHKw3"
+              }
+            ]
+          }
+        },
+        "id": "768309408786821121",
+        "location": "北海道 紋別市 海洋公園",
+        "name": "アザラシシーパラダイス【公式】",
+        "pinned_tweet_id": "2064226654235578618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1143037911236878337/icx48olO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133092,
+          "following_count": 29,
+          "like_count": 425,
+          "listed_count": 1584,
+          "media_count": 5702,
+          "tweet_count": 6658
+        },
+        "url": "https://t.co/Yt3a6VHKw3",
+        "username": "aguhiyori",
+        "verified": false
+      }
+    ]
+  }
+}

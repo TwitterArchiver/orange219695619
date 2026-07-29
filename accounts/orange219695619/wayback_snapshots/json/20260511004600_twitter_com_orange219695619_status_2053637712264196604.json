@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2053543640094625834",
+    "created_at": "2026-05-11T00:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053637712264196604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2833771699",
+          "start": 0,
+          "username": "Ksharp_Moring"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053637712264196604",
+    "in_reply_to_user_id": "2833771699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053543640094625834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ksharp_Moring 好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2053543640094625834",
+        "created_at": "2026-05-11T00:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053637712264196604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2833771699",
+              "start": 0,
+              "username": "Ksharp_Moring"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053637712264196604",
+        "in_reply_to_user_id": "2833771699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053543640094625834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ksharp_Moring 好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2833771699",
+        "conversation_id": "2053543640094625834",
+        "created_at": "2026-05-10T18:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053543640094625834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053543640094625834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 793,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "反福瑞一出生就有自己的獸設——支那豬\n所以当你反福瑞的时候，你已经加入福瑞了，因此反福瑞的第一步是先斩杀自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 99,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2739
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-27T07:43:51.000Z",
+        "description": "社恐 /过期男大 /IN(T|F)P-T 5w4 /Furry /二刺螈（石头门 EVA 弹丸论破等） /简&繁中👌 English👌. 不甘心成为一个平庸的人。",
+        "id": "2833771699",
+        "location": "未来机构第15支部",
+        "name": "日向青辰 🌈 🔜未知",
+        "pinned_tweet_id": "1938548966423212088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917530112515575808/4Uy2Smnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 1991,
+          "like_count": 30312,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 6083
+        },
+        "username": "Ksharp_Moring",
+        "verified": true
+      }
+    ]
+  }
+}

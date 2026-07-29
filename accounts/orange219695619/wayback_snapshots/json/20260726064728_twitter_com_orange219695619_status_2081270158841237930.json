@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2081027142574620948",
+    "created_at": "2026-07-26T06:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081270158841237930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914869536605790212",
+          "start": 0,
+          "username": "Allezavemoi1129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081270158841237930",
+    "in_reply_to_user_id": "1914869536605790212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081268635038105909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allezavemoi1129 不知道医生到底想干什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2081027142574620948",
+        "created_at": "2026-07-26T06:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081270158841237930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914869536605790212",
+              "start": 0,
+              "username": "Allezavemoi1129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081270158841237930",
+        "in_reply_to_user_id": "1914869536605790212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081268635038105909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allezavemoi1129 不知道医生到底想干什么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914869536605790212",
+        "conversation_id": "2081027142574620948",
+        "created_at": "2026-07-26T06:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081268635038105909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081268635038105909",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081027142574620948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 医生真的很不负责啊开的药都是让你嗜睡暴食副作用极大的药丝毫没有想让你正常生活的意思一直浑浑噩噩下去有什么好呢这样的话我不吃药也比吃药好啊吃药的初衷不就是好好生活吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 183,
+          "like_count": 20057,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 9739
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T02:31:07.000Z",
+        "description": "",
+        "id": "1914869536605790212",
+        "name": "謝謝你們的惡意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034077784168079360/8DmP7891_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "Allezavemoi1129",
+        "verified": false
+      }
+    ]
+  }
+}

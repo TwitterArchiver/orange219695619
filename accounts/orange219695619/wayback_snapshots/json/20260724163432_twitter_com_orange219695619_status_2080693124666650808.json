@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080333558850466083",
+    "created_at": "2026-07-24T16:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080693124666650808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1869618042235482112",
+          "start": 0,
+          "username": "1kawaii10w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080693124666650808",
+    "in_reply_to_user_id": "1869618042235482112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080686908032811265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1kawaii10w0 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080333558850466083",
+        "created_at": "2026-07-24T16:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080693124666650808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1869618042235482112",
+              "start": 0,
+              "username": "1kawaii10w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080693124666650808",
+        "in_reply_to_user_id": "1869618042235482112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080686908032811265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1kawaii10w0 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869618042235482112",
+        "conversation_id": "2080333558850466083",
+        "created_at": "2026-07-24T16:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080686908032811265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080686908032811265",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080333558850466083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 你直接对他打飞机看看他会不会理智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 182,
+          "like_count": 19868,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 9608
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T05:37:50.000Z",
+        "description": "飞机狂魔/究极恶俗",
+        "id": "1869618042235482112",
+        "name": "仰着头不让眼泪掉下来",
+        "pinned_tweet_id": "2080686137170186395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076352185865285632/82GMOLv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 140,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "1kawaii10w0",
+        "verified": true
+      }
+    ]
+  }
+}

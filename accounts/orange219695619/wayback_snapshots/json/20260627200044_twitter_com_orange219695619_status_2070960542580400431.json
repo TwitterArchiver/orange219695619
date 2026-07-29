@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2070959771809939482",
+    "created_at": "2026-06-27T20:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070960542580400431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070960542580400431",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070959771809939482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 心如止水好听🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070959769490534400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2G8BybsAAryyc.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070959769524076544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL2G8B6bgAAaIve.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2070959771809939482",
+        "created_at": "2026-06-27T20:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070960542580400431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070960542580400431",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070959771809939482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 心如止水好听🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070959769490534400",
+            "3_2070959769524076544"
+          ]
+        },
+        "author_id": "2998529749",
+        "conversation_id": "2070959771809939482",
+        "created_at": "2026-06-27T19:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070959771809939482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1KOHSN5he",
+              "end": 30,
+              "expanded_url": "https://x.com/STULRS/status/2070959771809939482/photo/1",
+              "media_key": "3_2070959769490534400",
+              "start": 7,
+              "url": "https://t.co/b1KOHSN5he"
+            },
+            {
+              "display_url": "pic.x.com/b1KOHSN5he",
+              "end": 30,
+              "expanded_url": "https://x.com/STULRS/status/2070959771809939482/photo/1",
+              "media_key": "3_2070959769524076544",
+              "start": 7,
+              "url": "https://t.co/b1KOHSN5he"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070959771809939482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "走完腰疼了。 https://t.co/b1KOHSN5he"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 192,
+          "like_count": 13740,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 7773
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|od|戒割|悲观|地下影片（理解能力有问题，冒泡勿喷）  不接线下  今年100大寿  绿帽癖勿扰",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "下雨了",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 560,
+          "like_count": 41931,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 12800
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      }
+    ]
+  }
+}

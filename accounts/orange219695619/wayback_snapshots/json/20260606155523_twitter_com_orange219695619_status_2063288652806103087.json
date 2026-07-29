@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2063199461908861433",
+    "created_at": "2026-06-06T15:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063288652806103087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1939189357966958592",
+          "start": 0,
+          "username": "Yeeiaan_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063288652806103087",
+    "in_reply_to_user_id": "1939189357966958592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063199461908861433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeeiaan_n 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063199363086913536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH047GbkAAcBR8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063199392916811776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH06qObsAAgbjM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063199399002730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKH07A5bcAAEPvt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2063199461908861433",
+        "created_at": "2026-06-06T15:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063288652806103087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1939189357966958592",
+              "start": 0,
+              "username": "Yeeiaan_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063288652806103087",
+        "in_reply_to_user_id": "1939189357966958592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063199461908861433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeeiaan_n 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063199363086913536",
+            "3_2063199392916811776",
+            "3_2063199399002730496"
+          ]
+        },
+        "author_id": "1939189357966958592",
+        "conversation_id": "2063199461908861433",
+        "created_at": "2026-06-06T10:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063199461908861433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITjilrIgAD",
+              "end": 36,
+              "expanded_url": "https://x.com/Yeeiaan_n/status/2063199461908861433/photo/1",
+              "media_key": "3_2063199363086913536",
+              "start": 13,
+              "url": "https://t.co/ITjilrIgAD"
+            },
+            {
+              "display_url": "pic.x.com/ITjilrIgAD",
+              "end": 36,
+              "expanded_url": "https://x.com/Yeeiaan_n/status/2063199461908861433/photo/1",
+              "media_key": "3_2063199392916811776",
+              "start": 13,
+              "url": "https://t.co/ITjilrIgAD"
+            },
+            {
+              "display_url": "pic.x.com/ITjilrIgAD",
+              "end": 36,
+              "expanded_url": "https://x.com/Yeeiaan_n/status/2063199461908861433/photo/1",
+              "media_key": "3_2063199399002730496",
+              "start": 13,
+              "url": "https://t.co/ITjilrIgAD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063199461908861433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的心已被俘获。。。。🥺 https://t.co/ITjilrIgAD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 161,
+          "like_count": 7947,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 5450
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T05:09:15.000Z",
+        "description": "就这样盯着你(｡ì _ í｡)\n天蝎｜不经常登｜厚肌，薄肌全肯定！｜我喜欢碎碎念",
+        "id": "1939189357966958592",
+        "name": "氧化钙",
+        "pinned_tweet_id": "2042910791851217298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053046974618951680/dq5X4ugS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 24,
+          "like_count": 2326,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 329
+        },
+        "username": "Yeeiaan_n",
+        "verified": false
+      }
+    ]
+  }
+}

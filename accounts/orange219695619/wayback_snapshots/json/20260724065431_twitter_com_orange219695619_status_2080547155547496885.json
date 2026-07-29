@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080547148157136896"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2080547155547496885",
+    "created_at": "2026-07-24T06:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080547155547496885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyNse7ggFj",
+          "end": 36,
+          "expanded_url": "https://x.com/orange219695619/status/2080547155547496885/photo/1",
+          "media_key": "3_2080547148157136896",
+          "start": 13,
+          "url": "https://t.co/EyNse7ggFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080547155547496885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喏，你要的so free https://t.co/EyNse7ggFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2378,
+        "media_key": "3_2080547148157136896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Wm6hbsAAEQhL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080547148157136896"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2080547155547496885",
+        "created_at": "2026-07-24T06:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080547155547496885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyNse7ggFj",
+              "end": 36,
+              "expanded_url": "https://x.com/orange219695619/status/2080547155547496885/photo/1",
+              "media_key": "3_2080547148157136896",
+              "start": 13,
+              "url": "https://t.co/EyNse7ggFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080547155547496885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喏，你要的so free https://t.co/EyNse7ggFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 182,
+          "like_count": 19774,
+          "listed_count": 3,
+          "media_count": 550,
+          "tweet_count": 9584
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

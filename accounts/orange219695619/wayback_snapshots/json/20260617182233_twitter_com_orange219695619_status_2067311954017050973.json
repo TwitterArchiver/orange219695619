@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2067308855382655166",
+    "created_at": "2026-06-17T18:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067311954017050973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1695314246735892480",
+          "start": 0,
+          "username": "szfx123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067311954017050973",
+    "in_reply_to_user_id": "1695314246735892480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067310099266416645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szfx123 诶？给我留口啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 431,
+        "media_key": "3_2067310096783409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCPlHdagAAhvWM.jpg",
+        "width": 431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2067308855382655166",
+        "created_at": "2026-06-17T18:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067311954017050973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1695314246735892480",
+              "start": 0,
+              "username": "szfx123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067311954017050973",
+        "in_reply_to_user_id": "1695314246735892480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067310099266416645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szfx123 诶？给我留口啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067310096783409152"
+          ]
+        },
+        "author_id": "1695314246735892480",
+        "conversation_id": "2067308855382655166",
+        "created_at": "2026-06-17T18:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067310099266416645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRQHbaL5Ay",
+              "end": 40,
+              "expanded_url": "https://x.com/szfx123/status/2067310099266416645/photo/1",
+              "media_key": "3_2067310096783409152",
+              "start": 17,
+              "url": "https://t.co/DRQHbaL5Ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067310099266416645",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067308855382655166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 https://t.co/DRQHbaL5Ay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 186,
+          "like_count": 10567,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 6593
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T05:56:39.000Z",
+        "description": "04年/大四休学/喜欢打游戏/喜欢负能量/intj/不o不割不健全/低精力/自毁倾向/友全部❤️peace &love❤️/避难小号@hahahaha131519",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "hahahaha131519"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/szfx1231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/szfx1231",
+                "start": 0,
+                "url": "https://t.co/KWFt5Qz9Kv"
+              }
+            ]
+          }
+        },
+        "id": "1695314246735892480",
+        "location": "虚空",
+        "name": "神之飞雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059490365628129280/N7sFZh1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 211,
+          "like_count": 11576,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/KWFt5Qz9Kv",
+        "username": "szfx123",
+        "verified": false
+      }
+    ]
+  }
+}

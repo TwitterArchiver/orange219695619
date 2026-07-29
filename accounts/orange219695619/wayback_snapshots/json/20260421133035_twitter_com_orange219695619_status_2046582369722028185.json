@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2046522960773894400",
+    "created_at": "2026-04-21T13:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046582369722028185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "722248615716978688",
+          "start": 0,
+          "username": "Kung_Hank409"
+        },
+        {
+          "end": 28,
+          "id": "1622066090074607616",
+          "start": 14,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046582369722028185",
+    "in_reply_to_user_id": "722248615716978688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046576349222170941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kung_Hank409 @hoshinofujivy 哦哦谢谢啦🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2046522960773894400",
+        "created_at": "2026-04-21T13:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046582369722028185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "722248615716978688",
+              "start": 0,
+              "username": "Kung_Hank409"
+            },
+            {
+              "end": 28,
+              "id": "1622066090074607616",
+              "start": 14,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046582369722028185",
+        "in_reply_to_user_id": "722248615716978688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046576349222170941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kung_Hank409 @hoshinofujivy 哦哦谢谢啦🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722248615716978688",
+        "conversation_id": "2046522960773894400",
+        "created_at": "2026-04-21T13:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046576349222170941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 31,
+              "id": "1622066090074607616",
+              "start": 17,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046576349222170941",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046559757130207512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @hoshinofujivy 防火长城，也就是 GFW，主要作用是在互联网边界建立的内容访问控制与安全审查系统，过滤不良信息、保障网络安全、维护社会稳定，并规范跨境网络访问。\n意思就是说，普通用户无法直接访问国外互联网内容，但会有人通过特殊途径将外网内容搬运至内网。\n针对内网的规范最早可以追溯到 2005 年的“剑网行动”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 80,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1316
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-19T02:21:03.000Z",
+        "description": "Lucky！You got me.",
+        "id": "722248615716978688",
+        "location": "Uranus",
+        "name": "清郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 375,
+          "like_count": 234,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 7390
+        },
+        "username": "Kung_Hank409",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9036,
+          "following_count": 4210,
+          "like_count": 43960,
+          "listed_count": 30,
+          "media_count": 1875,
+          "tweet_count": 12397
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

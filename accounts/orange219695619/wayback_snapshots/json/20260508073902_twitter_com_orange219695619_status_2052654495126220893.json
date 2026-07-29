@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052372569148248066"
+      ],
+      "media_source_tweet_id": [
+        "2052372571148963993"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2052654495126220893",
+    "created_at": "2026-05-08T07:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052654495126220893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1635337273364414465",
+          "start": 3,
+          "username": "fairyprxncess"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zl3G77UFLJ",
+          "end": 42,
+          "expanded_url": "https://x.com/fairyprxncess/status/2052372571148963993/photo/1",
+          "media_key": "3_2052372569148248066",
+          "start": 19,
+          "url": "https://t.co/zl3G77UFLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052654495126220893",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052372571148963993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fairyprxncess: https://t.co/zl3G77UFLJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2052372569148248066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt9-krWUAIfMuJ.jpg",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052372569148248066"
+          ],
+          "media_source_tweet_id": [
+            "2052372571148963993"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2052654495126220893",
+        "created_at": "2026-05-08T07:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052654495126220893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1635337273364414465",
+              "start": 3,
+              "username": "fairyprxncess"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl3G77UFLJ",
+              "end": 42,
+              "expanded_url": "https://x.com/fairyprxncess/status/2052372571148963993/photo/1",
+              "media_key": "3_2052372569148248066",
+              "start": 19,
+              "url": "https://t.co/zl3G77UFLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052654495126220893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052372571148963993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fairyprxncess: https://t.co/zl3G77UFLJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052372569148248066"
+          ]
+        },
+        "author_id": "1635337273364414465",
+        "conversation_id": "2052372571148963993",
+        "created_at": "2026-05-07T12:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052372571148963993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zl3G77UFLJ",
+              "end": 23,
+              "expanded_url": "https://x.com/fairyprxncess/status/2052372571148963993/photo/1",
+              "media_key": "3_2052372569148248066",
+              "start": 0,
+              "url": "https://t.co/zl3G77UFLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052372571148963993",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 642,
+          "impression_count": 150174,
+          "like_count": 8379,
+          "quote_count": 14,
+          "reply_count": 12,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zl3G77UFLJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 99,
+          "like_count": 2268,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2413
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T17:49:44.000Z",
+        "description": "just a fairy princess • 💌 for promo",
+        "id": "1635337273364414465",
+        "location": "image not mine ",
+        "name": "𓆩♡𓆪",
+        "pinned_tweet_id": "2052482238579716413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791545486530236416/eLVxVt9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154545,
+          "following_count": 34,
+          "like_count": 4497,
+          "listed_count": 472,
+          "media_count": 3040,
+          "tweet_count": 5871
+        },
+        "username": "fairyprxncess",
+        "verified": true
+      }
+    ]
+  }
+}

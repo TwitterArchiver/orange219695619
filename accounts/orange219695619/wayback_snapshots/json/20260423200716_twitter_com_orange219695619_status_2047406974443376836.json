@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2047250719544389901",
+    "created_at": "2026-04-23T20:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047406974443376836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "YiJin_0v0"
+        },
+        {
+          "end": 22,
+          "id": "1858393719080366080",
+          "start": 11,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047406974443376836",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047382214439293394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiJin_0v0 @xiaomonuya i猫TV"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047382214439293394].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047382214439293394",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047382214439293394"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2047250719544389901",
+        "created_at": "2026-04-23T20:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047406974443376836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "YiJin_0v0"
+            },
+            {
+              "end": 22,
+              "id": "1858393719080366080",
+              "start": 11,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047406974443376836",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047382214439293394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiJin_0v0 @xiaomonuya i猫TV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 81,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1438
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "=伊井&ii\n生产日期 2012 09 17/mt🤍/无证含糖🍥/家长不管党/出柜 2025 10 30/hrt 2025 06 27/躁郁🐱强迫/od&sh全肯定💊🔪🩸/无奈学生党🚬\n推=V家六子🎙️/花子君🌸/东云绘名🖌️/Chiikawa🐰/好姐姐💗@rinii165892\n欢迎贴贴喵——",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zapatopi.net/treeoctopus/",
+                "end": 23,
+                "expanded_url": "https://zapatopi.net/treeoctopus/",
+                "start": 0,
+                "url": "https://t.co/rvDNPJ0baF"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "—伊井的秘密基地—",
+        "name": "伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2047257307072118954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 411,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/rvDNPJ0baF",
+        "username": "YiJin_0v0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n某些男的想给我发性器照片的给我滚～～～！\n🚪52喵\n我是跨性別喵",
+        "id": "1858393719080366080",
+        "name": "Camellia",
+        "pinned_tweet_id": "2047300972251377675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045021122476036096/65d5RM3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 171,
+          "like_count": 3525,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 4299
+        },
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2066786725926780975",
+    "created_at": "2026-06-16T15:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066907025150509134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2055438603820617728",
+          "start": 0,
+          "username": "Xxxu1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066907025150509134",
+    "in_reply_to_user_id": "2055438603820617728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066906291491258815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxu1024 我也没绷住hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2066786725926780975",
+        "created_at": "2026-06-16T15:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066907025150509134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2055438603820617728",
+              "start": 0,
+              "username": "Xxxu1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066907025150509134",
+        "in_reply_to_user_id": "2055438603820617728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066906291491258815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxu1024 我也没绷住hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055438603820617728",
+        "conversation_id": "2066786725926780975",
+        "created_at": "2026-06-16T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066906291491258815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066906291491258815",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066786725926780975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 我給你最直接最不繞彎子的回答，我沒绷駐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 187,
+          "like_count": 10165,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 6465
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T00:03:35.000Z",
+        "description": "10苦逼高中生，讨厌英语，翻译应该是世界上最好的东西",
+        "id": "2055438603820617728",
+        "name": "Xxxxxxu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055672197163929600/ol_Ua5fB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "Xxxu1024",
+        "verified": false
+      }
+    ]
+  }
+}
