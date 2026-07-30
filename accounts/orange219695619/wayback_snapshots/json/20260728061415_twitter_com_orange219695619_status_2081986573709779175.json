@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081986565673545728"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2081986573709779175",
+    "created_at": "2026-07-28T06:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081986573709779175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H07dUGTza3",
+          "end": 36,
+          "expanded_url": "https://x.com/orange219695619/status/2081986573709779175/photo/1",
+          "media_key": "3_2081986565673545728",
+          "start": 13,
+          "url": "https://t.co/H07dUGTza3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081986573709779175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "石家庄人看了嘎巴一下死了 https://t.co/H07dUGTza3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3792,
+        "media_key": "3_2081986565673545728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOSzwCobcAAqjgP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081986565673545728"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2081986573709779175",
+        "created_at": "2026-07-28T06:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081986573709779175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H07dUGTza3",
+              "end": 36,
+              "expanded_url": "https://x.com/orange219695619/status/2081986573709779175/photo/1",
+              "media_key": "3_2081986565673545728",
+              "start": 13,
+              "url": "https://t.co/H07dUGTza3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081986573709779175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "石家庄人看了嘎巴一下死了 https://t.co/H07dUGTza3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 184,
+          "like_count": 20542,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 9869
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

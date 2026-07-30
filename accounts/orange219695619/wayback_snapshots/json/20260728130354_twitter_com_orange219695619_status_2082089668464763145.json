@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082088923069813223",
+    "created_at": "2026-07-28T13:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082089668464763145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082089668464763145",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082088923069813223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082088923069813223",
+        "created_at": "2026-07-28T13:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082089668464763145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082089668464763145",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082088923069813223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2082088923069813223",
+        "created_at": "2026-07-28T13:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082088923069813223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082088923069813223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我意识到，自己越是对某事感到抵触、恐惧、痛苦到无法面对，就越是催生一股强力的意识迫使我一定要去实施令我难以忍受的念头。\n一定要去做，你一定要去做才行。\n暧昧的，并不是我的另一个我，以第三人称独立于我的另外的意念。逼迫我一定要去做才行。\n所以我才能割很深，所以我才能跳楼和割喉自杀吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 183,
+          "like_count": 20665,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 9900
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 531,
+          "like_count": 26336,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 612
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

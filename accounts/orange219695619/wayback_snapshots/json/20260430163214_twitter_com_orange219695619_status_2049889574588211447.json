@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2049639138136309826",
+    "created_at": "2026-04-30T16:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049889574588211447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030926644270227456",
+          "start": 0,
+          "username": "OT51173776"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049889574588211447",
+    "in_reply_to_user_id": "2030926644270227456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049639138136309826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OT51173776 餐券还有歧视链嘛🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2049639138136309826",
+        "created_at": "2026-04-30T16:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049889574588211447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030926644270227456",
+              "start": 0,
+              "username": "OT51173776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049889574588211447",
+        "in_reply_to_user_id": "2030926644270227456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049639138136309826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OT51173776 餐券还有歧视链嘛🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030926644270227456",
+        "conversation_id": "2049639138136309826",
+        "created_at": "2026-04-29T23:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049639138136309826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049639138136309826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我常常怕我割的不夠深被看不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2048412804332527786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 90,
+          "like_count": 1565,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1916
+        },
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T08:40:31.000Z",
+        "description": "✍️/📖/sh/ed/那個黃毛被封號的嘔吐物",
+        "id": "2030926644270227456",
+        "name": "OT5",
+        "pinned_tweet_id": "2049640701814858019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031271440352440320/K1q-WVJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 20,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 658
+        },
+        "username": "OT51173776",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2079541513130999999",
+    "created_at": "2026-07-21T14:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079581150226555296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053536594427338752",
+          "start": 0,
+          "username": "sonia_lychee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079581150226555296",
+    "in_reply_to_user_id": "2053536594427338752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079541513130999999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sonia_lychee xm健康肠胃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2079541513130999999",
+        "created_at": "2026-07-21T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079581150226555296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053536594427338752",
+              "start": 0,
+              "username": "sonia_lychee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079581150226555296",
+        "in_reply_to_user_id": "2053536594427338752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079541513130999999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sonia_lychee xm健康肠胃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053536594427338752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2079541513130999999",
+        "created_at": "2026-07-21T12:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079541513130999999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079541513130999999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厌食情绪对我卷土重来了😅😅😅能不能给我移植一个节食逼的健康肠胃过来，我把这个肠胃给你我保证你无痛节食没有猪瘾我求你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 182,
+          "like_count": 19127,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 9422
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T18:04:22.000Z",
+        "description": "只是吐黑泥的地方。\n路过的朋友我祝你肠胃健康，睡眠健康。",
+        "id": "2053536594427338752",
+        "location": "Nakano-ku, Tokyo",
+        "name": "AAA肠胃睡眠健康宣传大使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053536777672278016/QaKcIqe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 62,
+          "like_count": 3062,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "sonia_lychee",
+        "verified": false
+      }
+    ]
+  }
+}
