@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2085410076425396655",
+    "created_at": "2026-08-07T01:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085534308618707441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040418395963715584",
+          "start": 0,
+          "username": "number6called7"
+        },
+        {
+          "end": 28,
+          "id": "1370554135657910274",
+          "start": 16,
+          "username": "tewes910101"
+        },
+        {
+          "end": 37,
+          "id": "1433678976564662273",
+          "start": 29,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085534308618707441",
+    "in_reply_to_user_id": "2040418395963715584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085518746362527815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@number6called7 @tewes910101 @hsn8086 那不是巴蜀吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2085410076425396655",
+        "created_at": "2026-08-07T01:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085534308618707441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040418395963715584",
+              "start": 0,
+              "username": "number6called7"
+            },
+            {
+              "end": 28,
+              "id": "1370554135657910274",
+              "start": 16,
+              "username": "tewes910101"
+            },
+            {
+              "end": 37,
+              "id": "1433678976564662273",
+              "start": 29,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085534308618707441",
+        "in_reply_to_user_id": "2040418395963715584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085518746362527815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@number6called7 @tewes910101 @hsn8086 那不是巴蜀吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040418395963715584",
+        "conversation_id": "2085410076425396655",
+        "created_at": "2026-08-07T00:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085518746362527815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1370554135657910274",
+              "start": 0,
+              "username": "tewes910101"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085518746362527815",
+        "in_reply_to_user_id": "1370554135657910274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085515882957336659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tewes910101 @hsn8086 巴西在四川，没毛病嗷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 188,
+          "like_count": 22765,
+          "listed_count": 3,
+          "media_count": 578,
+          "tweet_count": 10425
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:17:15.000Z",
+        "description": "",
+        "id": "2040418395963715584",
+        "name": "no6called7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040418911947272192/tBQUr9XT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "number6called7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T01:56:42.000Z",
+        "description": "快加生活小号@Zombi684031，比他好看的没他骚，后面忘了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "Zombi684031"
+              }
+            ]
+          }
+        },
+        "id": "1370554135657910274",
+        "location": "树",
+        "name": "象牙山笑川臭宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584517822440669190/BW8m4N_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 7492,
+          "like_count": 224881,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 5759
+        },
+        "url": "",
+        "username": "tewes910101",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121815,
+          "following_count": 1118,
+          "like_count": 52087,
+          "listed_count": 296,
+          "media_count": 24215,
+          "tweet_count": 34770
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

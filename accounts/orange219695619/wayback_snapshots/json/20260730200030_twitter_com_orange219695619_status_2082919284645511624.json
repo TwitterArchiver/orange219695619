@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082854008218374365",
+    "created_at": "2026-07-30T20:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082919284645511624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1523710687784030208",
+          "start": 0,
+          "username": "senluowanxian"
+        },
+        {
+          "end": 24,
+          "id": "2061471722034069504",
+          "start": 15,
+          "username": "TPTC0815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082919284645511624",
+    "in_reply_to_user_id": "1523710687784030208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082898065619620039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senluowanxian @TPTC0815 我打手游"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082854008218374365",
+        "created_at": "2026-07-30T20:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082919284645511624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1523710687784030208",
+              "start": 0,
+              "username": "senluowanxian"
+            },
+            {
+              "end": 24,
+              "id": "2061471722034069504",
+              "start": 15,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082919284645511624",
+        "in_reply_to_user_id": "1523710687784030208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082898065619620039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senluowanxian @TPTC0815 我打手游"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523710687784030208",
+        "conversation_id": "2082854008218374365",
+        "created_at": "2026-07-30T18:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082898065619620039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 26,
+              "id": "2061471722034069504",
+              "start": 17,
+              "username": "TPTC0815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082898065619620039",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082884949699703274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @TPTC0815 来上号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 183,
+          "like_count": 21127,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 10000
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T17:05:23.000Z",
+        "description": "鼠人",
+        "id": "1523710687784030208",
+        "location": "中国人能飞",
+        "name": "抽象艺术家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082428744191639552/ezgAyZ7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 100,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "senluowanxian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T15:36:08.000Z",
+        "description": "迷迭",
+        "id": "2061471722034069504",
+        "location": "在你心里",
+        "name": "迷迭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061473291920105472/sarRI8Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 148,
+          "like_count": 1824,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "TPTC0815",
+        "verified": false
+      }
+    ]
+  }
+}

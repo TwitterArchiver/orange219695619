@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2083146083979706722",
+    "created_at": "2026-07-31T12:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083173941406007422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044543772415942656",
+          "start": 0,
+          "username": "roitium"
+        },
+        {
+          "end": 20,
+          "id": "1765825463103139840",
+          "start": 9,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083173941406007422",
+    "in_reply_to_user_id": "2044543772415942656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083148291475460228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roitium @Chloris923 还有圣水🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083148291475460228].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083148291475460228",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083148291475460228"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2083146083979706722",
+        "created_at": "2026-07-31T12:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083173941406007422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044543772415942656",
+              "start": 0,
+              "username": "roitium"
+            },
+            {
+              "end": 20,
+              "id": "1765825463103139840",
+              "start": 9,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083173941406007422",
+        "in_reply_to_user_id": "2044543772415942656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083148291475460228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roitium @Chloris923 还有圣水🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 184,
+          "like_count": 21309,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 10059
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T22:30:05.000Z",
+        "description": "哈气中，勿扰，，，\n\n请随意申请关注，但我可能不会通过： ）\n互关基本都会通过的说（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "roitium.com",
+                "end": 23,
+                "expanded_url": "http://roitium.com",
+                "start": 0,
+                "url": "https://t.co/C3MRHRZCbI"
+              }
+            ]
+          }
+        },
+        "id": "2044543772415942656",
+        "location": "你心里",
+        "name": "roitium",
+        "pinned_tweet_id": "2045801266174111830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079003633447063552/AAW1F8yM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 58,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/C3MRHRZCbI",
+        "username": "roitium",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "木头/08/高二/极北雪原上的隐居魔女/@chloris2026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "chloris2026"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2082789394386415701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080993589988147200/twbmvpmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 360,
+          "like_count": 42673,
+          "listed_count": 6,
+          "media_count": 780,
+          "tweet_count": 24200
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

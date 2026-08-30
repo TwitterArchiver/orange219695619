@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084327402868744209",
+    "created_at": "2026-08-04T02:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084463246116110831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843862385368674311",
+          "start": 0,
+          "username": "HJeessm30001"
+        },
+        {
+          "end": 27,
+          "id": "1808604308163940352",
+          "start": 14,
+          "username": "cici20120712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084463246116110831",
+    "in_reply_to_user_id": "1843862385368674311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084461600787116433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJeessm30001 @cici20120712 OK谢谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084327402868744209",
+        "created_at": "2026-08-04T02:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084463246116110831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843862385368674311",
+              "start": 0,
+              "username": "HJeessm30001"
+            },
+            {
+              "end": 27,
+              "id": "1808604308163940352",
+              "start": 14,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084463246116110831",
+        "in_reply_to_user_id": "1843862385368674311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084461600787116433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJeessm30001 @cici20120712 OK谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843862385368674311",
+        "conversation_id": "2084327402868744209",
+        "created_at": "2026-08-04T02:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084461600787116433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 30,
+              "id": "1808604308163940352",
+              "start": 17,
+              "username": "cici20120712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084461600787116433",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084444960582242610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @cici20120712 #小程序://做梦心理/做梦心理/ETvMH6BJwbchKTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 187,
+          "like_count": 22014,
+          "listed_count": 3,
+          "media_count": 570,
+          "tweet_count": 10222
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T03:53:59.000Z",
+        "description": "",
+        "id": "1843862385368674311",
+        "name": "Hezard Jeessm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843862449180823552/Zysjfksy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 46,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "HJeessm30001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2064496772102373752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72069,
+          "following_count": 116,
+          "like_count": 1138,
+          "listed_count": 189,
+          "media_count": 822,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

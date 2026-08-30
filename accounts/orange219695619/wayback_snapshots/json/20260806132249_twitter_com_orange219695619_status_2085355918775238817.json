@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082475928597172403",
+    "created_at": "2026-08-06T13:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085355918775238817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069305961739898881",
+          "start": 0,
+          "username": "Mizune0_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085355918775238817",
+    "in_reply_to_user_id": "2069305961739898881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082475928597172403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizune0_0 公蚊子吃素（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082475928597172403",
+        "created_at": "2026-08-06T13:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085355918775238817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069305961739898881",
+              "start": 0,
+              "username": "Mizune0_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085355918775238817",
+        "in_reply_to_user_id": "2069305961739898881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082475928597172403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mizune0_0 公蚊子吃素（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069305961739898881",
+        "conversation_id": "2082475928597172403",
+        "created_at": "2026-07-29T14:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082475928597172403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082475928597172403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求蚊子变成素食主义者教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 188,
+          "like_count": 22664,
+          "listed_count": 3,
+          "media_count": 576,
+          "tweet_count": 10389
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T06:27:04.000Z",
+        "description": "想要成為美少女｜賽博鼠鼠｜巨能宅｜水色蕾蕾生活預備中｜醫療系大好｜時常被Ti奪舍的INFJ｜魚的記憶｜皮下@Saira8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Saira8964"
+              }
+            ]
+          }
+        },
+        "id": "2069305961739898881",
+        "name": "水無月",
+        "pinned_tweet_id": "2077262926214311959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071076177687572480/anYG9d7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "Mizune0_0",
+        "verified": false
+      }
+    ]
+  }
+}

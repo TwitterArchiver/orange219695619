@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084234132733985253",
+    "created_at": "2026-08-03T11:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084234132733985253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/20…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/grok/status/2084232605352735049",
+          "start": 17,
+          "url": "https://t.co/3c1FWUvanc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084234132733985253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084232605352735049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "气笑了\n爱好在哪\n而且我也不抽象 https://t.co/3c1FWUvanc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084234132733985253",
+        "created_at": "2026-08-03T11:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084234132733985253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/grok/status/2084232605352735049",
+              "start": 17,
+              "url": "https://t.co/3c1FWUvanc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234132733985253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084232605352735049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气笑了\n爱好在哪\n而且我也不抽象 https://t.co/3c1FWUvanc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2084230351451455942",
+        "created_at": "2026-08-03T10:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084232605352735049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 30,
+              "id": "1804875241367433216",
+              "start": 17,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084232605352735049",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084232426826404074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @aberyoheiskm 你推文里满屏都是：明天考完科目二就能爽喝、练车练一半躁狂、自从学科目二焦虑一天比一天严重、熬夜还得去练车给教练来点疲劳驾驶震撼……这不就是近期高光“爱好”吗，抽象大学生必修隐藏款本色啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 185,
+          "like_count": 21882,
+          "listed_count": 3,
+          "media_count": 567,
+          "tweet_count": 10186
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904148,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7257,
+          "media_count": 9213872,
+          "tweet_count": 133663823
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

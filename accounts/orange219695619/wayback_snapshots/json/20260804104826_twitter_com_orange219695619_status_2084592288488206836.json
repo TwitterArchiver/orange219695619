@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084496069887684641",
+    "created_at": "2026-08-04T10:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084592288488206836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044176423460515840",
+          "start": 0,
+          "username": "dupinkepu"
+        },
+        {
+          "end": 21,
+          "id": "2082275840851845120",
+          "start": 11,
+          "username": "Mercyxvx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084592288488206836",
+    "in_reply_to_user_id": "2044176423460515840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084585461532766210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dupinkepu @Mercyxvx1 草，还是不认识（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084496069887684641",
+        "created_at": "2026-08-04T10:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084592288488206836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044176423460515840",
+              "start": 0,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 21,
+              "id": "2082275840851845120",
+              "start": 11,
+              "username": "Mercyxvx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084592288488206836",
+        "in_reply_to_user_id": "2044176423460515840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084585461532766210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu @Mercyxvx1 草，还是不认识（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044176423460515840",
+        "conversation_id": "2084496069887684641",
+        "created_at": "2026-08-04T10:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084585461532766210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            },
+            {
+              "end": 27,
+              "id": "2082275840851845120",
+              "start": 17,
+              "username": "Mercyxvx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084585461532766210",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084514276614836573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 @Mercyxvx1 李云齐就是谢智华"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 186,
+          "like_count": 22077,
+          "listed_count": 3,
+          "media_count": 573,
+          "tweet_count": 10242
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 154,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "location": "💊🔪🩸",
+        "name": "Mercy",
+        "pinned_tweet_id": "2084496463351169070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082276321770745857/Y1ng3Ajy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 317,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false
+      }
+    ]
+  }
+}

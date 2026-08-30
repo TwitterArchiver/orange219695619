@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085903610299424769",
+        "3_2085903621586350081",
+        "3_2085903631883313152",
+        "13_2085903641928753152"
+      ],
+      "media_source_tweet_id": [
+        "2085903657829372221",
+        "2085903657829372221",
+        "2085903657829372221",
+        "2085903657829372221"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2085971994068267443",
+    "created_at": "2026-08-08T06:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T07:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085971994068267443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2085535031368273920",
+          "start": 3,
+          "username": "shierdian6639"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gYjI982yVs",
+          "end": 54,
+          "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+          "media_key": "3_2085903610299424769",
+          "start": 31,
+          "url": "https://t.co/gYjI982yVs"
+        },
+        {
+          "display_url": "pic.x.com/gYjI982yVs",
+          "end": 54,
+          "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+          "media_key": "3_2085903621586350081",
+          "start": 31,
+          "url": "https://t.co/gYjI982yVs"
+        },
+        {
+          "display_url": "pic.x.com/gYjI982yVs",
+          "end": 54,
+          "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+          "media_key": "3_2085903631883313152",
+          "start": 31,
+          "url": "https://t.co/gYjI982yVs"
+        },
+        {
+          "display_url": "pic.x.com/gYjI982yVs",
+          "end": 54,
+          "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+          "media_key": "13_2085903641928753152",
+          "start": 31,
+          "url": "https://t.co/gYjI982yVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085971994068267443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085903657829372221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shierdian6639: msk十二点是你爸爸。 https://t.co/gYjI982yVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3966,
+        "media_key": "3_2085903610299424769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKeSC-aIAEjkO9.jpg",
+        "width": 2975
+      },
+      {
+        "height": 3722,
+        "media_key": "3_2085903621586350081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKeStBa8AEGDmX.jpg",
+        "width": 2791
+      },
+      {
+        "height": 4002,
+        "media_key": "3_2085903631883313152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKeTTYaIAAxT74.jpg",
+        "width": 2998
+      },
+      {
+        "duration_ms": 2963,
+        "height": 1280,
+        "media_key": "13_2085903641928753152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085903641928753152/img/InVEy-_6H3ouQAaa.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085903641928753152/vid/avc1/320x568/fejXaYDEyJH5huQW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085903641928753152/vid/avc1/480x852/Fhpg4GiBYqjPdGup.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085903641928753152/vid/avc1/720x1280/TJzbJOf6AdQ7xV9x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085903641928753152/pl/XQEtE3UR5eQq_ocJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085903610299424769",
+            "3_2085903621586350081",
+            "3_2085903631883313152",
+            "13_2085903641928753152"
+          ]
+        },
+        "author_id": "2085535031368273920",
+        "conversation_id": "2085903657829372221",
+        "created_at": "2026-08-08T01:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T02:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085903657829372221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 35,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "3_2085903610299424769",
+              "start": 12,
+              "url": "https://t.co/gYjI982yVs"
+            },
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 35,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "3_2085903621586350081",
+              "start": 12,
+              "url": "https://t.co/gYjI982yVs"
+            },
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 35,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "3_2085903631883313152",
+              "start": 12,
+              "url": "https://t.co/gYjI982yVs"
+            },
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 35,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "13_2085903641928753152",
+              "start": 12,
+              "url": "https://t.co/gYjI982yVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085903657829372221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "msk十二点是你爸爸。 https://t.co/gYjI982yVs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085903610299424769",
+            "3_2085903621586350081",
+            "3_2085903631883313152",
+            "13_2085903641928753152"
+          ],
+          "media_source_tweet_id": [
+            "2085903657829372221",
+            "2085903657829372221",
+            "2085903657829372221",
+            "2085903657829372221"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2085971994068267443",
+        "created_at": "2026-08-08T06:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085971994068267443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2085535031368273920",
+              "start": 3,
+              "username": "shierdian6639"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 54,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "3_2085903610299424769",
+              "start": 31,
+              "url": "https://t.co/gYjI982yVs"
+            },
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 54,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "3_2085903621586350081",
+              "start": 31,
+              "url": "https://t.co/gYjI982yVs"
+            },
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 54,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "3_2085903631883313152",
+              "start": 31,
+              "url": "https://t.co/gYjI982yVs"
+            },
+            {
+              "display_url": "pic.x.com/gYjI982yVs",
+              "end": 54,
+              "expanded_url": "https://x.com/shierdian6639/status/2085903657829372221/video/1",
+              "media_key": "13_2085903641928753152",
+              "start": 31,
+              "url": "https://t.co/gYjI982yVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085971994068267443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085903657829372221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shierdian6639: msk十二点是你爸爸。 https://t.co/gYjI982yVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 189,
+          "like_count": 22904,
+          "listed_count": 3,
+          "media_count": 582,
+          "tweet_count": 10478
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-07T01:15:22.000Z",
+        "description": "",
+        "id": "2085535031368273920",
+        "name": "12.",
+        "pinned_tweet_id": "2085903657829372221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085876788404826112/pBkwIuqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 47,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "shierdian6639",
+        "verified": false
+      }
+    ]
+  }
+}

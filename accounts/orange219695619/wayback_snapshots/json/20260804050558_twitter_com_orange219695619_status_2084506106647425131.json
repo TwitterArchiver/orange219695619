@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084470414009610329",
+    "created_at": "2026-08-04T05:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084506106647425131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083858416402079745",
+          "start": 0,
+          "username": "EvansRichter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084506106647425131",
+    "in_reply_to_user_id": "2083858416402079745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084487804776779862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvansRichter 微信公众号做梦心理"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084487804776779862].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084487804776779862",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084487804776779862"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084470414009610329",
+        "created_at": "2026-08-04T05:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084506106647425131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083858416402079745",
+              "start": 0,
+              "username": "EvansRichter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084506106647425131",
+        "in_reply_to_user_id": "2083858416402079745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084487804776779862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvansRichter 微信公众号做梦心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 187,
+          "like_count": 22030,
+          "listed_count": 3,
+          "media_count": 572,
+          "tweet_count": 10229
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "这里是一个转生号，我相信熟悉我前世风格的人是能看出来我是谁的。由于多种原因，我基本废弃了我的前世账号，所以大家也不用去那个号找我了。\n还是简单介绍一下自己：\n男  07  身高188体重78  自由意志共产主义者  马克思主义者  ENFP  医学生 互关扩列大欢迎",
+        "id": "2083858416402079745",
+        "name": "59Panzergrenadier-Regiment",
+        "pinned_tweet_id": "2084250959761297592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084379026190397440/EA9s5s7Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 169,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": false
+      }
+    ]
+  }
+}

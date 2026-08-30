@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2083488315115032872",
+    "created_at": "2026-08-01T09:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083488315115032872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mercyxvx1/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Mercyxvx1/status/2083454766311756103",
+          "start": 12,
+          "url": "https://t.co/xgMBEUzGjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083488315115032872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083454766311756103",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "八月到现在一瓶酒都没喝 https://t.co/xgMBEUzGjg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2083488315115032872",
+        "created_at": "2026-08-01T09:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083488315115032872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyxvx1/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Mercyxvx1/status/2083454766311756103",
+              "start": 12,
+              "url": "https://t.co/xgMBEUzGjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083488315115032872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083454766311756103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "八月到现在一瓶酒都没喝 https://t.co/xgMBEUzGjg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082275840851845120",
+        "conversation_id": "2083454766311756103",
+        "created_at": "2026-08-01T07:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083454766311756103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083454766311756103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月到现在一根烟都没抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 183,
+          "like_count": 21467,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 10091
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR｜💖:@liyfn130024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "liyfn130024"
+              }
+            ]
+          }
+        },
+        "id": "2082275840851845120",
+        "location": "💊🔪🩸",
+        "name": "Mercy",
+        "pinned_tweet_id": "2083112108426993841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082276321770745857/Y1ng3Ajy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 287,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084997114397122562"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084997121846202685",
+    "created_at": "2026-08-05T13:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084997121846202685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8SXTKNwxX2",
+          "end": 29,
+          "expanded_url": "https://x.com/orange219695619/status/2084997121846202685/photo/1",
+          "media_key": "3_2084997114397122562",
+          "start": 6,
+          "url": "https://t.co/8SXTKNwxX2"
+        },
+        {
+          "display_url": "x.com/GrievousPotato…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/GrievousPotato1/status/2084939543761797241",
+          "start": 30,
+          "url": "https://t.co/jHPUjlCvPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084997121846202685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084939543761797241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很好了🥰 https://t.co/8SXTKNwxX2 https://t.co/jHPUjlCvPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2378,
+        "media_key": "3_2084997114397122562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9l1Cla4AIqbsH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2140,
+        "media_key": "3_2084939512854003712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8xcMHWwAAwfh5.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084997114397122562"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084997121846202685",
+        "created_at": "2026-08-05T13:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084997121846202685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8SXTKNwxX2",
+              "end": 29,
+              "expanded_url": "https://x.com/orange219695619/status/2084997121846202685/photo/1",
+              "media_key": "3_2084997114397122562",
+              "start": 6,
+              "url": "https://t.co/8SXTKNwxX2"
+            },
+            {
+              "display_url": "x.com/GrievousPotato…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/GrievousPotato1/status/2084939543761797241",
+              "start": 30,
+              "url": "https://t.co/jHPUjlCvPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084997121846202685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084939543761797241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很好了🥰 https://t.co/8SXTKNwxX2 https://t.co/jHPUjlCvPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084939512854003712"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2084939543761797241",
+        "created_at": "2026-08-05T09:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084939543761797241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRXRO9Vlpn",
+              "end": 76,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2084939543761797241/photo/1",
+              "media_key": "3_2084939512854003712",
+              "start": 53,
+              "url": "https://t.co/JRXRO9Vlpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084939543761797241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我谈恋爱的有福了🥰\n但我真正的缺点其实是思考的东西过于抽象，以至于其他人跟我深入交流时会掉san值👁️ https://t.co/JRXRO9Vlpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 188,
+          "like_count": 22435,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 10344
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 400,
+          "like_count": 17572,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

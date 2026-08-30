@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084473908787577195",
+    "created_at": "2026-08-04T05:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084517333096394893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "Realhoshinofuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084517333096394893",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084473908787577195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Realhoshinofuji 没有偷偷骂我两句吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15700,
+        "height": 720,
+        "media_key": "13_2084473193482661888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084473193482661888/img/nnyPpIt3si2J3JmH.jpg",
+        "public_metrics": {
+          "view_count": 224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084473193482661888/vid/avc1/320x320/GCsHQdswiggOfyHb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084473193482661888/vid/avc1/540x540/B93N28sJVZF4SRMM.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084473193482661888/vid/avc1/720x720/PSsMDi_6WmhnXI40.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084473193482661888/pl/6LCGtf2iBhRpcJ-y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084473908787577195",
+        "created_at": "2026-08-04T05:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084517333096394893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "Realhoshinofuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084517333096394893",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084473908787577195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Realhoshinofuji 没有偷偷骂我两句吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084473193482661888"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2084473908787577195",
+        "created_at": "2026-08-04T02:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084473908787577195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d6HNFLamLh",
+              "end": 33,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2084473908787577195/video/1",
+              "media_key": "13_2084473193482661888",
+              "start": 10,
+              "url": "https://t.co/d6HNFLamLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084473908787577195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 382,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "进来，被小藤夸两句 https://t.co/d6HNFLamLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 187,
+          "like_count": 22057,
+          "listed_count": 3,
+          "media_count": 572,
+          "tweet_count": 10236
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart | 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 957,
+          "like_count": 1225,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true
+      }
+    ]
+  }
+}

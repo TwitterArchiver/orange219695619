@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082645275085361248",
+    "created_at": "2026-07-30T13:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082816719652069693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658468118497472514",
+          "start": 0,
+          "username": "muskinpingvirus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082816719652069693",
+    "in_reply_to_user_id": "1658468118497472514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082645275085361248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muskinpingvirus 我还以为邪教呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2082645263144132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcK1R7bIAAVQV2.jpg",
+        "width": 579
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082645275085361248",
+        "created_at": "2026-07-30T13:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082816719652069693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658468118497472514",
+              "start": 0,
+              "username": "muskinpingvirus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082816719652069693",
+        "in_reply_to_user_id": "1658468118497472514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082645275085361248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muskinpingvirus 我还以为邪教呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082645263144132608"
+          ]
+        },
+        "author_id": "1658468118497472514",
+        "conversation_id": "2082645275085361248",
+        "created_at": "2026-07-30T01:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082645275085361248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJbjvB2skh",
+              "end": 29,
+              "expanded_url": "https://x.com/muskinpingvirus/status/2082645275085361248/photo/1",
+              "media_key": "3_2082645263144132608",
+              "start": 6,
+              "url": "https://t.co/yJbjvB2skh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082645275085361248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1690,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下🕷️了 https://t.co/yJbjvB2skh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 183,
+          "like_count": 21042,
+          "listed_count": 3,
+          "media_count": 559,
+          "tweet_count": 9982
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T13:43:22.000Z",
+        "description": "",
+        "id": "1658468118497472514",
+        "name": "凉拌见手青（😭推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039558914417782784/DbyHDvd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 954,
+          "like_count": 10437,
+          "listed_count": 6,
+          "media_count": 1374,
+          "tweet_count": 6562
+        },
+        "url": "",
+        "username": "muskinpingvirus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082719128755077120",
+        "3_2082719137336602624"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082719145922371636",
+    "created_at": "2026-07-30T06:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082719145922371636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4K4lnSk1l",
+          "end": 56,
+          "expanded_url": "https://x.com/orange219695619/status/2082719145922371636/photo/1",
+          "media_key": "3_2082719128755077120",
+          "start": 33,
+          "url": "https://t.co/K4K4lnSk1l"
+        },
+        {
+          "display_url": "pic.x.com/K4K4lnSk1l",
+          "end": 56,
+          "expanded_url": "https://x.com/orange219695619/status/2082719145922371636/photo/1",
+          "media_key": "3_2082719137336602624",
+          "start": 33,
+          "url": "https://t.co/K4K4lnSk1l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082719145922371636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我为什么骂ta，请看图二\n我chovy，你做ai给我做好了啊 https://t.co/K4K4lnSk1l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3034,
+        "media_key": "3_2082719128755077120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdOA0xbgAAFjQD.jpg",
+        "width": 1860
+      },
+      {
+        "height": 2934,
+        "media_key": "3_2082719137336602624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdOBUvbMAAjluQ.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082719128755077120",
+            "3_2082719137336602624"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082719145922371636",
+        "created_at": "2026-07-30T06:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082719145922371636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4K4lnSk1l",
+              "end": 56,
+              "expanded_url": "https://x.com/orange219695619/status/2082719145922371636/photo/1",
+              "media_key": "3_2082719128755077120",
+              "start": 33,
+              "url": "https://t.co/K4K4lnSk1l"
+            },
+            {
+              "display_url": "pic.x.com/K4K4lnSk1l",
+              "end": 56,
+              "expanded_url": "https://x.com/orange219695619/status/2082719145922371636/photo/1",
+              "media_key": "3_2082719137336602624",
+              "start": 33,
+              "url": "https://t.co/K4K4lnSk1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082719145922371636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我为什么骂ta，请看图二\n我chovy，你做ai给我做好了啊 https://t.co/K4K4lnSk1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 185,
+          "like_count": 20999,
+          "listed_count": 3,
+          "media_count": 558,
+          "tweet_count": 9972
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2085790677200445829",
+    "created_at": "2026-08-07T18:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085790677200445829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2063080284082610176",
+          "start": 3,
+          "username": "foreverLaY106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085790677200445829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085350587970081244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foreverLaY106: 推特评论区是那个福不黑排行榜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2085790677200445829",
+        "created_at": "2026-08-07T18:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085790677200445829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2063080284082610176",
+              "start": 3,
+              "username": "foreverLaY106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085790677200445829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085350587970081244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foreverLaY106: 推特评论区是那个福不黑排行榜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063080284082610176",
+        "conversation_id": "2085350587970081244",
+        "created_at": "2026-08-06T13:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085350587970081244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085350587970081244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 205753,
+          "like_count": 2057,
+          "quote_count": 12,
+          "reply_count": 423,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "推特评论区是那个福不黑排行榜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 189,
+          "like_count": 22886,
+          "listed_count": 3,
+          "media_count": 582,
+          "tweet_count": 10468
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T02:09:13.000Z",
+        "description": "˚♡̶流星雨⋆₊⁺\n我叫祝好丨泛 intp\n🚪88过了什么都没有",
+        "id": "2063080284082610176",
+        "location": "搞我的死爸死妈死全家且无葬身之地",
+        "name": "干嘛对我这么坏。",
+        "pinned_tweet_id": "2065437306971189407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085774876292550656/owTUt6Aa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 95,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "foreverLaY106",
+        "verified": false
+      }
+    ]
+  }
+}

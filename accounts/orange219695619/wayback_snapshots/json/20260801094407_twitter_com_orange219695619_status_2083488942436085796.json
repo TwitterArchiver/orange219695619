@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2083479416269930980",
+    "created_at": "2026-08-01T09:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083488942436085796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1992400222866329600",
+          "start": 0,
+          "username": "len12zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083488942436085796",
+    "in_reply_to_user_id": "1992400222866329600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083479416269930980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@len12zz 有点眼熟（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2083479416269930980",
+        "created_at": "2026-08-01T09:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083488942436085796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1992400222866329600",
+              "start": 0,
+              "username": "len12zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083488942436085796",
+        "in_reply_to_user_id": "1992400222866329600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083479416269930980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@len12zz 有点眼熟（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992400222866329600",
+        "conversation_id": "2083479416269930980",
+        "created_at": "2026-08-01T09:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083479416269930980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083479416269930980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回归。谁还记得我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 183,
+          "like_count": 21474,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 10091
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T01:10:19.000Z",
+        "description": "糖逼",
+        "id": "1992400222866329600",
+        "location": "白色空间",
+        "name": "len",
+        "pinned_tweet_id": "2032862413998141634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083477330161467392/UYA1Gvfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 97,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "len12zz",
+        "verified": false
+      }
+    ]
+  }
+}

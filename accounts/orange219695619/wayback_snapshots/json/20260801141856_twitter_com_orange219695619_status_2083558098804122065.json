@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2083162940262465979",
+    "created_at": "2026-08-01T14:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083558098804122065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062460470997721088",
+          "start": 0,
+          "username": "qinshuobk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083558098804122065",
+    "in_reply_to_user_id": "2062460470997721088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083162940262465979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinshuobk 天使来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2083162940262465979",
+        "created_at": "2026-08-01T14:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083558098804122065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062460470997721088",
+              "start": 0,
+              "username": "qinshuobk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083558098804122065",
+        "in_reply_to_user_id": "2062460470997721088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083162940262465979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinshuobk 天使来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062460470997721088",
+        "conversation_id": "2083162940262465979",
+        "created_at": "2026-07-31T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083162940262465979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083162940262465979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前有一次给一个m布置任务，任务是让他和他爸爸妈妈说一句，“我爱你，爸爸”和“我爱你，妈妈”\n前提是知道他家庭情况，他爸妈其实很爱他，但是不太擅长表达，又因为一些事导致他和爸妈一直有隔阂\n他不想发，因为对父母说爱，他羞于说出口\n但是他还是发了\n他爸妈特别感动，用方言回了一大堆的语音\n无外乎是，儿子，爸爸妈妈也爱你，非常爱你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 569665,
+          "like_count": 3991,
+          "quote_count": 32,
+          "reply_count": 546,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "以前有一次给一个m布置任务，任务是让他和他爸爸妈妈说一句，“我爱你，爸爸”和“我爱你，妈妈”\n前提是知道他家庭情况，他爸妈其实很爱他，但是不太擅长表达，又因为一些事导致他和爸妈一直有隔阂\n他不想发，因为对父母说爱，他羞于说出口\n但是他还是发了\n他爸妈特别感动，用方言回了一大堆的语音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 183,
+          "like_count": 21528,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 10103
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T09:05:37.000Z",
+        "description": "来此记录一些所思所想\n疯狂输出一些碎碎念",
+        "id": "2062460470997721088",
+        "location": "月球",
+        "name": "秦硕",
+        "pinned_tweet_id": "2082304046476705852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461931143991297/ht-wjmtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4915,
+          "following_count": 14,
+          "like_count": 726,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "qinshuobk",
+        "verified": true
+      }
+    ]
+  }
+}

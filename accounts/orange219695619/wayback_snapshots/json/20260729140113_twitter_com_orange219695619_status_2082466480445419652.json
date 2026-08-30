@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2082411871143952752",
+    "created_at": "2026-07-29T14:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082466480445419652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634930304107581446",
+          "start": 0,
+          "username": "No102_Element"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082466480445419652",
+    "in_reply_to_user_id": "1634930304107581446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082448408502034592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@No102_Element 不要（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2082411871143952752",
+        "created_at": "2026-07-29T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082466480445419652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634930304107581446",
+              "start": 0,
+              "username": "No102_Element"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082466480445419652",
+        "in_reply_to_user_id": "1634930304107581446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082448408502034592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@No102_Element 不要（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634930304107581446",
+        "conversation_id": "2082411871143952752",
+        "created_at": "2026-07-29T12:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082448408502034592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082448408502034592",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082411871143952752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 那很会享受了（让我听听！😋）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 184,
+          "like_count": 20869,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 9946
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T14:52:26.000Z",
+        "description": "蓝色的田野会带来什么？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/no102_element",
+                "end": 23,
+                "expanded_url": "https://ngl.link/no102_element",
+                "start": 0,
+                "url": "https://t.co/Nmd4Acqe3o"
+              }
+            ]
+          }
+        },
+        "id": "1634930304107581446",
+        "location": "回南天下的潮湿角落",
+        "name": "第102次保持缄默",
+        "pinned_tweet_id": "2035521953663242718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 572,
+          "like_count": 7873,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1544
+        },
+        "url": "https://t.co/Nmd4Acqe3o",
+        "username": "No102_Element",
+        "verified": false
+      }
+    ]
+  }
+}

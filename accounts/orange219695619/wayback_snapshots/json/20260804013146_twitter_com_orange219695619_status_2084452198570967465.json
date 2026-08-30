@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084220687573749760"
+      ],
+      "media_source_tweet_id": [
+        "2084220701834375665"
+      ]
+    },
+    "author_id": "1979068278673981440",
+    "conversation_id": "2084452198570967465",
+    "created_at": "2026-08-04T01:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084452198570967465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948550509801127936",
+          "start": 3,
+          "username": "Cttmeing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ghhmy2jkug",
+          "end": 81,
+          "expanded_url": "https://x.com/Cttmeing/status/2084220701834375665/photo/1",
+          "media_key": "3_2084220687573749760",
+          "start": 58,
+          "url": "https://t.co/Ghhmy2jkug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084452198570967465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084220701834375665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cttmeing: 推油找回贴\n原号ID是我削下来的洋葱头怎么被人装上了齐刘海\n帖子被人举报冻结了 无语喵 https://t.co/Ghhmy2jkug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2084220687573749760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyjrDRakAASQaZ.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084220687573749760"
+          ]
+        },
+        "author_id": "1948550509801127936",
+        "conversation_id": "2084220701834375665",
+        "created_at": "2026-08-03T10:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084220701834375665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ghhmy2jkug",
+              "end": 67,
+              "expanded_url": "https://x.com/Cttmeing/status/2084220701834375665/photo/1",
+              "media_key": "3_2084220687573749760",
+              "start": 44,
+              "url": "https://t.co/Ghhmy2jkug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084220701834375665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1055,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "推油找回贴\n原号ID是我削下来的洋葱头怎么被人装上了齐刘海\n帖子被人举报冻结了 无语喵 https://t.co/Ghhmy2jkug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084220687573749760"
+          ],
+          "media_source_tweet_id": [
+            "2084220701834375665"
+          ]
+        },
+        "author_id": "1979068278673981440",
+        "conversation_id": "2084452198570967465",
+        "created_at": "2026-08-04T01:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084452198570967465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948550509801127936",
+              "start": 3,
+              "username": "Cttmeing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ghhmy2jkug",
+              "end": 81,
+              "expanded_url": "https://x.com/Cttmeing/status/2084220701834375665/photo/1",
+              "media_key": "3_2084220687573749760",
+              "start": 58,
+              "url": "https://t.co/Ghhmy2jkug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084452198570967465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084220701834375665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cttmeing: 推油找回贴\n原号ID是我削下来的洋葱头怎么被人装上了齐刘海\n帖子被人举报冻结了 无语喵 https://t.co/Ghhmy2jkug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 187,
+          "like_count": 22011,
+          "listed_count": 3,
+          "media_count": 570,
+          "tweet_count": 10221
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T01:07:08.000Z",
+        "description": "一种相思花自飘零水自流",
+        "id": "1948550509801127936",
+        "name": "葱之蹄",
+        "pinned_tweet_id": "2084220701834375665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984834476346601472/7FgK4s-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 52,
+          "like_count": 1101,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "Cttmeing",
+        "verified": false
+      }
+    ]
+  }
+}

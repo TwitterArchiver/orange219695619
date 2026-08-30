@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1979068278673981440",
+    "conversation_id": "2083759186014622032",
+    "created_at": "2026-08-02T19:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T20:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083999430504841302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1543797978871529473",
+          "start": 0,
+          "username": "zhiyizhon"
+        },
+        {
+          "end": 22,
+          "id": "2062415777601372160",
+          "start": 11,
+          "username": "Dirmays14x"
+        },
+        {
+          "end": 34,
+          "id": "2050600057674866688",
+          "start": 23,
+          "username": "Jonnnyjnxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083999430504841302",
+    "in_reply_to_user_id": "1543797978871529473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083971234459758754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyizhon @Dirmays14x @Jonnnyjnxh 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979068278673981440",
+        "conversation_id": "2083759186014622032",
+        "created_at": "2026-08-02T19:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083999430504841302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1543797978871529473",
+              "start": 0,
+              "username": "zhiyizhon"
+            },
+            {
+              "end": 22,
+              "id": "2062415777601372160",
+              "start": 11,
+              "username": "Dirmays14x"
+            },
+            {
+              "end": 34,
+              "id": "2050600057674866688",
+              "start": 23,
+              "username": "Jonnnyjnxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083999430504841302",
+        "in_reply_to_user_id": "1543797978871529473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083971234459758754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyizhon @Dirmays14x @Jonnnyjnxh 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543797978871529473",
+        "conversation_id": "2083759186014622032",
+        "created_at": "2026-08-02T17:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083971234459758754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062415777601372160",
+              "start": 0,
+              "username": "Dirmays14x"
+            },
+            {
+              "end": 23,
+              "id": "2050600057674866688",
+              "start": 12,
+              "username": "Jonnnyjnxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083971234459758754",
+        "in_reply_to_user_id": "2062415777601372160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083950417763778648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dirmays14x @Jonnnyjnxh 牛逼，这也能遇到同行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 186,
+          "like_count": 21812,
+          "listed_count": 3,
+          "media_count": 566,
+          "tweet_count": 10165
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T03:25:16.000Z",
+        "description": "114514",
+        "id": "1543797978871529473",
+        "name": "我的世界皓宸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078878241146953728/w3bS_NP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 31,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "zhiyizhon",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T06:07:30.000Z",
+        "description": "",
+        "id": "2062415777601372160",
+        "location": "斯里兰卡",
+        "name": "我的世界皓宸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083071735763496960/KlU9h-CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Dirmays14x",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T15:36:07.000Z",
+        "description": "不聊骚 不线下 不看生殖器",
+        "id": "2050600057674866688",
+        "name": "添加你的姓名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066063160923267072/_MNYBbWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 53,
+          "like_count": 686,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "Jonnnyjnxh",
+        "verified": false
+      }
+    ]
+  }
+}
